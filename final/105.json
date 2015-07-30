@@ -1,0 +1,26 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Paulo Azi"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000637.jpg", 
+    "state": "BA", 
+    "donations": {
+        "CONSTRUTORA NORBERTO ODEBRECHT S.A": 400000.0, 
+        "CERVEJARIA PETROPOLIS SA": 280000.0, 
+        "VESTESUL INDUSTRIA E COMERCIO LTDA ": 200000.0, 
+        "ABRANTES AMBIENTAL LTDA ": 200000.0, 
+        "JBS SA": 100000.0, 
+        "TECSIS TECNOLOGIA E SISTEMA LTDA ": 70000.0
+    }, 
+    "party": "DEM", 
+    "fullname": "PAULO VELLOSO DANTAS AZI", 
+    "total": 1813487.69, 
+    "election_id": 2526, 
+    "similars": [
+        "Pablo Barrozo (DEM, BA) - Deputado Estadual", 
+        "Claudio Cajado (DEM, BA) - Deputado Federal"
+    ], 
+    "stands": []
+}

@@ -1,0 +1,35 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Arnaldo Jardim"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001357.jpg", 
+    "state": "SP", 
+    "donations": {
+        "COSAN LUBRIFICANTES": 350000.0, 
+        "SALOBO  METAIS S/A": 200000.0, 
+        "EMPRESA BRASILEIRA DE ENGENHARIA S/A": 187686.66, 
+        "VALE ENERGIA S.A": 120000.0, 
+        "TRACTEBEL ENERGIA COMERCIALIZADORA LTDA": 100000.0, 
+        "BRADESCO SAUDE S/A": 73000.0, 
+        "BANCO SANTANDER (BRASIL) S/A": 20000.0, 
+        "BRASKEM S/A": 9152.0, 
+        "PROGERAL INDUSTRIA DE ARTEFATOS PLASTICOS LTDA": 5992.5, 
+        "BRADESCO VIDA E PREVIDENCIA S/A": 5419.46
+    }, 
+    "party": "PPS", 
+    "fullname": "ARNALDO CALIL PEREIRA JARDIM", 
+    "total": 4805922.75, 
+    "election_id": 2345, 
+    "similars": [
+        "João Amin (PP, SC) - Deputado Estadual", 
+        "Adolfo Viana (PSDB, BA) - Deputado Estadual", 
+        "Pedro Pereira (PSDB, RS) - Deputado Estadual", 
+        "João Paulo Rillo (PT, SP) - Deputado Estadual", 
+        "Hugo Leal (PROS, RJ) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Ruralista"
+    ]
+}

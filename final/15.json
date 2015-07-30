@@ -1,0 +1,18 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Fábio Xavier"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PI/foto/180000000283.jpg", 
+    "state": "PI", 
+    "donations": {
+        "JBS S/A": 200000.0, 
+        "CERVEJARIA PETROPOLIS S/A": 40000.0, 
+        "AMIL ASSISTENCIA MEDICA INTERNACIONAL S.A": 20000.0
+    }, 
+    "party": "PR", 
+    "fullname": "FABIO HENRIQUE MENDONÇA XAVIER DE OLIVEIRA", 
+    "total": 425695.0, 
+    "election_id": 22222
+}

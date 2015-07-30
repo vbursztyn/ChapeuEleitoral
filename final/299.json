@@ -1,0 +1,32 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Jorge Wilson Xerife Consumidor"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001589.jpg", 
+    "state": "SP", 
+    "donations": {
+        "TRAIL INFRAESTRUTURA LTDA": 213000.0, 
+        "CONSTRUCAP CCPS ENGENHARIA E COMÉRCIO SA": 197700.0, 
+        "SERVENG CIVILSAN SA - EMPRESAS ASSOCIADAS DE ENGENHARIA": 156075.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S/A.": 100000.0, 
+        "CONSTRAN SA CONSTRUÇÕES E COMÉRCIO": 100000.0, 
+        "JBS S/A.": 92400.0, 
+        "FUNDO PARTIDÁRIO DIR. NACIONAL": 76325.0, 
+        "VALLI LOCAÇÃO E TRANSPORTES LTDA": 75375.0, 
+        "MR ALIMENTAÇÃO E SERVIÇOS LTDA - EPP": 6300.0, 
+        "AMIL ASSISTENCIA MÉDICA": 5419.46
+    }, 
+    "party": "PRB", 
+    "fullname": "JORGE WILSON GONÇALVES DE MATTOS", 
+    "total": 1322120.08, 
+    "election_id": 10000, 
+    "similars": [
+        "Roberto Alves (PRB, SP) - Deputado Federal", 
+        "Wellington Moura (PRB, SP) - Deputado Estadual", 
+        "Fausto Pinato (PRB, SP) - Deputado Federal", 
+        "Beto Mansur (PRB, SP) - Deputado Federal", 
+        "Pastor Carlos Alberto (PRB, AM) - Deputado Estadual"
+    ]
+}

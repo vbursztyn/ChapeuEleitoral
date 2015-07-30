@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Arolde de Oliveira"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000001475.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "CARIOCA CHRISTIANI NIELSEN ENGENHARIA S.A": 375000.0
+    }, 
+    "party": "PSD", 
+    "fullname": "AROLDE DE OLIVEIRA", 
+    "total": 843140.0, 
+    "election_id": 5593, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Evangélica", 
+        "Bancada da Comunicação"
+    ]
+}

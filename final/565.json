@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Zé Geraldo"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PA/foto/140000000435.jpg", 
+    "state": "PA", 
+    "donations": {
+        "VALE MINA DO AZUL S.A.": 99500.0, 
+        "ENGEVIX ENGENHARIA S/A": 95000.0, 
+        "JBS S/A": 60000.0, 
+        "CONSTRUTORA QUEIROZ GALVÃO S/A": 50000.0
+    }, 
+    "party": "PT", 
+    "fullname": "JOSE GERALDO TORRES DA SILVA", 
+    "total": 766819.99, 
+    "election_id": 1321, 
+    "stands": [
+        "Bancada Sindicalista"
+    ]
+}

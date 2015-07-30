@@ -1,0 +1,35 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Givaldo Carimbão"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AL/foto/20000000279.jpg", 
+    "state": "AL", 
+    "donations": {
+        "COSAN LUBRIFICANTES E ESPECIALIDADES S.A": 300000.0, 
+        "CONSTRUTORA NORBERTO ODEBRACHT S/A": 289987.15, 
+        "AMIL - ASSISTENCIA MEDICA INTERNACIONAL": 195000.0, 
+        "CONSTRUÇOES E COMERCIO CAMARGO CORREA S/A": 189987.15, 
+        "JBS S/A": 150000.0, 
+        "BRASKEM  S/A": 63000.0, 
+        "QUEIROZ GALVÃO S/A": 55000.0, 
+        "AGUA DE COCO INDUSTRIA E COMERCIO LTDA ": 12174.3
+    }, 
+    "party": "PROS", 
+    "fullname": "GIVALDO DE SÁ GOUVEIA CARIMBÃO", 
+    "total": 1326148.6, 
+    "election_id": 9090, 
+    "similars": [
+        "Tarcisio Zimmermann (PT, RS) - Deputado Estadual", 
+        "Pedro Tavares (PMDB, BA) - Deputado Estadual", 
+        "Renan Filho (PMDB, AL) - Governador", 
+        "Ronaldo Lessa (PDT, AL) - Deputado Federal", 
+        "Luiz Turco (PT, SP) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista", 
+        "Bancada da Comunicação"
+    ]
+}

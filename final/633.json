@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Roberto Britto"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000168.jpg", 
+    "state": "BA", 
+    "donations": {
+        "JBS S/A": 1100000.0, 
+        "FLORA PRODUTOS DE HIGIENE E LIMPEZA S.A": 100000.0
+    }, 
+    "party": "PP", 
+    "fullname": "ROBERTO PEREIRA DE BRITTO", 
+    "total": 1247820.85, 
+    "election_id": 1123, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista", 
+        "Bancada da Saúde", 
+        "Bancada da Comunicação"
+    ]
+}

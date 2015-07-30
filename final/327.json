@@ -1,0 +1,33 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Sarney Filho"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MA/foto/100000000591.jpg", 
+    "state": "MA", 
+    "donations": {
+        "WTORRE ENGENHARIA E CONSTRUÇÃO S.A.": 300000.0, 
+        "BRADESCO ADMINISTRADORA DE CONSORCIOS LTDA": 250000.0, 
+        "MARQUESA S/A": 225000.0, 
+        "SISTEMA INTEGRADO DE EDUCAÇÃO E CULTURA SINEC LTDA": 200000.0, 
+        "SAGA CAPITAL S.A": 200000.0, 
+        "BRADESCO SAUDE S.A": 130000.0, 
+        "SAO PAULO ADMINISTRACAO DE ATIVOS PROPRIOS E HOLDING LTDA": 100000.0, 
+        "PARTICIPA EMPREENDIMENTOS IMOBILIARIOS E PARTICIPACOES LTDA": 75000.0, 
+        "CARBOMIL QUIMICA S A": 25000.0, 
+        "TOTAL DISTRIBUIDORA S/A": 10000.0
+    }, 
+    "party": "PV", 
+    "fullname": "JOSÉ SARNEY FILHO", 
+    "total": 1861367.42, 
+    "election_id": 4321, 
+    "similars": [
+        "Luciano Nunes (PSDB, PI) - Deputado Estadual", 
+        "Wilson Brandao (PSB, PI) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada da Comunicação"
+    ]
+}

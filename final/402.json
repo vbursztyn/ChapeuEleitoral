@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Ronaldo Medeiros"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AL/foto/20000000338.jpg", 
+    "state": "AL", 
+    "donations": {
+        "HOSPITAL 9 DE JULHO S/A": 100000.0, 
+        "CONSTRUÇÕES E COMÉRCIO CAMARGO CORREIA S/A": 100000.0, 
+        "JBS S/A": 100000.0, 
+        "MINERADORA CORUMBAENSE REUNIDAS S/A": 50000.0, 
+        "BRASKEM SA": 24900.0
+    }, 
+    "party": "PT", 
+    "fullname": "JOSÉ RONALDO MEDEIROS", 
+    "total": 429509.75, 
+    "election_id": 13000, 
+    "similars": [
+        "Ricardo Nezinho (PMDB, AL) - Deputado Estadual", 
+        "Marquinhos Madeira (PT, AL) - Deputado Estadual", 
+        "Olavo Calheiros (PMDB, AL) - Deputado Estadual"
+    ]
+}

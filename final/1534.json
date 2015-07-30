@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Pastor Cleiton Collins"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PE/foto/170000000564.jpg", 
+    "state": "PE", 
+    "donations": {
+        "QUEIROZ GALVAO DESENVOLVIMENTO IMOBILIARIO S.A": 125000.0, 
+        "MINERAÇÃO CORUMBAENSE REUNIDA S.A": 100000.0, 
+        "JBS S/A": 55000.0, 
+        "VOTORANTIM CIMENTOS S/A.": 50000.0, 
+        "AROSUCO AROMAS E SUCOS LTDA": 15000.0
+    }, 
+    "party": "PP", 
+    "fullname": "CLEITON GONÇALVES DA SILVA", 
+    "total": 909659.51, 
+    "election_id": 11611
+}

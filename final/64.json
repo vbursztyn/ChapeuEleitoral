@@ -1,0 +1,28 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Major Olimpio Gomes"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000002018.jpg", 
+    "state": "SP", 
+    "donations": {
+        "COMPANHIA METALURGICA PRADA": 500000.0, 
+        "CONTRUTORA QUEIROZ GALVAO S A": 100000.0, 
+        "SUCOCITRICO CUTRALE LTDA ": 35448.0, 
+        "LOJAS RIACHUELO S/A ": 29953.5, 
+        "C R ALMEIDA S/A - ENGENHARIA DE OBRAS ": 6183.0
+    }, 
+    "party": "PDT", 
+    "fullname": "SERGIO OLIMPIO GOMES", 
+    "total": 1008241.81, 
+    "election_id": 1200, 
+    "similars": [
+        "Baleia Rossi (PMDB, SP) - Deputado Federal", 
+        "Edinho Araujo (PMDB, SP) - Deputado Federal", 
+        "Nilton Franco (PMDB, TO) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada da Segurança"
+    ]
+}

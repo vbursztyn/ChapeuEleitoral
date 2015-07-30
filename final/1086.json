@@ -1,0 +1,39 @@
+{
+    "status": "ELEITO", 
+    "searchable": [
+        "Marcelo Miranda"
+    ], 
+    "title": "Governador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/TO/foto/270000000009.jpg", 
+    "state": "TO", 
+    "donations": {
+        "EMSA EMPRESA SUL AMERICANA DE MONTAGENS S/A": 1539043.95, 
+        "BRADESCO CAPITALIZAÇÃO S/A": 400400.0, 
+        "CRBS S/A": 393994.79, 
+        "CONSTRUTORA MARQUISE S/A": 340710.0, 
+        "PÃO DA HORA COMERCIO E INDUSTRIA DE ALIMENTOS LTDA": 337177.45, 
+        "VALE ENERGIA S/A": 300000.0, 
+        "JBS S/A": 200000.0, 
+        "TB SERVIÇOS TRANSP· LIMPEZA· GERENCIMANETO E REC HUMANOS": 193083.16, 
+        "MINERAÇÕES BRASILEIRAS REUNIDAS S/A": 182800.0, 
+        "BRAVO COMÉRCIO DE VEICULOS LTDA": 143048.93, 
+        "COSAN LUBRIFICANTES E ESPECIALIDADES": 82816.42, 
+        "MELO E CIA LTDA": 82000.0, 
+        "CCM CINSTRUTORA CENTRO DE MINAS LTDA": 81277.02, 
+        "OAS S/A": 53909.62, 
+        "CONSTRUTORA OAS S/A": 50000.0, 
+        "BRASIL VIDA TURISMO E SERVIÇOS AUX AO TRANSPORTE AEREO LTDA": 35100.0, 
+        "TRACTEBEL ENERGIA COMERCIALIZADORA LTDA": 32258.3, 
+        "CM CONSTRUTORA LTDA": 23163.05, 
+        "EVEN CONSTRUORA E INCORPORADORA": 17500.0, 
+        "UNIMED FEDERAÇÃO INTERFEDERATIVA DAS COOP MEDICAS DO CENTRO OESTE": 13225.38
+    }, 
+    "party": "PMDB", 
+    "fullname": "MARCELO DE CARVALHO MIRANDA", 
+    "total": 7153914.23, 
+    "election_id": 15, 
+    "similars": [
+        "Rose de Freitas (PMDB, ES) - Senador", 
+        "Helder Salomao (PT, ES) - Deputado Federal"
+    ]
+}

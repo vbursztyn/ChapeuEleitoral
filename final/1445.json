@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Hudson Leal"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/ES/foto/80000000612.jpg", 
+    "state": "ES", 
+    "donations": {
+        "VALE DO RIO DOCE ENERGIA S/A.": 39500.0, 
+        "PREMO CONSTRUÇÕES E EMPREENDIMENTOS S/A.": 30000.0, 
+        "LOCGUEL LOCADORA DE EQUIPAMENTOS P/CONSTRUÇÃO LTDA": 10000.0
+    }, 
+    "party": "PRP", 
+    "fullname": "HUDSON SOARES LEAL", 
+    "total": 196437.36, 
+    "election_id": 44300, 
+    "similars": [
+        "Paulo Hartung (PMDB, ES) - Governador"
+    ]
+}

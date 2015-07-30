@@ -1,0 +1,28 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Kelps Lima"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RN/foto/200000000195.jpg", 
+    "state": "RN", 
+    "donations": {
+        "CONSTRUTORA OAS SA": 150000.0, 
+        "DROGARIA SÃO PAULO S.A.": 100000.0, 
+        "GALVÃO ENGENHARIA S/A": 100000.0, 
+        "JBS S.A.": 100000.0, 
+        "CLINICA DE IMAGEM RAD. ODONTOLÓGICA LTDA": 50000.0, 
+        "BTG PACTUAL ASSET": 50000.0, 
+        "CONSTRUTORA ANDRADE GUTIERRES SA": 45000.0, 
+        "BANCO BEG PACTUAL SA": 10000.0
+    }, 
+    "party": "SD", 
+    "fullname": "KELPS DE OLIVEIRA LIMA", 
+    "total": 793245.2, 
+    "election_id": 77123, 
+    "similars": [
+        "Angela Portela (PT, RR) - Governador", 
+        "Hermano Morais (PMDB, RN) - Deputado Estadual", 
+        "Ezequiel Ferreira (PMDB, RN) - Deputado Estadual"
+    ]
+}

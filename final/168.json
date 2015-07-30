@@ -1,0 +1,39 @@
+{
+    "status": "ELEITO", 
+    "searchable": [
+        "Ronaldo Caiado"
+    ], 
+    "title": "Senador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/GO/foto/90000000605.jpg", 
+    "state": "GO", 
+    "donations": {
+        "CONSTRUTORA OAS S/A": 499400.0, 
+        "COSAN LUBRIFICANTES E ESPECIALIDADES S/A": 450000.0, 
+        "CONSTRUTORA NORBERTO ODEBRECHT S/A": 400000.0, 
+        "CR ALMEIDA S/A ENGENHARIA DE OBRAS": 400000.0, 
+        "VALE ENERGIA S/A": 400000.0, 
+        "PRAIAMAR INDUSTRIA COMERCIO & DISTRIBUIÇÃO LTDA": 300000.0, 
+        "TRANSRIO CAMINHOES ONIBUS MAQUINAS E MOTORES LTDA": 300000.0, 
+        "SAMA S/A MINERAÇÕES ASSOCIADAS": 300000.0, 
+        "CRBS S/A": 250000.0, 
+        "GPO - GESTAO DE PROJETOS E OBRAS LTDA": 200000.0, 
+        "RECOFARMA INDUSTRIA DO AMAZONAS LTDA ": 180000.0, 
+        "BRF S/A": 150000.0, 
+        "BM& BOVESPA SA BOLSA DE VALORES DE MERCADO": 150000.0, 
+        "UNIMED DO BRASIL CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS MED": 150000.0, 
+        "MINERAÇÕES BRASILEIRAS REUNIDAS S/A MBR": 100000.0, 
+        "GERDAU ACOS ESPECIAIS S.A.": 100000.0, 
+        "AMIL ASSISTENCIA MEDICA INTERNACIONAL S.A": 100000.0, 
+        "ARCOS DOURADOS COMERCIO DE ALIMENTOS LTDA": 100000.0, 
+        "BRASAL REFRIGERANTES S/A": 70000.0
+    }, 
+    "party": "DEM", 
+    "fullname": "RONALDO RAMOS CAIADO", 
+    "total": 9622085.0, 
+    "election_id": 251, 
+    "similars": [
+        "Confucio Moura (PMDB, RO) - Governador", 
+        "Álvaro Porto (PTB, PE) - Deputado Estadual"
+    ], 
+    "stands": []
+}

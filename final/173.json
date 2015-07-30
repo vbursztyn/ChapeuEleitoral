@@ -1,0 +1,26 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Saraiva Felipe"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000870.jpg", 
+    "state": "MG", 
+    "donations": {
+        "SUPERMERCADOS BH COMERCIO DE ALIMENTOS LTDA": 300000.0, 
+        "POSTO E RESTAURANTE MAR DOCE LTDA": 300000.0, 
+        "PLANEX S/A - CONSULTORIA DE PLANEJAMENTO E EXECUÇÃO": 250000.0, 
+        "BRAIN CONSULTORIA E GESTÃO": 145000.0, 
+        "AMIL ASSISTENCIA MEDICA INTERNACIONAL S.A.": 100000.0, 
+        "DLD COMERCIO E IMPORTAÇAO LTDA": 100000.0, 
+        "CONSTRUTORA NORBERTO ODEBRECHT S/A": 20000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "JOSÉ SARAIVA FELIPE", 
+    "total": 4191124.06, 
+    "election_id": 1590, 
+    "stands": [
+        "Bancada Ruralista", 
+        "Bancada da Saúde"
+    ]
+}

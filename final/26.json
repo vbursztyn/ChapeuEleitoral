@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "José Bonifácio Mourão"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000612.jpg", 
+    "state": "MG", 
+    "donations": {
+        "BRADESCO SAÚDE S/A": 50000.0, 
+        "UNIMED TRANSPORTE AEROMÉDICA": 20000.0, 
+        "CARDIESEL LTDA": 14000.0, 
+        "HORIZONTE TEXTIL LTDA": 9750.0, 
+        "A EDITORA PREMIER LTDA ": 7000.0, 
+        "VIA ENGENHARIA S/A": 5812.5, 
+        "SUPERMERCADO B.H COM. ALIM. LTDA": 5450.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "JOSÉ BONIFÁCIO MOURÃO", 
+    "total": 905006.79, 
+    "election_id": 45123
+}

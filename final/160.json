@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Margarida Salomão"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000883.jpg", 
+    "state": "MG", 
+    "donations": {
+        "PITAGORAS SISTEMA DE EDUCAÇÃO SUPERIOR SA": 100000.0, 
+        "CONSTRUTORA TRIUNFO SA": 50000.0, 
+        "MINERAÇÕES BRASILEIRAS REUNIDAS": 12156.53
+    }, 
+    "party": "PT", 
+    "fullname": "MARIA MARGARIDA MARTINS SALOMÃO", 
+    "total": 310992.86, 
+    "election_id": 1314, 
+    "stands": [
+        "Bancada Feminina"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Bruno Reis"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000821.jpg", 
+    "state": "BA", 
+    "donations": {
+        "COMPANHIA RIO GRANDENSE DE VALORIZAÇÃO DE RESÍDUOS": 200000.0, 
+        "CERVEJARIA PETROPOLIS S/A": 118358.33, 
+        "JBS S/A": 50000.0, 
+        "ABRANTES AMBIENTAL LTDA": 30000.0, 
+        "BRADESCO VIDA E PREVIDENCIA S/A": 25000.0, 
+        "CIA DE SEGUROS ALIANÇA DA BAHIA": 25000.0, 
+        "AGRO INDUSTRIAS DO VALE DO SAO FRANSCISCO": 25000.0, 
+        "CONSTRUTORA OAS": 25000.0, 
+        "BRASKEM S/A": 10000.0, 
+        "ARCLIMA ENGENHARIA LTDA": 10000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "BRUNO SOARES REIS", 
+    "total": 887096.1, 
+    "election_id": 15333
+}

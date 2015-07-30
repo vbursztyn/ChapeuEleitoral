@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Pedro Chaves"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/GO/foto/90000000611.jpg", 
+    "state": "GO", 
+    "donations": {
+        "BRADESCO VIDA E PREVIDENCIA S/A": 75000.0, 
+        "SAMA S.A - MINERAÇÕES ASSOCIADOS": 50000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "PEDRO PINHEIRO CHAVES", 
+    "total": 1064350.0, 
+    "election_id": 1580, 
+    "stands": [
+        "Bancada Ruralista"
+    ]
+}

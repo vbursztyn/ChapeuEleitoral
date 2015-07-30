@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Zeca Dirceu"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000768.jpg", 
+    "state": "PR", 
+    "donations": {
+        "ENGEVIX ENGENHARIA S/A ": 570000.0, 
+        "ETESCO CONSTRUÇÕES E COMERIO LTDA": 190000.0, 
+        "CRBS  SA": 142500.0, 
+        "CARIOCA CHRISTIANI NIELSEN ENGENHARIA S A": 95000.0, 
+        "UTC ENGWENHARIA  S/A": 95000.0, 
+        "JBS S.A ": 47500.0, 
+        "Direção Nacional": 25368.0
+    }, 
+    "party": "PT", 
+    "fullname": "JOSÉ CARLOS BECKER DE OLIVEIRA E SILVA", 
+    "total": 2000101.32, 
+    "election_id": 1310, 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

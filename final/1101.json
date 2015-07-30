@@ -1,0 +1,27 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Toninho Wandscheer"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000759.jpg", 
+    "state": "PR", 
+    "donations": {
+        "CAPRI ADM DE BENS LTDA": 95000.0, 
+        "MANDIPETRO TRANSPORTADORA RETALHISTA LTDA": 67000.0, 
+        "Direção Nacional": 15875.0
+    }, 
+    "party": "PT", 
+    "fullname": "ANTONIO WANDSCHEER", 
+    "total": 1748346.12, 
+    "election_id": 1345, 
+    "similars": [
+        "Christiane Yared (PTN, PR) - Deputado Federal", 
+        "Edegar Pretto (PT, RS) - Deputado Estadual", 
+        "Andre Quintão (PT, MG) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Evangélica"
+    ]
+}

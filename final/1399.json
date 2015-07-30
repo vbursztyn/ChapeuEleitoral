@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Luiz Dantas"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AL/foto/20000000206.jpg", 
+    "state": "AL", 
+    "donations": {
+        "HOSPITAL 9 DE JULHO S/A": 140000.0, 
+        "BRADESCO ADMINISTRADORA DE CONSOCIO LTDA": 130000.0, 
+        "CONSTRUÇÕES E COMERCIO CAMARGO CORREIA S/A": 130000.0, 
+        "CONSTRUTORA QUEIROZ GALVAO S/A": 100000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "LUIZ DANTAS LIMA", 
+    "total": 505823.75, 
+    "election_id": 15000, 
+    "similars": [
+        "Marquinhos Madeira (PT, AL) - Deputado Estadual"
+    ]
+}

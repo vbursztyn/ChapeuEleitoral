@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Villa"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000000340.jpg", 
+    "state": "RS", 
+    "donations": {
+        "UNIZA LOCAÇÕES LTDA. ME ": 23750.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S/A ": 18000.0, 
+        "CARIOCA CHRISTIANI NIELSEN ENGENHARIA S/A": 14000.0, 
+        "BRASKEM S A ": 9500.0, 
+        "BRF S/A ": 9500.0
+    }, 
+    "party": "PT", 
+    "fullname": "ADÃO ROBERTO RODRIGUES VILLAVERDE", 
+    "total": 473348.16, 
+    "election_id": 13013, 
+    "similars": [
+        "Odelmo Leão (PP, MG) - Deputado Federal", 
+        "Henrique Fontana (PT, RS) - Deputado Federal"
+    ]
+}

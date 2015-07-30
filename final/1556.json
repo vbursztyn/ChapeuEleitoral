@@ -1,0 +1,33 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Bruno Araújo"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PE/foto/170000000043.jpg", 
+    "state": "PE", 
+    "donations": {
+        "BRASKEM S.A.": 270000.0, 
+        "BRADESCO LEASING S.A ARRENDAMENTO MERCANTIL": 250000.0, 
+        "EMBRAPORT EMPRESA BRASILEIRA DE TERMINAIS PORTUÁRIOS S/A": 200000.0, 
+        "CRBS S/A": 200000.0, 
+        "CONSTRUTORA SANCHES TRIPOLONI LTDA.": 200000.0, 
+        "BIOLAB SANUS FARMACEUTICA LTDA.": 200000.0, 
+        "BRADESCO VIDA E PREVIDENCIA S.A": 175000.0, 
+        "BRADESCO SAÚDE S.A": 175000.0, 
+        "ARCOS DOURADOS COMERCIO DE ALIMENTOS LTDA.": 150000.0, 
+        "ACHE LABORATÓRIOS FARMANÊUTICOS S.A": 140000.0, 
+        "CONSTRUTORA NORBERTO ODEBRECHAT S.A": 100000.0, 
+        "CERVEJARIA PETROPOLIS S/A": 100000.0, 
+        "AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S A": 100000.0, 
+        "CONSTRUTORA QUEIROZ GALVÃO": 80000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "BRUNO CAVALCANTI DE ARAÚJO", 
+    "total": 3823970.27, 
+    "election_id": 4511, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

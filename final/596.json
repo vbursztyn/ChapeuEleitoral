@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Efraim Filho"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PB/foto/150000000207.jpg", 
+    "state": "PB", 
+    "donations": {
+        "CRBS S.A.": 150000.0, 
+        "JBS S.A": 100000.0, 
+        "COSAN LUBRIFICANTES E ESPECIALIDADES S.A": 50000.0, 
+        "PHILIP MORRIS BRASIL INDUSTRIA E COMERCIO LTDA": 30000.0
+    }, 
+    "party": "DEM", 
+    "fullname": "EFRAIM DE ARAÚJO MORAIS FILHO", 
+    "total": 882050.0, 
+    "election_id": 2511, 
+    "stands": [
+        "Bancada Ruralista", 
+        "Bancada da Comunicação"
+    ]
+}

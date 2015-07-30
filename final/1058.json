@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO", 
+    "searchable": [
+        "Roberto Rocha"
+    ], 
+    "title": "Senador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MA/foto/100000000016.jpg", 
+    "state": "MA", 
+    "donations": {
+        "PARTIDO COMUNISTA DO BRASIL": 13200.0, 
+        "DISTRIBUIDORA AUTOMOTORES LTDA": 6560.0
+    }, 
+    "party": "PSB", 
+    "fullname": "ROBERTO COELHO ROCHA", 
+    "total": 3543096.85, 
+    "election_id": 400, 
+    "similars": [
+        "Luciana Santos (PC do B, PE) - Deputado Federal"
+    ], 
+    "stands": []
+}

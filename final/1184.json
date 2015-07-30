@@ -1,0 +1,20 @@
+{
+    "status": "NÃO ELEITO", 
+    "searchable": [
+        "Luciana Genro"
+    ], 
+    "title": "Presidente", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BR/foto/280000000043.jpg", 
+    "state": "BR", 
+    "donations": {
+        "ALINO E ROBERTO E ADVOGADOS ": 36000.0, 
+        "ZAFFARI INDUSTRIA E COMERCIO": 15000.0
+    }, 
+    "party": "PSOL", 
+    "fullname": "LUCIANA KREBS GENRO", 
+    "total": 401518.87, 
+    "election_id": 50, 
+    "similars": [
+        "José Ivo Sartori (PMDB, RS) - Governador"
+    ]
+}

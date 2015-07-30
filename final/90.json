@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Diego Andrade"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000716.jpg", 
+    "state": "MG", 
+    "donations": {
+        " SPAL INDUSTRIA BRASILEIRA DE BEBIDAS S/A ": 150000.0, 
+        "ARMAZENS GERAIS AGRICOLA LTDA": 66000.0
+    }, 
+    "party": "PSD", 
+    "fullname": "DIEGO LEONARDO DE ANDRADE CARVALHO", 
+    "total": 1339009.63, 
+    "election_id": 5555, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

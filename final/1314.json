@@ -1,0 +1,29 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Alex Manente"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001375.jpg", 
+    "state": "SP", 
+    "donations": {
+        "EMPRESA BRASILEIRA DE ENGENHARIA S/A": 57000.0, 
+        "2 N ENGENHARIA LTDA": 48500.0, 
+        "G 2 O  GERENCIAMENTO E OBRAS LTDA ": 48500.0, 
+        "MAZZINI  ADMINISTRAÇAO E EMPREITAS LTDA ": 40000.0, 
+        "BRASKEM  S/A": 30000.0, 
+        " COOPERATIVA DOS PLANTADORES DE CANA DO OESTE - COPERCANA ": 10000.0, 
+        "BRADESCO VIDA E PREVIDENCIA S/A": 5419.46
+    }, 
+    "party": "PPS", 
+    "fullname": "ALEX SPINELLI MANENTE", 
+    "total": 1187824.03, 
+    "election_id": 2343, 
+    "similars": [
+        "Papa (PSDB, SP) - Deputado Federal", 
+        "Davi Zaia (PPS, SP) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

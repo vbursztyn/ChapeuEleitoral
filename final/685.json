@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "João Gonçalves"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PB/foto/150000000339.jpg", 
+    "state": "PB", 
+    "donations": {
+        "JBS S.A.": 100000.0, 
+        "CERÂMICA ELIZABETH SUL": 75000.0, 
+        "UTC ENGENHARIA ": 25000.0
+    }, 
+    "party": "PSD", 
+    "fullname": "JOÃO GONÇALVES DE AMORIM SOBRINHO", 
+    "total": 229052.36, 
+    "election_id": 55655, 
+    "similars": [
+        "Jutay Meneses (PRB, PB) - Deputado Estadual", 
+        "Inácio Falcão (PT do B, PB) - Deputado Estadual"
+    ]
+}

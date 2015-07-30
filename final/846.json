@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Elmano"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/CE/foto/60000000723.jpg", 
+    "state": "CE", 
+    "donations": {
+        "CONSTRUTORA NOBERTO ODEBRECHT S/A": 304000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S/A": 56600.0, 
+        "ENGEVIX ENGENHARIA S/A": 14400.0
+    }, 
+    "party": "PT", 
+    "fullname": "ELMANO DE FREITAS DA COSTA", 
+    "total": 688800.0, 
+    "election_id": 13123, 
+    "similars": [
+        "José Guimarães (PT, CE) - Deputado Federal", 
+        "Maria do Rosário (PT, RS) - Deputado Federal", 
+        "Luizianne Lins (PT, CE) - Deputado Federal"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Benjamin Maranhão"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PB/foto/150000000476.jpg", 
+    "state": "PB", 
+    "donations": {
+        "JBS S/A": 250000.0, 
+        "BRADESCO VIDA E PREVIDENCIA S.A": 49986.0, 
+        ".VEICULOS LTDA": 49986.0, 
+        "VIA ENGENHARIA S.A": 6849.31
+    }, 
+    "party": "SD", 
+    "fullname": "BENJAMIN GOMES MARANHÃO NETO", 
+    "total": 526825.31, 
+    "election_id": 7777, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

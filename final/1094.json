@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Mandetta"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MS/foto/120000000072.jpg", 
+    "state": "MS", 
+    "donations": {
+        "DIGITHO BRASIL SOLUCOES EM SOFTWARE LTDA": 319000.0, 
+        "AMIL ASSISTENCIA MEDICA INTERNACIONAL S/A": 100000.0, 
+        "GPO- GESTAO DE PRODUTOS E OBRAS LTDA": 100000.0, 
+        "CRBS S/A": 100000.0, 
+        "BRF S/A": 44000.0
+    }, 
+    "party": "DEM", 
+    "fullname": "LUIZ HENRIQUE MANDETTA", 
+    "total": 2114755.74, 
+    "election_id": 2555, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista", 
+        "Bancada da Saúde"
+    ]
+}

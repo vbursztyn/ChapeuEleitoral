@@ -1,0 +1,28 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Janio Natal"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000432.jpg", 
+    "state": "BA", 
+    "donations": {
+        "SAMA S.A. - MINERACOES ASSOCIADAS ": 80000.0, 
+        "LIMPATECH SERVICOS E CONSTRUCOES LTDA": 35000.0, 
+        "CONSTRUTECKMA ENGENHARIA S.A": 30000.0, 
+        "AGRO INDUSTRIAS DO VALE DO SAO FRANCISCO SA AGROVALE": 25000.0, 
+        "BRADESCO VIDA E PREVIDENCIA S.A.": 25000.0, 
+        "CONSTRUTORA OAS S.A.": 25000.0, 
+        "U T C ENGENHARIA S/A": 25000.0, 
+        "GERDAU AÇOS ESPECIAIS S/A": 20000.0, 
+        "BRASKEM S/A": 15000.0
+    }, 
+    "party": "PRP", 
+    "fullname": "JANIO NATAL ANDRADE BORGES", 
+    "total": 285589.0, 
+    "election_id": 44044, 
+    "similars": [
+        "Bruno Reis (PMDB, BA) - Deputado Estadual", 
+        "Afonso Motta (PDT, RS) - Deputado Federal"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Alex Canziani"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000001146.jpg", 
+    "state": "PR", 
+    "donations": {
+        "BRAFER CONSTRUÇÕES METALURGICAS S/A": 200000.0, 
+        "ADAMA BRASIL S/A": 75000.0, 
+        "BRADESCO VIDA S/A": 21600.0
+    }, 
+    "party": "PTB", 
+    "fullname": "ALEX CANZIANI SILVEIRA", 
+    "total": 1882118.19, 
+    "election_id": 1414, 
+    "similars": [
+        "Rômulo Gouveia (PSD, PB) - Deputado Federal", 
+        "Luiz Carlos Hauly (PSDB, PR) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Ruralista"
+    ]
+}

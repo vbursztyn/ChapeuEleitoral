@@ -1,0 +1,17 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Rodrigo Delmasso"
+    ], 
+    "title": "Deputado Distrital", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/DF/foto/70000000310.jpg", 
+    "state": "DF", 
+    "donations": {
+        "JBS S.A": 25995.0, 
+        "CONSTRUTORA NORBERTO ODEBRECHT S A": 22800.0
+    }, 
+    "party": "PTN", 
+    "fullname": "RODRIGO GERMANO DELMASSO MARTINS", 
+    "total": 244503.93, 
+    "election_id": 19123
+}

@@ -1,0 +1,32 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Jácome"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RN/foto/200000000133.jpg", 
+    "state": "RN", 
+    "donations": {
+        "Direção Nacional": 100000.0, 
+        "RAIA DROGASIL S/A": 80000.0, 
+        "JBS S/A": 70000.0, 
+        "CONSTRUTORA QUEIROZ GALVAO S/A": 65000.0, 
+        "ALESAT COMBUSTIVE S/A": 50000.0, 
+        "BANCO BTG PACTUAL ": 50000.0, 
+        "PARTIDO DA MOBILIZACAO NACIONAL": 42000.0, 
+        "QUEIROZ GALVÃO EMPREENDIMENTOS LTDA ": 30000.0, 
+        "Direção Estadual/Distrital": 11000.0
+    }, 
+    "party": "PMN", 
+    "fullname": "ANTÔNIO JÁCOME DE LIMA JUNIOR", 
+    "total": 709700.0, 
+    "election_id": 3333, 
+    "similars": [
+        "Arlindo Chinaglia (PT, SP) - Deputado Federal", 
+        "Robinson Faria (PSD, RN) - Governador", 
+        "Jacó Jácome (PMN, RN) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Evangélica"
+    ]
+}

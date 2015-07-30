@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Jair Bolsonaro"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000001444.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "JBS S/A": 200000.0
+    }, 
+    "party": "PP", 
+    "fullname": "JAIR MESSIAS BOLSONARO", 
+    "total": 405224.0, 
+    "election_id": 1120, 
+    "stands": [
+        "Bancada da Segurança"
+    ]
+}

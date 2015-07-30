@@ -1,0 +1,31 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Coronel Telhada"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001570.jpg", 
+    "state": "SP", 
+    "donations": {
+        "BANCO SANTANDER (BRASIL) S/A": 125000.0, 
+        "CAÇAPAVA EMPREITADA DE LAVOR LTDA": 125000.0, 
+        "COMPANHIA BRASILEIRA DE METALURGIA E MINERAÇÃO": 70000.0, 
+        "COSAM LUBRIFICANTES ESPECIALIZADOS S/A": 50000.0, 
+        "KEEPER PROJETOS E ASSESSORIAS LTDA": 47500.0, 
+        "BRADESCO SAUDE S/A": 40000.0, 
+        "BRADESCO VIDA EPREVIDÊNCIA S/A": 38419.46, 
+        "CRBS S/A": 33000.0, 
+        "U.S.J. - AÇÚCAR E ALCOOL S/A": 20000.0, 
+        "EVEN CONSTRUTORA E INCORPORADORA S/A": 10000.0, 
+        "MORLAN S/A": 5720.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "PAULO ADRIANO LOPES LUCINDA TELHADA", 
+    "total": 836998.5, 
+    "election_id": 45190, 
+    "similars": [
+        "Celso Russomanno (PRB, SP) - Deputado Federal", 
+        "Fernando Capez (PSDB, SP) - Deputado Estadual", 
+        "Marcelo Miranda (PMDB, TO) - Governador"
+    ]
+}

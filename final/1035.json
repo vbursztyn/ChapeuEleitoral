@@ -1,0 +1,38 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Aleluia"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000630.jpg", 
+    "state": "BA", 
+    "donations": {
+        "CONSTRUTORA TRIUNFO S/A": 300000.0, 
+        "DELTA PARTICIPAÇÕES SA": 260000.0, 
+        "TOP SERVICE SERVIÇOS E SISTEMAS LTDA": 200000.0, 
+        "CERVEJARIA PETROPOLIS S/A": 200000.0, 
+        "CONSTRUTORA OAS SA": 200000.0, 
+        "CONSTRUTORA NORBERTO ODEBRECHT SA": 175000.0, 
+        "VALE MINA DO AZUL SA": 150000.0, 
+        "GERDAU AÇOS ESPECIAIS": 150000.0, 
+        "UTC ENGENHARIA SA": 125000.0, 
+        "BRADESCO VIDA E PREVIDÊNCIA SA": 110000.0, 
+        "CONSTRUTORA QUEIROZ GALVÃO": 100000.0, 
+        "CONSTRUTORES E COMERCIO CAMARGO CORREIA SA": 100000.0, 
+        "JSL S.A": 100000.0, 
+        "J MACEDO SA": 85000.0, 
+        "BRASKEM SA": 75000.0, 
+        "GRÁFICA EDITORA STAMPPA LTDA": 60000.0, 
+        "GOBI EMPREEMDIMENTOS IMOBILIARIOS SA": 20000.0, 
+        "HORTOVILLE EMPREEMDIMENTOS IMOBILARIOS SA": 20000.0, 
+        "CRBS SA": 15000.0
+    }, 
+    "party": "DEM", 
+    "fullname": "JOSÉ CARLOS ALELUIA COSTA", 
+    "total": 3523080.0, 
+    "election_id": 2555, 
+    "similars": [
+        "Pablo Barrozo (DEM, BA) - Deputado Estadual"
+    ], 
+    "stands": []
+}

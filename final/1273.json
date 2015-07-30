@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Ratinho Junior"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000848.jpg", 
+    "state": "PR", 
+    "donations": {
+        "CONTRUTORA ANDRADE GUTIERREZ": 250000.0, 
+        "BRAFER CONSTRUCOES METALICAS S/A": 100000.0, 
+        "SINNENCO SISTEMA INTELIGENTE DE ENGENHARIA LTDA - ME": 100000.0
+    }, 
+    "party": "PSC", 
+    "fullname": "CARLOS ROBERTO MASSA JUNIOR", 
+    "total": 3090029.45, 
+    "election_id": 20123, 
+    "similars": [
+        "Luiz Carlos Hauly (PSDB, PR) - Deputado Federal"
+    ]
+}

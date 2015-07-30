@@ -1,0 +1,26 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Moema Gramacho"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000146.jpg", 
+    "state": "BA", 
+    "donations": {
+        "ENSEADA INDUSTRIA NAVAL S.A": 19000.0
+    }, 
+    "party": "PT", 
+    "fullname": "MOEMA ISABEL PASSOS GRAMACHO", 
+    "total": 584383.3, 
+    "election_id": 1363, 
+    "similars": [
+        "Maria Del Carmen (PT, BA) - Deputado Estadual", 
+        "Pelegrino (PT, BA) - Deputado Federal", 
+        "Josias Gomes (PT, BA) - Deputado Federal", 
+        "Valmir Assunção (PT, BA) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Feminina", 
+        "Bancada Sindicalista"
+    ]
+}

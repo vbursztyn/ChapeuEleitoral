@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Sergio Toledo"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AL/foto/20000000230.jpg", 
+    "state": "AL", 
+    "donations": {
+        "IMPOR SERVIÇOS HOSPITALARES S/A": 140000.0, 
+        "CONSTRUÇÃO E COMÉRCIO CAMARGO CORREA S/A": 130000.0, 
+        "VTC ENGENHARIA S/A": 130000.0, 
+        "PRESLAF-EMPRESA DE SERVIÇOS HOSPITALARES LTDA": 50000.0, 
+        "BRASKEM S/A": 30000.0
+    }, 
+    "party": "PDT", 
+    "fullname": "SERGIO TOLEDO DE ALBUQUERQUE", 
+    "total": 590900.0, 
+    "election_id": 12777
+}

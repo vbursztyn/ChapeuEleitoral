@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "André Soares"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001641.jpg", 
+    "state": "SP", 
+    "donations": {
+        "U T C ENGENHARIA S/A": 85000.0, 
+        "CARIOCA CHRISTIANI NIELSEN ENGENHARIA S/A": 60000.0, 
+        "ENCALSO CONSTRUÇÕES LTDA": 17000.0, 
+        "BRADESCO VIDA E PREVIDÊNCIA S/A": 5419.46
+    }, 
+    "party": "DEM", 
+    "fullname": "ANDRÉ BEZERRA RIBEIRO SOARES", 
+    "total": 354977.36, 
+    "election_id": 25005, 
+    "similars": [
+        "Rodrigo Garcia (DEM, SP) - Deputado Federal", 
+        "Silvio Torres (PSDB, SP) - Deputado Federal"
+    ]
+}

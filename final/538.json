@@ -1,0 +1,27 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Pastor Eurico"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PE/foto/170000000070.jpg", 
+    "state": "PE", 
+    "donations": {
+        "AROSUCO AROMAS E SUCOS LTDA": 100000.0, 
+        "VIA ENGENHARIA S. A.": 80000.0, 
+        "TORC TERRAPLENAGEM OBRAS RODOVIARIAS E CONSTRUCOES LTDA": 50000.0
+    }, 
+    "party": "PSB", 
+    "fullname": "FRANCISCO EURICO DA SILVA", 
+    "total": 409150.0, 
+    "election_id": 4050, 
+    "similars": [
+        "João Bacelar (PR, BA) - Deputado Federal", 
+        "Wellington Fagundes (PR, MT) - Senador", 
+        "Wellington Roberto (PR, PB) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Ruralista", 
+        "Bancada Evangélica"
+    ]
+}

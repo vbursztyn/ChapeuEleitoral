@@ -1,0 +1,26 @@
+{
+    "status": "ELEITO", 
+    "searchable": [
+        "Omar Aziz"
+    ], 
+    "title": "Senador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AM/foto/40000000489.jpg", 
+    "state": "AM", 
+    "donations": {
+        "BRADESCO LEASING S.A - ARRENDAMENTO MERCANTIL": 1000000.0, 
+        "TRAIRI COMERCIO DE DERIVADOS DE PETROLEO LTDA": 500000.0, 
+        "PARTIDO SOCIAL DEMOCRATICO-PSD DIRETORIO NACIONAL": 299972.0, 
+        "PR CONSTRUÇÕES E TERRAPLENAGEM LTDA": 150000.0, 
+        "GRANDE MOINHO CEARENSE SA": 124993.59, 
+        "FM INDUSTRIA GRAFICA": 50000.0, 
+        "BRAM BRADESCO ASSET MANAGENT SA": 40000.0, 
+        "SOCIEDADE FOGÁS LIMITADA": 32000.0, 
+        "SB COMERCIO LTDA": 16996.39, 
+        "VALFILM AMAZONIA INDUSTRIAL E COMERCIO LTDA": 10500.0
+    }, 
+    "party": "PSD", 
+    "fullname": "OMAR JOSE ABDEL AZIZ", 
+    "total": 4412079.43, 
+    "election_id": 555, 
+    "stands": []
+}

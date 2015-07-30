@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Sílvio Dreveck"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SC/foto/240000000425.jpg", 
+    "state": "SC", 
+    "donations": {
+        "JBS S/A": 70000.0, 
+        "ETERNIT S A": 40000.0, 
+        "PARTIDO PROGRESSISTA": 25000.0
+    }, 
+    "party": "PP", 
+    "fullname": "SÍLVIO DREVECK", 
+    "total": 618374.83, 
+    "election_id": 11311, 
+    "similars": [
+        "Peninha (PMDB, SC) - Deputado Federal", 
+        "Celso Giglio (PSDB, SP) - Deputado Estadual"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Hugo Leal"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000001875.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A.": 400000.0, 
+        "TRACTEBEL ENERGIA COMERCIALIZADORA LTDA.": 340000.0, 
+        "COSAN LUBRIFICANTES E ESPECIALIDADES S.A.": 150000.0, 
+        "CIA. DE NAVEGAÇÃO DA AMAZÔNIA": 100000.0, 
+        "SCS COMERCIAL E SERVIÇOS QUIMICOS S.A.": 100000.0
+    }, 
+    "party": "PROS", 
+    "fullname": "HUGO LEAL MELO DA SILVA", 
+    "total": 1922400.0, 
+    "election_id": 9090, 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

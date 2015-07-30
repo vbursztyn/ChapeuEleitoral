@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Irmão Lazaro"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000681.jpg", 
+    "state": "BA", 
+    "donations": {
+        "BRASKEM S/A": 40000.0, 
+        "CONSTRUTORA NORBERTO ODEBRETCH": 30000.0, 
+        "CONSTRUTORA CARIOCA CHRISTIANI NIELSEN ENGENHARIA S/A": 30000.0
+    }, 
+    "party": "PSC", 
+    "fullname": "ANTONIO LAZARO SILVA", 
+    "total": 304005.0, 
+    "election_id": 2020, 
+    "stands": [
+        "Bancada Evangélica"
+    ]
+}

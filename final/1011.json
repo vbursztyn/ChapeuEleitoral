@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Pompeo de Mattos"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000000281.jpg", 
+    "state": "RS", 
+    "donations": {
+        "CONSTRUTORA QUEIROZ GALVÃO": 150000.0, 
+        "JBS S.A": 70000.0, 
+        "GERDAU AÇOS ESPECIAIS SA": 40000.0, 
+        "GOMES E PEIXOTO PROJETOS E CONSTRUÇÕES LTDA": 10000.0
+    }, 
+    "party": "PDT", 
+    "fullname": "DARCI POMPEO DE MATTOS", 
+    "total": 464362.55, 
+    "election_id": 1212, 
+    "stands": []
+}

@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Domingos Brazão"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000001574.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "TELEMONT EMGEMHARIA TELECOMUNICAÇÕES S.A.": 2000000.0, 
+        "RIO DE JANEIRO REFRESCOS LTDA.": 400000.0, 
+        "BTG PACTUAL GESTORA DE RECURSOS LTDA.": 100000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "DOMINGOS INACIO BRAZÃO", 
+    "total": 2585762.44, 
+    "election_id": 15101, 
+    "similars": [
+        "Paulo Pimenta (PT, RS) - Deputado Federal", 
+        "Imbassahy (PSDB, BA) - Deputado Federal", 
+        "Jorge Picciani (PMDB, RJ) - Deputado Estadual", 
+        "Rafael Picciani (PMDB, RJ) - Deputado Estadual"
+    ]
+}

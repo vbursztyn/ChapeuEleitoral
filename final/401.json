@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Ricardo Madalena"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000000745.jpg", 
+    "state": "SP", 
+    "donations": {
+        "PARTIDO DA REPUBLICA-PR": 100000.0, 
+        "POWER SEGUR. VIGILANCIA LTDA.": 6000.0
+    }, 
+    "party": "PR", 
+    "fullname": "RICARDO ROSSI MADALENA", 
+    "total": 786066.12, 
+    "election_id": 22123, 
+    "similars": [
+        "Marcos Damásio (PR, SP) - Deputado Estadual", 
+        "Saba Reis (PR, AM) - Deputado Estadual", 
+        "Jofran Frejat (PR, DF) - Governador"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Marcos Montes"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000669.jpg", 
+    "state": "MG", 
+    "donations": {
+        "BRF S.A.": 200000.0, 
+        "COSAN LUBRIFICANTES E ESPECIALIDADES LTDA": 150000.0, 
+        "BRADESCO ADMINISTRADORA DE CONSORCIOS LTDA": 120000.0, 
+        "ODEBRECHT AGROINDUSTRIAL S/A": 70000.0, 
+        "ANGLOGOLD ASHANTI CORREGO DO SITIO MINERAÇÃO S.A.": 50000.0, 
+        "PREMO CONSTRUÇÕES E EMPREENDIMENTOS S/A": 10000.0
+    }, 
+    "party": "PSD", 
+    "fullname": "MARCOS MONTES CORDEIRO", 
+    "total": 3180491.28, 
+    "election_id": 5545, 
+    "similars": [
+        "Gustavo Correa (DEM, MG) - Deputado Estadual", 
+        "Durval Ângelo (PT, MG) - Deputado Estadual", 
+        "Hudson Leal (PRP, ES) - Deputado Estadual", 
+        "Dary Pagung (PRP, ES) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista", 
+        "Bancada da Saúde"
+    ]
+}

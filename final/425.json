@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Roberto Sales"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000003013.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "LIM OGES INCORPORADORA LTDA": 12000.0, 
+        "JBS S/A": 8625.0
+    }, 
+    "party": "PRB", 
+    "fullname": "ROBERTO DA SILVA SALES", 
+    "total": 232619.5, 
+    "election_id": 1010, 
+    "similars": [
+        "Tia Ju (PRB, RJ) - Deputado Estadual", 
+        "Rosangela Gomes (PRB, RJ) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Evangélica"
+    ]
+}

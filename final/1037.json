@@ -1,0 +1,27 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Ronaldo Lessa"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AL/foto/20000000269.jpg", 
+    "state": "AL", 
+    "donations": {
+        "PRESLAF - EMPRESA DE SERVIÇOS HOSPITALARES LTDA": 420000.0, 
+        "IMPAR SERVIÇOS HOSPITALARES S/A": 400000.0, 
+        "CONSTRUTORA QUEIROZ GALVAO SA": 300000.0, 
+        "AMIL ASSISTENCIA MEDICA INTERNACIONAL SA": 300000.0, 
+        "BRASKEM S/A": 70000.0, 
+        "CONSTRUTORA OAS SA": 58100.0, 
+        "JBS S/A": 50000.0, 
+        "HOSPITAL SANTA PAULA LTDA": 50000.0
+    }, 
+    "party": "PDT", 
+    "fullname": "RONALDO AUGUSTO LESSA SANTOS", 
+    "total": 1832060.11, 
+    "election_id": 1212, 
+    "similars": [
+        "Sergio Toledo (PDT, AL) - Deputado Estadual"
+    ], 
+    "stands": []
+}

@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Tiago Simon"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000000124.jpg", 
+    "state": "RS", 
+    "donations": {
+        "BRADESCO ADM CONSORCIOS LTDA": 114000.0, 
+        "BRADESCO SAUDE SA": 95000.0, 
+        "CRBS S/A.": 38000.0, 
+        "GERDAU AÇOS ESPECIAIS S.A.": 38000.0, 
+        "QUANTIQ DIST LTDA": 20000.0, 
+        "BRASKEM SA.": 10000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "TIAGO CHANAN SIMON", 
+    "total": 932369.0, 
+    "election_id": 15777
+}

@@ -1,0 +1,44 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Leonardo Quintão"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000874.jpg", 
+    "state": "MG", 
+    "donations": {
+        "VALE MINA DO AZUL S.A": 700000.0, 
+        "ANGLOGOLD ASHANTI CORREGO DO SITIO MINERAÇÃO": 300000.0, 
+        "EMPREENDIMENTOS PAGUE MENOS S/A": 291046.35, 
+        "GERDAU AÇOS ESPECIAIS S.A": 263333.0, 
+        "BRADESCO SAÚDE S.A": 199935.6, 
+        "ARCELORMITTAL BRASIL S.A": 183333.0, 
+        "DIMED S/A DISTRIBUIDORA DE MEDICAMENTOS ": 182614.45, 
+        "USINA SIDERURGICA MINAS GERAIS - USIMINAS": 133334.0, 
+        "SPAL DISTRIBUIDORA DE BEBIDAS": 100000.0, 
+        "KINROSS BRASIL MINERAÇÃO S.A": 100000.0, 
+        "RAIA DROGASIL S/A": 90000.0, 
+        "DROGARIA SÃO PAULO S.A": 81536.63, 
+        "DROGARIAS PACHECO S/A": 60537.25, 
+        "IMIFARMA PRODUTOS FARMACEUTICOS E COSMETICOS S.A": 49623.81, 
+        "CRBS S/A": 30000.0, 
+        "DROGATIM DROGARIAS LTDA": 29775.63, 
+        "MAGNESITA REFRATARIOS S/A": 20000.0, 
+        "NELFARMA COMERCIO E PRODUTOS QUIMICOS LTDA": 18086.42, 
+        "SAO BENTO COMERCIO DE MEDICAMENTOS E PERFUMARIA LTDA": 14108.95, 
+        "VENANCIO PRODUTOS FARMACEUTICOS  LTDA": 11742.5, 
+        "DROGARIA ROSARIO S/A": 9645.62
+    }, 
+    "party": "PMDB", 
+    "fullname": "LEONARDO LEMOS BARROS QUINTÃO", 
+    "total": 4953956.4, 
+    "election_id": 1500, 
+    "similars": [
+        "Guilherme Mussi (PP, SP) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista", 
+        "Bancada Evangélica"
+    ]
+}

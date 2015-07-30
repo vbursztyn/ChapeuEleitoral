@@ -1,0 +1,29 @@
+{
+    "status": "NÃO ELEITO", 
+    "searchable": [
+        "Vital"
+    ], 
+    "title": "Governador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PB/foto/150000000156.jpg", 
+    "state": "PB", 
+    "donations": {
+        "BTG PACTUAL GESTORA DE RECURSOS LTDA": 1000000.0, 
+        "LONDRINA BEBIDAS LTDA": 660000.0, 
+        "VALE MANGANES S.A": 600000.0, 
+        "JBS S/A": 500000.0, 
+        "BANCO BTG PACTUAL S.A.": 500000.0, 
+        "SALOBO METAIS S/A": 500000.0, 
+        "AMIL ASSISTENCIA MEDICA INTERNACIONAL S.A.": 500000.0, 
+        "RECOFARMA INDUSTRIA DO AMAZONAS LTDA": 500000.0, 
+        "HOSPITAL SANTA PAULA LTDA": 500000.0, 
+        "BRADESCO SAUDE S/A": 400000.0, 
+        "MSCPLAST INDL. DE EMBAL. PLAST. LTDA - EPP": 24150.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "VITAL DO RÊGO FILHO", 
+    "total": 9682913.32, 
+    "election_id": 15, 
+    "similars": [
+        "Dr Gilson Andrade (PTC, SE) - Deputado Estadual"
+    ]
+}

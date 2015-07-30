@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Jovair Arantes"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/GO/foto/90000000715.jpg", 
+    "state": "GO", 
+    "donations": {
+        "TELEMONT ENGENHARIA DE TELECOMUNICAÇÕES S.A.": 551187.52, 
+        "ARTE CONSTRUÇOES EIRELI": 150000.0, 
+        "CRBS S/A": 128000.0, 
+        "URUAÇU AÇUCAR E ALCOOL LTDA": 80000.0, 
+        "SAMA S.A. MINERAÇÕES ASSOCIADAS": 50000.0, 
+        "RECOFARMA INDUSTRIA DO AMAZONAS LTDA": 50000.0
+    }, 
+    "party": "PTB", 
+    "fullname": "JOVAIR OLIVEIRA ARANTES", 
+    "total": 1502587.02, 
+    "election_id": 1414, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

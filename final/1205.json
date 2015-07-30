@@ -1,0 +1,40 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Luiz Fernando Faria"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000666.jpg", 
+    "state": "MG", 
+    "donations": {
+        "JBS S/A": 1000000.0, 
+        "BRASKEM S/A": 280000.0, 
+        "CONSTRUTORA NORBERTO ODEBRECHT": 169813.0, 
+        "CRBS": 150000.0, 
+        "ANGLO GOLD ASHANTI CORREGO DO SITIO MINERAÇÃO S/A": 149835.0, 
+        "MINERAÇÕES BRASILEIRAS REUNIDAS S/A": 100000.0, 
+        "GALVÃO ENGENHARIA S.A": 100000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S.A": 100000.0, 
+        "FLORA PRODUTOS DE HIGIENE E LIMPEZA S.A": 100000.0, 
+        "BRADESCO ALIMENTADORA DE CONSORCIOS": 99890.0, 
+        "GERDAU AÇOS ESPECIAIS S/A": 99890.0, 
+        "SPAL INDÚSTRIA BRASILEIRA DE BEBIDAS S/A": 99890.0, 
+        "EMPRESA DE MINERAÇÃO ESPERANÇA SA": 79747.0, 
+        "CONSTRUTORA QUEIROZ GALVAO S/A": 50000.0, 
+        "C R ALMEIDA S/A - ENGENHARIA DE OBRAS": 50000.0, 
+        "CONSON LUBRIFICANTES E ESPECIALIDADES S/A": 49945.0, 
+        "IPIRANGA PRODUTOS DE PETRÓLEO S/A": 49945.0, 
+        "SIDERURGICA BARÃO DE MAUÁ EIRELI": 5415.0
+    }, 
+    "party": "PP", 
+    "fullname": "LUIZ FERNANDO RAMOS FARIA", 
+    "total": 4342467.35, 
+    "election_id": 1145, 
+    "similars": [
+        "Padilha (PT, SP) - Governador"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

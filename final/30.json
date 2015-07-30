@@ -1,0 +1,18 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Luzia Toledo"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/ES/foto/80000000656.jpg", 
+    "state": "ES", 
+    "donations": {
+        "VALE RIO DOCE ENERGIA S/A ": 34500.0, 
+        "MINERACAO CORUMBAENSE REUNIDAS S/A ": 30000.0, 
+        "VALE MANGANES S/A ": 25000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "LUZIA ALVES TOLEDO", 
+    "total": 329767.89, 
+    "election_id": 15500
+}

@@ -1,0 +1,17 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Bruno Toledo"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AL/foto/20000000365.jpg", 
+    "state": "AL", 
+    "donations": {
+        "USINAS REUNIDAS SERESTA S/A": 300000.0, 
+        "CONSTRUTORA OAS S.A": 150000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "BRUNO ALBUQUERQUE TOLEDO", 
+    "total": 554738.03, 
+    "election_id": 45123
+}

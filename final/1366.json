@@ -1,0 +1,26 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Marcelo Belinati"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000159.jpg", 
+    "state": "PR", 
+    "donations": {
+        "JBS S/A": 400000.0, 
+        "TELEMONT ENGENHARIA DE TELECOMUNICAÇOES S/A": 200000.0, 
+        "FLORA PRODUTOS DE HIGIENE E LIMPEZA S A ": 100000.0, 
+        "DIAL DISTRIBUIÇÃO ABASTECIMENTO E LOGISTICA LTDA": 30000.0, 
+        "GALVAO ENGENHARIA S/A": 25600.0, 
+        "BRF S/A": 20000.0, 
+        "ELEICAO 2014 FERNANDO LUCIO GIACOBO DEPUTADO FEDERAL": 16500.0
+    }, 
+    "party": "PP", 
+    "fullname": "MARCELO BELINATI MARTINS", 
+    "total": 951521.0, 
+    "election_id": 1120, 
+    "stands": [
+        "Bancada da Saúde", 
+        "Bancada Evangélica"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Esperidião Amin"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SC/foto/240000000477.jpg", 
+    "state": "SC", 
+    "donations": {
+        "JBS S/A": 600000.0, 
+        "BANCO BTG PACTUAL S.A.": 300000.0, 
+        "COSAN LUBRIFICANTES E ESPECIALIDADES S.A.": 99500.0
+    }, 
+    "party": "PP", 
+    "fullname": "ESPERIDIÃO AMIN HELOU FILHO", 
+    "total": 1373575.85, 
+    "election_id": 1133, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

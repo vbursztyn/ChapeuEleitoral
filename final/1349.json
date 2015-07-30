@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Paulo Maluf"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000002168.jpg", 
+    "state": "SP", 
+    "donations": {
+        "CONSTRUTORA OAS S.A.": 398940.0, 
+        "CONSTRUTORA GALVÃO ": 350000.0, 
+        "COMPANHIA METALURGICA PRADO": 230000.0, 
+        "GALVÃO ENGENHARIA S.A.": 100000.0
+    }, 
+    "party": "PP", 
+    "fullname": "PAULO SALIM MALUF", 
+    "total": 1175818.0, 
+    "election_id": 1111
+}

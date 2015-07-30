@@ -1,0 +1,27 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Edson Albertassi"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000001607.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "CERVEJARIA PETRÓPOLIS S.A.": 300000.0, 
+        "CONSTRUTORA ZADAR LTDA.": 200000.0, 
+        "JBS S/A": 120000.0, 
+        "CONSTRUTORA NOVOLAR S.A.": 100000.0, 
+        "CONSTRUTORA OAS S/A": 50000.0, 
+        "HOSPITAL SANTA PAULA": 20000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "EDSON ALBERTASSI", 
+    "total": 1094075.01, 
+    "election_id": 15088, 
+    "similars": [
+        "Fred Costa (PEN, MG) - Deputado Estadual", 
+        "Luiz Sérgio (PT, RJ) - Deputado Federal", 
+        "Cristiane Brasil (PTB, RJ) - Deputado Federal", 
+        "Bebeto Tetra (SD, RJ) - Deputado Estadual"
+    ]
+}

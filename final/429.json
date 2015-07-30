@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Laerte Bessa"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/DF/foto/70000000661.jpg", 
+    "state": "DF", 
+    "donations": {
+        "SEARA ALIMENTOS LTDA": 100000.0
+    }, 
+    "party": "PR", 
+    "fullname": "LAERTE RODRIGUES DE BESSA", 
+    "total": 408200.0, 
+    "election_id": 2222, 
+    "stands": [
+        "Bancada da Segurança"
+    ]
+}

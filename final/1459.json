@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO", 
+    "searchable": [
+        "Robinson Faria"
+    ], 
+    "title": "Governador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RN/foto/200000000242.jpg", 
+    "state": "RN", 
+    "donations": {
+        "JBS S/A": 5400000.0, 
+        "AGRO ENERGIA SANTA LUZIA S/A": 1000000.0, 
+        "GALVÃO ENGENHARIA SA": 200000.0, 
+        "ALESAT COMBUSTIVEIS S.A.": 100000.0, 
+        "CRBS SA": 100000.0, 
+        "MRV ANCONA II INCORPORAÇÕES LTDA": 15000.0
+    }, 
+    "party": "PSD", 
+    "fullname": "ROBINSON MESQUITA DE FARIA", 
+    "total": 12359496.0, 
+    "election_id": 55, 
+    "similars": [
+        "Arlindo Chinaglia (PT, SP) - Deputado Federal"
+    ]
+}

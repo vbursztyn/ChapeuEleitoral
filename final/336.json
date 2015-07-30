@@ -1,0 +1,28 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Eduardo Barbosa"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000696.jpg", 
+    "state": "MG", 
+    "donations": {
+        "CONSTRUBASE ENGENHARIA": 140000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S.A.": 125000.0, 
+        "SAEPAR SERVIÇOS E PARTICIPAÇOES S/A": 50000.0, 
+        "ESCAVE BAHIA ENGENHARIA E EQUIPAMENTOS LTDA": 30000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "EDUARDO LUIZ BARROS BARBOSA", 
+    "total": 520953.75, 
+    "election_id": 4535, 
+    "similars": [
+        "Lidice da Mata (PSB, BA) - Governador", 
+        "Heraclito (PSB, PI) - Deputado Federal", 
+        "Nelsinho Metalúrgico (PT, RS) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

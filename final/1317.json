@@ -1,0 +1,29 @@
+{
+    "status": "NÃO ELEITO", 
+    "searchable": [
+        "Helder Barbalho"
+    ], 
+    "title": "Governador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PA/foto/140000000468.jpg", 
+    "state": "PA", 
+    "donations": {
+        "JBS S.A": 2175000.0, 
+        "CONSTRUTORA NORBERTO ODEBRECHT S.A": 1200000.0, 
+        "SALOBO METAIS S/A": 1062350.0, 
+        "MINERAÇÃO CORUMBAENSE REUNIDA S.A": 1000000.0, 
+        "BRASKEM S.A": 1000000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S.A": 900000.0, 
+        "VALE ENERGIA S.A": 700000.0, 
+        "CONSTRUTORA QUEIROZ GALVÃO S.A": 530000.0, 
+        "BRF S.A": 500000.0, 
+        "VALE MINA DO AZUL S.A": 450000.0, 
+        "AMIL ASSISTENCIA MÉDICA INTERNACIONAL S.A": 250000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "HELDER ZAHLUTH BARBALHO", 
+    "total": 12638851.41, 
+    "election_id": 15, 
+    "similars": [
+        "Pastor Cleiton Collins (PP, PE) - Deputado Estadual"
+    ]
+}

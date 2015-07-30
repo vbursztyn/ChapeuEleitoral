@@ -1,0 +1,16 @@
+{
+    "status": "ELEITO", 
+    "searchable": [
+        "Suely Campos"
+    ], 
+    "title": "Governador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RR/foto/230000000804.jpg", 
+    "state": "RR", 
+    "donations": {
+        "JBS S/A": 200000.0
+    }, 
+    "party": "PP", 
+    "fullname": "MARIA SUELY SILVA CAMPOS", 
+    "total": 543037.04, 
+    "election_id": 11
+}

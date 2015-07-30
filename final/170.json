@@ -1,0 +1,33 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Lelo Coimbra"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/ES/foto/80000000461.jpg", 
+    "state": "ES", 
+    "donations": {
+        "SAEPAR SERVICOS E PARTICIPACOES S/A": 200000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S/A": 200000.0, 
+        "MINERAÇÃO CORUMBAENSE REUNIDA S.A": 107276.85, 
+        "JBS S/A": 100000.0, 
+        "OAS ENGENHARIA E PARTICIPAÇÕES S/A": 100000.0, 
+        "CONTRUTORA OAS SA": 100000.0, 
+        "VALE MANGANES S/A": 100000.0, 
+        "PROSUL PROJETOS SUPERVISAO E PLANEJAMENTO LTDA": 60000.0, 
+        "SINALES SINALIZACAO ESPIRITO SANTO LTDA": 25000.0, 
+        "CONCREVIT CONCRETO VITORIA LTDA": 7000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "WELINGTON COIMBRA", 
+    "total": 2237582.62, 
+    "election_id": 1515, 
+    "similars": [
+        "Mendonça Filho (DEM, PE) - Deputado Federal", 
+        "Fabio Souto (DEM, BA) - Deputado Estadual", 
+        "Otto Alencar (PSD, BA) - Senador"
+    ], 
+    "stands": [
+        "Bancada da Saúde"
+    ]
+}

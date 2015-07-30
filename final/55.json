@@ -1,0 +1,27 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Vander Loubet"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MS/foto/120000000497.jpg", 
+    "state": "MS", 
+    "donations": {
+        "BTG PACTUAL CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A": 250000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ SA  ": 200000.0, 
+        "ITEL": 100000.0, 
+        "EQUIPAVA ENGENHARIA LTDA": 100000.0, 
+        "MINERAÇÃO CORUMBAENSE REUNIDA S/A": 5780.0
+    }, 
+    "party": "PT", 
+    "fullname": "VANDER LUIZ DOS SANTOS LOUBET", 
+    "total": 2995057.44, 
+    "election_id": 1331, 
+    "similars": [
+        "Paulo Corrêa (PR, MS) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Ruralista", 
+        "Bancada Sindicalista"
+    ]
+}

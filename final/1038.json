@@ -1,0 +1,29 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Fabinho Ramalho"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000359.jpg", 
+    "state": "MG", 
+    "donations": {
+        "CONSTRUTORA NORBERTO ODEBRECHT S.A": 164900.0, 
+        "PARQUE PATAGONIA INCORPORAÇÕES SPE LTDA": 97000.0, 
+        "GOLD FARB INCORPORAÇÕES E CONSTRUÇÃO S/A": 63050.0, 
+        "MAGNESITA REFRATÁRIOS S/A": 48500.0, 
+        "CURY CONSTRUTORA E INCORPORADORA S/A": 29100.0, 
+        "SISTEMA FACIL INCORPORADORA IMOBILIARIA UBERLANDIA IV SPE LTDA": 19400.0, 
+        "CRBS S/A": 15000.0, 
+        "EVEN CONSTRUTORA E INCORPORADORA ": 10000.0, 
+        "CONSTRUTORA BARBOSA E MELLO SA": 9400.0, 
+        "HAP ENGENHARIA LTDA": 6750.0, 
+        "EMPRESA CONSTRUTORA BRASIL SA": 5300.0
+    }, 
+    "party": "PV", 
+    "fullname": "FABIO AUGUSTO RAMALHO DOS SANTOS", 
+    "total": 2403487.59, 
+    "election_id": 4311, 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

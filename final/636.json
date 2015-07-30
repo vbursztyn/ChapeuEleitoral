@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Delegado Eder Mauro"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PA/foto/140000000944.jpg", 
+    "state": "PA", 
+    "donations": {
+        "CONSTRUTORA NORBERTO ODEBRECHT S A": 100000.0
+    }, 
+    "party": "PSD", 
+    "fullname": "ÉDER MAURO CARDOSO BARRA", 
+    "total": 348235.62, 
+    "election_id": 5500, 
+    "stands": [
+        "Bancada da Segurança"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Fred Costa"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000001621.jpg", 
+    "state": "MG", 
+    "donations": {
+        "VALE ENERGIA S.A.": 89250.0, 
+        "CONSTRUTORA NOVOLAR S/A": 30000.0, 
+        "CRBS S/A": 30000.0, 
+        "JBS SA": 18498.0
+    }, 
+    "party": "PEN", 
+    "fullname": "FREDERICO BORGES DA COSTA", 
+    "total": 1182283.87, 
+    "election_id": 51333
+}

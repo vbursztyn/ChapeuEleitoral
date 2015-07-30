@@ -1,0 +1,27 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Sibá Machado"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AC/foto/10000000171.jpg", 
+    "state": "AC", 
+    "donations": {
+        "ENGEVIX ENGENHARUA S/A": 95000.0, 
+        "CONSTRUTORA OAS S/A": 25000.0, 
+        "JBS S/A": 25000.0, 
+        "S.C. G. ESPINDOLA LTDA": 6290.0
+    }, 
+    "party": "PT", 
+    "fullname": "SEBASTIÃO SIBÁ MACHADO OLIVEIRA", 
+    "total": 399354.02, 
+    "election_id": 1313, 
+    "similars": [
+        "José Guimarães (PT, CE) - Deputado Federal", 
+        "Elmano (PT, CE) - Deputado Estadual", 
+        "José Airton (PT, CE) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Sindicalista"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Alencar Santana"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000000504.jpg", 
+    "state": "SP", 
+    "donations": {
+        "CONSTRUTORA OAS S.A": 118750.0, 
+        "LONDRINA BEBIDAS LTDA": 95000.0, 
+        "BRASKEM S/A": 48000.0, 
+        "UNICAFE COMPANHIA DE COMERCIO EXTERIOR": 42000.0, 
+        "QUANTIQ DISTRIBUIDORA LTDA": 28500.0
+    }, 
+    "party": "PT", 
+    "fullname": "ALENCAR SANTANA BRAGA", 
+    "total": 2450073.4, 
+    "election_id": 13570, 
+    "similars": [
+        "Carlos Neder (PT, SP) - Deputado Estadual"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Enio Tatto"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000000530.jpg", 
+    "state": "SP", 
+    "donations": {
+        "CONQUISTA IMOBILIARIA": 228000.0, 
+        "TERRAPLANAGEM MODULO PRAIA GRANDE LTDA": 142500.0, 
+        "UTC ENGENHARIA S/A": 95000.0, 
+        "GAFISA S/A": 95000.0, 
+        "RPC REDE PONTO CERTO TECN SERV": 76000.0, 
+        "SINNENCO SISTEMA INTELIGENTE DE ENG LTDA-ME": 48000.0, 
+        "ALPARGATAS S/A": 47500.0, 
+        "ANDRADE GUTIERREZ": 19000.0, 
+        "GALVÃO ENGENHARIA S/A": 15000.0
+    }, 
+    "party": "PT", 
+    "fullname": "ENIO FRANCISCO TATTO", 
+    "total": 1440286.36, 
+    "election_id": 13114, 
+    "similars": [
+        "Bruno Covas (PSDB, SP) - Deputado Federal", 
+        "Fernando Capez (PSDB, SP) - Deputado Estadual"
+    ]
+}

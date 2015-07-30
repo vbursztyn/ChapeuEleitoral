@@ -1,0 +1,27 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Patrus Ananias"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000890.jpg", 
+    "state": "MG", 
+    "donations": {
+        "ELEIÇAO 2014 DILMA VANA ROUSSEFF": 195000.0, 
+        "CONSTRUTORA  ANDRADE GUTIERREZ SA": 190000.0, 
+        "CONSTRUTORA QUEIROZ GALVAO SA": 95000.0, 
+        "CONTSRUTORA COMERCIO CAMARGO CORREA SA": 95000.0, 
+        "GERDAU ACOS ESPECIAIS PIRATINI": 38000.0, 
+        "MINERAÇAO BRASILEIRA REUNIDAS SA": 12156.53
+    }, 
+    "party": "PT", 
+    "fullname": "PATRUS ANANIAS DE SOUSA", 
+    "total": 1424880.63, 
+    "election_id": 1333, 
+    "similars": [
+        "Assis do Couto (PT, PR) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Sindicalista"
+    ]
+}

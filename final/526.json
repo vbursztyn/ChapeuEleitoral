@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Lazinho da Fetagro"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RO/foto/220000000107.jpg", 
+    "state": "RO", 
+    "donations": {
+        "MINERACAO CORUMBAENSE REUNIDA S.A": 50000.0
+    }, 
+    "party": "PT", 
+    "fullname": "LAZARO APARECIDA DOBRI", 
+    "total": 107886.31, 
+    "election_id": 13122, 
+    "similars": [
+        "Eduardo Cunha (PMDB, RJ) - Deputado Federal", 
+        "Helder Barbalho (PMDB, PA) - Governador", 
+        "Pastor Cleiton Collins (PP, PE) - Deputado Estadual"
+    ]
+}

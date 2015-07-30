@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Robério Oliveira"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000365.jpg", 
+    "state": "BA", 
+    "donations": {
+        "BRADESCO VIDA E PREVIDENCIA S.A": 100000.0, 
+        "BRADESCO LEASING S.A ARRENDAMENTO MERCANTIL": 100000.0, 
+        "JBS S/A": 75000.0, 
+        "SKY BRASIL SERVIÇOS LTDA": 50000.0, 
+        "CONSTRUTORA OAS S.A": 49981.6, 
+        "TÊXTIL UNIÃO S.A.": 37800.0, 
+        "ABILITY TECNOLOGIA E SERVIÇOS S.A": 28800.0
+    }, 
+    "party": "PSD", 
+    "fullname": "JOSÉ ROBERIO BATISTA DE OLIVEIRA", 
+    "total": 958078.61, 
+    "election_id": 55789
+}

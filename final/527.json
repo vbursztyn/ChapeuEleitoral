@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Professor Victório Galli"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MT/foto/110000000023.jpg", 
+    "state": "MT", 
+    "donations": {
+        "CERVEJARIA PETROPOLIS SA": 210200.0, 
+        "JBS S/A": 30000.0, 
+        "PARTIDO DEMOCRATICO TRABALHISTA": 12000.0
+    }, 
+    "party": "PSC", 
+    "fullname": "VICTÓRIO GALLI FILHO", 
+    "total": 814880.18, 
+    "election_id": 2020, 
+    "stands": [
+        "Bancada Evangélica"
+    ]
+}

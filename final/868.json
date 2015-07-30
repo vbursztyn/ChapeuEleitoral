@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Lindomar Garçon"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RO/foto/220000000239.jpg", 
+    "state": "RO", 
+    "donations": {
+        "JBS S.A": 50000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "LINDOMAR BARBOSA ALVES", 
+    "total": 710886.6, 
+    "election_id": 1521, 
+    "stands": [
+        "Bancada Ruralista", 
+        "Bancada Evangélica"
+    ]
+}

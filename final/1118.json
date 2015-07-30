@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Paulo Litro"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000082.jpg", 
+    "state": "PR", 
+    "donations": {
+        "CONSTRUTORA ANDRADE GUTIERREZ SA": 30000.0, 
+        "BRF S.A": 20000.0, 
+        "PARTIDO PROGRESSISTA - PP": 11000.0, 
+        "SEARA ALIMENTOS LTDA": 6000.0, 
+        " CONSTRUTORA ANDRADE GUTIERREZ SA ": 5000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "PAULO HENRIQUE COLETTI FERNANDES", 
+    "total": 249248.73, 
+    "election_id": 45160
+}

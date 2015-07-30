@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Andres Sanchez"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000000613.jpg", 
+    "state": "SP", 
+    "donations": {
+        "JBS S/A": 550000.0, 
+        "EMCAMP RESIDENCIAL LTDA": 150000.0, 
+        "BRADESCO SAÚDE": 95000.0
+    }, 
+    "party": "PT", 
+    "fullname": "ANDRES NAVARRO SANCHEZ", 
+    "total": 2134926.67, 
+    "election_id": 1354, 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

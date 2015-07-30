@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Daniel Coelho"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PE/foto/170000000057.jpg", 
+    "state": "PE", 
+    "donations": {
+        "HANGAR EMPRESARIAL EMPREENDIMENTO IMOBILIARIO LTDA": 150000.0, 
+        "ODEBRECHT OLEO E GAS S/A.": 100000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "DANIEL PIRES COELHO", 
+    "total": 779070.14, 
+    "election_id": 4545, 
+    "similars": [
+        "Izalci (PSDB, DF) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

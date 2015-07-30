@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Aelton Freitas"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000672.jpg", 
+    "state": "MG", 
+    "donations": {
+        "JBS S/A": 700000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S/A": 300000.0, 
+        "BRADESCO VIDA E PREVIDÊNCIA S.A": 200000.0, 
+        "TAMASA ENGENHARIA S/A": 30000.0
+    }, 
+    "party": "PR", 
+    "fullname": "AELTON JOSÉ DE FREITAS", 
+    "total": 1817657.03, 
+    "election_id": 2222, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

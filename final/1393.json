@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Sandro Regis"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000721.jpg", 
+    "state": "BA", 
+    "donations": {
+        "CONSTRUTORA NORBERTO ODEBRECHT S.A.": 125000.0, 
+        "PONTO VEICULOS LTDA": 100000.0, 
+        "CERVEJARIA PETROPOLIS S.A": 100000.0, 
+        "GPS - PREDIALSISTEMAS DE SEGURANÇA LTDA": 80000.0, 
+        "UTC ENGENHARIA S/A": 55000.0, 
+        "VESTISUL INDUSTRIA E COMERCIO LTDA": 50000.0, 
+        "CONSTRUTECKMA ENGENHARUA LTDA": 25000.0, 
+        "CANDEIAS ENERGIA S.A": 18000.0
+    }, 
+    "party": "DEM", 
+    "fullname": "SANDRO DE OLIVEIRA REGIS", 
+    "total": 1065077.06, 
+    "election_id": 25555
+}

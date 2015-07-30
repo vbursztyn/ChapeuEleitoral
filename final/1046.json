@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Osmar Terra"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000000166.jpg", 
+    "state": "RS", 
+    "donations": {
+        "JBS S/A": 200000.0, 
+        "CONSTRUTORA NORBERTO ODEBRECHT S.A.": 190000.0, 
+        "GERDAU AÇOS ESPECIAIS S.A.": 142500.0, 
+        "AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A.": 100000.0, 
+        "BRADESCO VIDA E PREVIDÊNCIA S.A.": 100000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "OSMAR GASPARINI TERRA", 
+    "total": 974371.39, 
+    "election_id": 1522, 
+    "stands": [
+        "Bancada Ruralista", 
+        "Bancada da Saúde"
+    ]
+}

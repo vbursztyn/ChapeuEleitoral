@@ -1,0 +1,26 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Márcia Maia"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RN/foto/200000000163.jpg", 
+    "state": "RN", 
+    "donations": {
+        "AROSUCO AROMAS E SUCOS LTDA": 200000.0, 
+        "BANCO BTG PCTUAL S.A.": 100000.0, 
+        "CONSTRUTORA QUEIROZ GALVAO S/A": 100000.0, 
+        "COSAN LUBRIFICANTES E ESPECIALIDADES S/A": 100000.0, 
+        "RECOFARMA INDUSTRIA DO AMAZONAS LTDA": 100000.0, 
+        "DROGARIA NISSEI S/A": 50000.0
+    }, 
+    "party": "PSB", 
+    "fullname": "MARCIA FARIA MAIA MENDES", 
+    "total": 730497.87, 
+    "election_id": 40111, 
+    "similars": [
+        "Gustavo Fernandes (PMDB, RN) - Deputado Estadual", 
+        "Roberto Morais (PPS, SP) - Deputado Estadual", 
+        "Vando (PSC, BA) - Deputado Estadual"
+    ]
+}

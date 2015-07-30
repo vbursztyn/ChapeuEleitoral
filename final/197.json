@@ -1,0 +1,30 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Samuel Moreira"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001353.jpg", 
+    "state": "SP", 
+    "donations": {
+        "CRBS S/A": 240000.0, 
+        "COMIL ONIBUS S.A. ": 150000.0, 
+        "BANCO SANTANDER (BRASIL) S.A.": 100000.0, 
+        "ARCOS DOURADOS COMERCIO DE ALIMENTOS LTDA": 47500.0, 
+        "GAFISA S/A": 23750.0, 
+        "ERA TECNICA ENGENHARIA CONSTRUÇÕES E SERVIÇOS LTDA.": 23750.0, 
+        "MD PEPEIS LTDA.": 6000.0, 
+        "SERVENG CIVILSAN S A EMPRESAS ASSOCIADAS DE ENGENHARIA": 5525.0, 
+        "BRADESCO VIDA E PREVIDENCIA S.A": 5419.46
+    }, 
+    "party": "PSDB", 
+    "fullname": "SAMUEL MOREIRA DA SILVA JUNIOR", 
+    "total": 2811609.09, 
+    "election_id": 4580, 
+    "similars": [
+        "Papa (PSDB, SP) - Deputado Federal", 
+        "Cássio Soares (PSD, MG) - Deputado Estadual", 
+        "Mara Gabrilli (PSDB, SP) - Deputado Federal"
+    ], 
+    "stands": []
+}

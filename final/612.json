@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO", 
+    "searchable": [
+        "Katia Abreu"
+    ], 
+    "title": "Senador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/TO/foto/270000000011.jpg", 
+    "state": "TO", 
+    "donations": {
+        "CONSTRUTORA OAS S.A.": 950000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ SA EST. UNIF.": 300000.0, 
+        "BRADESCO VIDA E PREVIDENCIA S/A": 200000.0, 
+        "BRADESCO CAPITALIZAÇÃO S/A": 150000.0, 
+        "MINERAÇÃO BRASILEIRAS REUNIDAS S/A": 116250.0, 
+        "CRBS S/A": 40000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "KATIA REGINA DE ABREU", 
+    "total": 6973075.43, 
+    "election_id": 155, 
+    "similars": [
+        "Benito Gama (PTB, BA) - Deputado Federal", 
+        "Silvio Costa Filho (PTB, PE) - Deputado Estadual"
+    ]
+}

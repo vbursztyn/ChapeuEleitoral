@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Luciano Ducci"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000619.jpg", 
+    "state": "PR", 
+    "donations": {
+        "CONSTRUTORA QUEIROS GALVÃO S/A": 50000.0, 
+        "GALVAO ENGENHARIA S/A": 30000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ": 30000.0
+    }, 
+    "party": "PSB", 
+    "fullname": "LUCIANO DUCCI", 
+    "total": 1769880.14, 
+    "election_id": 4040, 
+    "similars": [
+        "Luiz Nishimori (PR, PR) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada da Saúde"
+    ]
+}

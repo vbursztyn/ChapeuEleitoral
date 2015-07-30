@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Jandira Feghali"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000000637.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "CRISTALIA PRODUTOS QUIMICOS FARMACEUTICOS LTDA": 50000.0
+    }, 
+    "party": "PC do B", 
+    "fullname": "JANDIRA FEGHALI", 
+    "total": 1173885.49, 
+    "election_id": 6565, 
+    "stands": [
+        "Bancada Feminina", 
+        "Bancada Sindicalista"
+    ]
+}

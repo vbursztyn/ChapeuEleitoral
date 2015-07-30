@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Mario Heringer"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000398.jpg", 
+    "state": "MG", 
+    "donations": {
+        "MINERAÇÃO REUNIDAS SA": 100000.0
+    }, 
+    "party": "PDT", 
+    "fullname": "MARIO LUCIO HERINGER", 
+    "total": 2920159.32, 
+    "election_id": 1234, 
+    "stands": [
+        "Bancada da Saúde"
+    ]
+}

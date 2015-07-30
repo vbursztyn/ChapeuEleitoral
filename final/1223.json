@@ -1,0 +1,17 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Abel Galinha"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RR/foto/230000000452.jpg", 
+    "state": "RR", 
+    "party": "PDT", 
+    "fullname": "ABEL SALVADOR MESQUITA JUNIOR", 
+    "total": 199396.0, 
+    "election_id": 1234, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

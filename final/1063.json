@@ -1,0 +1,29 @@
+{
+    "status": "2º TURNO", 
+    "searchable": [
+        "Márcio Bittar"
+    ], 
+    "title": "Governador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AC/foto/10000000003.jpg", 
+    "state": "AC", 
+    "donations": {
+        "JBS S A": 500000.0, 
+        "BRADESCO SAUDE S/A": 500000.0, 
+        "KLABIN S A ": 480000.0, 
+        "BRF S A": 100000.0, 
+        "BRADESCO LEASING S A ARRENDAMENTO MERCANTIL": 100000.0, 
+        "SAFRA LEASING S ARRENDAMENTO MERCANTIL": 100000.0, 
+        "CONSTRUTORA SANCHES TRIPOLINI LTDA": 75000.0, 
+        "JURUA ESTALEIROS NAVEGAÇÕES LTDA": 50000.0, 
+        "CRBS S A": 24823.42, 
+        "BRASKEM S. A ": 20000.0, 
+        "CONSTRUTORA ETAM LTDA": 16840.5
+    }, 
+    "party": "PSDB", 
+    "fullname": "MÁRCIO MIGUEL BITTAR", 
+    "total": 2150873.78, 
+    "election_id": 45, 
+    "similars": [
+        "Artagao Junior (PMDB, PR) - Deputado Estadual"
+    ]
+}

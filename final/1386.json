@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Lucas Vergílio"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/GO/foto/90000000623.jpg", 
+    "state": "GO", 
+    "donations": {
+        "PORTO SEGURO COMPANHIA DE SEGUROS GERAIS": 250000.0, 
+        "ORIGINAL VEÍCULOS LTDA": 99986.0, 
+        "BRADESCO SAUDE SA": 35000.0
+    }, 
+    "party": "SD", 
+    "fullname": "LUCAS DE CASTRO SANTOS", 
+    "total": 2222031.6, 
+    "election_id": 7777, 
+    "stands": []
+}

@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Josué Bengtson"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PA/foto/140000000945.jpg", 
+    "state": "PA", 
+    "donations": {
+        "CONSTRUTORA CENTRAL DO BRASIL S.A": 100000.0
+    }, 
+    "party": "PTB", 
+    "fullname": "JOSUÉ BENGTSON", 
+    "total": 290591.66, 
+    "election_id": 1456, 
+    "stands": [
+        "Bancada Ruralista", 
+        "Bancada Evangélica"
+    ]
+}

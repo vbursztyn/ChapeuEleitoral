@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Ronaldo Carletto"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000169.jpg", 
+    "state": "BA", 
+    "donations": {
+        "CONSTRUTORA NORBERTO ODEBRECHT": 9600.0
+    }, 
+    "party": "PP", 
+    "fullname": "RONALDO CARLETTO", 
+    "total": 905754.99, 
+    "election_id": 1144, 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

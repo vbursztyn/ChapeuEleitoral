@@ -1,0 +1,27 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Eduardo Siqueira Campos"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/TO/foto/270000000246.jpg", 
+    "state": "TO", 
+    "donations": {
+        "COM. DE COMB. E DERIV. DE PETROLEO FAROL": 44388.02, 
+        "JL COMERCIO E EQUIPAMENTOS LTDA EPP": 30360.25, 
+        "TEODORO E TEODORO LTDA": 15000.0, 
+        "TROPICAL PNEUS LTDA": 10059.0, 
+        "ALVICTO OZORES NOGUEIRA E CIA LTDA": 7425.4, 
+        "JL CONSTRUTORA E INCORPORADORA ": 5000.0
+    }, 
+    "party": "PTB", 
+    "fullname": "JOSÉ EDUARDO DE SIQUEIRA CAMPOS", 
+    "total": 1455941.33, 
+    "election_id": 14777, 
+    "similars": [
+        "Sandoval Cardoso (SD, TO) - Governador", 
+        "Junior Evangelista (PRTB, TO) - Deputado Estadual", 
+        "Vicentinho Junior (PSB, TO) - Deputado Federal", 
+        "Osires Damaso (DEM, TO) - Deputado Estadual"
+    ]
+}

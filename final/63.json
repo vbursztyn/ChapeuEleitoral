@@ -1,0 +1,30 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Gil Pereira"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000639.jpg", 
+    "state": "MG", 
+    "donations": {
+        "CONSTRUTORA NORBERTO ODEBRECHT S/A ": 279692.0, 
+        "ENGESOLO ENGENHARIA LTDA": 199780.0, 
+        "PAVISERVICE SERVICOS DE PAVIMENTACAO LTDA ": 149835.0, 
+        "MINERACOES BRASILEIRAS REUNIDAS S A MBR ": 110000.0, 
+        "BANCO BMG S/A": 99890.0, 
+        "ALPARGATAS S.A.": 99890.0, 
+        "CONSTRUTORA QUEIROZ GALVÃO S A": 49945.0, 
+        "PLANEX S/A CONSULT. DE PLANEJAMENTO E EXECUÇÃO": 19978.0, 
+        "GERDAU AÇOS ESPECIAIS S.A.": 19978.0, 
+        "SUPERMERCADOS BH COMERCIO DE ALIMENTOS LTDA": 5450.0
+    }, 
+    "party": "PP", 
+    "fullname": "GILBERTO WAGNER MARTINS PEREIRA ANTUNES", 
+    "total": 1681259.14, 
+    "election_id": 11210, 
+    "similars": [
+        "Janio Natal (PRP, BA) - Deputado Estadual", 
+        "Cacá Leão (PP, BA) - Deputado Federal", 
+        "Afonso Motta (PDT, RS) - Deputado Federal"
+    ]
+}

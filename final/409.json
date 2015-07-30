@@ -1,0 +1,34 @@
+{
+    "status": "ELEITO", 
+    "searchable": [
+        "Beto Richa"
+    ], 
+    "title": "Governador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000558.jpg", 
+    "state": "PR", 
+    "donations": {
+        "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS": 1000000.0, 
+        "BANCO BTG PACTUAL S.A": 1000000.0, 
+        "ENERGIA VERDE - PRODUÇÃO RURAL LTDA": 799992.2, 
+        "VIA ENGENHARIA S/A": 750000.0, 
+        "KLABIN S.A.": 500000.0, 
+        "FOZ DE JECEABA ENGENHARIA AMBIENTAL S/A": 499984.4, 
+        "CONSTRUBASE ENGENHARIA LTDA": 450000.0, 
+        "COSAN LUBRIFICANTES E ESPECIALIDADES S/A": 449992.2, 
+        "IPIRANGA PRODUTOS DE PETRÓLEO S/A": 369984.2, 
+        "BRASIL PLURAL GESTÃO DE RECURSOS LTDA": 300000.0, 
+        "LONDRINA BEBIDAS LTDA": 250000.0, 
+        "HANGAR EMPRESARIAL EMPREENDIMENTO IMOBILIARIO LTDA": 199992.2, 
+        "JSL S/A": 99992.2, 
+        "OFFICER S/A DISTRIBUIDORA DE PRODUTOS DE TECNOLOGIA": 50000.0, 
+        "CHOPIM EMPREENDIMENTOS FLORESTAIS S/A": 49984.6
+    }, 
+    "party": "PSDB", 
+    "fullname": "CARLOS ALBERTO RICHA", 
+    "total": 25924808.95, 
+    "election_id": 45, 
+    "similars": [
+        "Firmino Paulo (PSDB, PI) - Deputado Estadual", 
+        "Artagao Junior (PMDB, PR) - Deputado Estadual"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Remidio da Amatur"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RR/foto/230000000268.jpg", 
+    "state": "RR", 
+    "donations": {
+        "J B S S/A": 200000.0, 
+        "SEARA ALIMENTOS LTDA": 100000.0, 
+        "Direção Nacional": 100000.0, 
+        "LOCAV LOCADORA LTDA": 100000.0, 
+        "TEMPO SERVICOS LTDA": 100000.0
+    }, 
+    "party": "PR", 
+    "fullname": "REMIDIO MONAI MONTESSI", 
+    "total": 796341.78, 
+    "election_id": 2233, 
+    "similars": [
+        "Aurelina (PSDB, RR) - Deputado Estadual", 
+        "Chico Guerra (PROS, RR) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

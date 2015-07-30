@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Dionilso Marcon", 
+        "Marcon (PT)"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000000324.jpg", 
+    "state": "RS", 
+    "donations": {
+        "CONSTRUTORA ANDRADE GUTIERREZ S/A": 95000.0
+    }, 
+    "party": "PT", 
+    "fullname": "DIONILSO MATEUS MARCON", 
+    "total": 453419.68, 
+    "election_id": 1355, 
+    "stands": [
+        "Bancada Sindicalista"
+    ]
+}

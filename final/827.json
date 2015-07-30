@@ -1,0 +1,32 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Pelegrino"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000147.jpg", 
+    "state": "BA", 
+    "donations": {
+        "PA ARQUIVOS LTDA": 237500.0, 
+        "CERVEJARIA PETROPOLIS S/A": 190000.0, 
+        "ALESAT COMBUSTIVEIS S.A.": 190000.0, 
+        "LONDRINA BEBIDAS LTDA": 95000.0, 
+        "BLOCO RENGER INDUSTRIA  COMERCIO E SERVIÇO DE ENGENHARIA EIRELI": 95000.0, 
+        "BRASKEM S.A.": 95000.0, 
+        "CONSTRUTORA OAS S.A.": 95000.0, 
+        "BEMO DO BRASIL SISTEMAS METALICOS LTDA": 95000.0, 
+        "COMPANHIA RIOGRANDENSE DE VALORIZAÇÃO DE RESÍDUOS": 95000.0, 
+        "ENSEADA INDUSTRIA NAVAL S.A.": 76000.0
+    }, 
+    "party": "PT", 
+    "fullname": "NELSON VICENTE PORTELA PELLEGRINO", 
+    "total": 1580826.96, 
+    "election_id": 1346, 
+    "similars": [
+        "Maria Del Carmen (PT, BA) - Deputado Estadual", 
+        "Renato Molling (PP, RS) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Sindicalista"
+    ]
+}

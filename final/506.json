@@ -1,0 +1,47 @@
+{
+    "status": "ELEITO", 
+    "searchable": [
+        "Simão Jatene"
+    ], 
+    "title": "Governador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PA/foto/140000000828.jpg", 
+    "state": "PA", 
+    "donations": {
+        "VEGA ENGENHARIA AMBIENTAL S/A": 875046.0, 
+        "PRODENT - ASSISTENCIA ODONTOLOGICA": 743027.0, 
+        "ENGETERRA LTDA ": 648050.0, 
+        "JBS S/A": 499697.92, 
+        "BRASKEM S A ": 492830.0, 
+        "TIISA - INFRAESTRUTURA E INVESTIMENTOS": 419701.35, 
+        "REVITA ENGENHARIA SA": 417189.8, 
+        "CONSTRUTORA OAS": 400000.0, 
+        "SINOBRAS SIDERURGIA NORTE BRASIL S/A": 311750.0, 
+        "BRASILIS KADUMA CONSULTORIA E PARTICIPAÇÕES LTDA": 240000.0, 
+        "CONSTRUTORA QUEIROZ GALVÃO S A ": 210000.0, 
+        "COSAN LUBRIFICANTES ": 206050.14, 
+        "ETEC EMPRESA TECNICA LTDA": 196306.75, 
+        "SUZANO PAPEL E CELULOSE S/A": 188708.0, 
+        "COMPANHIA REFINADORA DA AMAZÔNIA ": 140000.0, 
+        "PONTE DI FERRO PARTICIPAÇÕES LTDA": 120000.0, 
+        "HANGAR EMPRESARIAL EMPREENDIMENTOS IMOBILIARIOS": 112490.0, 
+        "ALUBAR METAIS E CABOS S/A": 110000.0, 
+        "COMIN CONSTRUTORA LTDA": 109400.0, 
+        "BLOCO RENDER": 108000.0, 
+        "COMPAR CIA PARAENSE DE REFRIGERANTES": 93700.0, 
+        "SOCOCO S A - AGROINDUSTRIA DA AMAZONIA": 50443.03, 
+        "POSTO BARREIRINHAS LTDA": 40000.0, 
+        "RIO CLARO AGROINDUSTRIAL LTDA": 26000.0, 
+        "JR COMERCIAL LTDA": 15000.0, 
+        "CENTRO AUTOMOTIVO DICAR LTDA": 11250.0, 
+        "TUCURUI FERRO & AÇO LTDA": 9000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "SIMÃO ROBISON OLIVEIRA JATENE", 
+    "total": 7031945.48, 
+    "election_id": 45, 
+    "similars": [
+        "Milton Campos (PSDB, PA) - Deputado Estadual", 
+        "Eliane Lima (PSDB, PA) - Deputado Estadual", 
+        "Estevam Galvão (DEM, SP) - Deputado Estadual"
+    ]
+}

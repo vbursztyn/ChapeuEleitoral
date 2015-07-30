@@ -1,0 +1,18 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Vitor Valim"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/CE/foto/60000000580.jpg", 
+    "state": "CE", 
+    "donations": {
+        "MARACANAU INDUSTRIA E COMERCIO DE COURO LTDA": 50000.0, 
+        "M.DIAS BRANCO S/A INDUSTRIA E COMERCIO DE ALIMENTOS": 50000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "VITOR PEREIRA VALIM", 
+    "total": 322452.19, 
+    "election_id": 1590, 
+    "stands": []
+}

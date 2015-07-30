@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Roberto Balestra"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/GO/foto/90000000718.jpg", 
+    "state": "GO", 
+    "donations": {
+        "JBS S/A": 900000.0, 
+        "FLORA PRODUTOS DE HIGIENE E LIMPESA LTDA": 100000.0, 
+        "SAMA SIA MINERAÇÕES ASSOCIADAS": 80000.0
+    }, 
+    "party": "PP", 
+    "fullname": "ROBERTO EGIDIO BALESTRA", 
+    "total": 2943999.22, 
+    "election_id": 1105, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

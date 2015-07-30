@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Adelmo Leao"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000832.jpg", 
+    "state": "MG", 
+    "donations": {
+        "VALE ENERGIA S/A": 202156.53, 
+        "JBS S/A": 14230.62, 
+        "CONTRUTORA BARBOSA MELLO S/A ": 6766.62
+    }, 
+    "party": "PT", 
+    "fullname": "ADELMO CARNEIRO LEAO", 
+    "total": 918731.74, 
+    "election_id": 1350, 
+    "stands": [
+        "Bancada da Saúde", 
+        "Bancada Sindicalista"
+    ]
+}

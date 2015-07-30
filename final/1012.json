@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Diogo Moraes"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PE/foto/170000000120.jpg", 
+    "state": "PE", 
+    "donations": {
+        "EMBRAPORT EMPRESA BRASILEIRA DE TERMINAIS PORTUÁRIOS S.A.": 200000.0, 
+        "CONSTRUTORA NORBERTO ODEBRECHAT S.A.": 100000.0, 
+        "BIOLAB SANUS FARMACEUTICA LTDA": 100000.0, 
+        "ACHE LABORATÓRIOS FARMACÊUTICOS S.A.": 65000.0, 
+        "CONSTRUTORA QUEIROZ GALVAO S A ": 50000.0, 
+        "BRADESCO LEASING SA ARRENDAMENTO MERCANTIL": 40000.0, 
+        "PROJETEC PROJETOS TECNICOS LTDA": 30000.0, 
+        "PLUS IMOVEIS LTDA": 30000.0, 
+        "BRASIL KIRIN INDUSTRIA DE BEBIDAS SA": 10000.0
+    }, 
+    "party": "PSB", 
+    "fullname": "DIOGO CASÉ MORAES", 
+    "total": 866650.0, 
+    "election_id": 40100
+}

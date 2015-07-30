@@ -1,0 +1,25 @@
+{
+    "status": "#NULO#", 
+    "searchable": [
+        "José Roberto Arruda"
+    ], 
+    "title": "Governador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/DF/foto/70000000153.jpg", 
+    "state": "DF", 
+    "donations": {
+        "TOYO SETAL EMPREENDIMENTOS LTDA": 1914200.0, 
+        "UTC ENGENHARIA S/A": 1000000.0, 
+        "BRADESCO CAPITALIZAÇÃO S/A": 237680.0, 
+        "CONSTRUTORA NORBERTO ODEBRECHT S/A": 170000.0
+    }, 
+    "party": "PR", 
+    "fullname": "JOSÉ ROBERTO ARRUDA", 
+    "total": 4177971.1, 
+    "election_id": 22, 
+    "similars": [
+        "Benito Gama (PTB, BA) - Deputado Federal", 
+        "Arthur Maia (SD, BA) - Deputado Federal", 
+        "Katia Abreu (PMDB, TO) - Senador", 
+        "Silvio Costa Filho (PTB, PE) - Deputado Estadual"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Nilton Mota"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PE/foto/170000000167.jpg", 
+    "state": "PE", 
+    "donations": {
+        "CERVEJARIA PETROPOLIS S.S": 1000000.0, 
+        "MD PE NOVO HORIZONTE CONST LTDA": 50000.0, 
+        "MD PE PARQUE BOA VIAGEM": 50000.0
+    }, 
+    "party": "PSB", 
+    "fullname": "NILTON DA MOTA SILVEIRA FILHO", 
+    "total": 1150500.0, 
+    "election_id": 40678
+}

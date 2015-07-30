@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Rubens Bueno"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000206.jpg", 
+    "state": "PR", 
+    "donations": {
+        "CR ALMEIDA S/A": 160000.0, 
+        "BRADESCO VIDA E PREVIDÊNCIA S/A": 150000.0, 
+        "PETROFISA DO BRASIL LTDA": 138000.0, 
+        "SALOBO METAIS S A": 100000.0, 
+        "CRBS S/A": 50000.0, 
+        "ORBITAL SERVIÇOS E PROCESSAMENTO DE MEIOS DE PAGAMENTO LTDA": 40000.0
+    }, 
+    "party": "PPS", 
+    "fullname": "RUBENS BUENO", 
+    "total": 801922.44, 
+    "election_id": 2300, 
+    "similars": [
+        "Delegado Francischini (SD, PR) - Deputado Federal"
+    ], 
+    "stands": []
+}

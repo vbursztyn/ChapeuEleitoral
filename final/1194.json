@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Cleber Verde"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MA/foto/100000000571.jpg", 
+    "state": "MA", 
+    "donations": {
+        "CONSTRUTORA ANDRADE E GUTIERREZ S.A.": 100000.0, 
+        "VALE MINA DO AZUL S/A": 100000.0, 
+        "WTORRE ENGENHARIA E CONSTRUÇÃO S.A.": 40000.0
+    }, 
+    "party": "PRB", 
+    "fullname": "CLEBER VERDE CORDEIRO MENDES", 
+    "total": 554600.0, 
+    "election_id": 1010, 
+    "stands": [
+        "Bancada Ruralista", 
+        "Bancada Sindicalista", 
+        "Bancada Evangélica"
+    ]
+}

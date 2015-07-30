@@ -1,0 +1,26 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Antonieta Amorim"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MS/foto/120000000273.jpg", 
+    "state": "MS", 
+    "donations": {
+        "IACO AGRICOLA SA": 116500.0, 
+        "JBS S/A": 100000.0, 
+        "ADECO AGRO VALE DO IVINHEMA S.A.": 77960.0, 
+        "BRF SA": 75325.0, 
+        "CONSTRUTORA BRASILIA GUAIBA LTDA": 40000.0, 
+        "L A CONTRUÇÕES LTDA": 5000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "MARIA ANTONIETA AMORIM DOS SANTOS", 
+    "total": 2746305.78, 
+    "election_id": 15615, 
+    "similars": [
+        "Marun (PMDB, MS) - Deputado Federal", 
+        "Barbosinha (PSB, MS) - Deputado Estadual", 
+        "Renato Câmara (PMDB, MS) - Deputado Estadual"
+    ]
+}

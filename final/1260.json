@@ -1,0 +1,29 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Alfredo Nascimento"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AM/foto/40000000349.jpg", 
+    "state": "AM", 
+    "donations": {
+        "JBS S/A": 307213.16, 
+        "LOCAV LOCADORA LTDA": 300000.0, 
+        "EDECONSIL COSNTRUÇÕES E LOCAÇÕES LTDA": 200000.0, 
+        "ECOVIX CONSTRUÇÕES OCEANICAS S/A": 200000.0, 
+        "Direção Nacional": 58000.0, 
+        "CONSTRUTRA ATERPA S/A": 50000.0, 
+        "PANASONIC DO BRASIL": 48454.0, 
+        "TIISA - INFRAESTRUTRA E INVESTIMENTOS S.A": 30000.0
+    }, 
+    "party": "PR", 
+    "fullname": "ALFREDO PEREIRA DO NASCIMENTO", 
+    "total": 2865772.16, 
+    "election_id": 2222, 
+    "similars": [
+        "Pauderney (DEM, AM) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

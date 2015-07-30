@@ -1,0 +1,33 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Felipe Maia"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RN/foto/200000000136.jpg", 
+    "state": "RN", 
+    "donations": {
+        "KOLETA AMBIENTAL LTDA": 520000.0, 
+        "CONSTRUTORA QUEIROZ GALVÃO S/A": 250000.0, 
+        "CONSTRUTECKMA ENGENHARIA S/A": 150000.0, 
+        "JHV IMPLEMENTOS RODOVIARIOS LTDA": 100000.0, 
+        "AROSUCO AROMAS E SUCOS LTDA.": 90000.0, 
+        "JBS S/A": 85000.0, 
+        "BM & BOVESPA S/A - BOLSA DE VALORES· MERCADORIAS E FUTUROS": 75000.0, 
+        "BRADESCO VIDA E PREEVIDENCIA S/A": 50000.0, 
+        "SALINOR SALINAS DO NORDESTE": 50000.0, 
+        "JSL S.A.": 30000.0, 
+        "FATOR EMPREENDIMENTOS E PARTICIPAÇÕES LTDA": 10000.0
+    }, 
+    "party": "DEM", 
+    "fullname": "FELIPE CATALÃO MAIA", 
+    "total": 1975271.82, 
+    "election_id": 2512, 
+    "similars": [
+        "Sergio Peres (PRB, RS) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada da Comunicação"
+    ]
+}

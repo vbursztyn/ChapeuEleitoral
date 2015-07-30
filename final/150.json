@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Nicolau Junior"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AC/foto/10000000306.jpg", 
+    "state": "AC", 
+    "donations": {
+        "CONSTRUTORA ETAM LTDA": 10000.0
+    }, 
+    "party": "PP", 
+    "fullname": "NICOLAU CANDIDO DA SILVA JUNIOR", 
+    "total": 110423.73, 
+    "election_id": 11122, 
+    "similars": [
+        "Major Rocha (PSDB, AC) - Deputado Federal"
+    ]
+}

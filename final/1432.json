@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Vinicius Carvalho"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001276.jpg", 
+    "state": "SP", 
+    "donations": {
+        "W.E.WS SERVICOS LTDA - ME": 15000.0, 
+        "JBS S/A": 11900.0
+    }, 
+    "party": "PRB", 
+    "fullname": "VINICIUS RAPOZO DE CARVALHO", 
+    "total": 130297.59, 
+    "election_id": 1085, 
+    "stands": [
+        "Bancada Evangélica"
+    ]
+}

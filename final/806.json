@@ -1,0 +1,31 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Roberto Morais"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001627.jpg", 
+    "state": "SP", 
+    "donations": {
+        "COSAN LUBRIFICANTES E ESPECIALIDADES S. A.": 97000.0, 
+        "CRBS": 97000.0, 
+        "BRASKEM S/A": 45000.0, 
+        "AROSUCO E SUCOS LTDA.": 35000.0, 
+        "CIA BRASILEIRA DE ESTIRENO": 34400.0, 
+        "VALE ENERGIA S/A": 30100.0, 
+        "BRADESCO VIDA E PREVIDÊNCIA S.A.": 25419.46, 
+        "EVEN CONSTRUTORA E INCORPORADORA S/A": 24250.0, 
+        "MPD ENGENHARIA LTDA": 20000.0, 
+        "MAZZINI ADMINISTRAÇÃO E EMPREITAS": 20000.0, 
+        "QUANTIQ DISTRIBUIDORA LTDA": 19400.0, 
+        "BRADESCO SAUDE S/A": 10000.0, 
+        "USJ AÇÚCAR E ALCOOL S/A": 7000.0
+    }, 
+    "party": "PPS", 
+    "fullname": "ROBERTO TURCHI DE MORAIS", 
+    "total": 812942.63, 
+    "election_id": 23623, 
+    "similars": [
+        "Gustavo Fernandes (PMDB, RN) - Deputado Estadual"
+    ]
+}

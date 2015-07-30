@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Marcelo Victor"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AL/foto/20000000298.jpg", 
+    "state": "AL", 
+    "donations": {
+        "CONSTRUCOES E COMERCIO CAMARGO CORREIA SA": 100000.0, 
+        "IMPAR SERVICOS HOSPITALARES S/A": 100000.0, 
+        "UTC ENGENHARIA SA": 90062.0, 
+        "CONSTRUTORA NOBERTO ODEBREBRACHT": 9938.0
+    }, 
+    "party": "PROS", 
+    "fullname": "MARCELO VICTOR CORREIA DOS SANTOS", 
+    "total": 421127.09, 
+    "election_id": 90789
+}

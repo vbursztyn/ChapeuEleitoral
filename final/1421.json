@@ -1,0 +1,29 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Sergio Vidigal"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/ES/foto/80000000387.jpg", 
+    "state": "ES", 
+    "donations": {
+        "JBS SA": 250000.0, 
+        "CARIOCA CHRISTIANI N. ENG. SA": 50000.0, 
+        "PELICANO CONSTRUÇÕES LTDA": 40000.0, 
+        "FIBRASA S.A": 20000.0, 
+        "VIGSER SERVIÇOS DE VIGILANCIA E SEGURANÇA EIRELI": 10000.0, 
+        "J K SERVIÇOS E ASSESSORIA LTDA MATRIZ": 8000.0, 
+        "ST GESTÃO DE NEGÓCIOS LTDA": 7000.0
+    }, 
+    "party": "PDT", 
+    "fullname": "ANTONIO SERGIO ALVES VIDIGAL", 
+    "total": 1312637.41, 
+    "election_id": 1212, 
+    "similars": [
+        "Paulo Hartung (PMDB, ES) - Governador"
+    ], 
+    "stands": [
+        "Bancada da Saúde", 
+        "Bancada Evangélica"
+    ]
+}

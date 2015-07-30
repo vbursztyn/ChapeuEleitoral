@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Josi Nunes"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/TO/foto/270000000015.jpg", 
+    "state": "TO", 
+    "donations": {
+        "OAS S.A.": 100000.0, 
+        "FIAGRILLTDA": 100000.0, 
+        "AMIL ASSISTENCIA MEDICA INTERNACIONAL LTDA": 50000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "JOSINIANE BRAGA NUNES", 
+    "total": 861785.0, 
+    "election_id": 1500, 
+    "similars": [
+        "Paulo Mourão (PT, TO) - Deputado Estadual", 
+        "Irajá Abreu (PSD, TO) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Feminina"
+    ]
+}

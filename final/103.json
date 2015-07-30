@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Dionísio Lins"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000000094.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "CONSTRUTORA QUEIROZ GALVAO SA": 200000.0, 
+        "VICTOR HUGO DEMOLIÇOES LTDA": 100000.0, 
+        "PREMIER COMERCIO DE ALIMENTOS": 100000.0, 
+        "JBS SA": 100000.0, 
+        "LIMPATECH SERVIÇOS E CONSTRUÇOES LTDA": 100000.0, 
+        "D B 2 ENGENHARIA": 100000.0, 
+        "CARIOCA CHRISTIAN NIELSEN ENGENHARIA SA": 100000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ SA": 100000.0
+    }, 
+    "party": "PP", 
+    "fullname": "DIONÍSIO DE SOUZA LINS", 
+    "total": 1296753.0, 
+    "election_id": 11111
+}

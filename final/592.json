@@ -1,0 +1,18 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Paulo Rangel"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000346.jpg", 
+    "state": "BA", 
+    "donations": {
+        "CONSTRUTORA QUEIROZ GALVÃO S/A": 47500.0, 
+        "CONSTRUTORA BARBOSA MELO SA": 20000.0, 
+        "CERVEJARIA PETROPOLIS ": 15000.0
+    }, 
+    "party": "PT", 
+    "fullname": "PAULO FERNANDO RANGEL DE LIMA", 
+    "total": 203409.22, 
+    "election_id": 13113
+}

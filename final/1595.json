@@ -1,0 +1,18 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Igor Soares"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000000208.jpg", 
+    "state": "SP", 
+    "donations": {
+        "JBS S/A": 150000.0, 
+        "RUBI S EMPREENDIMENTOS IMOBILIARIOS LTDA ": 6750.0, 
+        "EMCCAMP RESIDENCIAL S.A": 6750.0
+    }, 
+    "party": "PTN", 
+    "fullname": "IGOR SOARES EBERT", 
+    "total": 489018.68, 
+    "election_id": 19111
+}

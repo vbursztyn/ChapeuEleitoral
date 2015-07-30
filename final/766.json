@@ -1,0 +1,31 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Vando"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000810.jpg", 
+    "state": "BA", 
+    "donations": {
+        "AROSUCO AROMAS E SUCOS LTDA": 100000.0, 
+        "CONSTRUTORA OAS": 100000.0, 
+        "BRASKEN S.A.": 75000.0, 
+        "CONSTRUTORA CARIOCA CHRISTIANI NIELSEN ENGENHARIA S/A": 60000.0, 
+        "LIMPATECH SERVIÇOS E CONSTRUÇÕES LTDA": 50000.0, 
+        "PONTO VEÍCULO LTDA": 50000.0, 
+        "BRADESCO ADMINISTRADORA DE CONSORCIO LTDA": 50000.0, 
+        "CBPO ENGENHARIA LTDA": 25000.0, 
+        "CRBS  S/A": 20000.0, 
+        "CONSTRUTORA ANDRADE MENDONCA LTDA": 20000.0, 
+        "NATULAB LABORATORIO FARMACEUTICO S.A": 10000.0
+    }, 
+    "party": "PSC", 
+    "fullname": "EDIVAN FERNANDES DE ALMEIDA", 
+    "total": 649899.0, 
+    "election_id": 20777, 
+    "similars": [
+        "Gustavo Fernandes (PMDB, RN) - Deputado Estadual", 
+        "Roberto Morais (PPS, SP) - Deputado Estadual", 
+        "Aureo (SD, RJ) - Deputado Federal"
+    ]
+}

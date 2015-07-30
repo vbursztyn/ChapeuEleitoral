@@ -1,0 +1,28 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Sérgio Moraes"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000000882.jpg", 
+    "state": "RS", 
+    "donations": {
+        "JBS SA": 109920.0, 
+        "Direção Estadual/Distrital": 68190.0, 
+        "PHILIP MORRIS BRASIL INDUSTRIA E COMERCIO LTDA.": 27000.0
+    }, 
+    "party": "PTB", 
+    "fullname": "SÉRGIO IVAN MORAES", 
+    "total": 287862.75, 
+    "election_id": 1412, 
+    "similars": [
+        "Marcelo Moraes (PTB, RS) - Deputado Estadual", 
+        "Ronaldo Santini (PTB, RS) - Deputado Estadual", 
+        "Lara (PTB, RS) - Deputado Estadual", 
+        "Classmann (PTB, RS) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

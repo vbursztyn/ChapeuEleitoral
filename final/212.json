@@ -1,0 +1,26 @@
+{
+    "status": "ELEITO", 
+    "searchable": [
+        "Pedro Taques"
+    ], 
+    "title": "Governador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MT/foto/110000000001.jpg", 
+    "state": "MT", 
+    "donations": {
+        "BRF S/A": 200000.0, 
+        "ADRIANA COMERCIO· EXPORTAÇÃO E CEREALISTA LTDA": 100000.0, 
+        "SEMENTES CAMPO VERDE LTDA ME": 25000.0, 
+        "CRBS S/A": 21000.0, 
+        "PRATA E CIA LTDA": 7000.0
+    }, 
+    "party": "PDT", 
+    "fullname": "JOSÉ PEDRO GONÇALVES TAQUES", 
+    "total": 27106539.33, 
+    "election_id": 12, 
+    "similars": [
+        "Skaf (PMDB, SP) - Governador", 
+        "Dr. Jorge Silva (PROS, ES) - Deputado Federal", 
+        "Rocha Miranda (PMDB, TO) - Deputado Estadual", 
+        "Nilson Leitão (PSDB, MT) - Deputado Federal"
+    ]
+}

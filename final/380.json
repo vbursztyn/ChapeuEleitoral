@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Rocha Miranda"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/TO/foto/270000000028.jpg", 
+    "state": "TO", 
+    "donations": {
+        " BRF S.A. ": 55000.0, 
+        "SUCOCITRICO CUTRALE LTDA": 50000.0, 
+        "CRBS S/A": 30000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "FRANCISCO DA ROCHA MIRANDA", 
+    "total": 339788.2, 
+    "election_id": 15100, 
+    "similars": [
+        "Alceu Moreira (PMDB, RS) - Deputado Federal", 
+        "Jerônimo Goergen (PP, RS) - Deputado Federal", 
+        "Dr. Jorge Silva (PROS, ES) - Deputado Federal"
+    ]
+}

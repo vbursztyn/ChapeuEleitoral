@@ -1,0 +1,37 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Otavio Leite", 
+        "Otávio Leite"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000000893.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "COSAN LUBRIFICANTES ESPECIALIDADES SA": 200000.0, 
+        "BANCO BTG PACTUAL": 150000.0, 
+        "BRADESCO VIDA E PREVIDÊNCIA": 100000.0, 
+        "GIMENEZ ANDRADE ARQUITETO LTDA": 100000.0, 
+        "BRADESCO LEASING SA ARRENDAMENTO MERCANTIL": 100000.0, 
+        "COMPANHIA METALÚRGICA PRATA": 100000.0, 
+        "RIO DE JANEIRO REFRESCOS LTDA": 100000.0, 
+        "IREP SOCIEDADE DE ENSINO SUPERIOR· MÉDIO E FUNDAMENTAL": 80000.0, 
+        "LOKAL LOCAÇÃO DE EQUIPAMENTOS INDUSTRIAIS LTDA ": 75000.0, 
+        "CRBS SA": 74620.0, 
+        "IPIRANGA PRODUTOS DE PETROLEO S/A": 50000.0, 
+        "CARIOCA CHRISTIANI NIELSEN ENGENHARIA": 45000.0, 
+        "BRASKEN SA": 26000.0, 
+        "KLABIN SA": 20000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "OTAVIO SANTOS SILVA LEITE", 
+    "total": 2429182.72, 
+    "election_id": 4555, 
+    "similars": [
+        "Simão Sessim (PP, RJ) - Deputado Federal", 
+        "Alvaro Dias (PMDB, RN) - Deputado Estadual", 
+        "Carmen Zanotto (PPS, SC) - Deputado Federal", 
+        "Fabio Silva (PMDB, RJ) - Deputado Estadual"
+    ], 
+    "stands": []
+}

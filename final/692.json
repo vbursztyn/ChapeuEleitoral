@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Thiago Peixoto"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/GO/foto/90000000726.jpg", 
+    "state": "GO", 
+    "donations": {
+        "SEWI SEGURANÇA E VIGILANCIA DE INSTALAÇÕES LTDA": 200000.0, 
+        "SOMA SA MINERAÇÕES ASSOCIADAS": 89975.0, 
+        "RIO CLARO AGROINDUSTRIAL SA": 20000.0
+    }, 
+    "party": "PSD", 
+    "fullname": "THIAGO MELLO PEIXOTO DA SILVEIRA", 
+    "total": 2285068.21, 
+    "election_id": 5545, 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

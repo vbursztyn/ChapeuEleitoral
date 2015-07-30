@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Paulo Corrêa"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MS/foto/120000000350.jpg", 
+    "state": "MS", 
+    "donations": {
+        "UTC ENGENHARIA": 300000.0, 
+        "BTG PACTUAL CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.": 100000.0, 
+        "ITEL INFORMATICA LTDA": 100000.0, 
+        "CONSTRUTORA QUEIROZ GALVAO S.A.": 5000.0
+    }, 
+    "party": "PR", 
+    "fullname": "PAULO JOSÉ ARAUJO CORREA", 
+    "total": 769515.5, 
+    "election_id": 22222, 
+    "similars": [
+        "Luiz Turco (PT, SP) - Deputado Estadual", 
+        "Barba (PT, SP) - Deputado Estadual"
+    ]
+}

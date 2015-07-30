@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Davi Zaia"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001609.jpg", 
+    "state": "SP", 
+    "donations": {
+        "BRADESCO SAÚDE": 75000.0, 
+        "BRADESCO VIDA E PREVIDENCIA S/A": 53419.46, 
+        "2N ENGENHARIA": 48500.0, 
+        "G20 GERENCIAMENTO E OBRAS LTDA": 48500.0, 
+        "MAZZINI ADMINISTRAÇÃO E EMPREITAS": 20000.0, 
+        "SERVENG CIVILSAN": 15550.0, 
+        "BRASKEN S/A": 10000.0, 
+        "AROSUCOS E SUCOS LTDA": 5400.0
+    }, 
+    "party": "PPS", 
+    "fullname": "DAVID ZAIA", 
+    "total": 790637.12, 
+    "election_id": 23123
+}

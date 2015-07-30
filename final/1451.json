@@ -1,0 +1,16 @@
+{
+    "status": "ELEITO", 
+    "searchable": [
+        "Jackson Barreto"
+    ], 
+    "title": "Governador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SE/foto/260000000077.jpg", 
+    "state": "SE", 
+    "donations": {
+        "G P ENGENHARIA LTDA": 13630.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "JACKSON BARRETO DE LIMA", 
+    "total": 1803635.52, 
+    "election_id": 15
+}

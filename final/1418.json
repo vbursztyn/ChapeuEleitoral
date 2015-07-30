@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Janete Capiberibe"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AP/foto/30000000462.jpg", 
+    "state": "AP", 
+    "donations": {
+        "DISTRIBUIDORA DE PNEUS MINAS GERAIS LTDA": 80000.0, 
+        "OAS SA": 50000.0, 
+        "CONSTRUTORA QUEIROZ GALVÃO": 50000.0
+    }, 
+    "party": "PSB", 
+    "fullname": "JANETE MARIA GÓES CAPIBERIBE", 
+    "total": 265500.0, 
+    "election_id": 4040, 
+    "stands": [
+        "Bancada Feminina"
+    ]
+}

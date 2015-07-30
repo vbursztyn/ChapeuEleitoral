@@ -1,0 +1,28 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Hissa Abrahão"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AM/foto/40000000086.jpg", 
+    "state": "AM", 
+    "donations": {
+        "PARTIDO DO MOVIMENTO DEMOCRÁTICO BRASILEIRO - PMDB": 68415.67
+    }, 
+    "party": "PPS", 
+    "fullname": "HISSA NAGIB ABRAHÃO FILHO", 
+    "total": 1553898.47, 
+    "election_id": 2323, 
+    "similars": [
+        "Dr. Vicente (PMDB, AM) - Deputado Estadual", 
+        "Professor Sinésio (PT, AM) - Deputado Estadual", 
+        "Marcos Rotta (PMDB, AM) - Deputado Federal", 
+        "Alessandra Campelo (PC do B, AM) - Deputado Estadual", 
+        "Conceição Sampaio (PP, AM) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Feminina", 
+        "Bancada Evangélica"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "status": "NÃO ELEITO", 
+    "searchable": [
+        "Claudio Vignatti"
+    ], 
+    "title": "Governador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SC/foto/240000000141.jpg", 
+    "state": "SC", 
+    "donations": {
+        "JBS SA": 260000.0, 
+        "AMIL ASSISTENCIA MEDICA INTERNACIONAL SA": 192600.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S/A": 190000.0, 
+        "CONSTRUTORA QUEIROZ GALVAO SA": 40000.0
+    }, 
+    "party": "PT", 
+    "fullname": "CLAUDIO ANTONIO VIGNATTI", 
+    "total": 1723031.1, 
+    "election_id": 13
+}

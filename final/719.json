@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Carimbão Júnior"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AL/foto/20000000296.jpg", 
+    "state": "AL", 
+    "donations": {
+        "JBS SA": 95912.0, 
+        "SAFRA LEASING S A ARREDAMENTO MERCANTIL": 60000.0, 
+        "B R COM ENGENHARIA LTDA": 24088.0
+    }, 
+    "party": "PROS", 
+    "fullname": "GIVALDO DE SÁ GOUVEIA JÚNIOR", 
+    "total": 209500.0, 
+    "election_id": 90123, 
+    "similars": [
+        "Pedro Vilela (PSDB, AL) - Deputado Federal"
+    ]
+}

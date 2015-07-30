@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Beto Pereira"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MS/foto/120000000316.jpg", 
+    "state": "MS", 
+    "donations": {
+        "CONSTRUTORA ANDRADE GUTIERREZ S.A": 150000.0, 
+        "MEDICERVICE OPERDORA DE PLANO DE SAUDE SA": 100000.0, 
+        "EQUIPAV ENGENHARIA LTDA": 85000.0, 
+        "CONSTRUTORA TRIUNFO S.A": 65000.0, 
+        "CONSTRUTORA QUEIROZ GALVAO SA": 45000.0, 
+        "U T C ENGENHARIA S/A": 39000.0
+    }, 
+    "party": "PDT", 
+    "fullname": "HUMBERTO REZENDE PEREIRA", 
+    "total": 1304709.15, 
+    "election_id": 12000
+}

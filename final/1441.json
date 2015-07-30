@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Daniel Vilela"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/GO/foto/90000000615.jpg", 
+    "state": "GO", 
+    "donations": {
+        "SAMA SA MINERAÇÕES ASSOCIADAS": 30000.0, 
+        "MINERAÇÃO SENA GRANDE SA": 30000.0, 
+        "RIO CLARO AGROINDUSTRIAL SA": 19981.6
+    }, 
+    "party": "PMDB", 
+    "fullname": "DANIEL ELIAS CARVALHO VILELA", 
+    "total": 4012526.2, 
+    "election_id": 1510, 
+    "stands": []
+}

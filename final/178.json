@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Titon"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SC/foto/240000000307.jpg", 
+    "state": "SC", 
+    "donations": {
+        "PROSUL PROJETOS SUPERVISÃO E PLANEJAMENTO LTDA": 51000.0, 
+        "ITAJUI ENGENHARIA DE OBRAS LTDA": 49000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "ROMILDO LUIZ TITON", 
+    "total": 384142.0, 
+    "election_id": 15270, 
+    "similars": [
+        "Ronaldo Benedet (PMDB, SC) - Deputado Federal", 
+        "de Nadal (PMDB, SC) - Deputado Estadual", 
+        "Dirce Heiderscheidt (PMDB, SC) - Deputado Estadual", 
+        "Chiodini (PMDB, SC) - Deputado Estadual", 
+        "Moacir Sopelsa (PMDB, SC) - Deputado Estadual", 
+        "Ada de Luca (PMDB, SC) - Deputado Estadual"
+    ]
+}

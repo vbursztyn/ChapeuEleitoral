@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Alexandre Serfiotis"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000001473.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "CONSTRUTORA QUEIROZ GALVÃO S. A.": 250000.0, 
+        "HRT PROD. PETRÓLEO LTDA": 7000.0
+    }, 
+    "party": "PSD", 
+    "fullname": "ALEXANDRE AUGUSTUS SERFIOTIS", 
+    "total": 908489.0, 
+    "election_id": 5570, 
+    "similars": [
+        "Rubens Pereira Júnior (PC do B, MA) - Deputado Federal", 
+        "Isaura Lemos (PC do B, GO) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada da Saúde"
+    ]
+}

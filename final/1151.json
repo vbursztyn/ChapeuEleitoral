@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Waguinho"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000001618.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "LIDER TAXI AEREO S/A - AIR BRASIL": 303700.0, 
+        "BRADESCO VIDA E PREVIDÊNCIA SA": 200000.0, 
+        "HOSPITAL SANTA PAULA LTDA": 200000.0, 
+        "BANCO BTG PACTUAL SA": 200000.0, 
+        "CRBS S/A": 150000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "WAGNER DOS SANTOS CARNEIRO", 
+    "total": 1224160.0, 
+    "election_id": 15123, 
+    "similars": [
+        "Gustavo Tutuca (PMDB, RJ) - Deputado Estadual"
+    ]
+}

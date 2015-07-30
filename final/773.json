@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Raquel Muniz"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000001329.jpg", 
+    "state": "MG", 
+    "donations": {
+        "DIRETORIO NACIONAL DO PARTIDO SOCIAL CRISTAO": 5800.0
+    }, 
+    "party": "PSC", 
+    "fullname": "TANIA RAQUEL DE QUEIROZ MUNIZ", 
+    "total": 3430462.63, 
+    "election_id": 2010, 
+    "stands": [
+        "Bancada da Saúde", 
+        "Bancada Feminina"
+    ]
+}

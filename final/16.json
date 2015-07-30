@@ -1,0 +1,18 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Dr. Batista"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000055.jpg", 
+    "state": "PR", 
+    "donations": {
+        "GALVÃO ENGENHARIA S/A": 210000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ LTDA": 70000.0, 
+        "BRF S/A": 69890.8
+    }, 
+    "party": "PMN", 
+    "fullname": "MANOEL BATISTA DA SILVA JUNIOR", 
+    "total": 371352.44, 
+    "election_id": 33014
+}

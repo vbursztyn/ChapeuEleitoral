@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Dr. Rafael Favatto"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/ES/foto/80000000678.jpg", 
+    "state": "ES", 
+    "donations": {
+        "CONSTRUTORA OAS S/A.": 50000.0, 
+        "AGENCIA MARITIMA UNIVERSAL LTDA": 28000.0, 
+        "UNIPEL ENGENHARIA LTDA": 25000.0, 
+        "ORGUEL ORGANIZAÇÕES GUERRA LTDA": 25000.0, 
+        "JBS S/A": 25000.0
+    }, 
+    "party": "PEN", 
+    "fullname": "RAFAEL FAVATTO GARCIA", 
+    "total": 374419.92, 
+    "election_id": 51555
+}

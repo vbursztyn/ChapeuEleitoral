@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Adilson Troca"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000001021.jpg", 
+    "state": "RS", 
+    "donations": {
+        "FORJAS TAURUS SA": 25000.0, 
+        "EMPRESA BRASILEIRA DE TERMINAIS PORTUÁRIOS S.A": 20500.0, 
+        "CONSTRUTORA GUTIERREZ SA": 7500.0, 
+        "CONSTRUTEKMAC S/A": 6250.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "ADILSON TROCA", 
+    "total": 312590.97, 
+    "election_id": 45123, 
+    "similars": [
+        "Pedro Lupion (DEM, PR) - Deputado Estadual"
+    ]
+}

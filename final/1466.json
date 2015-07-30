@@ -1,0 +1,29 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Marcus Pestana"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000703.jpg", 
+    "state": "MG", 
+    "donations": {
+        "RECOFARMA INDUSTRIA DA AMAZONIA LTDA": 200000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S/A": 125000.0, 
+        "ANGLO GOLD": 100000.0, 
+        "FEDERAÇÃO INTERFEDERATIVA COOPERATIVAS DE TRABALHO MÉDICO DO ESTADO DE MINAS GERAIS": 100000.0, 
+        "BANCO SANTANDER (BRASIL) S/A": 100000.0, 
+        "LEVYEQUIP  EQUIPAMENTOSLTDA": 100000.0, 
+        "EUROFARMA LABORATÓRIOS S/A": 100000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "MARCUS VINICIUS CAETANO PESTANA DA SILVA", 
+    "total": 2499271.96, 
+    "election_id": 4555, 
+    "similars": [
+        "Ione Pinheiro (DEM, MG) - Deputado Estadual", 
+        "Adalclever Lopes (PMDB, MG) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada da Saúde"
+    ]
+}

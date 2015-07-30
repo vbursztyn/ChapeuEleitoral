@@ -1,0 +1,30 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Marcos Abrão"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/GO/foto/90000000711.jpg", 
+    "state": "GO", 
+    "donations": {
+        "ETICA CONSTRUTORA LTDA": 279900.0, 
+        "AMIL ASSISTENCIA MEDICA INTERNCIONAL S/A": 150000.0, 
+        "FUAD RASSI ENGENHARIA INDUSTRIA E COMERCIO LTDA ": 133000.0, 
+        "CONSTRUTORA CENTRAL DO BRASIL S/A": 100000.0, 
+        "RIO CLARO AGROINDUSTRAL S/A": 100000.0, 
+        "COMPANHIA METALURGICA PRADA": 100000.0, 
+        "CRBS S/A": 40000.0
+    }, 
+    "party": "PPS", 
+    "fullname": "MARCOS ABRAO RORIZ SOARES DE CARVALHO", 
+    "total": 5526035.9, 
+    "election_id": 2345, 
+    "similars": [
+        "Missionário José Olímpio (PP, SP) - Deputado Federal", 
+        "Ricardo Barros (PP, PR) - Deputado Federal", 
+        "Paulo Maluf (PP, SP) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

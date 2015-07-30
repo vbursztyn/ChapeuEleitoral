@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Silvio Costa Filho"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PE/foto/170000000662.jpg", 
+    "state": "PE", 
+    "donations": {
+        "SALOBO METAIS S.A.": 200000.0, 
+        "CRBS S/A": 110000.0, 
+        "CONSTRUTORA NORBERTO ODEBRECHT S A": 100000.0, 
+        "BRADESCO CAPITALIZACAO S/A": 100000.0, 
+        "LOCAR SANEAMENTO AMBIENTAL LTDA": 10000.0, 
+        "VALE MANGANES S.A": 5000.0
+    }, 
+    "party": "PTB", 
+    "fullname": "SILVIO SERAFIM COSTA FILHO", 
+    "total": 730000.0, 
+    "election_id": 14614
+}

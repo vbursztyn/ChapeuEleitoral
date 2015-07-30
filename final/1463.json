@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Luiz Couto"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PB/foto/150000000199.jpg", 
+    "state": "PB", 
+    "donations": {
+        "AMIL ASSITÊNCIA MÉDICA INTERNACIONAL S.A": 95000.0
+    }, 
+    "party": "PT", 
+    "fullname": "LUIZ ALBUQUERQUE COUTO", 
+    "total": 402402.66, 
+    "election_id": 1345, 
+    "stands": [
+        "Bancada Sindicalista"
+    ]
+}

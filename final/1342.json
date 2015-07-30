@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Dr. Valdi"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PE/foto/170000000575.jpg", 
+    "state": "PE", 
+    "donations": {
+        "JBS S/A": 123000.0, 
+        "RECOFARMA INDUSTRIA DO AMAZONAS LTDA ": 70000.0, 
+        "FLORA PRODUTOS DE HIGIENE E LIMPEZA S.A ": 60000.0, 
+        "AMIL ASSISTENCIA MEDICA INTERNACIONAL S.A. ": 50000.0, 
+        "COSAN LUBRIFICANTES E ESPECIALIDADES S.A. ": 50000.0, 
+        "GALVAO ENGENHARIA S/A ": 50000.0, 
+        "CRBS S/A": 35000.0, 
+        "COMPANHIA METALURGICA PRADA ": 30000.0, 
+        "BRADESCO VIDA E PREVIDENCIA S.A": 24990.0
+    }, 
+    "party": "PP", 
+    "fullname": "ANTONIO VALDI DE FRANÇA SALES", 
+    "total": 639972.5, 
+    "election_id": 11000
+}

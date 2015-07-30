@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Bolçone"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001199.jpg", 
+    "state": "SP", 
+    "donations": {
+        "CRBS  S/A": 50000.0, 
+        "LIBRA TERMINAL VALONGO S/A": 50000.0, 
+        "OAS S/A": 50000.0, 
+        "QUEIROZ GALVÃO A  S/A": 30000.0, 
+        "AML ASSIST M F SA": 5419.46
+    }, 
+    "party": "PSB", 
+    "fullname": "ORLANDO JOSÉ BOLÇONE", 
+    "total": 326821.98, 
+    "election_id": 40023, 
+    "similars": [
+        "Luiz Lauro Filho (PSB, SP) - Deputado Federal", 
+        "Fernando Filho (PSB, PE) - Deputado Federal", 
+        "Caio França (PSB, SP) - Deputado Estadual"
+    ]
+}

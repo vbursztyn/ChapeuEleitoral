@@ -1,0 +1,18 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Wagner Montes"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000000031.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "CONSTRUTORA QUEIROZ GALVÃO S/A": 250000.0, 
+        "CITYCOL": 70000.0, 
+        "CAÇAPAVA EMP LAVOR LTDA": 50000.0
+    }, 
+    "party": "PSD", 
+    "fullname": "WAGNER MONTES DOS SANTOS", 
+    "total": 465529.0, 
+    "election_id": 55123
+}

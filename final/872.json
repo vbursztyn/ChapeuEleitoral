@@ -1,0 +1,27 @@
+{
+    "status": "ELEITO", 
+    "searchable": [
+        "Maria do Carmo"
+    ], 
+    "title": "Senador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SE/foto/260000000082.jpg", 
+    "state": "SE", 
+    "donations": {
+        "GPO GESTÃO DE PROJETOS E OBRAS LTDA": 150000.0, 
+        "CONSTRUTORA CENTRAL DO BRASIL LTDA": 104700.0, 
+        "GERDAU AÇÕES ESPECIAIS S/A": 30000.0, 
+        "SALOBO METAIS S.A.": 22300.0, 
+        "DIRETORIO ESTADUA/DISTRITAL DO PSC": 5600.0
+    }, 
+    "party": "DEM", 
+    "fullname": "MARIA DO CARMO DO NASCIMENTO ALVES", 
+    "total": 3079159.9, 
+    "election_id": 251, 
+    "similars": [
+        "Mandetta (DEM, MS) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada da Comunicação"
+    ]
+}

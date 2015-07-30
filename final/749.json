@@ -1,0 +1,27 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Rodrigo Garcia"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001402.jpg", 
+    "state": "SP", 
+    "donations": {
+        "UTC ENGENHARIA S/A": 280000.0, 
+        "COMPANHIA SIDERURGICA VALE DO PINDARE ": 200000.0, 
+        "SINNER SISTEMAS INTERLAGOS DE ENGENHARIA LTDA": 150000.0, 
+        "COSAN LUBRIFICANTES E ESPECIALIDADES LTDA": 100000.0, 
+        "BRADESCO VIDA E PREVIDÊNCIA S/A": 55419.46, 
+        "COMPANHIA BRASILEIRA DE DISTRIBUIÇÃO": 50000.0, 
+        "ENCALSO  CONSTRUÇÕES LTDA": 36000.0, 
+        "BANCO BTG PACTUAL S/A": 30000.0
+    }, 
+    "party": "DEM", 
+    "fullname": "RODRIGO GARCIA", 
+    "total": 2833320.42, 
+    "election_id": 2525, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

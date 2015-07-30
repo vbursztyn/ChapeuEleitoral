@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Vinícius Gurgel"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AP/foto/30000000338.jpg", 
+    "state": "AP", 
+    "donations": {
+        "JBS S/A": 180000.0, 
+        "ARTELESTE CONSTRUÇÕES LTDA": 50000.0
+    }, 
+    "party": "PR", 
+    "fullname": "VINÍCIUS DE AZEVEDO GURGEL", 
+    "total": 2060000.0, 
+    "election_id": 2222, 
+    "similars": [
+        "Regina Becker Fortunati (PDT, RS) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

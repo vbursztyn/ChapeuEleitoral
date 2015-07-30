@@ -1,0 +1,36 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Tereza Cristina"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MS/foto/120000000115.jpg", 
+    "state": "MS", 
+    "donations": {
+        "COSAN LUBRIFICANTES E ESPECIALIDADES S.A": 200000.0, 
+        "AGRO ENERGIA SANTA LUZIA S/A": 165000.0, 
+        "BRASKEN S/A": 100000.0, 
+        "JBS S/A": 100000.0, 
+        "BRADESCO SAUDE S/A": 75000.0, 
+        "SPAL INDUSTRIA BRASILEIRA DE BEBIDAS S/A": 70000.0, 
+        "RIBEIRA EMPREENDIMENTOS IMOBILIARIOS LTDA": 50000.0, 
+        "REICHERT AGROPECUARIA LTDA": 50000.0, 
+        "BRF S/A": 30000.0, 
+        "IACO AGRICOLA S/A": 25000.0, 
+        "ENGEPAR - ENGENHARIA E PARTICIPAÇÕES LTDA": 10000.0
+    }, 
+    "party": "PSB", 
+    "fullname": "TEREZA CRISTINA CORREA DA COSTA DIAS", 
+    "total": 4298808.33, 
+    "election_id": 4040, 
+    "similars": [
+        "Odelmo Leão (PP, MG) - Deputado Federal", 
+        "Villa (PT, RS) - Deputado Estadual", 
+        "Henrique Fontana (PT, RS) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista", 
+        "Bancada Feminina"
+    ]
+}

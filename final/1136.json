@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Jaiminho Martins"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000718.jpg", 
+    "state": "MG", 
+    "donations": {
+        "CONSTRUTORA ANDRADE GUTIERREZ SA": 200000.0, 
+        "ONIX EMPREENDIMENTOS IMOBILIÁRIOS LTDA": 60000.0
+    }, 
+    "party": "PSD", 
+    "fullname": "JAIME MARTINS FILHO", 
+    "total": 1796009.48, 
+    "election_id": 5550, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista", 
+        "Bancada da Comunicação"
+    ]
+}

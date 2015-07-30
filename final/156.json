@@ -1,0 +1,26 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Simone Santana"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PE/foto/170000000142.jpg", 
+    "state": "PE", 
+    "donations": {
+        "AROSUCO AROMAS E SUCOS LTDA": 120000.0, 
+        "BRADESCO SAUDE S/A": 100000.0, 
+        "BRADESCO LEASING S/A ARRENDAMENTO MERCANTIL": 100000.0, 
+        "GL EMPREENDIMENTOS LTDA": 70000.0, 
+        "JBS S/A": 50000.0, 
+        "ECOPESA AMBIENTAL S/A": 50000.0, 
+        "BRADESCO VIDA E PREVIDENCIA S/A": 25000.0
+    }, 
+    "party": "PSB", 
+    "fullname": "SIMONE ALICE DE OLIVEIRA SANTANA", 
+    "total": 1090284.33, 
+    "election_id": 40456, 
+    "similars": [
+        "Lula Cabral (PSB, PE) - Deputado Estadual", 
+        "Eduino (PHS, PE) - Deputado Estadual"
+    ]
+}

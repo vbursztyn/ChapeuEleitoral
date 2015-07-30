@@ -1,0 +1,36 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Mauro Mariani"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SC/foto/240000000238.jpg", 
+    "state": "SC", 
+    "donations": {
+        "ITAPOÁ TERMINAIS PORTUÁRIOS SA": 375000.0, 
+        "JBS S/A": 300000.0, 
+        "ARCELOR MITTAL BRASIL SA": 250000.0, 
+        "SEARA ALIMENTOS LTDA": 250000.0, 
+        "DOHLER SA  COM   E  IND": 100000.0, 
+        "SEATRADE SERVIÇOS PORTUÁRIOS LTDA": 100000.0, 
+        "DROGARIAS PACHECO S/A": 58000.0, 
+        "TIGRE S/A - TUBOS E CONEXÕES": 40000.0, 
+        "COMERCIAL DRUGSTORE LTDA": 29000.0, 
+        "SB COMERCIO LTDA": 22000.0, 
+        "PHILIP MORRIS BRASIL INDUSTRIA E COMERCIO LTDA": 20000.0, 
+        "MARCEGAGLIA DO BRASIL LTDA": 20000.0, 
+        "ARPOADOR COMERCIO DE MEDICAMENTOS LTDA": 12000.0, 
+        "VENANCIO PRODUTOS FARMACEUTICOS LTDA": 10000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "MAURO MARIANI", 
+    "total": 1971993.09, 
+    "election_id": 1570, 
+    "similars": [
+        "Anderson Ferreira (PR, PE) - Deputado Federal", 
+        "Bilac Pinto (PR, MG) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

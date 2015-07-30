@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Alice Portugal"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000133.jpg", 
+    "state": "BA", 
+    "donations": {
+        "JBS S/A": 520000.0
+    }, 
+    "party": "PC do B", 
+    "fullname": "ALICE MAZZUCO PORTUGAL", 
+    "total": 1032067.23, 
+    "election_id": 6522, 
+    "stands": [
+        "Bancada Feminina", 
+        "Bancada Sindicalista"
+    ]
+}

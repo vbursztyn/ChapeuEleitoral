@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Deputado Cabo Almi"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MS/foto/120000000320.jpg", 
+    "state": "MS", 
+    "donations": {
+        "CONSTRUTORA TRIUNFO SA": 250000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S/A": 150000.0, 
+        "BRASFOND FUNDAÇÕES ESPECIASIS S/A": 8093.65
+    }, 
+    "party": "PT", 
+    "fullname": "JOSÉ ALMI PEREIRA  MOURA", 
+    "total": 610401.97, 
+    "election_id": 13699, 
+    "similars": [
+        "Dr. Renato Gadelha (PSC, PB) - Deputado Estadual", 
+        "Pedro Kemp (PT, MS) - Deputado Estadual", 
+        "Gilberto Capoani (PMDB, RS) - Deputado Estadual"
+    ]
+}

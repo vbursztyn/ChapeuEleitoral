@@ -1,0 +1,28 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Eli Corrêa Filho"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001388.jpg", 
+    "state": "SP", 
+    "donations": {
+        "UTC ENGENHARIA S.A.": 180000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ SA": 140000.0, 
+        "SA PAULISTA DE CONSTRUÇÕES E COMERCIO": 108000.0, 
+        "PREMMIO VILA NOVA EMPREENDIMENTOS IMOBILIARIOS LTDA": 100000.0, 
+        "PDG REALTY S.A. EMPREENDIMENOS E PARTICIPAÇÕES": 100000.0, 
+        "CRBS S.A. ": 100000.0, 
+        "CAMARGO CORREA CONSTRUCOES INDUSTRIAIS S.A.": 100000.0, 
+        "ENCALSO CONSTRUCOES LTDA": 36000.0, 
+        "BRADESCO VIDA E PREVIDENCIA S/A": 5419.46
+    }, 
+    "party": "DEM", 
+    "fullname": "ADRIANO ELI CORREA", 
+    "total": 1107579.77, 
+    "election_id": 2577, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

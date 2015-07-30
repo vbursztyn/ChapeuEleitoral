@@ -1,0 +1,37 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Leonardo Picciani"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000001418.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "HOSP RIO MATERIAL HOSPITALAR LTDA": 500000.0, 
+        "IPE ENGENHARIA LTDA": 500000.0, 
+        "COSNTRUTORA OAS SA": 500000.0, 
+        "RIO DE JANEIRO REFRESCOS LTDA": 400000.0, 
+        "TRANSRIO CAMINHOES ONIBUS MAQ E MOTORES LTDA": 200000.0, 
+        "LCL LOCACAO COLARES LINHARES LTDA": 200000.0, 
+        "COLLETT E SONS SA ENG E COMERCIO E INDUSTRIA": 200000.0, 
+        "CONSTRUTORA QUEIROZ GALVÃO S/A": 199000.0, 
+        "VALE SUL PAVIMENTACAO E MINEIRACAO LTDA": 100000.0, 
+        "CARIOCA CHRISTIANE NIELSEN ENGENHARIA SA": 100000.0, 
+        "VALE ENERGIA S.A": 100000.0, 
+        "ORIGINAL VEICULOS LTDA": 100000.0, 
+        "IREP SOCIEDADE DE ENSINO SUPERIOR MEDIO E FUN LTDA": 50000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "LEONARDO CARNEIRO MONTEIRO PICCIANI", 
+    "total": 3489218.51, 
+    "election_id": 1580, 
+    "similars": [
+        "Peninha (PMDB, SC) - Deputado Federal", 
+        "Celso Pansera (PMDB, RJ) - Deputado Federal", 
+        "Onyx Lorenzoni (DEM, RS) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

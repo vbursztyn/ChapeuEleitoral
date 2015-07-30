@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "João Amin"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SC/foto/240000000441.jpg", 
+    "state": "SC", 
+    "donations": {
+        "TRACTEBEL ENERGIA COMERCIALIZADORA LTDA": 25000.0
+    }, 
+    "party": "PP", 
+    "fullname": "JOÃO ANTÔNIO HEINZEN AMIN HELOU", 
+    "total": 399744.71, 
+    "election_id": 11333, 
+    "similars": [
+        "Rollemberg (PSB, DF) - Governador", 
+        "Valadares Filho (PSB, SE) - Deputado Federal", 
+        "Hugo Leal (PROS, RJ) - Deputado Federal", 
+        "Pedro Pereira (PSDB, RS) - Deputado Estadual"
+    ]
+}

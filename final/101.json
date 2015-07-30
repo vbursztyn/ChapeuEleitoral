@@ -1,0 +1,50 @@
+{
+    "status": "ELEITO", 
+    "searchable": [
+        "Rui Costa"
+    ], 
+    "title": "Governador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000401.jpg", 
+    "state": "BA", 
+    "donations": {
+        "CONSTRUTORA OAS S.A.": 4275000.0, 
+        "CERVEJARIA PETROPOLIS S/A ": 2835240.0, 
+        "CONSTRUTORA QUEIROZ GALVAO S A": 1900000.0, 
+        "CANDEIAS ENERGIA S.A.": 1757500.0, 
+        "SERVENG CIVILSAN S/A EMPRESAS ASSOCIADAS DE ENGENHARIA": 1498426.68, 
+        "U T C ENGENHARIA S/A ": 1425000.0, 
+        "ABILITY TECNOLOGIA E SERVICOS S/A ": 1414178.0, 
+        "FLORA PRODUTOS DE HIGIENE E LIMPEZA S.A ": 823152.0, 
+        "BRASKEM ": 728492.5, 
+        "AGRO ENERGIA SANTA LUZIA S.A": 482000.0, 
+        "COMPANHIA ENERGETICA POTIGUAR S.A. ": 475000.0, 
+        "RIO CLARO AGROINDUSTRIAL S.A. ": 380000.0, 
+        "QUANTIQ DISTRIBUIDORA LTDA": 285000.0, 
+        "BRADESCO LEASING S.A. - ARRENDAMENTO MERCANTIL": 237500.0, 
+        "BRADESCO CAPITALIZACAO S/A ": 237500.0, 
+        "CANARIAS CORRETORA DE SEGUROS S/A ": 237500.0, 
+        "SAFRA VIDA E PREVIDENCIA S.A. ": 237500.0, 
+        "AROSUCO AROMAS E SUCOS LTDA": 190000.0, 
+        "J MACEDO S/A ": 190000.0, 
+        "AVANTE VEICULOS LTDA": 190000.0, 
+        "ORIGINAL VEICULOS LTDA ": 95000.0, 
+        "AMORIM BARRETO ENGENHARIA LTDA ": 95000.0, 
+        "PETROPOSTO COMERCIAL DE DERIVADOS DE PETROLEO LTDA": 93000.0, 
+        "ENGEVIX ENGENHARIA S/A": 88725.0, 
+        "ARCLIMA ENGENHARIA LTDA": 38683.33, 
+        "RECOFARMA INDUSTRIA DO AMAZONAS LTDA": 36000.0, 
+        "PERIMETRAL ENGENHARIA LTDA": 14900.0, 
+        "TEXTIL UNIÃO S.A": 10000.0, 
+        "TOP ENGENHARIA LTDA ": 8333.33, 
+        "CONSTRUTORA NORBERTO ODEBRECHT S A": 5000.0
+    }, 
+    "party": "PT", 
+    "fullname": "RUI COSTA DOS SANTOS", 
+    "total": 32196722.64, 
+    "election_id": 13, 
+    "similars": [
+        "Ana do Carmo (PT, SP) - Deputado Estadual", 
+        "Gustavo Fernandes (PMDB, RN) - Deputado Estadual", 
+        "Robério Oliveira (PSD, BA) - Deputado Estadual"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Miro Sanova"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PA/foto/140000000653.jpg", 
+    "state": "PA", 
+    "donations": {
+        "AVANTE VEÍCULOS LTDA.": 10000.0, 
+        "BRADESCO SAUDE S/A": 9500.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S/A": 5000.0, 
+        "CONSTRUTORA TRIUNFO S/A": 5000.0
+    }, 
+    "party": "PDT", 
+    "fullname": "WALDEMIRO EDUARDO DE ASSIS SANOVA NASCIMENTO", 
+    "total": 152326.0, 
+    "election_id": 12345
+}

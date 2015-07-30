@@ -1,0 +1,28 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Tio Carlos"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000000254.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "CONSTRUTORA QUEIROZ GALVÃO S/A": 300000.0, 
+        "PRAIAMAR INDUSTRIA COMERCIO E DISTRIBUIÇÃO LTDA": 200000.0, 
+        "PINESE HOLDING": 200000.0, 
+        "TRANSRIO CAMINHÕES ONIBUS MAQUINAS E MOTORES LTDA": 100000.0, 
+        "CONSTRUTORA COWAN S/A": 100000.0, 
+        "PONTO VEICULOS LTDA": 100000.0
+    }, 
+    "party": "SD", 
+    "fullname": "CARLOS ALBERTO LAVRADO CUPELLO", 
+    "total": 1240235.67, 
+    "election_id": 77088, 
+    "similars": [
+        "Luiz Martins (PDT, RJ) - Deputado Estadual", 
+        "Celso Pansera (PMDB, RJ) - Deputado Federal", 
+        "Weverton Rocha (PDT, MA) - Deputado Federal", 
+        "Silvio Costa (PSC, PE) - Deputado Federal", 
+        "Duarte (PSD, MG) - Deputado Estadual"
+    ]
+}

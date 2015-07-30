@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Priscila Krause"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PE/foto/170000000092.jpg", 
+    "state": "PE", 
+    "donations": {
+        "BRASKEM S/A": 80000.0, 
+        "JBS S/A": 75000.0, 
+        "CONSTRUTORA Q.G. S/A": 50000.0, 
+        "CONSTRUTORA NORBERTO ODEBRECHT": 25000.0, 
+        "CRBS S/A": 25000.0
+    }, 
+    "party": "DEM", 
+    "fullname": "PRISCILA KRAUSE BRANCO", 
+    "total": 517440.06, 
+    "election_id": 25222
+}

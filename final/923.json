@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Fernando Jordão"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000001426.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "BRADESCO VIDA E PREVIDÊNCIA S.A.": 100000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "FERNANDO ANTONIO CECILIANO JORDÃO", 
+    "total": 721285.0, 
+    "election_id": 1550, 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

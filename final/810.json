@@ -1,0 +1,33 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Eduardo Cunha"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000001421.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "CRBS S.A.": 1000000.0, 
+        "TELEMONT ENGENHARIA TELECOMUNICAÇÕES S.A.": 900000.0, 
+        "MINERAÇÃO CORUMBAENSE REUNIDAS S.A.": 700000.0, 
+        "BANCO BTG PACTUAL S.A.": 500000.0, 
+        "BANCO SANTANDER BRASIL S.A.": 300000.0, 
+        "RIO DE JANEIRO REFRESCOS LTDA.": 300000.0, 
+        "BRADESCO SAÚDE S.A.": 250000.0, 
+        "BRADESCO VIDA E PREVIDÊNCIA S.A.": 250000.0, 
+        "RECOFARMA INDÚSTRIA DO AMAZONAS LTDA.": 250000.0, 
+        "VICTOR HUGO DOMELIÇÕES LTDA.": 100000.0, 
+        "SAFRA LEASING S.A. ARRENDAMENTO MERCANTIL": 50000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "EDUARDO COSENTINO DA CUNHA", 
+    "total": 6832480.98, 
+    "election_id": 1530, 
+    "similars": [
+        "Helder Barbalho (PMDB, PA) - Governador"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Evangélica"
+    ]
+}

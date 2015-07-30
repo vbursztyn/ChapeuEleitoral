@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Valmir Comin"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SC/foto/240000000437.jpg", 
+    "state": "SC", 
+    "donations": {
+        "JBS S/A": 85000.0, 
+        "SAMA S.A. MINERACAO ASSOCIADAS": 40000.0
+    }, 
+    "party": "PP", 
+    "fullname": "VALMIR FRANCISCO COMIN", 
+    "total": 417490.55, 
+    "election_id": 11166, 
+    "similars": [
+        "Cantora Mara Lima (PSDB, PR) - Deputado Estadual", 
+        "Daniel Vilela (PMDB, GO) - Deputado Federal", 
+        "Marcelo Crivella (PRB, RJ) - Governador", 
+        "Reginaldo Lopes (PT, MG) - Deputado Federal", 
+        "Marx Beltrão (PMDB, AL) - Deputado Federal"
+    ]
+}

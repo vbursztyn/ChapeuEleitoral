@@ -1,0 +1,18 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Fábio Novo"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PI/foto/180000000220.jpg", 
+    "state": "PI", 
+    "donations": {
+        "CONSTRUTORA QUEIROZ GALVÃO S A": 95000.0, 
+        "CERVEJARIA PETRÓPOLIES S/A": 40000.0, 
+        "COSAN LUBRIFICANTES E ESPECIALIDADES S.A.": 20000.0
+    }, 
+    "party": "PT", 
+    "fullname": "FÁBIO NUNEZ NOVO", 
+    "total": 448964.67, 
+    "election_id": 13111
+}

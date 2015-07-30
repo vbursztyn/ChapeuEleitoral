@@ -1,0 +1,30 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Jutahy Magalhães"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000643.jpg", 
+    "state": "BA", 
+    "donations": {
+        "BRASKEM S.A": 270000.0, 
+        "CONSTRUTORA NORBERTO ODEBRECHT": 200000.0, 
+        "ARCLIMA ENGENHARIA LTDA": 85000.0, 
+        "J.S.L S/A": 82000.0, 
+        "CONSTRUTORA ANDRADE MENDONCA": 80000.0, 
+        "CBPO ENGENHARIA LTDA": 80000.0, 
+        "BRADESCO VIDA E PREVIDENCIA S/A": 75000.0, 
+        "BRADESCO ADM CONSORCIO LTDA": 50000.0, 
+        "BRADESCO SAUDE S/A": 45000.0, 
+        "CONSTRUTORA OAS": 30000.0, 
+        "CIA SEGUROS ALIANCA DA BAHIA": 23000.0, 
+        "GERDAU ACOS ESPECIAIS S/A": 14000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "JUTAHY MAGALHÃES JUNIOR", 
+    "total": 3798963.2, 
+    "election_id": 4545, 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

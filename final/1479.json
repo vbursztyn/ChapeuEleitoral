@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO", 
+    "searchable": [
+        "Simone Tebet"
+    ], 
+    "title": "Senador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MS/foto/120000000278.jpg", 
+    "state": "MS", 
+    "donations": {
+        "JBS S/A": 1720000.0, 
+        "IACO AGRICOLA": 700000.0, 
+        "RIO CLARO AGROINDUSTRIAL S/A": 300000.0, 
+        "JORCAL ENGENHARIA E CONSTRUÇÕES SA": 150000.0, 
+        "USINA ELDORADO S/A": 70000.0, 
+        "COPERSUCAR S/A": 50000.0, 
+        "CONSTRUTORA J GABRIEL LTDA": 20000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "SIMONE NASSAR TEBET", 
+    "total": 3239893.61, 
+    "election_id": 151, 
+    "stands": [
+        "Bancada da Comunicação"
+    ]
+}

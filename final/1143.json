@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Jose Stedile"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000000568.jpg", 
+    "state": "RS", 
+    "donations": {
+        "PHILIP MORRIS BRASIL INDUSTRIA E COMÉRCIO LTDA": 50000.0, 
+        "VIA ENGENHARIA S/A": 50000.0, 
+        "PROCABLE ENERGIA E TELECOMUNICAÇÕES S/A": 50000.0, 
+        "CVI REFRIGERANTES LTDA": 40000.0, 
+        "CRBS S/A": 30000.0, 
+        "SPAL INDUSTRIA BRASILEIRA DE BEBIDAS S/A": 20000.0, 
+        "JXS INFORMÁTICA LTDA": 20000.0
+    }, 
+    "party": "PSB", 
+    "fullname": "JOSE LUIZ STEDILE", 
+    "total": 510712.96, 
+    "election_id": 4080, 
+    "stands": [
+        "Bancada Sindicalista"
+    ]
+}

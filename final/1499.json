@@ -1,0 +1,21 @@
+{
+    "status": "NÃO ELEITO", 
+    "searchable": [
+        "Eliane Novais"
+    ], 
+    "title": "Governador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/CE/foto/60000000093.jpg", 
+    "state": "CE", 
+    "donations": {
+        "CONFERE COMERCIO E SERVIÇOS DE ALIMENTAÇÃO E PRODUTOS DE SEGURANÇA ELETRONICA LTDA": 470000.0, 
+        "BANCO SANTANDER (BRASIL) S/A": 260000.0, 
+        "COSAN LUBRIFICANTES E ESPECIALIDADES S/A": 252000.0, 
+        "BREDA LOGISTICA LTDA": 230000.0, 
+        "SAFRA LEASING SA ARRENDAMENTO MERCANTIL": 224000.0, 
+        "BMX REALIZAÇÕES IMOBILIARIAS E PARTICIPAÇÕES S/A": 167000.0
+    }, 
+    "party": "PSB", 
+    "fullname": "ELIANE NOVAES ELEUTERIO TEIXEIRA", 
+    "total": 2065069.08, 
+    "election_id": 40
+}

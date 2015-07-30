@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Fausto Pinato"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001235.jpg", 
+    "state": "SP", 
+    "donations": {
+        "BRADESCO SAÚDE S/S": 12000.0, 
+        "PARTIDO REPUBLICANO BRASILEIRO - PRB - DIRETÓRIO NACIONAL - FUNDO PARTIDÁRIO": 8461.56, 
+        "MACK COLOR GRAFICA LTDA.": 6500.0, 
+        "CONSTRUCAP CCPS ENGENHARIA E COMERCIO SA": 6000.0, 
+        "CADRI IND. E COM. DE FORROS METALICOS LTDA.": 6000.0, 
+        "CONSTRAN S/A - CONSTRUCOES E COMERCIO ": 6000.0
+    }, 
+    "party": "PRB", 
+    "fullname": "FAUSTO RUY PINATO", 
+    "total": 143644.67, 
+    "election_id": 1023, 
+    "stands": []
+}

@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Giovani  Cherini"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000000237.jpg", 
+    "state": "RS", 
+    "donations": {
+        "CONSTRUTORA QUEIROZ GALVÃO": 200000.0, 
+        "SAMA S.A MINERAÇÕES ASSOCIADAS": 100000.0, 
+        "JBS S/A": 50000.0, 
+        "CRBS S/A": 40000.0, 
+        "GERDAU AÇOS ESPECIAIS SA": 40000.0, 
+        "QUANTIQ DISTRIBUIDORA LTDA": 20000.0
+    }, 
+    "party": "PDT", 
+    "fullname": "GIOVANI CHERINI", 
+    "total": 879215.71, 
+    "election_id": 1221, 
+    "stands": [
+        "Bancada Ruralista", 
+        "Bancada Sindicalista"
+    ]
+}

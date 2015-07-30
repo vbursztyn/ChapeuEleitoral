@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Edson Brum"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000000135.jpg", 
+    "state": "RS", 
+    "donations": {
+        "CONSTRUTORA TRIUNFO S/A": 50000.0, 
+        "PHILIP MORIS BRASIL INDUSTRIA E COMERCIO LTDA": 28500.0, 
+        "GERDAU AÇOS ESPECIAIS S.A.": 20000.0, 
+        "QUANTIQ DISTRIBUIDORA LTDA": 10000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "EDSON MEURER BRUM", 
+    "total": 415581.37, 
+    "election_id": 15200
+}

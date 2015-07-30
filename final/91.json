@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Sóstenes Cavalcante"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000001488.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "CONSTRUTORA QUEIROZ GALVAO S/A": 250000.0, 
+        "MASCARENHAS BARBOSA ROSCOE SA CONSTRUCOES ": 245000.0, 
+        "CARIOCA CHRISTIANI NIELSEN ENGENHARIA S/A": 30000.0
+    }, 
+    "party": "PSD", 
+    "fullname": "SÓSTENES SILVA CAVALCANTE", 
+    "total": 699036.5, 
+    "election_id": 5577, 
+    "stands": [
+        "Bancada Evangélica"
+    ]
+}

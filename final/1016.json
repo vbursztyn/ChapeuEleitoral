@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Dr. Damião"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PB/foto/150000000194.jpg", 
+    "state": "PB", 
+    "donations": {
+        "JBS S/A": 100000.0
+    }, 
+    "party": "PDT", 
+    "fullname": "DAMIÃO FELICIANO DA SILVA", 
+    "total": 577519.75, 
+    "election_id": 1212, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista", 
+        "Bancada da Saúde", 
+        "Bancada da Comunicação"
+    ]
+}

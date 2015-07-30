@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Marcos Soares"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000001895.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "JBS S/A": 400000.0
+    }, 
+    "party": "PR", 
+    "fullname": "MARCOS BEZERRA RIBEIRO SOARES", 
+    "total": 817780.0, 
+    "election_id": 2211, 
+    "stands": [
+        "Bancada Evangélica"
+    ]
+}

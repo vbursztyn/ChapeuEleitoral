@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Pauderney"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AM/foto/40000000345.jpg", 
+    "state": "AM", 
+    "donations": {
+        "MOTO HONDA DA AMAZÔNIA LTDA": 150000.0, 
+        "MOTO HONDA DA AMAZONIA LTDA.": 100000.0, 
+        "JBS S/A": 100000.0, 
+        "PANASONIC DO BRASIL": 6800.0
+    }, 
+    "party": "DEM", 
+    "fullname": "PAUDERNEY TOMAZ AVELINO", 
+    "total": 2023824.23, 
+    "election_id": 2525, 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

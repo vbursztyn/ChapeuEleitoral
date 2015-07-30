@@ -1,0 +1,26 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Doutor Hércules"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/ES/foto/80000000653.jpg", 
+    "state": "ES", 
+    "donations": {
+        "VALE DO RIO DOCE ENERGIA SA": 100000.0, 
+        "MINERAÇAO CORUMBAENSE REUNIDAS SA": 55000.0, 
+        "VALE MANGANES SA": 50000.0, 
+        "B.R.F S/A": 30000.0, 
+        "CONSTRUTORA NORBERTO ODEBRECHT SA": 25000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "HÉRCULES SILVEIRA", 
+    "total": 348406.97, 
+    "election_id": 15100, 
+    "similars": [
+        "Lobão Filho (PMDB, MA) - Governador", 
+        "Rose de Freitas (PMDB, ES) - Senador", 
+        "Casagrande (PSB, ES) - Governador", 
+        "Marcelo Miranda (PMDB, TO) - Governador"
+    ]
+}

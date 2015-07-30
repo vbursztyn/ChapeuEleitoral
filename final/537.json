@@ -1,0 +1,28 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Laércio Oliveira"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SE/foto/260000000091.jpg", 
+    "state": "SE", 
+    "donations": {
+        "CONSTRUTORA ANDRADE GUTIERREZ ": 199986.0, 
+        "BRADESCO VIDA E PREVIDENCIA LTDA": 119986.0, 
+        "ORIGINAL VEÍCULOS LTDA": 100000.0, 
+        "SALOBO METAIS SA": 99986.0, 
+        "GRUPO GERDAL": 66667.0
+    }, 
+    "party": "SD", 
+    "fullname": "LAÉRCIO JOSÉ DE OLIVEIRA", 
+    "total": 1428731.78, 
+    "election_id": 7777, 
+    "similars": [
+        "Georgeo Passos (PTC, SE) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista", 
+        "Bancada Evangélica"
+    ]
+}

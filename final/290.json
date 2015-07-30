@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO", 
+    "searchable": [
+        "Gladson Cameli"
+    ], 
+    "title": "Senador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AC/foto/10000000001.jpg", 
+    "state": "AC", 
+    "donations": {
+        "J B S - S/A": 600000.0, 
+        "CONSTRUTORA SANCHES TRIPOLINI LTDA": 200000.0, 
+        "MGM LOCAÇÃO LTDA": 100000.0, 
+        "CONTRUSTORA OAS S.A": 100000.0
+    }, 
+    "party": "PP", 
+    "fullname": "GLADSON DE LIMA CAMELI", 
+    "total": 4914918.29, 
+    "election_id": 111, 
+    "similars": [
+        "Renato Molling (PP, RS) - Deputado Federal"
+    ], 
+    "stands": []
+}

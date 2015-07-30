@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Marcio Fernandes"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MS/foto/120000000189.jpg", 
+    "state": "MS", 
+    "donations": {
+        "ADECOAGRO VALE DO IVINHEMA S/A": 100000.0, 
+        "IACO AGRICOLA S/A": 100000.0, 
+        "JBS S/A": 50000.0, 
+        "CENTRAL ENERGÉTICA VICENTINA": 50000.0, 
+        "ENERGETICA SANTA HELENA S/A": 5175.0, 
+        "ENGEPAR - ENGENHARIA E PARTICIPAÇÕES LTDA": 5000.0
+    }, 
+    "party": "PT do B", 
+    "fullname": "MARCIO FERNANDES", 
+    "total": 2212312.66, 
+    "election_id": 70123, 
+    "similars": [
+        "Nelsinho Trad (PMDB, MS) - Governador", 
+        "Eduardo Rocha (PMDB, MS) - Deputado Estadual"
+    ]
+}

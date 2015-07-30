@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Paes Landim"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PI/foto/180000000242.jpg", 
+    "state": "PI", 
+    "donations": {
+        "BANCO SANTANDER S/A": 100000.0, 
+        "CMT ENGENHARIA LTDA": 100000.0, 
+        "CRBS SA": 90000.0, 
+        "QUANTIQ DISTRIBUIDORA LTDA": 50000.0
+    }, 
+    "party": "PTB", 
+    "fullname": "JOSÉ FRANCISCO PAES LANDIM", 
+    "total": 985963.63, 
+    "election_id": 1410, 
+    "similars": [
+        "Henrique Queiroz (PR, PE) - Deputado Estadual", 
+        "Manuela D Avila (PC do B, RS) - Deputado Estadual", 
+        "João Fischer - Fixinha (PP, RS) - Deputado Estadual"
+    ], 
+    "stands": []
+}

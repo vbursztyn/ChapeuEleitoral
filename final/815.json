@@ -1,0 +1,17 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Fabiola Mansur"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000187.jpg", 
+    "state": "BA", 
+    "donations": {
+        "LOGIMED DISTRIBUIDORA SOCIEDADE EMPRESARIAL LIMITADA": 10000.0, 
+        "CR ALMEIDA S/A ENGENHARIA DE OBRAS": 5000.0
+    }, 
+    "party": "PSB", 
+    "fullname": "FABIOLA MANSUR DE CARVALHO", 
+    "total": 276510.55, 
+    "election_id": 40040
+}

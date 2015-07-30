@@ -1,0 +1,30 @@
+{
+    "status": "ELEITO", 
+    "searchable": [
+        "Wellington Fagundes"
+    ], 
+    "title": "Senador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MT/foto/110000000293.jpg", 
+    "state": "MT", 
+    "donations": {
+        "J B S SA": 1400000.0, 
+        "CONSTRUTORA SANCHES TRIPOLINI LTDA": 1320000.0, 
+        "ENGEVIX CONSTRUÇÕES OCEANICAS SA": 600000.0, 
+        "SEARA ALIMENTOS LTDA": 450000.0, 
+        "GERDAU AÇOS ESPECIAIS SA": 293851.5, 
+        "CRBS SA": 100000.0, 
+        "TORC TERRAPLENAGEM OBRAS E CONSTRUÇÕES LTDA": 90000.0, 
+        "CAVAN ROCBRA INDÚSTRIA E COMERCIO SA": 80000.0, 
+        "VEGA ENGENHARIA E CONSULTORIA LTDA": 60000.0
+    }, 
+    "party": "PR", 
+    "fullname": "WELLINGTON ANTONIO FAGUNDES", 
+    "total": 8763993.1, 
+    "election_id": 222, 
+    "similars": [
+        "Wellington Roberto (PR, PB) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada da Comunicação"
+    ]
+}

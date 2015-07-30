@@ -1,0 +1,32 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Perondi"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000000164.jpg", 
+    "state": "RS", 
+    "donations": {
+        "AMIL ASSISTENCIA MEDICA INTERNACIONAL S.A": 300000.0, 
+        "RECOFARMA INDSUTRIA DO AMAZONAS LTDA": 266000.0, 
+        "BRADESCO ADMINISTRADORA DE CONSORCIOS LTDA": 190000.0, 
+        "AROSUCO AROMAS E SUCOS LTDA": 171000.0, 
+        "ARCOS DOURADOS COMERCIO DE ALIMENTOS LTDA": 135500.0, 
+        "DIMED S/A DISTRIBUIDORA DE MEDICAMENTOS": 130000.0, 
+        "SAEPAR SERVICOS E PARTICIPACOES": 117500.0, 
+        "BRADESCO SAUDE S/A": 95000.0, 
+        "IMIFARMA PRODUTOS FARTMACEUTICOS E COSMETICOS S.A": 70000.0, 
+        "VONPAR REFRESCOS S.A": 19000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "DARCISIO PAULO PERONDI", 
+    "total": 1792298.0, 
+    "election_id": 1502, 
+    "similars": [
+        "Eduardo Braga (PMDB, AM) - Governador"
+    ], 
+    "stands": [
+        "Bancada Ruralista", 
+        "Bancada da Saúde"
+    ]
+}

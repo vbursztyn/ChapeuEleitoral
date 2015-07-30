@@ -1,0 +1,29 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Nelson Meurer"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000160.jpg", 
+    "state": "PR", 
+    "donations": {
+        "GALVÃO ENGENHARIA S.A": 1117000.0, 
+        "JBS S/A": 700000.0, 
+        "CR ALMEIDA S/A - ENGENHARIA DE OBRAS": 250000.0, 
+        "FLORA PRODUTOS DE HIGIENE E LIMPEZA S.A.": 100000.0, 
+        "USICITY PAVIMENTAÇÃO LTDA.": 100000.0, 
+        "TELEMONT ENGENHARIA DE TELECOMUNICAÇÕES S/A": 50000.0
+    }, 
+    "party": "PP", 
+    "fullname": "NELSON MEURER", 
+    "total": 2645682.2, 
+    "election_id": 1111, 
+    "similars": [
+        "Cacau Lorenzoni (PP, ES) - Deputado Estadual", 
+        "Simão Sessim (PP, RJ) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

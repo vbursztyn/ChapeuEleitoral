@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Padre João"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000871.jpg", 
+    "state": "MG", 
+    "donations": {
+        "CONSTRUTORA NORBERTO ODEBRECHT S/A": 76000.0, 
+        "UTC ENGENHARIA S/A": 47500.0, 
+        "A E C CENTRO DE CONTATOS S/A": 12156.53, 
+        "CONSTRUTORA CONTORNO LTDA": 5131.5
+    }, 
+    "party": "PT", 
+    "fullname": "JOÃO CARLOS SIQUEIRA", 
+    "total": 521032.05, 
+    "election_id": 1315, 
+    "similars": [
+        "Léo Portela (PR, MG) - Deputado Estadual"
+    ], 
+    "stands": []
+}

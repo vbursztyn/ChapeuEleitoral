@@ -1,0 +1,27 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Foletto"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/ES/foto/80000000357.jpg", 
+    "state": "ES", 
+    "donations": {
+        "DISTRIBUIDORA DE PNEUS ALEGRETE LTDA": 80000.0, 
+        "BANCO ABC BRASIL S.A": 50000.0
+    }, 
+    "party": "PSB", 
+    "fullname": "PAULO ROBERTO FOLETTO", 
+    "total": 623126.62, 
+    "election_id": 4040, 
+    "similars": [
+        "Julio Delgado (PSB, MG) - Deputado Federal", 
+        "Luciano Nunes (PSDB, PI) - Deputado Estadual", 
+        "Heraclito (PSB, PI) - Deputado Federal", 
+        "Wilson Brandao (PSB, PI) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada da Saúde"
+    ]
+}

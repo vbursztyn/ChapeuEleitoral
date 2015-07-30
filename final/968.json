@@ -1,0 +1,27 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Missionário José Olímpio"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000002160.jpg", 
+    "state": "SP", 
+    "donations": {
+        "JBS S/A ": 700000.0, 
+        "CONSTRUTORA OAS S.A.": 206500.0, 
+        "COMPANHIA METALURGICA PRADA": 200000.0, 
+        "CONSTRUTORA QUEIROZ GALVAO S A ": 100000.0, 
+        "FLORA PRODUTOS DE HIGIENE E LIMPEZA S.A": 100000.0
+    }, 
+    "party": "PP", 
+    "fullname": "JOSE OLÍMPIO SILVEIRA MORAES", 
+    "total": 1530437.2, 
+    "election_id": 1155, 
+    "similars": [
+        "Paulo Maluf (PP, SP) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Evangélica"
+    ]
+}

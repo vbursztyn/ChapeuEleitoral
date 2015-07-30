@@ -1,0 +1,17 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "João Peixoto"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000002550.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "CERVEJARIA PETROPOLIS S. A": 350000.0, 
+        "CONSTRUTORA QUEIROZ GALVÃO S. A. ": 150000.0
+    }, 
+    "party": "PSDC", 
+    "fullname": "JOÃO ALVES PEIXOTO", 
+    "total": 584420.5, 
+    "election_id": 27123
+}

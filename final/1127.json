@@ -1,0 +1,31 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Marun"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MS/foto/120000000116.jpg", 
+    "state": "MS", 
+    "donations": {
+        "DIGITHOBRASIL SOLUCOES EM SOFTWARE LTDA": 250000.0, 
+        "AQUARIUS ENERGETICA S/A": 145000.0, 
+        "H2L EQUIPAMENTOS E SISTEMAS LTDA ": 120000.0, 
+        "JBS S/A": 100000.0, 
+        "CENTRAL ENERGETICA VICENTINA": 50000.0, 
+        "COPERSUR S/A": 50000.0, 
+        "COSAN LUBRIFICANTES E ESPECIALIDADES": 50000.0, 
+        "GUIZARDI JUNIOR CONSTRUTORA E INCORPORADORA LTDA - EPP ": 20000.0, 
+        "L. D. CONSTRUÇOES LTDA": 10000.0, 
+        "AMGL COMERCIO DE MATERIAIS ELETRICOS E HIDRAULICOS LTDA": 10000.0, 
+        "CONSTRUTORA J GABRIEL LTDA": 5000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "CARLOS EDUARDO XAVIER MARUN", 
+    "total": 1624641.0, 
+    "election_id": 1515, 
+    "similars": [
+        "Lidio Lopes (PEN, MS) - Deputado Estadual", 
+        "Mauricio Picarelli (PMDB, MS) - Deputado Estadual"
+    ], 
+    "stands": []
+}

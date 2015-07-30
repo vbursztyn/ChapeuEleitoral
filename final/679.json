@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Dr. Leonardo"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MT/foto/110000000098.jpg", 
+    "state": "MT", 
+    "donations": {
+        "SOLAR BR PARTICIPACOES S/A": 30000.0, 
+        "CONTRUTORA RIO TOCANTIS LTDA": 15000.0, 
+        "CERVEJARIA PETROPOLIS S/A": 9600.0
+    }, 
+    "party": "PDT", 
+    "fullname": "LEONARDO RIBEIRO ALBUQUERQUE", 
+    "total": 812061.15, 
+    "election_id": 12612, 
+    "similars": [
+        "Wancley (PV, MT) - Deputado Estadual", 
+        "Ezequiel Fonseca (PP, MT) - Deputado Federal"
+    ]
+}

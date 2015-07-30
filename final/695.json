@@ -1,0 +1,27 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Ernani Polo"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000000686.jpg", 
+    "state": "RS", 
+    "donations": {
+        "JBS SA": 40000.0, 
+        "CELULOSE IRANI S/A": 25000.0, 
+        "PHILIPS MORRIS INDUSTRIA E COMERCIO ": 20000.0, 
+        "CONSTRUTCKMA ENGENHARIA SA": 20000.0, 
+        "IPIRANGA PRODUTOS DE PETROLEO SA": 20000.0, 
+        "HABITASUL DESENVOLVIMENTO IMOBILIARIO SA": 20000.0, 
+        "GERDAU AÇOS ESPECIAIS SA": 19600.0, 
+        "PRODUTOS ALIMENTICIOS ORLANDIA SA COM E IND": 10000.0
+    }, 
+    "party": "PP", 
+    "fullname": "ERNANI POLO", 
+    "total": 498894.74, 
+    "election_id": 11411, 
+    "similars": [
+        "Adolfo Brito (PP, RS) - Deputado Estadual", 
+        "Luiz Fernando (PP, MG) - Deputado Federal"
+    ]
+}

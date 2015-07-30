@@ -1,0 +1,31 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "João Paulo Rillo"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000000556.jpg", 
+    "state": "SP", 
+    "donations": {
+        "SUCO CITRICO CUTRALE LTDA": 107350.0, 
+        "UTC ENGENHARIA S/A": 88000.0, 
+        "JBS S/A": 70000.0, 
+        "QUEIROZ GALVÃO S/A": 65000.0, 
+        "SERVENG CIVILSAN S/A EMPRESAS ASSOCIADAS DE ENGENHARIA": 50000.0, 
+        "BRADESCO VIDA E PREVIDÊNCIA": 47500.0, 
+        "VALE ENERGIA S/A": 40000.0, 
+        "MILANO ADM. DE BENS": 38000.0, 
+        "CONSTRUTAMI ENGENHARIA E COMERCIO LTDA": 28500.0, 
+        "SAFRA LEASING": 28500.0, 
+        "CRISCIUMA COMPANHIA COMERCIAL LTDA": 19000.0, 
+        "PARQUE ILHA DO SOL INCORPORAÇÕES": 10000.0, 
+        "COBRASIN BRASILEIRA S.C. LTDA": 9500.0
+    }, 
+    "party": "PT", 
+    "fullname": "JOÃO PAULO RILLO", 
+    "total": 1049194.25, 
+    "election_id": 13622, 
+    "similars": [
+        "Adolfo Viana (PSDB, BA) - Deputado Estadual"
+    ]
+}

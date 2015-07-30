@@ -1,0 +1,26 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Chicão"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PA/foto/140000000379.jpg", 
+    "state": "PA", 
+    "donations": {
+        "VALE MINA DO AZUL S/A": 100000.0, 
+        "JBS S/A": 100000.0, 
+        "SALOBO METAIS S/A": 10800.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "FRANCISCO DAS CHAGAS SILVA MELO FILHO", 
+    "total": 393394.75, 
+    "election_id": 15555, 
+    "similars": [
+        "Beto Faro (PT, PA) - Deputado Federal", 
+        "Paulo Abi-ackel (PSDB, MG) - Deputado Federal", 
+        "Vital (PMDB, PB) - Governador", 
+        "Henrique Alves (PMDB, RN) - Governador", 
+        "Dr Gilson Andrade (PTC, SE) - Deputado Estadual", 
+        "Marquinhos Trad (PMDB, MS) - Deputado Estadual"
+    ]
+}

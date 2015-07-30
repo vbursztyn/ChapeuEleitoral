@@ -1,0 +1,17 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Zé Roberto"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/TO/foto/270000000076.jpg", 
+    "state": "TO", 
+    "donations": {
+        "BOVESPA": 50000.0, 
+        "AGROEXPORT TRADING E AGRONEGOCIOS S/A ": 5000.0
+    }, 
+    "party": "PT", 
+    "fullname": "JOSÉ ROBERTO RIBEIRO FORZANI", 
+    "total": 253367.5, 
+    "election_id": 13456
+}

@@ -1,0 +1,18 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Wlad"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PA/foto/140000000015.jpg", 
+    "state": "PA", 
+    "donations": {
+        "JBS S/A": 200000.0, 
+        "BRADESCO VIDA E PREVIDENCIA SA": 50000.0
+    }, 
+    "party": "SD", 
+    "fullname": "WLADIMIR AFONSO DA COSTA RABELO", 
+    "total": 642457.48, 
+    "election_id": 7777, 
+    "stands": []
+}

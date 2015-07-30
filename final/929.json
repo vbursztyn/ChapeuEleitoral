@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Marcos Rogerio"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RO/foto/220000000242.jpg", 
+    "state": "RO", 
+    "donations": {
+        "CONSTRUTORA QUEIROZ GALVÃO S/A": 100000.0, 
+        "JBS S/A": 100000.0, 
+        "HOSPITAL SANTA PAULA LTDA": 50000.0
+    }, 
+    "party": "PDT", 
+    "fullname": "MARCOS ROGERIO DA SILVA BRITO", 
+    "total": 395867.56, 
+    "election_id": 1234, 
+    "similars": [
+        "Gustavo Tutuca (PMDB, RJ) - Deputado Estadual", 
+        "Waguinho (PMDB, RJ) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Evangélica"
+    ]
+}

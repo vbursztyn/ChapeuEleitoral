@@ -1,0 +1,18 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "João Derly"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000000878.jpg", 
+    "state": "RS", 
+    "donations": {
+        "BRF S/A": 30000.0, 
+        "ELEIÇÃO 2014 TARSO FERNANDO HERZ GENRO GOVERNADOR": 10000.0
+    }, 
+    "party": "PC do B", 
+    "fullname": "JOÃO DERLY DE OLIVEIRA NUNES JUNIOR", 
+    "total": 372436.67, 
+    "election_id": 6565, 
+    "stands": []
+}

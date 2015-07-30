@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Jorge Felippe Neto"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000000020.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "LIMPATECH SERVICOS E CONST LTDA": 343000.0, 
+        "DIRECIONAL ZIRCONE EMPREENDIMENTOS IMOBILIARIOS LTDA": 150000.0, 
+        "CAÇAPAVA EMPREITADA DE LAVOR LTDA": 149000.0, 
+        "CONFIDERE IMOBILIARIA INCORPORADORA E ADMINISTRAÇÃO DE IMOVEIS CIDADE": 100000.0, 
+        "CONSTRUTORA ZADAR LTDA": 98000.0
+    }, 
+    "party": "PSD", 
+    "fullname": "JORGE MIGUEL FELIPPE POYARES BETHLEM", 
+    "total": 1725884.5, 
+    "election_id": 55800, 
+    "similars": [
+        "Cristiane Brasil (PTB, RJ) - Deputado Federal", 
+        "Bebeto Tetra (SD, RJ) - Deputado Estadual"
+    ]
+}

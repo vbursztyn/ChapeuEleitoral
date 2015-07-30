@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Rodrigo Minotto"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SC/foto/240000000340.jpg", 
+    "state": "SC", 
+    "donations": {
+        "ARCELORMITTAL BRASIL S.A. ": 230000.0, 
+        "CONSTRUTORA QUEIROZ GALVÃO S/A": 100000.0, 
+        "CARBONIFERA METROPOLITANA S/A": 80000.0, 
+        "JBS S.A": 58000.0, 
+        "KLABIN S.A. ": 20000.0
+    }, 
+    "party": "PDT", 
+    "fullname": "RODRIGO MINOTTO", 
+    "total": 721537.37, 
+    "election_id": 12345
+}

@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Celso Pansera"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000001436.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "RIO DE JANEIRO REFRESCOS LTDA": 700000.0, 
+        "TRANSRIO CAMINHÕES ONIBUS MAQUINAS E MOTORES": 100000.0, 
+        "SVSFER CONSULTORIA E SISTEMAS S/C LTDA": 50000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "CELSO PANSERA", 
+    "total": 1276638.0, 
+    "election_id": 1540, 
+    "stands": []
+}

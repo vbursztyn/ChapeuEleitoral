@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Wander Borges"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000001174.jpg", 
+    "state": "MG", 
+    "donations": {
+        "ANGLO GOLD ASHANTI": 99950.0, 
+        "BRADESCO SAUDE S/A": 50000.0, 
+        "GAFISA S/A": 50000.0, 
+        "EMPRESA DE MINERACAO ESPERANCA S/A": 40000.0, 
+        "CELTA ENGENHARIA": 20000.0, 
+        "BRADESCO VIDA E PREVIDENCIA S.A": 10000.0, 
+        "DORIA CONSTRUCOES": 5000.0
+    }, 
+    "party": "PSB", 
+    "fullname": "WANDER JOSE GODDARD BORGES", 
+    "total": 951977.0, 
+    "election_id": 40640
+}

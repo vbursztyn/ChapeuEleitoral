@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Flaviano Melo"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AC/foto/10000000613.jpg", 
+    "state": "AC", 
+    "donations": {
+        "OAS SA": 200000.0, 
+        "BRADESCO LEASING SA ARRENDAMENTO MERCANTIL": 150000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ SA": 150000.0, 
+        "JURUA ESTALEIROS NAVEGAÇÃO LTDA": 25000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "FLAVIANO FLÁVIO BAPTISTA DE MELO", 
+    "total": 660588.5, 
+    "election_id": 1555, 
+    "similars": [
+        "Márcio Bittar (PSDB, AC) - Governador"
+    ], 
+    "stands": [
+        "Bancada Ruralista"
+    ]
+}

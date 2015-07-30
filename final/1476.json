@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Carlos Henrique"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000001019.jpg", 
+    "state": "MG", 
+    "donations": {
+        "LOCALIX SERVICOS AMBIENTAIS LTDA": 40000.0, 
+        "CONSTRUTORA CONTORNO LTDA": 27000.0, 
+        "EMPRESA DIAS BRANCO ADM. E PARTICIPACOES LTDA": 19612.5, 
+        "BRADESCO LEASING SA": 15962.5, 
+        "MINERACOES BRASILEIRAS REUNIDAS": 11772.15
+    }, 
+    "party": "PRB", 
+    "fullname": "CARLOS HENRIQUE ALVES DA SILVA", 
+    "total": 277520.01, 
+    "election_id": 10123, 
+    "similars": [
+        "Lindberg Farias (PT, RJ) - Governador"
+    ]
+}

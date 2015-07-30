@@ -1,0 +1,17 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "João Marcelo"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MA/foto/100000000564.jpg", 
+    "state": "MA", 
+    "donations": {
+        "CRBS S/A": 30000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "JOÃO MARCELO SANTOS SOUSA", 
+    "total": 171683.0, 
+    "election_id": 1555, 
+    "stands": []
+}

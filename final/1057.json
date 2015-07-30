@@ -1,0 +1,28 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Marcus Vicente"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/ES/foto/80000000167.jpg", 
+    "state": "ES", 
+    "donations": {
+        "JBS S/A": 205000.0, 
+        "RENTHAL FORTI LOC. DE MAQ. E EQUIPAMENTOS LTDA": 70000.0, 
+        "GALVAO ENGENHARIA S/A": 50000.0, 
+        "FLORA PROD. DE HIGI. E LIMPEZA S/A": 25000.0, 
+        "ROF COMERCIAL IMPEX EIRELI": 20000.0, 
+        "TEP TECNOLOGIA EM ENGENHARIA LTDA": 10000.0, 
+        "NECAN IND E LOC DE EQUIP P/CONSTRUÇAO LTDA": 7000.0, 
+        "PROSUL PROJ.SUPER.E PLANEJ.LTDA": 6400.0
+    }, 
+    "party": "PP", 
+    "fullname": "MARCUS ANTÔNIO VICENTE", 
+    "total": 1426575.74, 
+    "election_id": 1145, 
+    "similars": [
+        "Claudiano Filho (PSDB, PE) - Deputado Estadual", 
+        "de Nadal (PMDB, SC) - Deputado Estadual"
+    ], 
+    "stands": []
+}

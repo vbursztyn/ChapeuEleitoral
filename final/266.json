@@ -1,0 +1,28 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Raimundo Matos"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/CE/foto/60000000599.jpg", 
+    "state": "CE", 
+    "donations": {
+        "CONSTRUTORA SANCHES TRIPOLONI LTDA": 200000.0, 
+        "FATOR EMPREENDIMENTOS E PARTICIPACOES LTDA": 30000.0, 
+        "CONSTRUTORA MOTA MACHADO LTDA": 20000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "RAIMUNDO GOMES DE MATOS", 
+    "total": 866101.4, 
+    "election_id": 4511, 
+    "similars": [
+        "Felipe Maia (DEM, RN) - Deputado Federal", 
+        "Artur Bisneto (PSDB, AM) - Deputado Federal", 
+        "George Soares (PR, RN) - Deputado Estadual", 
+        "Carlos Matos (PSDB, CE) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Ruralista", 
+        "Bancada da Saúde"
+    ]
+}

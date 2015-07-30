@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Lidio Lopes"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MS/foto/120000000213.jpg", 
+    "state": "MS", 
+    "donations": {
+        "JBS S/A": 50000.0, 
+        "AQUARIOS ENERGÉTICA S/A": 30000.0, 
+        "BRF S/A": 20000.0, 
+        "VALE ENER4GIA S/A": 20000.0, 
+        "GUIZARINI JR CONSTRUÇÕES E INCORPORAÇÕES LTDA": 20000.0, 
+        "H2L EQUIPAMENTOS E SISTEMAS LTDA": 5000.0
+    }, 
+    "party": "PEN", 
+    "fullname": "LIDIO NOGUEIRA LOPES", 
+    "total": 207195.0, 
+    "election_id": 51777
+}

@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Lincoln Tejota"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/GO/foto/90000000959.jpg", 
+    "state": "GO", 
+    "donations": {
+        "JOFEGE PAVIMENTAÇAO E CONSTRUÇAO LTDA": 150000.0, 
+        "MINERAÇAO SERRA GRANDE S/A": 50000.0
+    }, 
+    "party": "PSD", 
+    "fullname": "LINCOLN GRAZIANI PEREIRA DA ROCHA", 
+    "total": 1023281.64, 
+    "election_id": 55555, 
+    "similars": [
+        "Henrique Arantes (PTB, GO) - Deputado Estadual", 
+        "Daniel Vilela (PMDB, GO) - Deputado Federal", 
+        "Alexandre Baldy (PSDB, GO) - Deputado Federal"
+    ]
+}

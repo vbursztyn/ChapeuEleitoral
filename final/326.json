@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Maria Helena"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RR/foto/230000000280.jpg", 
+    "state": "RR", 
+    "donations": {
+        "COMPANHIA METALURGICA PRADA": 205000.0, 
+        "CONSTRUTORA QUEIROZ GALVÃO S/A": 50000.0
+    }, 
+    "party": "PSB", 
+    "fullname": "MARIA HELENA VERONESE RODRIGUES", 
+    "total": 397707.35, 
+    "election_id": 4040, 
+    "stands": [
+        "Bancada Feminina"
+    ]
+}

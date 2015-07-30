@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Ricardo Nezinho"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AL/foto/20000000210.jpg", 
+    "state": "AL", 
+    "donations": {
+        "HOSPITAL 09 DE JULHO S/A": 140000.0, 
+        "CONSTRUÇÕES E COMERCIO CAMARGO  CORREA S/A": 130000.0, 
+        "JBS S/A": 130000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "RICARDO PEREIRA MELO", 
+    "total": 734854.02, 
+    "election_id": 15111, 
+    "similars": [
+        "Marquinhos Madeira (PT, AL) - Deputado Estadual", 
+        "Olavo Calheiros (PMDB, AL) - Deputado Estadual", 
+        "Luiz Dantas (PMDB, AL) - Deputado Estadual"
+    ]
+}

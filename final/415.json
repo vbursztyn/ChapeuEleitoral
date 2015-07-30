@@ -1,0 +1,39 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Walter Alves"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RN/foto/200000000132.jpg", 
+    "state": "RN", 
+    "donations": {
+        "ACE ELETRICA COM E REPRES LTDA ": 500000.0, 
+        "COMPANHIA METALURGICA PRADA": 300000.0, 
+        "QUEIROZ E GALVAO SA": 250000.0, 
+        "ALPARGATAS SA": 200000.0, 
+        "RIO CLARO AGRO INDUSTRIAL SA": 190000.0, 
+        "ORIGINAL VEICULOS": 125000.0, 
+        "VALE ENERGIA SA": 100000.0, 
+        "CRBS SA": 80000.0, 
+        "GERDAU AÇOS ESPECIAIS SA": 50000.0, 
+        "AMIL ASSISTENCIA MEDICA INTERNACIONAL SA": 50000.0, 
+        "ALESAT COMBUSTIVEIS SA": 50000.0, 
+        "TEL TELEMATICA E MARKETING LTDA": 50000.0, 
+        "BRADESCO VIDA E PREVIDENCIA SA": 35000.0, 
+        "PHILIP MORRI BRASIL IND E COM LTDA": 30000.0, 
+        "BANCO J SAFRA ": 30000.0, 
+        "PROTAZIO LOCAÇÃO E TURISMO LTDA": 20000.0, 
+        "PHOENIX EMPREENDIMENTO LTDA": 10000.0, 
+        "MJ COMERCIO DE VEICULOS LTDA": 5000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "WALTER PEREIRA ALVES", 
+    "total": 2540750.36, 
+    "election_id": 1511, 
+    "similars": [
+        "Armando Monteiro (PTB, PE) - Governador", 
+        "Comte (PPS, RJ) - Deputado Estadual", 
+        "Adolfo Brito (PP, RS) - Deputado Estadual"
+    ], 
+    "stands": []
+}

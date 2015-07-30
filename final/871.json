@@ -1,0 +1,27 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Eduardo Rocha"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MS/foto/120000000252.jpg", 
+    "state": "MS", 
+    "donations": {
+        "IACO AGRICOLA S/A": 150000.0, 
+        "ADECOAGRO VALE D IVIEMA SA": 100000.0, 
+        "JBS S/A": 50000.0, 
+        "AMIL ASSISTENCIA MEDICA INTERNACIIONAL SA": 30000.0, 
+        "COSAN LUBRIFICANTES E ESPECIALIDADES": 25000.0, 
+        "CONSTRUTORA J.GABRIEL LTDA": 20000.0, 
+        "SALOBO METAIS S/A": 17500.0, 
+        "MINERAÇÕES BRASILEIRAS REUNIDAS S/A": 15000.0, 
+        "ENERGETICA SANTA HELENA S/A": 9000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "JOÃO EDUARDO BARBOSA ROCHA", 
+    "total": 653364.32, 
+    "election_id": 15123, 
+    "similars": [
+        "Simone Tebet (PMDB, MS) - Senador"
+    ]
+}

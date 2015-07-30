@@ -1,0 +1,27 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Caetano"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000145.jpg", 
+    "state": "BA", 
+    "donations": {
+        "GPO - GESTÃO DE PROJETOS E OBRAS LTDA": 413250.0, 
+        "PAISARTT CONSTRUTORA  LTDA": 95000.0, 
+        "CERVEJARIA PETROPOLIS": 90000.0, 
+        "ENSEADA INDUSTRIA NAVAL SA": 76000.0, 
+        "IUDICE MINERAÇÃO LTDA": 47500.0
+    }, 
+    "party": "PT", 
+    "fullname": "LUIZ CARLOS CAETANO", 
+    "total": 2933087.31, 
+    "election_id": 1300, 
+    "similars": [
+        "Moema Gramacho (PT, BA) - Deputado Federal", 
+        "Maria Del Carmen (PT, BA) - Deputado Estadual", 
+        "Josias Gomes (PT, BA) - Deputado Federal", 
+        "Mandetta (DEM, MS) - Deputado Federal"
+    ], 
+    "stands": []
+}

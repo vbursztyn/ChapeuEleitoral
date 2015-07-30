@@ -1,0 +1,27 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Paulo Freire"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000000700.jpg", 
+    "state": "SP", 
+    "donations": {
+        "SEARA ALIMENTOS LTDA.": 300000.0, 
+        "JBS S/A": 300000.0, 
+        "PARTIDO DO MOVIMENTO DEMOCRATICO BRASILEIRO": 250000.0, 
+        "CONSTRUTORA SANCHES TRIPOLONI LTDA.": 200000.0, 
+        "LOCAV LOCADORA LTDA": 60000.0
+    }, 
+    "party": "PR", 
+    "fullname": "PAULO ROBERTO FREIRE DA COSTA", 
+    "total": 2527829.0, 
+    "election_id": 2233, 
+    "similars": [
+        "Remidio da Amatur (PR, RR) - Deputado Federal", 
+        "Alfredo Nascimento (PR, AM) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Evangélica"
+    ]
+}

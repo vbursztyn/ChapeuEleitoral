@@ -1,0 +1,17 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Marcell Moraes"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000528.jpg", 
+    "state": "BA", 
+    "donations": {
+        "CONSTRUTORA NORBERTO ODEBRECHT S.A": 75000.0, 
+        "BRASKEM S.A ": 10000.0
+    }, 
+    "party": "PV", 
+    "fullname": "MARCELL CARVALHO DE MORAES", 
+    "total": 151951.0, 
+    "election_id": 43043
+}

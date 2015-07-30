@@ -1,0 +1,26 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Heitor Schuch"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000000575.jpg", 
+    "state": "RS", 
+    "donations": {
+        "PHILIP MORRIS BRASIL INDUSTRIA E COMERCIO LTDA": 50000.0, 
+        "CETREL LUMINA TECNOLOGIA E ENGENHARIA AMBIENTAL LTDA": 50000.0, 
+        "QUANTIQ DISTRIBUIDORA LTDA": 10000.0
+    }, 
+    "party": "PSB", 
+    "fullname": "HEITOR JOSE SCHUCH", 
+    "total": 502600.0, 
+    "election_id": 4012, 
+    "similars": [
+        "Eduardo Braga (PMDB, AM) - Governador", 
+        "Giovani Feltes (PMDB, RS) - Deputado Federal", 
+        "Any Ortiz (PPS, RS) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Sindicalista"
+    ]
+}

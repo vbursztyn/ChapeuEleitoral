@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Carlos Antônio", 
+        "Carlos Antonio"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/GO/foto/90000000783.jpg", 
+    "state": "GO", 
+    "donations": {
+        "BRADESCO SAUDE S.A": 50000.0, 
+        "RIMA INDUSTRIAL S;A": 15000.0
+    }, 
+    "party": "SD", 
+    "fullname": "CARLOS ANTÔNIO DE SOUSA COSTA", 
+    "total": 152800.0, 
+    "election_id": 77123, 
+    "similars": [
+        "Ernesto Roller (PMDB, GO) - Deputado Estadual", 
+        "Bruno Peixoto (PMDB, GO) - Deputado Estadual"
+    ]
+}

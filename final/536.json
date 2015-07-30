@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Chiquinho da Mangueira"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000002517.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "ROF COMERCIAL IMPEX EIRELI ": 500000.0, 
+        "CARIOCA CHRISTIANI NIELSEN ENGENHARIA S A ": 300000.0, 
+        "CERVEJARIA PETROPOLIS S/A ": 100000.0
+    }, 
+    "party": "PMN", 
+    "fullname": "FRANCISCO MANOEL DE CARVALHO", 
+    "total": 1069847.71, 
+    "election_id": 33345, 
+    "similars": [
+        "Marcus Vicente (PP, ES) - Deputado Federal"
+    ]
+}

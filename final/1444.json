@@ -1,0 +1,22 @@
+{
+    "status": "NÃO ELEITO", 
+    "searchable": [
+        "Iris Rezende"
+    ], 
+    "title": "Governador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/GO/foto/90000000608.jpg", 
+    "state": "GO", 
+    "donations": {
+        "BRF SA": 519637.16, 
+        "AMIL ASSISTENCIA MEDICA INTERNACIONAL SA": 450000.0, 
+        "JBS SA": 400000.0, 
+        "OAS SA": 300000.0, 
+        "CONSTRUTORA TRIUNFO SA": 200000.0, 
+        "CONSTRUTORA CENTRAL DO BRASIL": 99978.03, 
+        "BELCAR  VEICULOS LTDA": 10000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "IRIS REZENDE MACHADO", 
+    "total": 8967499.63, 
+    "election_id": 15
+}

@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Maria do Rosário"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000000334.jpg", 
+    "state": "RS", 
+    "donations": {
+        "ENGEMIX ENGENHARIA S/A ": 145000.0, 
+        "LIQUIPART VILA VELHA S/A ": 95000.0, 
+        "GERDAU AÇOS ESPECIAIS S/A ": 38000.0, 
+        "CONSTRUTORA QUEIROZ GALVÃO S/A ": 37500.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S/A ": 33250.0, 
+        "BANCO BTG PACTUAL S/A ": 7500.0
+    }, 
+    "party": "PT", 
+    "fullname": "MARIA DO ROSÁRIO NUNES", 
+    "total": 1294751.3, 
+    "election_id": 1370, 
+    "stands": [
+        "Bancada Feminina"
+    ]
+}

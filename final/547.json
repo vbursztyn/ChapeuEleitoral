@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Pedro Ruas"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000000025.jpg", 
+    "state": "RS", 
+    "donations": {
+        "COMPANHIA ZAFFARI COMERCIO INDUSTRIA": 40000.0, 
+        "MAXION COM TRANSP. LTDA": 30000.0, 
+        "ALINO & ROBERTO E ADVOGADOS": 20000.0
+    }, 
+    "party": "PSOL", 
+    "fullname": "PEDRO LUIZ FAGUNDES RUAS", 
+    "total": 170131.0, 
+    "election_id": 50000, 
+    "similars": [
+        "Luciana Genro (PSOL, BR) - Presidente", 
+        "Roberto Robaina (PSOL, RS) - Governador", 
+        "José Ivo Sartori (PMDB, RS) - Governador"
+    ]
+}

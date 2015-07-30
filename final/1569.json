@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Pedro Lupion"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000114.jpg", 
+    "state": "PR", 
+    "donations": {
+        "CR ALMEIDA SA ENGENHARIA DE OBRAS": 399560.0, 
+        "COSAN LUBRIFICANTES E ESPECIALIDADES S.A.": 199880.0, 
+        "SALINOR - SALINAS DO NORDESTE S.A.": 100000.0, 
+        "ALESAT COMBUSTIVEIS S.A.": 100000.0, 
+        "BRADESCO LEASING S.A. ARRENDAMENTO MERCANTIL": 99900.0, 
+        "QUANTIQ DISTRIBUIDORA LTDA": 79910.0, 
+        "COMPANHIA BRASILEIRA DE CARTUCHOS": 74900.0, 
+        "FORJAS TAURUS SA": 74900.0, 
+        "SPAL INDUSTRIA BRASILEIRA DE BEBIDAS S.A.": 49900.0
+    }, 
+    "party": "DEM", 
+    "fullname": "PEDRO DEBONI LUPION MELLO", 
+    "total": 2051134.65, 
+    "election_id": 25055
+}

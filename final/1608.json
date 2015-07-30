@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Stefano Aguiar"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000001189.jpg", 
+    "state": "MG", 
+    "donations": {
+        "COMPUMARKET COMUNICACAO DE DADOS IND COM E REPRES LTDA": 80000.0, 
+        "PHV ENGENHARIA LTDA": 10000.0, 
+        "BRADESCO VIDA E PREVIDENCIA S/A": 10000.0
+    }, 
+    "party": "PSB", 
+    "fullname": "STEFANO AGUIAR DOS SANTOS", 
+    "total": 390185.35, 
+    "election_id": 4044, 
+    "stands": [
+        "Bancada Evangélica"
+    ]
+}

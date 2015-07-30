@@ -1,0 +1,17 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Mauro Moraes"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000084.jpg", 
+    "state": "PR", 
+    "donations": {
+        "CONSTRUTORA ANDRADE GUTIERREZ S.A. --( MATRIZ).": 25000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S. A.-- (FILIAL).": 20000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "MAURO RAFAEL MORAES E SILVA", 
+    "total": 439520.23, 
+    "election_id": 45655
+}

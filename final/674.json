@@ -1,0 +1,32 @@
+{
+    "status": "NÃO ELEITO", 
+    "searchable": [
+        "Lidice da Mata"
+    ], 
+    "title": "Governador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000176.jpg", 
+    "state": "BA", 
+    "donations": {
+        "JBS S.A.": 1050000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ": 500000.0, 
+        "BANCO SANTANDER S/A": 500000.0, 
+        "C R ALMEIDA S/A - ENGENHARIA DE OBRAS": 450000.0, 
+        "AROSUCO AROMAS E SUCOS LTDA": 250000.0, 
+        "CONSTRUTORA OAS S/A": 250000.0, 
+        "SAEPAR SERVIÇOS E PARTICIPAÇÕES S/A": 250000.0, 
+        "VIDA PREVIDÊNCIA S/A": 250000.0, 
+        "LOGIMED DISTRIBUIDORA SOCIEDADE EMPRESARIAL LIMITADA": 200000.0, 
+        "CIA RIO GRANDENSE DE VALORIZACAO DE RESIDUOS": 200000.0, 
+        "CERVEJARIA PETROPOLIS S/A": 100000.0, 
+        "CENCOSUD BRASIL COMERCIAL LTDA": 60000.0, 
+        "BRASKEM S/A": 60000.0
+    }, 
+    "party": "PSB", 
+    "fullname": "LIDICE DA MATA E SOUZA", 
+    "total": 5720550.04, 
+    "election_id": 40, 
+    "similars": [
+        "Luciano Pimentel (PSB, SE) - Deputado Estadual"
+    ], 
+    "stands": []
+}

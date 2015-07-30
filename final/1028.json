@@ -1,0 +1,18 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Léo do PT"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AC/foto/10000000163.jpg", 
+    "state": "AC", 
+    "donations": {
+        "CONSTRUTORA OAS SA": 25000.0, 
+        "FRIOS VILHENA IMP. E EXP. LTDA": 10000.0
+    }, 
+    "party": "PT", 
+    "fullname": "LEONARDO CUNHA DE BRITO", 
+    "total": 737073.0, 
+    "election_id": 1331, 
+    "stands": []
+}

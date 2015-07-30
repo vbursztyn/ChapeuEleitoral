@@ -1,0 +1,26 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Luiz Nishimori"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000181.jpg", 
+    "state": "PR", 
+    "donations": {
+        "JBS S/A": 400000.0, 
+        "SEARA ALIMENTOS LTDA": 300000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S/A": 225000.0, 
+        "PARTIDO DO MOVIMENTO DEMOCRATICO BRASILEIRO": 100000.0, 
+        "BRADESCO VIDA E PREVIDENCIA S.A.": 100000.0, 
+        "COSAN LUBRIFICANTES E ESPECIALIDADES S.A.": 100000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ SA": 20000.0
+    }, 
+    "party": "PR", 
+    "fullname": "LUIZ HILOSHI NISHIMORI", 
+    "total": 2466817.17, 
+    "election_id": 2222, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

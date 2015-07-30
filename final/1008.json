@@ -1,0 +1,29 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Junior Mochi"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MS/foto/120000000275.jpg", 
+    "state": "MS", 
+    "donations": {
+        "IACO AGRICOLA S/A": 350000.0, 
+        "VALE ENERGIA S/A": 107500.0, 
+        "ADECOAGRO VALE DO IVINHEMA S.A. ": 100000.0, 
+        "JBS S/A": 82500.0, 
+        "AMGL COMERCIO DE MATERIAIS ELETRICOS E HIDRAULICOS LTDA": 80000.0, 
+        "CONSTRUTORA BRASILIA GUAIBA LTDA": 77000.0, 
+        "COSAN LUBRIFICANTES E ESPECIALIDADES S.A. ": 25000.0, 
+        "MINERACOES BRASILEIRAS REUNIDAS S A MBR ": 23750.0, 
+        "GUIZARDI JUNIOR CONSTRUTORA E INCORPORADORA LTDA - EPP ": 5000.0, 
+        "H2L EQUIPAMENTOS E SISTEMAS LTDA": 5000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "OSWALDO MOCHI JUNIOR", 
+    "total": 1065900.0, 
+    "election_id": 15555, 
+    "similars": [
+        "Lidio Lopes (PEN, MS) - Deputado Estadual", 
+        "Marun (PMDB, MS) - Deputado Federal"
+    ]
+}

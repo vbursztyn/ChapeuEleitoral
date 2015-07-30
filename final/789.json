@@ -1,0 +1,17 @@
+{
+    "status": "NÃO ELEITO", 
+    "searchable": [
+        "Luiz Pitiman"
+    ], 
+    "title": "Governador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/DF/foto/70000000984.jpg", 
+    "state": "DF", 
+    "donations": {
+        "VIA ENGENHARIA SA": 930600.0, 
+        "ODEBRACHP OLEO E GÁS S/A": 31530.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "LUIZ CARLOS PIETSCHMANN", 
+    "total": 2479433.53, 
+    "election_id": 45
+}

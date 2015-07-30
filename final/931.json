@@ -1,0 +1,18 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Camila Toscano"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PB/foto/150000000425.jpg", 
+    "state": "PB", 
+    "donations": {
+        "ALPARGATAS S.A.": 100000.0, 
+        "ITAÚ UNIBANCO S/A": 10000.0, 
+        "VIA ENGENHARIA LTDA": 6849.31
+    }, 
+    "party": "PSDB", 
+    "fullname": "CAMILA ARAÚJO TOSCANO DE MORAES", 
+    "total": 295117.26, 
+    "election_id": 45123
+}

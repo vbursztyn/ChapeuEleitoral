@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "José Aldemir"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PB/foto/150000000417.jpg", 
+    "state": "PB", 
+    "donations": {
+        "VIA ENGENHARIA": 56849.31, 
+        "CCB CONTRUTORA CENTRAL DO BRASIL": 50000.0
+    }, 
+    "party": "PEN", 
+    "fullname": "JOSÉ ALDEMIR MEIRELES DE ALMEIDA", 
+    "total": 277227.31, 
+    "election_id": 51666, 
+    "similars": [
+        "Maria do Carmo (DEM, SE) - Senador", 
+        "Geraldo Resende (PMDB, MS) - Deputado Federal", 
+        "Eduardo Amorim (PSC, SE) - Governador"
+    ]
+}

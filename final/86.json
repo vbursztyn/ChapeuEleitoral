@@ -1,0 +1,18 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Rafael Motta"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RN/foto/200000000152.jpg", 
+    "state": "RN", 
+    "donations": {
+        "CRBS S.A.": 400000.0, 
+        "CONSTRUTORA QUEIROZ GALVÃO": 150000.0
+    }, 
+    "party": "PROS", 
+    "fullname": "RAFAEL HUETE DA MOTTA", 
+    "total": 674833.2, 
+    "election_id": 9090, 
+    "stands": []
+}

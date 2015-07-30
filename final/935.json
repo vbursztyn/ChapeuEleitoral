@@ -1,0 +1,28 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Fabio Silva"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000001608.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "CONSTRUTORA OAS S.A.": 720000.0, 
+        "HOSPITAL SANTA PAULA LTDA.": 650000.0, 
+        "BTG PACTUAL ASSET MANAGEMENT S.A. - DTVM-RJ": 500000.0, 
+        "CONSTRUTORA ANDRADE GUITIERREZ S.A.": 500000.0, 
+        "OAS S.A.": 400000.0, 
+        "RECOFARMA INDUSTRIA DO AMAZONAS LTDA.": 250000.0, 
+        "BANCO BTG PACTUAL S.A.": 200000.0, 
+        "MINERAÇÃO CORUMBAENSE REUNIDAS S.A·": 200000.0, 
+        "CRBS S.A.": 150000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "FABIO FRANCISCO DA SILVA", 
+    "total": 3570000.0, 
+    "election_id": 15300, 
+    "similars": [
+        "Julio Cezar (PSDB, AL) - Governador", 
+        "Alvaro Dias (PMDB, RN) - Deputado Estadual"
+    ]
+}

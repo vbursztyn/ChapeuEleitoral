@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Roberto Alves"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001260.jpg", 
+    "state": "SP", 
+    "donations": {
+        "PARTIDO REPUBLICANO BRASILEIRO - PRB ": 5000.0
+    }, 
+    "party": "PRB", 
+    "fullname": "BENEDITO ROBERTO ALVES FERREIRA", 
+    "total": 144899.25, 
+    "election_id": 1078, 
+    "similars": [
+        "Fausto Pinato (PRB, SP) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Sindicalista", 
+        "Bancada Evangélica"
+    ]
+}

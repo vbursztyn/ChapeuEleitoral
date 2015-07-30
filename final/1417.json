@@ -1,0 +1,27 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Arnaldo Faria de Sá"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000002344.jpg", 
+    "state": "SP", 
+    "donations": {
+        "SPAL - IND BRASILEIRA DE BEBIDAS S/A": 250000.0, 
+        "AMIL ASS MEDICA INTERNACIONAL SA": 200000.0, 
+        "COMPANHIA BRASILEIRA DE CARTUCHOS": 130000.0, 
+        "BRADESCO VIDA & PREVIDENCIA S/A": 100000.0, 
+        "BRADESCO SAUDE SA": 100000.0, 
+        "COSAN LUBRIFICANTES E ESPECIALIDADES S/A": 100000.0, 
+        "EUROFARMA LABORATÓRIOS S/A": 100000.0, 
+        "JSL S/A": 90000.0, 
+        "HYPERMARCAS S/A": 60000.0, 
+        "SOROCABA REFRESCOS S/A": 50000.0, 
+        "VAHRCAV PARTICIPAÇÕES LTDA": 6750.0
+    }, 
+    "party": "PTB", 
+    "fullname": "ARNALDO FARIA DE SÁ", 
+    "total": 1925128.97, 
+    "election_id": 1452, 
+    "stands": []
+}

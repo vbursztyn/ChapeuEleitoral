@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Guto Silva"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000808.jpg", 
+    "state": "PR", 
+    "donations": {
+        "DIREÇÃO NACIONAL": 32876.81, 
+        "P P - PARTIDO PROGRESSISTA": 10000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ": 10000.0, 
+        "BRADESCO SAUDE S/A": 10000.0
+    }, 
+    "party": "PSC", 
+    "fullname": "LUIZ AUGUSTO SILVA", 
+    "total": 656618.74, 
+    "election_id": 20222, 
+    "similars": [
+        "Francisco Buhrer (PSDB, PR) - Deputado Estadual", 
+        "Luciano Ducci (PSB, PR) - Deputado Federal", 
+        "Elio Rusch (DEM, PR) - Deputado Estadual"
+    ]
+}

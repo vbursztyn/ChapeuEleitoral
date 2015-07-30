@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Firmino Paulo"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PI/foto/180000000078.jpg", 
+    "state": "PI", 
+    "donations": {
+        "CONSTRUTORA ANDRADE GUTIERREZ S/A": 49500.0, 
+        "KLABIN S.A": 33000.0, 
+        "BANCO BTG PACTUAL SA": 30000.0, 
+        "ODEBRECHT OLEO E GAS S/A": 19500.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "FIRMINO SOARES PAULO", 
+    "total": 481503.0, 
+    "election_id": 45145, 
+    "similars": [
+        "Artagao Junior (PMDB, PR) - Deputado Estadual", 
+        "Marden Menezes (PSDB, PI) - Deputado Estadual", 
+        "Dilma (PT, BR) - Presidente"
+    ]
+}

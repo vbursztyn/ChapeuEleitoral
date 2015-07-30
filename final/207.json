@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Edson Magalhães"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/ES/foto/80000000685.jpg", 
+    "state": "ES", 
+    "donations": {
+        "GRI - GERENCIAMENTO DE RESIDUOS INDUSTRIAIS S/A": 100000.0, 
+        "CCM - CONSTRUTORA CENTRO MINAS LTDA": 36076.0, 
+        "ORGUEL - ORGANIZACAO GUERRA LAJES LTDA": 13000.0, 
+        "CONSTRUTORA NORBERTO ODEBRECHT SA": 12000.0
+    }, 
+    "party": "DEM", 
+    "fullname": "EDSON FIGUEIREDO MAGALHÃES", 
+    "total": 399399.64, 
+    "election_id": 25123, 
+    "similars": [
+        "Ferraço (DEM, ES) - Deputado Estadual", 
+        "Elio Rusch (DEM, PR) - Deputado Estadual"
+    ]
+}

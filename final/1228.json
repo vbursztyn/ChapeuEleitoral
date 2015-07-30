@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Ricardo Tripoli"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001322.jpg", 
+    "state": "SP", 
+    "donations": {
+        "CONSTRUTORA OAS S/A": 570000.0, 
+        "BRADESCO VIDA E PREVIDENCIA S/A": 153338.92, 
+        "AMIL ASSISTENCIA MEDICA INTERNACIONAL S/A": 95000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "JOSÉ RICARDO ALVARENGA TRIPOLI", 
+    "total": 1731513.92, 
+    "election_id": 4565, 
+    "stands": []
+}

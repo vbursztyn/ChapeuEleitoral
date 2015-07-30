@@ -1,0 +1,27 @@
+{
+    "status": "ELEITO", 
+    "searchable": [
+        "Collor"
+    ], 
+    "title": "Senador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AL/foto/20000000199.jpg", 
+    "state": "AL", 
+    "donations": {
+        "TEMPO SERVIÇOS LTDA": 400000.0, 
+        "BRASKEM S.A": 121469.8, 
+        "QUANTIQ DISTRIBUIDORA LTDA": 100000.0
+    }, 
+    "party": "PTB", 
+    "fullname": "FERNANDO AFFONSO COLLOR DE MELLO", 
+    "total": 2070569.34, 
+    "election_id": 144, 
+    "similars": [
+        "Remidio da Amatur (PR, RR) - Deputado Federal", 
+        "Aurelina (PSDB, RR) - Deputado Estadual", 
+        "Chico Guerra (PROS, RR) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada da Comunicação"
+    ]
+}

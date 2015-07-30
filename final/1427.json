@@ -1,0 +1,18 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Jordy"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PA/foto/140000000934.jpg", 
+    "state": "PA", 
+    "donations": {
+        "ELEICAO 2014 COMITE FINANCEIRO PA UNICO PSDB": 125000.0, 
+        "PARTIDO SOCIALISTA BRASILEIRO": 100000.0
+    }, 
+    "party": "PPS", 
+    "fullname": "ARNALDO JORDY FIGUEIREDO", 
+    "total": 538314.84, 
+    "election_id": 2323, 
+    "stands": []
+}

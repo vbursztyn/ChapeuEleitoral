@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO", 
+    "searchable": [
+        "Acir Gurgacz"
+    ], 
+    "title": "Senador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RO/foto/220000000189.jpg", 
+    "state": "RO", 
+    "donations": {
+        "JBS S/A": 833328.0, 
+        "CONSTRUTORA NORBERTO ODEBRECHT S/A": 100000.0, 
+        "BRADESCO VIDA E PREVIDENCIA S/A": 60751.72, 
+        "CRBS S/A": 38060.51
+    }, 
+    "party": "PDT", 
+    "fullname": "ACIR MARCOS GURGACZ", 
+    "total": 4218141.16, 
+    "election_id": 123, 
+    "stands": [
+        "Bancada Ruralista", 
+        "Bancada da Comunicação"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Marquinhos Trad"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MS/foto/120000000254.jpg", 
+    "state": "MS", 
+    "donations": {
+        "SALOBO METAIS SA": 80000.0, 
+        "JBS S/A": 70000.0, 
+        "BRF S/A": 50000.0, 
+        "MINERAÇÕES BRASILEIRAS REUNIDAS SA MBR": 40000.0, 
+        "CONSTRUTORA BRASILIA GUAIBA LTDA": 40000.0, 
+        "H2L EQUIPAMENTOS E SISTEMA LTDA": 5000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "MARCOS MARCELLO TRAD", 
+    "total": 1077787.91, 
+    "election_id": 15800, 
+    "similars": [
+        "Dr Gilson Andrade (PTC, SE) - Deputado Estadual", 
+        "Mauricio Picarelli (PMDB, MS) - Deputado Estadual"
+    ]
+}

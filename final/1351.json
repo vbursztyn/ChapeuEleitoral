@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Mauricio Picarelli"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MS/foto/120000000265.jpg", 
+    "state": "MS", 
+    "donations": {
+        "IACO AGRICOLA S/A": 100000.0, 
+        "JBS S/A": 50000.0, 
+        "H2L EQUIPAMENTOS E SISTEMAS LTDA": 45000.0, 
+        "ADECOAGRO VALE DO IVINHEMA S.A": 20000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "MAURICIO PICARELLI", 
+    "total": 635026.63, 
+    "election_id": 15715
+}

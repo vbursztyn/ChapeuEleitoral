@@ -1,0 +1,24 @@
+{
+    "status": "NÃO ELEITO", 
+    "searchable": [
+        "Requiao", 
+        "Requião"
+    ], 
+    "title": "Governador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000324.jpg", 
+    "state": "PR", 
+    "donations": {
+        "BTG PACTUAL COMERCIALIZADORA DE ENERGIA LTDA": 1000000.0, 
+        "JBS SA": 900000.0, 
+        "OAS S.A.": 500000.0, 
+        "AMIL ASSISTENCIA MEDICA INTERNACIONAL SA": 200000.0, 
+        "GERDAU AÇOS ESPECIAIS SA": 200000.0, 
+        "CRBS SA": 200000.0, 
+        "KLABIN SA": 100000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "ROBERTO REQUIAO DE MELLO E SILVA", 
+    "total": 10270238.43, 
+    "election_id": 15, 
+    "stands": []
+}

@@ -1,0 +1,28 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Antonio Brito"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000120.jpg", 
+    "state": "BA", 
+    "donations": {
+        "BRADESCO CAPITALIZAÇÃO S.A": 300000.0, 
+        "REDE D'OR SÃO LUIZ S.A.": 300000.0, 
+        "BRADESCO LEASING S.A. - ARRENDAMENTO MERCANTIL": 200000.0, 
+        "AMIL ASSISTENCIA MEDICA INTERNACIONAL S.A": 154987.0, 
+        "BRASKEM S.A": 100000.0, 
+        "IN-HAUS SERVIÇOS DE LOGISTICA LTDA": 70000.0, 
+        "SEVENN PARTICIPAÇÕES E INVESTIMENTOS LTDA": 24500.0
+    }, 
+    "party": "PTB", 
+    "fullname": "ANTONIO LUIZ PARANHOS RIBEIRO LEITE DE BRITO", 
+    "total": 1293228.98, 
+    "election_id": 1410, 
+    "similars": [
+        "Benito Gama (PTB, BA) - Deputado Federal", 
+        "Katia Abreu (PMDB, TO) - Senador", 
+        "Mário Negromonte Jr (PP, BA) - Deputado Federal"
+    ], 
+    "stands": []
+}

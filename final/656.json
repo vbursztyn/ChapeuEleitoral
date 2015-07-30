@@ -1,0 +1,33 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Luis Tibe"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000001091.jpg", 
+    "state": "MG", 
+    "donations": {
+        "JBS S/A": 465000.0, 
+        "PARTIDO TRABALHISTA DO BRASIL - MG": 350000.0, 
+        "PARTIDO DO MOVIMENTO DEMOCRÁTICO BRASILEIRO - PMDB": 140000.0, 
+        "PARTIDO TRABALHISTA DO BRASIL DF": 50000.0, 
+        "CONSTRUTORA NORBERTO ODEBRECHT SA": 49475.0, 
+        "CRBS SA": 45000.0, 
+        "BRADESCO ADMINISTRADORA DE CONSÓRCIO LTDA": 30000.0, 
+        "U & M MINERAÇÃO E COSNTRUÇÃO S.A": 25642.57, 
+        "TRD SERVICOS A LTDA": 23642.47, 
+        "EPO - EMPREENDIMENTOS· PARTICIPAÇÕES E OBRAS LTDA": 21360.0, 
+        "PARTIDO DA REPÚBLICA - PR": 8000.0, 
+        "BRADESCO CAPITALIZAÇÃO SA": 7000.0
+    }, 
+    "party": "PT do B", 
+    "fullname": "LUIS HENRIQUE DE OLIVEIRA RESENDE", 
+    "total": 2068391.59, 
+    "election_id": 7070, 
+    "similars": [
+        "Joaquim Passarinho (PSD, PA) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

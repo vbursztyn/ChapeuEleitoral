@@ -1,0 +1,17 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Joaquim Passarinho"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PA/foto/140000000942.jpg", 
+    "state": "PA", 
+    "donations": {
+        "CONSTRURORA NORBERTO ODEBRECHT S/A": 50000.0, 
+        "ENGETERRA LTDA": 8000.0
+    }, 
+    "party": "PSD", 
+    "fullname": "JOAQUIM PASSARINHO PINTO DE SOUZA PORTO", 
+    "total": 341088.66, 
+    "election_id": 5555
+}

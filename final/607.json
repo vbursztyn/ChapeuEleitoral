@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Alexandre Baldy"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/GO/foto/90000000744.jpg", 
+    "state": "GO", 
+    "donations": {
+        "MINERAÇÃO SERRA GRANDE SA": 200000.0, 
+        "RECOFARMA IND.DO AMAZONAS LTDA": 200000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "ALEXANDRE BALDY DE SANT'ANNA BRAGA", 
+    "total": 5484143.06, 
+    "election_id": 4555, 
+    "similars": [
+        "Daniel Vilela (PMDB, GO) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

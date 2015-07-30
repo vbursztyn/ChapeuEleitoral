@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Cesar Halum"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/TO/foto/270000000296.jpg", 
+    "state": "TO", 
+    "donations": {
+        "BRADESCO VIDA E PREVIDENCIA S. A.": 200000.0, 
+        "COM DE COMB E DERIV DE PETROLEO FAROL": 5452.25
+    }, 
+    "party": "PRB", 
+    "fullname": "CESAR HANNA HALUM", 
+    "total": 759685.59, 
+    "election_id": 1010, 
+    "similars": [
+        "Eduardo Siqueira Campos (PTB, TO) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista", 
+        "Bancada Evangélica"
+    ]
+}

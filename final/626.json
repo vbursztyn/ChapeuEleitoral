@@ -1,0 +1,25 @@
+{
+    "status": "NÃO ELEITO", 
+    "searchable": [
+        "Marcelo Crivella"
+    ], 
+    "title": "Governador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000001406.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "JBS S/A": 2039640.94, 
+        "SALOBO METAIS S/A": 1000000.0, 
+        "MAZZINI ADMINISTRAÇÃO E EMPREITAS LTDA": 200000.0, 
+        "CARIOCA CHRISTIANI NIELSEN ENGENHARIA S·A": 100000.0, 
+        "GRANADA INVESTIMENTOS IMOBILIARIOS LTDA": 100000.0
+    }, 
+    "party": "PRB", 
+    "fullname": "MARCELO BEZERRA  CRIVELLA", 
+    "total": 6669257.59, 
+    "election_id": 10, 
+    "similars": [
+        "Alex Manente (PPS, SP) - Deputado Federal", 
+        "Reginaldo Lopes (PT, MG) - Deputado Federal", 
+        "Davi Zaia (PPS, SP) - Deputado Estadual"
+    ]
+}

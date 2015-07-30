@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Maria Lúcia Amary"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001518.jpg", 
+    "state": "SP", 
+    "donations": {
+        "PONTO VEICULOS LTDA": 100000.0, 
+        "ARCOS DOURADOS COMERCIO DE ALIMENTOS LTDA": 100000.0, 
+        "DROGARIA SAO PAULO S/A": 50000.0, 
+        "COSAN LUBRIFICANTES E ESPECIALIDADES S/A": 50000.0, 
+        "BRADESCO VIDA E PREVIDENCIA S/A": 5419.46
+    }, 
+    "party": "PSDB", 
+    "fullname": "MARIA LUCIA CARDOSO PINTO AMARY", 
+    "total": 675756.78, 
+    "election_id": 45114, 
+    "similars": [
+        "Sandro Regis (DEM, BA) - Deputado Estadual", 
+        "Márcio Biolchi (PMDB, RS) - Deputado Federal", 
+        "Pedro Fernandes (SD, RJ) - Deputado Estadual"
+    ]
+}

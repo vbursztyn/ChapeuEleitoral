@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Pedro Tavares"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000753.jpg", 
+    "state": "BA", 
+    "donations": {
+        "CERVEJARIA PETROPOLIS S.A": 272675.21, 
+        "CMT ENGENHARIA LTDA": 100000.0, 
+        "CONSTRUTORA NORBERTO ODEBRECHT S.A": 100000.0, 
+        "BRASKEM S.A": 80000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "PEDRO PAULO TAVARES BATISTA DE MELLO E SILVA", 
+    "total": 647931.22, 
+    "election_id": 15678, 
+    "similars": [
+        "Luis Tibe (PT do B, MG) - Deputado Federal", 
+        "Joaquim Passarinho (PSD, PA) - Deputado Federal"
+    ]
+}

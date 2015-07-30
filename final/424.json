@@ -1,0 +1,33 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Eduardo da Fonte"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PE/foto/170000000046.jpg", 
+    "state": "PE", 
+    "donations": {
+        "GL EMPREENDIMENTOS LTDA": 220000.0, 
+        "MD PE EMPRESARIAL AGAMENON CONSTRUÇÕES LTDA": 200000.0, 
+        "JBS S.A ": 156125.0, 
+        "DIRETORIO ESTADUAL DO PARTIDO SOCIALISTA BRASILEIRO-PSB": 142200.0, 
+        "MINERAÇÃO CORUMBAENSE REUDA S.A": 100000.0, 
+        "BANCO BTG PACTUAL S.A": 100000.0, 
+        "ACQUA MINERALE EMPREENDIMENTOS IMOBILIARIOS LTDA": 100000.0, 
+        "MD PE AGUIAR CONSTRUÇÕES LTDA": 50000.0, 
+        "MD PE BEACH CLASS EXECUTIVE LTDA": 50000.0, 
+        "MD PE PARQUE BOA VIAGEM CONSTRUÇÕES LTDA": 50000.0, 
+        "MD PE NOVO HORIZONTE CONSTRUÇÕES LTDA": 50000.0, 
+        "SOLAR.BR PARTICIPAÇÕES SA": 49500.0
+    }, 
+    "party": "PP", 
+    "fullname": "EDUARDO HENRIQUE DA FONTE DE ALBUQUERQUE SILVA", 
+    "total": 2712255.18, 
+    "election_id": 1111, 
+    "similars": [
+        "Nilton Mota (PSB, PE) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

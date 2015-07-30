@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Guilherme Maluf"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MT/foto/110000000111.jpg", 
+    "state": "MT", 
+    "donations": {
+        "ADRIANA COMERCIO· EXPORTAÇÃO E CEREALISTA LTDA.": 30000.0, 
+        "GALVÃO ENGENHARIA S/A.": 30000.0, 
+        "PARTIDO DEMOCRÁTICO TRABALHISTA": 8400.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "GUILHERME ANTONIO MALUF", 
+    "total": 998328.2, 
+    "election_id": 45000, 
+    "similars": [
+        "Fabio Garcia (PSB, MT) - Deputado Federal", 
+        "Wancley (PV, MT) - Deputado Estadual", 
+        "Nilson Leitão (PSDB, MT) - Deputado Federal", 
+        "Professor Victório Galli (PSC, MT) - Deputado Federal"
+    ]
+}

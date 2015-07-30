@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Abdala Fraxe"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AM/foto/40000000021.jpg", 
+    "state": "AM", 
+    "donations": {
+        "AUXILIO AGENCIAMENTO DE RECURSOS HUMANOS E SERVICOS LTDA": 200000.0, 
+        "TECON TECNOLOGIA EM CONSTRUÇÕES LTDA.": 30000.0, 
+        "PANASONIC DO BRASIL LIMITADA": 20631.25, 
+        "VILA ENGENHARIA LTDA": 6500.0
+    }, 
+    "party": "PTN", 
+    "fullname": "ABDALA HABIB FRAXE JUNIOR", 
+    "total": 479393.25, 
+    "election_id": 19000, 
+    "similars": [
+        "Bi Garcia (PSDB, AM) - Deputado Estadual", 
+        "Cabo Maciel (PR, AM) - Deputado Estadual"
+    ]
+}

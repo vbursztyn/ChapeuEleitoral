@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Gilberto Abramo"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000001021.jpg", 
+    "state": "MG", 
+    "donations": {
+        "BRADESCO LEASING S/A": 49037.19, 
+        "DIAS BRANCO ADMINISTRAÇÃO E PARTICIPAÇÕES LTDA": 23275.0, 
+        "EMPROL LOCADORA E EMPREENDIMENTO LTDA": 20000.0, 
+        "MINERAÇÕES BRASILEIRAS REUNIDAS": 11772.15, 
+        "CERVEJARIA PETROPOLIS S/A": 8000.0
+    }, 
+    "party": "PRB", 
+    "fullname": "GILBERTO APARECIDO ABRAMO", 
+    "total": 291637.04, 
+    "election_id": 10100, 
+    "similars": [
+        "Carlos Henrique (PRB, MG) - Deputado Estadual"
+    ]
+}

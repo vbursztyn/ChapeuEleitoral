@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Soldado Joel da Harpa"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PE/foto/170000000581.jpg", 
+    "state": "PE", 
+    "donations": {
+        "JBS S/A": 72500.0, 
+        "DROGARIA ROSARIO S/A": 30000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ SA": 20000.0, 
+        "AMIL ASSISTENCIA MEDICA INTERNACIONAL S.A. ": 15000.0, 
+        "SOLAR BR PARTICIPAÇÕES S. A.": 10000.0
+    }, 
+    "party": "PROS", 
+    "fullname": "JOEL MAURINO DO CARMO", 
+    "total": 191290.0, 
+    "election_id": 90300, 
+    "similars": [
+        "Leonardo Quintão (PMDB, MG) - Deputado Federal"
+    ]
+}

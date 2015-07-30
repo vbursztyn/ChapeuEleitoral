@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Cidinha Campos"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000002405.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "TALLENTO STANDS CONSTRUTORA LTDA.": 300000.0, 
+        "JBS S/A": 271000.0, 
+        "CARIOCA CHRISTIANI NIELSEN ENGENHARIA": 249935.0, 
+        "CERVEJARIA PETRÓPOLIS S/A": 100000.0, 
+        "CONSTRUTORA QUEIROZ GALVÃO S/A": 100000.0, 
+        "AVANTE VEÍCULOS LTDA.": 100000.0, 
+        "HYDRA ENGENHARIA E SANEAMENTO LTDA": 50000.0, 
+        "ARCELORMITTAL BRASIL S.A.": 50000.0
+    }, 
+    "party": "PDT", 
+    "fullname": "MARIA APARECIDA CAMPOS STRAUS", 
+    "total": 1488119.12, 
+    "election_id": 12212
+}

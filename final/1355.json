@@ -1,0 +1,18 @@
+{
+    "status": "ELEITO", 
+    "searchable": [
+        "Ricardo Coutinho"
+    ], 
+    "title": "Governador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PB/foto/150000000052.jpg", 
+    "state": "PB", 
+    "donations": {
+        "ALPARGATAS S/A": 4275000.0, 
+        "CONSTRUTORA QUEIROZ GALVAO S/A": 950000.0, 
+        "VIA ENGENHARIA S/A": 743544.0
+    }, 
+    "party": "PSB", 
+    "fullname": "RICARDO VIEIRA COUTINHO", 
+    "total": 13028775.6, 
+    "election_id": 40
+}

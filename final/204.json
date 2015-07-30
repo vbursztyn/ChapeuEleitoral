@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Tovar"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PB/foto/150000000432.jpg", 
+    "state": "PB", 
+    "donations": {
+        "CONSTRUTORA ODEBRECHT": 50000.0, 
+        "CONSTRUTORA SANCHES TRIPOLONI LTDA ": 50000.0, 
+        "VIA ENGENHARIA S.A": 6849.31
+    }, 
+    "party": "PSDB", 
+    "fullname": "TOVAR ALVES CORREIA LIMA", 
+    "total": 248242.91, 
+    "election_id": 45100, 
+    "similars": [
+        "Pimenta da Veiga (PSDB, MG) - Governador", 
+        "Leopoldo Meyer (PSB, PR) - Deputado Federal", 
+        "Edmilson Soares (PEN, PB) - Deputado Estadual"
+    ]
+}

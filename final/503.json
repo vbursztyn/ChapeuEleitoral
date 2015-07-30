@@ -1,0 +1,40 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Paulinho da Força"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000000839.jpg", 
+    "state": "SP", 
+    "donations": {
+        "JBS S.A.": 797238.5, 
+        "CRBS S/A": 309000.0, 
+        "SEARA ALIMENTOS": 175451.25, 
+        "CONSTRUTORA NORBERTO ODEBRECHT S/A": 138062.0, 
+        "BGT PACTUAL ASSISTS. MANAGENT": 135500.0, 
+        "CARIOCA C. NIELSEN GRUPO": 93787.7, 
+        "GERDAU AÇOS ESPECIAIS S.A.": 50000.0, 
+        "AZTECA INCORPORADORA": 40201.0, 
+        "BRASKEM S.A.": 39375.0, 
+        "C.A. GUTIERREZ S.A.": 30000.0, 
+        "BANCO BMG S.A": 30000.0, 
+        "USIMINAS-USINAS SID. MG S/A": 19246.0, 
+        "QUEIROZ GALVÃO": 15000.0, 
+        "CAVAN PRÉ-MOLDADOS S.A.": 12500.0, 
+        "TICKET SERVIÇOS S/A": 11000.0, 
+        "SUZANO PAPEL E CELULOSE S/A": 11000.0, 
+        "ENGESIG IND.E COMÉRCIO": 9000.0, 
+        "R.C.VIEIRA": 5775.0
+    }, 
+    "party": "SD", 
+    "fullname": "PAULO PEREIRA DA SILVA", 
+    "total": 2859448.5, 
+    "election_id": 7777, 
+    "similars": [
+        "Kelps Lima (SD, RN) - Deputado Estadual", 
+        "Alexandre Pereira (SD, SP) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Sindicalista"
+    ]
+}

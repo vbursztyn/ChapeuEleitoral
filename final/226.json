@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Delegado Waldir"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/GO/foto/90000000739.jpg", 
+    "state": "GO", 
+    "donations": {
+        "SAMA S.A MINERAÇÕES ASSOCIADAS": 20000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "WALDIR SOARES DE OLIVEIRA", 
+    "total": 373249.72, 
+    "election_id": 4500, 
+    "stands": [
+        "Bancada da Segurança"
+    ]
+}

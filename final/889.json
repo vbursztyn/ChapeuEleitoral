@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Marden Menezes"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PI/foto/180000000084.jpg", 
+    "state": "PI", 
+    "donations": {
+        "GRANDE MOINHO CEARENSE SA": 80000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ SA": 49500.0, 
+        "KLABIN S.A.": 33000.0, 
+        "BANCO BTG PACTUAL S.A": 30000.0, 
+        "ODEBRECHT OLEO E GÁS S/A": 19500.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "MARDEN LUIS BRITO CAVALCANTE E MENESES", 
+    "total": 572537.78, 
+    "election_id": 45555, 
+    "similars": [
+        "Dr. Hélio (PTC, PI) - Deputado Estadual"
+    ]
+}

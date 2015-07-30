@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Henrique Arantes"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/GO/foto/90000000914.jpg", 
+    "state": "GO", 
+    "donations": {
+        "TELEMONT ENGENHARIA DE TELECOMUNICAÇOES S.A": 350000.0, 
+        "CRBS S/A": 159500.0, 
+        "RECOFARMA INDUSTRIA DO AMAZONAS LTDA": 50000.0, 
+        "MINERAÇAO SERRA GRANDE SA": 30000.0
+    }, 
+    "party": "PTB", 
+    "fullname": "HENRIQUE PAULISTA ARANTES", 
+    "total": 818154.61, 
+    "election_id": 14141, 
+    "similars": [
+        "Daniel Vilela (PMDB, GO) - Deputado Federal", 
+        "Alexandre Baldy (PSDB, GO) - Deputado Federal"
+    ]
+}

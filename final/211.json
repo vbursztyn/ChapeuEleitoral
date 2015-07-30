@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Julio Cesar (PRB)", 
+        "Julio Cesar Ribeiro", 
+        "Julio Ribeiro"
+    ], 
+    "title": "Deputado Distrital", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/DF/foto/70000000591.jpg", 
+    "state": "DF", 
+    "donations": {
+        "CONSTRUTORA NORBERTO ODEBRECHT S A": 51185.0
+    }, 
+    "party": "PRB", 
+    "fullname": "JULIO CESAR RIBEIRO", 
+    "total": 220379.75, 
+    "election_id": 10123, 
+    "similars": [
+        "Augusto Castro (PSDB, BA) - Deputado Estadual", 
+        "Pedro Tavares (PMDB, BA) - Deputado Estadual", 
+        "Luis Tibe (PT do B, MG) - Deputado Federal", 
+        "Joaquim Passarinho (PSD, PA) - Deputado Federal"
+    ]
+}

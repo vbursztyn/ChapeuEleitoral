@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Coronel Camilo"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000002597.jpg", 
+    "state": "SP", 
+    "donations": {
+        "CONSTRUTORA QUEIROZ GALVAO S/A": 240000.0, 
+        "FLORA PRODUTOS DE HIGIENE E LIMPEZA SA": 50000.0, 
+        "JBS S/A": 50000.0, 
+        "CR ALMEIDA S.A. ENGENHARIA DE OBRAS": 6183.0
+    }, 
+    "party": "PSD", 
+    "fullname": "ALVARO BATISTA CAMILO", 
+    "total": 413137.77, 
+    "election_id": 55190
+}

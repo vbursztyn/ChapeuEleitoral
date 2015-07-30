@@ -1,0 +1,17 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Miguel Lombardi"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000000694.jpg", 
+    "state": "SP", 
+    "donations": {
+        "JBS S/A.": 100000.0
+    }, 
+    "party": "PR", 
+    "fullname": "MIGUEL LOMBARDI", 
+    "total": 195145.51, 
+    "election_id": 2277, 
+    "stands": []
+}

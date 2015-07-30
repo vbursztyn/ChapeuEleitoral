@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Zé Maurício"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PE/foto/170000000576.jpg", 
+    "state": "PE", 
+    "donations": {
+        "QUEIROZ GALVAO DESENV IMOBILIARIO SA": 75000.0, 
+        "UTC ENGENHARIA": 50000.0, 
+        "CONSTRUTORA COLARES LINHARES S A": 50000.0, 
+        "COSAN LUBRIF ESP LTDA": 30000.0, 
+        "CIA BRASILEIRA DE METALURGIA E MINERACAO": 30000.0, 
+        "CONSTRUTORA QUEIROZ GALVAO": 10000.0
+    }, 
+    "party": "PP", 
+    "fullname": "JOSE MAURICIO VALLADAO CAVALCANTI FERREIRA", 
+    "total": 475185.95, 
+    "election_id": 11111, 
+    "similars": [
+        "Pastor Cleiton Collins (PP, PE) - Deputado Estadual"
+    ]
+}

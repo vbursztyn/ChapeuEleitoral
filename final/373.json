@@ -1,0 +1,17 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Professor Rinaldo"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MS/foto/120000000060.jpg", 
+    "state": "MS", 
+    "donations": {
+        "BRF S/A": 65000.0, 
+        "JBS S/A": 8302.5
+    }, 
+    "party": "PSDB", 
+    "fullname": "RINALDO MODESTO DE OLIVEIRA", 
+    "total": 328197.03, 
+    "election_id": 45045
+}

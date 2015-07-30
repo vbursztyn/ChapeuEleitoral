@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Augusto Carvalho"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/DF/foto/70000000441.jpg", 
+    "state": "DF", 
+    "donations": {
+        "MINERAÇÕES BRASILEIRAS REUNIDAS S/A MBR": 100000.0, 
+        "BRADESCO VIDA E PREVIDENCIA S. A": 50000.0
+    }, 
+    "party": "SD", 
+    "fullname": "AUGUSTO SILVEIRA DE CARVALHO", 
+    "total": 481280.09, 
+    "election_id": 7777, 
+    "stands": [
+        "Bancada Sindicalista"
+    ]
+}

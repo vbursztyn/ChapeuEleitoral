@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO", 
+    "searchable": [
+        "Lasier Martins"
+    ], 
+    "title": "Senador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000000283.jpg", 
+    "state": "RS", 
+    "donations": {
+        "CARIOCA CRISTIANE N ENGENHARIA SA": 150000.0, 
+        "GERDAU AÇOS ESPECIAIS SA": 99900.0, 
+        "CRBS SA": 50000.0, 
+        "QUANTIQ DISTRIBUIDORA LTDA": 25000.0, 
+        "PHILIP MORRIS BRASIL": 20900.0
+    }, 
+    "party": "PDT", 
+    "fullname": "LASIER COSTA MARTINS", 
+    "total": 866274.45, 
+    "election_id": 123, 
+    "stands": []
+}

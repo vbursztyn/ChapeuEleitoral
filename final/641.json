@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Professor Lemos"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000971.jpg", 
+    "state": "PR", 
+    "donations": {
+        "PARTIDO DOS TRABALHADORES ": 129200.0, 
+        "ELITE IMPRESSAO DIGITAL LTDA - ME": 5000.0
+    }, 
+    "party": "PT", 
+    "fullname": "JOSÉ RODRIGUES LEMOS", 
+    "total": 664253.81, 
+    "election_id": 13013, 
+    "similars": [
+        "Christiane Yared (PTN, PR) - Deputado Federal", 
+        "Atila (PC do B, SP) - Deputado Estadual"
+    ]
+}

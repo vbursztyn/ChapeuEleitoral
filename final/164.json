@@ -1,0 +1,28 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Mariana Carvalho"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RO/foto/220000000030.jpg", 
+    "state": "RO", 
+    "donations": {
+        "PARTIDO SOCIAL DEMOCRATICO": 100000.0, 
+        "HANGAR EMPRESARIAL EMPREENDIMENTOS IMOBILIARIOS": 70000.0, 
+        " BAHIANA DISTRIBUIDORA DE GÁS LTDA": 50000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "MARIANA FONSECA RIBEIRO CARVALHO DE MORAES", 
+    "total": 892647.0, 
+    "election_id": 4545, 
+    "similars": [
+        "Alex da Piatã (PMDB, BA) - Deputado Estadual", 
+        "Glaucione (PSDC, RO) - Deputado Estadual", 
+        "Cassio Cunha Lima (PSDB, PB) - Governador", 
+        "Jô Moraes (PC do B, MG) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada da Saúde", 
+        "Bancada Feminina"
+    ]
+}

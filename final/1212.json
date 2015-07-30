@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Dimas Fabiano"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000663.jpg", 
+    "state": "MG", 
+    "donations": {
+        "JBS S/A": 900000.0, 
+        "FLORA PRODUTOS DE HIGIENE E LIMPEZA S.A": 100000.0, 
+        "FBS CONSTRUÇÃO CIVIL E PAVIMENTAÇÃO LTDA": 100000.0, 
+        "BRADESCO SAÚDE S/A": 49945.0
+    }, 
+    "party": "PP", 
+    "fullname": "DIMAS FABIANO TOLEDO JÚNIOR", 
+    "total": 2607639.02, 
+    "election_id": 1111, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

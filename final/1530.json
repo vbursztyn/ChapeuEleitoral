@@ -1,0 +1,37 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Iracema Portella"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PI/foto/180000000261.jpg", 
+    "state": "PI", 
+    "donations": {
+        "IMAPI INDUSTRIA & COMERCIO LTDA": 1100000.0, 
+        "JBS S/A": 695000.0, 
+        "AGRO ENERGIA SANTA LUZIA S.A": 499000.0, 
+        "PORTO SEGURO COMPANHIA DE SEGUROS GERAIS ": 470000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S.A": 250000.0, 
+        "MINERAÇÕES BRASILEIRAS REUNIDAS S.A MBR": 200000.0, 
+        "ARCOS DOURADOS COMERCIO DE ALIMENTOS LTDA": 150000.0, 
+        "AMIL ASSISTENCIA MEDICA INTERNACIONAL S.A": 127000.0, 
+        "SINNENCIO SISTEMA INTELIGENTE DE ENGENHARIA LTDA": 100000.0, 
+        "GOCIL SERVICOS DE VIGILANCIA E SEGURANCA LTDA": 60000.0, 
+        "VALE ENERGIA S.A": 50000.0, 
+        "ENGEFORM CONSTRUÇOES E COMERCIO LTDA": 25000.0, 
+        "COSAN LUBRIFICANTES E ESPECIALIDADES S.A": 20000.0, 
+        "CONSTRUTORA COLARES LINHARES S.A": 20000.0, 
+        "BANCO SAFRA S.A": 18000.0, 
+        "CONSTRUTORA OAS S.A": 15500.0, 
+        "IGUATEMI EMPRESA DE SHOPPING CENTERS S/A": 9500.0
+    }, 
+    "party": "PP", 
+    "fullname": "IRACEMA MARIA PORTELLA NUNES NOGUEIRA LIMA", 
+    "total": 6723539.5, 
+    "election_id": 1111, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista", 
+        "Bancada Feminina"
+    ]
+}

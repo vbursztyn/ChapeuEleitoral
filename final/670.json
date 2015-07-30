@@ -1,0 +1,28 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Cristiane Brasil"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000001460.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "FLORA PRODUTOS DE HIGIENE E LIMPEZA S.A.": 2000000.0, 
+        "JBS S/A": 1985200.0, 
+        "CONSTRUTORA ZADAR LTDA": 500000.0, 
+        "CARIOCA CHRISTIANI NIELSEN  ENGENHARIA S A": 350000.0, 
+        "CERVEJARIA PETROPOLIS S A": 166000.0, 
+        "HECIO GOMES ENGENHARIA LTDA": 150000.0, 
+        "MINERADORA CORUMBAENSE REUNIDA S/A": 50000.0
+    }, 
+    "party": "PTB", 
+    "fullname": "CRISTIANE BRASIL FRANCISCO", 
+    "total": 5365728.32, 
+    "election_id": 1414, 
+    "similars": [
+        "Bebeto Tetra (SD, RJ) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Feminina"
+    ]
+}

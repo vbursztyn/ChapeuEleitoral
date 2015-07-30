@@ -1,0 +1,27 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Professor Lupercio"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PE/foto/170000000297.jpg", 
+    "state": "PE", 
+    "donations": {
+        "LIDERMAC CONSTRUÇÃO E EQUIPAMENTOS": 40000.0, 
+        "CONSTRUTORA NORBERTO ODEBRECHT S/A": 30000.0, 
+        "GALVÃO ENGENHARIA S/A": 30000.0, 
+        "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES IMOBILIÁRIOS": 25000.0, 
+        "PONTO VEICULO LTDA": 20000.0, 
+        "RIO SUCURIU ENERGIA S/A": 10000.0, 
+        "TRAIL INFRAESTRUTURA LTDA": 10000.0
+    }, 
+    "party": "SD", 
+    "fullname": "LUPERCIO CARLOS DO NASCIMENTO", 
+    "total": 165000.0, 
+    "election_id": 77123, 
+    "similars": [
+        "Sandro Regis (DEM, BA) - Deputado Estadual", 
+        "Masamy Eda (PMDB, RR) - Deputado Estadual", 
+        "Jorge Everton (PMDB, RR) - Deputado Estadual"
+    ]
+}

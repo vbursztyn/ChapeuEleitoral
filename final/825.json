@@ -1,0 +1,30 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Goulart (PSD)", 
+        "Antônio Goulart", 
+        "deputado federal Goulart"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000002182.jpg", 
+    "state": "SP", 
+    "donations": {
+        "JBS S/A": 200000.0, 
+        "HEATING E COOLING TECNOLOGIA TERMICA LTDA": 200000.0, 
+        "IPIRANGA PRODUTOS DE PETROLEO S/A": 50000.0, 
+        "BOA VISTA DESENVOLVIMENTO LTDA": 12890.0, 
+        "CAÇAPAVA EMPREITADA DE LAVOR LTDA": 7500.0, 
+        "ITAU UNIBANCO S.A.": 6540.0, 
+        "CR ALMEIDA ENGENHARIA DE OBRAS ": 6183.0, 
+        "TEMPO SERVIÇOS LTDA": 5363.25
+    }, 
+    "party": "PSD", 
+    "fullname": "ANTONIO GOULART DOS REIS", 
+    "total": 947085.43, 
+    "election_id": 5580, 
+    "similars": [
+        "Padilha (PT, SP) - Governador", 
+        "Luiz Fernando (PP, MG) - Deputado Federal"
+    ], 
+    "stands": []
+}

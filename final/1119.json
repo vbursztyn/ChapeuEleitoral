@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Rafael Picciani"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000001617.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "RIO DE JANEIRO REFRESCOS LTDA": 300000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S/A": 250000.0, 
+        "CONSTRUTORA OAS SA": 250000.0, 
+        "VALE SUL PAVIMENTACAO E MINERACAO LTDA": 200000.0, 
+        "HOSP RIO MATERIAL HOSPITALAR LTDA": 150000.0, 
+        "CARIOCA CHRISTIANI NIELSEN ENGENHARIA LTDA": 100000.0, 
+        "POSTO BOA VIAGEM 4 LTDA - ME": 100000.0, 
+        "BTG PACTUAL GESTORA DE RECURSOS LTDA": 50000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "RAFAEL CARNEIRO MONTEIRO PICCIANI", 
+    "total": 1659094.17, 
+    "election_id": 15159
+}

@@ -1,0 +1,29 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Bilac Pinto"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000687.jpg", 
+    "state": "MG", 
+    "donations": {
+        "JBS S.A.": 300000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S/A": 300000.0, 
+        "SEARA ALIMENTOS LTDA.": 150000.0, 
+        "GERDAU AÇOS ESPECIAIS S.A": 50000.0, 
+        "ECOVIX - ENGEVIX CONSTRUÇÕES OCEÂNICAS S/A": 50000.0
+    }, 
+    "party": "PR", 
+    "fullname": "OLAVO BILAC PINTO NETO", 
+    "total": 2090314.57, 
+    "election_id": 2245, 
+    "similars": [
+        "Mauricio Quintella (PR, AL) - Deputado Federal", 
+        "Alexandre Pereira (SD, SP) - Deputado Estadual", 
+        "Wellington Roberto (PR, PB) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

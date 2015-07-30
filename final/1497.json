@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO", 
+    "searchable": [
+        "Rose de Freitas"
+    ], 
+    "title": "Senador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/ES/foto/80000000426.jpg", 
+    "state": "ES", 
+    "donations": {
+        "VALE ENERGIA S.A": 300000.0, 
+        "CONSTRUTORA TRIUNFO S/A": 200000.0, 
+        "J. B. S. S/A": 200000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ SA": 200000.0, 
+        "CONSTRUTORA OAS S/A": 150000.0, 
+        "AMIL ASSISTENCIA MEDICA INTERNACIONAL SA": 100000.0, 
+        "BRASTERRA EMPRENDIMENTOS IMOBILIARIOS LTDA": 100000.0, 
+        "G. M. S. B. S. PRESTAÇÃO DE SERVIÇOS S/A": 100000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "ROSILDA DE FREITAS", 
+    "total": 4974841.0, 
+    "election_id": 156, 
+    "stands": []
+}

@@ -1,0 +1,27 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Pedro Tobias"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001559.jpg", 
+    "state": "SP", 
+    "donations": {
+        "ROMARELHO CONSTRUCOES LTDA": 160000.0, 
+        "ENCAVE BAHIA ENG.E EQUIP.LTDA": 110000.0, 
+        "CONSTRUTECKMA ENG S/A": 100000.0, 
+        "ALVBOND IND E COMERCIO LTDA": 100000.0, 
+        "GTP GRUPO TECNICO DE PROJETOS SS LTDA": 100000.0, 
+        "CADRI IND E COM DE FORROS METALICOS LTDA": 50000.0, 
+        "TERRA NOVA ENGENHARIA CONSTRUCOES LTDA": 10500.0, 
+        "AROSUCOS E SUCOS LTDA": 9000.0, 
+        "BRADESCO VIDA E PREVIDENCIA SA": 5419.46
+    }, 
+    "party": "PSDB", 
+    "fullname": "PEDRO TOBIAS", 
+    "total": 1303442.55, 
+    "election_id": 45100, 
+    "similars": [
+        "Fausto Pinato (PRB, SP) - Deputado Federal"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Professora Dorinha"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/TO/foto/270000000287.jpg", 
+    "state": "TO", 
+    "donations": {
+        "GPO-GESTÃO DE PROJETOS E OBRAS LTDA.": 100000.0, 
+        "CRBS S.A ": 70000.0, 
+        "AGMIX CONCRETO LTDA": 40000.0, 
+        "REDE INTERNACIONAL DE UNIVERSIDADES LAUREATE LTDA": 10000.0
+    }, 
+    "party": "DEM", 
+    "fullname": "MARIA AUXILIADORA SEABRA REZENDE", 
+    "total": 778346.29, 
+    "election_id": 2580, 
+    "similars": [
+        "Atila Lira (PSB, PI) - Deputado Federal", 
+        "Mandetta (DEM, MS) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Feminina"
+    ]
+}

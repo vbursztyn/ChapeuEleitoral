@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Macedo (PSL)", 
+        "Macedo (PSL/CE)"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/CE/foto/60000000792.jpg", 
+    "state": "CE", 
+    "donations": {
+        "FUJICOM COMÉRCIO DE MATERIAIS HOSPITALARES E IMPORTAÇÃO LTDA": 20000.0
+    }, 
+    "party": "PSL", 
+    "fullname": "JOSE MARIA MACEDO JUNIOR", 
+    "total": 1021000.0, 
+    "election_id": 1777, 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

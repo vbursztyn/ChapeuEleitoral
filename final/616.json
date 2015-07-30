@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "JHC"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AL/foto/20000000183.jpg", 
+    "state": "AL", 
+    "donations": {
+        "BRADESCO VIDA E PREVIDENCIA S.A": 45000.0, 
+        "BRASKEN S.A.": 30000.0
+    }, 
+    "party": "SD", 
+    "fullname": "JOÃO HENRIQUE HOLANDA CALDAS", 
+    "total": 763500.0, 
+    "election_id": 7777, 
+    "stands": [
+        "Bancada Evangélica"
+    ]
+}

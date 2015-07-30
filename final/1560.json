@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Léo Portela"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000008.jpg", 
+    "state": "MG", 
+    "donations": {
+        "JBS SA": 327200.0, 
+        "CONSTRUTORA MARINS LTDA": 30000.0, 
+        "CCM CONSTRUTORA CENTRO MINAS LTDA": 20000.0, 
+        "JG MAQUINAS LTDA EPP": 5000.0
+    }, 
+    "party": "PR", 
+    "fullname": "LEONARDO MORREALE DINIZ PORTELA", 
+    "total": 451760.05, 
+    "election_id": 22333
+}

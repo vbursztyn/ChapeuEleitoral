@@ -1,0 +1,18 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Campos Machado"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000002439.jpg", 
+    "state": "SP", 
+    "donations": {
+        "CERVEJARIA PETROPOLIS S.A.": 485000.0, 
+        "TRAIL INFRAESTRUTURA LTDA": 300000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S/A": 270000.0
+    }, 
+    "party": "PTB", 
+    "fullname": "ANTONIO CARLOS DE CAMPOS MACHADO", 
+    "total": 2398563.37, 
+    "election_id": 14140
+}

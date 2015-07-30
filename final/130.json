@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Lincoln Portela"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000683.jpg", 
+    "state": "MG", 
+    "donations": {
+        "JBS SA": 1500000.0, 
+        "STRADA ENGENHARIA LTDA": 30000.0
+    }, 
+    "party": "PR", 
+    "fullname": "LINCOLN DINIZ PORTELA", 
+    "total": 1629742.03, 
+    "election_id": 2233, 
+    "stands": [
+        "Bancada Ruralista", 
+        "Bancada Evangélica"
+    ]
+}

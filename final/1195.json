@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Trocolli Jr"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PB/foto/150000000163.jpg", 
+    "state": "PB", 
+    "donations": {
+        "OAS ENGENHARIA E PARTICIPAÇÕES S/A": 100000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S/A": 80000.0, 
+        "AMIL ASSISTENCIA MEDICA INTERNACIONAL S/A": 50000.0, 
+        "BRADESCO SAÚDE S/A": 17466.67
+    }, 
+    "party": "PMDB", 
+    "fullname": "HUMBERTO TROCOLLI JUNIOR", 
+    "total": 327071.53, 
+    "election_id": 15123
+}

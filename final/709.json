@@ -1,0 +1,28 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Keiko Ota"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001436.jpg", 
+    "state": "SP", 
+    "donations": {
+        "JSL S/A": 200000.0, 
+        "JBS S/A": 136000.0, 
+        "CIFERAL INDUSTRIA DE ONIBUS LTDA": 50000.0, 
+        "MINERAÇÃO VALE DO ARAGUAIA": 47951.58, 
+        "AMIL ASSISTENCIA MEDICA INTERNACIONAL S/A": 5419.46
+    }, 
+    "party": "PSB", 
+    "fullname": "IOLANDA KEIKO MIASHIRO OTA", 
+    "total": 556803.16, 
+    "election_id": 4096, 
+    "similars": [
+        "Danilo Cabral (PSB, PE) - Deputado Federal", 
+        "Fernando Bezerra Coelho (PSB, PE) - Senador"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Feminina"
+    ]
+}

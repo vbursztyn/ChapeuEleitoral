@@ -1,0 +1,13 @@
+span.highlightedPolitician-inner {
+	border-bottom: 3px solid #85D08B !important;
+	box-shadow: inset 0 -5px 0 #85D08B !important;
+}
+
+/*.highlightedPolitician-info hr {
+	size:1px !important;
+	width:90% !important;
+	margin-top:1px !important;
+	margin-bottom:1px !important;
+}*/
+
+

@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Adolfo Menezes"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000357.jpg", 
+    "state": "BA", 
+    "donations": {
+        "BRASKEM S/A": 40000.0, 
+        "RIO CLARO AGROINDUSTRIAL S.A.": 30000.0, 
+        "FIBRIA CELULOSE S/A": 30000.0, 
+        "ANDRADE GALVAO ENGENHARIA LTDA": 15000.0
+    }, 
+    "party": "PSD", 
+    "fullname": "ADOLFO EMANUEL MONTEIRO DE MENEZES", 
+    "total": 273873.0, 
+    "election_id": 55111
+}

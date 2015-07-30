@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Álvaro Porto"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PE/foto/170000000690.jpg", 
+    "state": "PE", 
+    "donations": {
+        "BRASKEN S.A.": 225000.0, 
+        "AMIL ASSISTENCIA MEDICA INTERNACIONAL S.A": 50000.0, 
+        "BIOLAB SANUS FARMACEUTICA LTDA": 50000.0, 
+        "SERVE VALE BATERIAS LTDA": 50000.0
+    }, 
+    "party": "PTB", 
+    "fullname": "ÁLVARO PORTO DE BARROS", 
+    "total": 623430.0, 
+    "election_id": 14000
+}

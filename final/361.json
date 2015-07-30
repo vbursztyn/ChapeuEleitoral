@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Gelson Merisio"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SC/foto/240000000255.jpg", 
+    "state": "SC", 
+    "donations": {
+        "WEG EQUIPAMENTOS ELETRICOS S/A": 300000.0, 
+        "JBS S/A": 300000.0, 
+        "ARCELORMITTAL BRASIL S.A.": 200000.0, 
+        "CONENGE SC CONTR ENGENHARIA LTDA": 50000.0, 
+        "CLARICE ELETRODOMESTICOS LTDA": 24365.0
+    }, 
+    "party": "PSD", 
+    "fullname": "GELSON LUIZ MERISIO", 
+    "total": 2378409.18, 
+    "election_id": 55123, 
+    "similars": [
+        "Chiodini (PMDB, SC) - Deputado Estadual"
+    ]
+}

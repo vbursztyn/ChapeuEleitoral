@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Nilton Capixaba"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RO/foto/220000000247.jpg", 
+    "state": "RO", 
+    "donations": {
+        "JBS S/A": 248950.0
+    }, 
+    "party": "PTB", 
+    "fullname": "NILTON BALBINO", 
+    "total": 624089.53, 
+    "election_id": 1406, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista", 
+        "Bancada Evangélica"
+    ]
+}

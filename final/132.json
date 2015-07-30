@@ -1,0 +1,32 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Floriano Pesaro"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001320.jpg", 
+    "state": "SP", 
+    "donations": {
+        "CRBS S/A": 95000.0, 
+        "EVEN CONSTRUTORA E INCORPORADORA S/A": 74500.0, 
+        "SAFRA LEASING SA ARRENDAMENTO MERCANTIL": 50000.0, 
+        "CONSTRUTORA CRONACON LTDA.": 45000.0, 
+        "PAPA LIX PLASTICOS E DESCARTAVEIS LTDA ": 30000.0, 
+        "M A S  CONSTRUÇÕES E EMPREENDIMENTOS LIMITADA": 25000.0, 
+        "FATOR EMPREENDIMENTOS E PARTICIPACOES LTDA": 20000.0, 
+        "TGL TRANSPORTES· GUINDASTES E LOCACOES LTDA": 10000.0, 
+        "BRADESCO VIDA E PREVIDÊNCIA S/A": 5419.46
+    }, 
+    "party": "PSDB", 
+    "fullname": "ANTONIO FLORIANO PEREIRA PESARO", 
+    "total": 2572639.07, 
+    "election_id": 4544, 
+    "similars": [
+        "Orlando Morando (PSDB, SP) - Deputado Estadual", 
+        "Eymael (PSDC, BR) - Presidente", 
+        "Eduardo Cunha (PMDB, RJ) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Cacau Lorenzoni"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/ES/foto/80000000109.jpg", 
+    "state": "ES", 
+    "donations": {
+        "JBS S/A.": 50000.0, 
+        "FLORA PROD. DE HIG. E LIMP. S/A": 30000.0, 
+        "MECAM IND. LOCAÇÃO DE EQUIP. P/ CONST. LT.": 10000.0
+    }, 
+    "party": "PP", 
+    "fullname": "JOAO CARLOS LORENZONI", 
+    "total": 194020.39, 
+    "election_id": 11000
+}

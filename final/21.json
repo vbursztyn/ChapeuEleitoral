@@ -1,0 +1,28 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Rodrigo Cunha"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AL/foto/20000000388.jpg", 
+    "state": "AL", 
+    "donations": {
+        "BRASKEM S/A": 60000.0, 
+        "ENGEMATLOC - TERRAPLANAGEM E LOCAÇÕES LTDA": 50000.0, 
+        "CONSTRUTORA OAS S.A.": 50000.0, 
+        "QUANTIQ DISTRIBUIDORA LTDA": 40000.0, 
+        "CONCREMAT ENGENHARIA E TECNOLOGIA S/A": 40000.0, 
+        "ENGENHARIA DE MATERIAIS LTDA": 40000.0, 
+        "CONSTRUTORA FERREIRA GUEDES S A": 20000.0, 
+        "ESTRE AMBIENTAL S/A": 13500.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "RODRIGO SANTOS CUNHA", 
+    "total": 549744.35, 
+    "election_id": 45888, 
+    "similars": [
+        "Camilo (PT, CE) - Governador", 
+        "Vanderlei Macris (PSDB, SP) - Deputado Federal", 
+        "Gilvan Barros Filho (PSDB, AL) - Deputado Estadual"
+    ]
+}

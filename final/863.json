@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Bebeto Tetra"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000000263.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "LIMPATCH SERVIÇOS E CONSTRUÇÕES LTDA": 100000.0, 
+        "BANCO BMG S/A": 99986.0, 
+        "CONSTRUTORA ZADAR LTDA ": 99986.0, 
+        "UTC ENGENHARIA": 49986.0, 
+        "HOSPITAL SANTA PAULA LTDA ": 30000.0
+    }, 
+    "party": "SD", 
+    "fullname": "JOSE ROBERTO GAMA DE OLIVIERA", 
+    "total": 677345.47, 
+    "election_id": 77777
+}

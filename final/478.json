@@ -1,0 +1,26 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "\"Souza\"", 
+        "Manoel Cunha Neto"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RN/foto/200000000230.jpg", 
+    "state": "RN", 
+    "donations": {
+        "DROGARIA ROSARIO S/A": 50000.0, 
+        "JBS S/A": 50000.0, 
+        "DROGARIAS PACHECO S/A": 50000.0, 
+        "BTG PACTUAL ASSET MANAGEMENT S.A. DISTRIBUIDORA DE TITULOS E VALORES MOBILIÁRIOS": 50000.0, 
+        "CONSTRUTORA QUEIROZ GALVÃO S A ": 25000.0
+    }, 
+    "party": "PHS", 
+    "fullname": "MANOEL CUNHA NETO", 
+    "total": 257354.84, 
+    "election_id": 31000, 
+    "similars": [
+        "Tomba (PSB, RN) - Deputado Estadual", 
+        "Giacobo (PR, PR) - Deputado Federal", 
+        "Soldado Joel da Harpa (PROS, PE) - Deputado Estadual"
+    ]
+}

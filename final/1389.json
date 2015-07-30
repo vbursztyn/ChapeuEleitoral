@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Cabo Sabino"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/CE/foto/60000000583.jpg", 
+    "state": "CE", 
+    "donations": {
+        "CONSTRUTORA SANCHES TRIPOLI TLDA": 77500.0
+    }, 
+    "party": "PR", 
+    "fullname": "FLAVIO ALVES SABINO", 
+    "total": 122176.4, 
+    "election_id": 2290, 
+    "stands": [
+        "Bancada da Segurança"
+    ]
+}

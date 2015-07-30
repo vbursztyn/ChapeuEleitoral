@@ -1,0 +1,27 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Benedita da Silva"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000000624.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "CERVEJARIA PRETOPOLIS S/A.": 90000.0, 
+        "AMIL ASSISTENCIA MÉDICA INTERNACIONAL S/A": 15000.0, 
+        "BRADESCO CAPITALIZAÇÃO S/A": 12500.0, 
+        "COSAR LUBRIFICANTES E ESPECIALIDADES S/A": 10000.0, 
+        "SEABRA EMPREENDIMENTOS IMOBILIARIOS ": 6500.0, 
+        "BRADESCO LEASING S/A": 6250.0, 
+        "CONSTRUTORA QUEIROZ GALVÃO S/A": 5000.0
+    }, 
+    "party": "PT", 
+    "fullname": "BENEDITA SOUZA DA SILVA SAMPAIO", 
+    "total": 721413.0, 
+    "election_id": 1377, 
+    "stands": [
+        "Bancada Feminina", 
+        "Bancada Sindicalista", 
+        "Bancada Evangélica"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Frederico Antunes"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000000689.jpg", 
+    "state": "RS", 
+    "donations": {
+        "CAPUA PROJETOS E CONSTRUÇÕES LTDA.": 99500.0, 
+        "CAMIL ALIMENTOS S/A": 58800.0, 
+        "IPIRANGA PRODUTOS DE PETRÓLEO S.A.": 49000.0, 
+        "PIRAHY ALIMENTOS LTDA": 39200.0, 
+        "GERDAU AÇOS ESPECIAIS S.A.": 39200.0, 
+        "PILECCO NOBRE ALIMENTOS LTDA": 29400.0, 
+        "LAVORO MÁQUINAS AGRICOLAS LTDA": 25000.0, 
+        "URBANO AGROINDÚSTRIA": 19600.0, 
+        "SLC ALIMENTOS LTDA": 19600.0, 
+        "COOPERATIVA ARROZEIRA EXTREMO SUL LTDA": 11760.0, 
+        "ARROZEIRA PELOTAS IND. E COM. DE CEREAIS LTDA": 9800.0, 
+        "CORADINI ALIMENTOS LTDA": 7840.0
+    }, 
+    "party": "PP", 
+    "fullname": "FREDERICO CANTORI ANTUNES", 
+    "total": 677887.66, 
+    "election_id": 11122, 
+    "similars": [
+        "Ana Paula (PT, SC) - Deputado Estadual"
+    ]
+}

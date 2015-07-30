@@ -1,0 +1,18 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Janio Mendes"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000002419.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "CONSTRUTORA QUEIROZ GAVÃO SA": 100000.0, 
+        "CARIOCA CHRISTIANI HIELSEN": 100000.0, 
+        "JBS S/A": 100000.0
+    }, 
+    "party": "PDT", 
+    "fullname": "JANIO DOS SANTOS MENDES", 
+    "total": 614487.5, 
+    "election_id": 12601
+}

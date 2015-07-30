@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Jose Adecio"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RN/foto/200000000172.jpg", 
+    "state": "RN", 
+    "donations": {
+        "JBS S/A.": 130000.0, 
+        "BTG PACTUAL ASSET MANAGEMENT S.A. DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS": 120000.0, 
+        "JSU SA.": 70000.0, 
+        "KOLETA AMBIENTAL LTDA ": 50000.0, 
+        "AROSUCO AROMAS E SUCO LTDA.": 30000.0
+    }, 
+    "party": "DEM", 
+    "fullname": "JOSÉ ADECIO COSTA", 
+    "total": 749409.0, 
+    "election_id": 25221, 
+    "similars": [
+        "Getulio Rego (DEM, RN) - Deputado Estadual"
+    ]
+}

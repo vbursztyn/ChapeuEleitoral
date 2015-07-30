@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Herculano Passos"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000002189.jpg", 
+    "state": "SP", 
+    "donations": {
+        "KMB DISTRIBUIDORA LTDA": 238160.0, 
+        "BRASIL TRADING LTDA": 201204.5, 
+        "CR ALMEIDA SA ENGENHARIA DE OBRAS": 6183.0
+    }, 
+    "party": "PSD", 
+    "fullname": "HERCULANO CASTILHO PASSOS JUNIOR", 
+    "total": 3502591.27, 
+    "election_id": 5555, 
+    "similars": [
+        "Rita Passos (PSD, SP) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

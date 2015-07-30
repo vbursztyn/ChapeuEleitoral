@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Bebeto"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000202.jpg", 
+    "state": "BA", 
+    "donations": {
+        "BRASKEN S/A": 146250.0
+    }, 
+    "party": "PSB", 
+    "fullname": "ADALBERTO SOUZA GALVAO", 
+    "total": 440435.14, 
+    "election_id": 4013, 
+    "stands": [
+        "Bancada Sindicalista"
+    ]
+}

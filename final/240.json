@@ -1,0 +1,31 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Augusto Castro"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000829.jpg", 
+    "state": "BA", 
+    "donations": {
+        "CONSTRUTORA NORBERTO ODEBRECHT": 105000.0, 
+        "PONTO VEÍCULO LTDA": 95000.0, 
+        "CONSTRUTORA OAS": 50000.0, 
+        "Direção Nacional": 50000.0, 
+        "BRADESCO VIDA": 30000.0, 
+        "CBPO ENGENHARIA LTDA": 30000.0, 
+        "UTC ENGENHARIA S.A": 25000.0, 
+        "BRASKEM S/A": 25000.0, 
+        "BRADESCO VIDA SAÚDE": 25000.0, 
+        "BRADESCO ADM CONSÓRCIOS LTDA": 25000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "AUGUSTO NARCISO CASTRO", 
+    "total": 970821.8, 
+    "election_id": 45670, 
+    "similars": [
+        "Shéridan (PSDB, RR) - Deputado Federal", 
+        "Pedro Cunha Lima (PSDB, PB) - Deputado Federal", 
+        "Joaquim Passarinho (PSD, PA) - Deputado Federal", 
+        "Bolçone (PSB, SP) - Deputado Estadual"
+    ]
+}

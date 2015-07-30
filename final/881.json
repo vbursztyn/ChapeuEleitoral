@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Major Rocha"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AC/foto/10000000607.jpg", 
+    "state": "AC", 
+    "donations": {
+        "CONSTRUTORA ETAN LTDA": 25000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "WHERLES FERNANDES DA ROCHA", 
+    "total": 125638.29, 
+    "election_id": 4545, 
+    "stands": [
+        "Bancada da Segurança"
+    ]
+}

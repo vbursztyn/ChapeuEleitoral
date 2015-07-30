@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Fernando Cury"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001613.jpg", 
+    "state": "SP", 
+    "donations": {
+        "SPAL INDUSTRIA BRASILEIRA DE BEBIDAS S/A": 97000.0, 
+        "VALE MINA AZUL S/A": 77800.0, 
+        "AROSUCO AROMAS E SUCOS LTDA": 60000.0, 
+        "SÃO MARTINHO S/A": 50000.0, 
+        "BANCO SAFRA S/A": 20000.0, 
+        "QUANTIC DISTRIBUIDORA LTDA": 9700.0, 
+        "BRADESCO VIDA E PREVIDENCIA S/A": 5419.46
+    }, 
+    "party": "PPS", 
+    "fullname": "FERNANDO HENRIQUE CURY", 
+    "total": 1188818.74, 
+    "election_id": 23456
+}

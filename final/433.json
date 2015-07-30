@@ -1,0 +1,29 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Osorio", 
+        "Osório"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000001566.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "RIO DE JANEIRO REFRESCOS LTDA": 200000.0, 
+        "PREMAG SISTEMA DE CONSTRUÇÕES LTDA": 108450.0, 
+        "PONTO VEICULOS LTDA": 100000.0, 
+        "BANCO PACTUAL SA": 100000.0, 
+        "FAGGA PROMOÇÃO DE EVENTOS SA": 50000.0, 
+        "GAFISA SA": 30000.0, 
+        "KLABIN SA": 30000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "CARLOS ROBERTO DE FIGUEIREDO OSORIO", 
+    "total": 2235009.25, 
+    "election_id": 15021, 
+    "similars": [
+        "Thiago Pampolha (PTC, RJ) - Deputado Estadual", 
+        "Márcio Biolchi (PMDB, RS) - Deputado Federal", 
+        "Pedro Fernandes (SD, RJ) - Deputado Estadual", 
+        "Sandro Regis (DEM, BA) - Deputado Estadual"
+    ]
+}

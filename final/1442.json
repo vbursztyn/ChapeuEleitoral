@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Rubens Otoni"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/GO/foto/90000000324.jpg", 
+    "state": "GO", 
+    "donations": {
+        "RECOFARMA INDUSTRIA DO AMAZONAS LTDA": 114000.0, 
+        "INSTITUTO CULTURAL NEWTON PAIVA FERREIRA LTDA": 38000.0, 
+        "JBS S/A": 5000.0
+    }, 
+    "party": "PT", 
+    "fullname": "RUBENS OTONI GOMIDE", 
+    "total": 1091442.41, 
+    "election_id": 1313, 
+    "stands": []
+}

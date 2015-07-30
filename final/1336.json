@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Rita Passos"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000002725.jpg", 
+    "state": "SP", 
+    "donations": {
+        "BRAZIL TRADING LTDA": 361550.0, 
+        "C.PMM PLANEJAMENTO DE MARKETING E MERCADO LTDA": 108285.0, 
+        "KMB DISTRIBUIDORA LTDA": 23775.0, 
+        "CR ALMEIDA SA ENGENHARIA DE OBRAS ": 6183.0
+    }, 
+    "party": "PSD", 
+    "fullname": "RITA DE CASSIA TRINCA PASSOS", 
+    "total": 2244360.43, 
+    "election_id": 55555
+}

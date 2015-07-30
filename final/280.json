@@ -1,0 +1,26 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Pedro Westphalen"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000000687.jpg", 
+    "state": "RS", 
+    "donations": {
+        "IPIRANGA PRODUTOS DE PETROLEO": 49000.0, 
+        "BRASKEM SA": 29400.0, 
+        "GERDAU AÇOS ESPECIAIS SA": 29400.0, 
+        "CVI REFRIGERANTES LTDA": 25000.0, 
+        "VASINOS DISTRIBUIDORA DE CALÇADOS LTDA": 15000.0, 
+        "CONSTRUTEKMA ENGENHARIA LTDA": 10000.0
+    }, 
+    "party": "PP", 
+    "fullname": "PEDRO BANDARRA WESTPHALEN", 
+    "total": 638660.0, 
+    "election_id": 11233, 
+    "similars": [
+        "Caruso (PMDB, SP) - Deputado Estadual", 
+        "Afonso Hamm (PP, RS) - Deputado Federal", 
+        "Luiz Fernando (PP, MG) - Deputado Federal"
+    ]
+}

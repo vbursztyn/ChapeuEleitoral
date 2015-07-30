@@ -1,0 +1,31 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Geraldo Resende"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MS/foto/120000000111.jpg", 
+    "state": "MS", 
+    "donations": {
+        "VALE ENERGIA SA ": 700000.0, 
+        "JBS S/A": 300000.0, 
+        "H2L EQUIPAMENTOS E SISTEMAS LTDA ": 100000.0, 
+        "COSAN LUBRIFICANTES E ESPECIALIDADES S/A": 50000.0, 
+        "IACO AGRICOLA S/A": 25000.0, 
+        "CONSTRUTORA CENTRAL DO BRASIL S/A": 10000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "GERALDO RESENDE PEREIRA", 
+    "total": 1593850.0, 
+    "election_id": 1511, 
+    "similars": [
+        "Junior Mochi (PMDB, MS) - Deputado Estadual", 
+        "Mauricio Picarelli (PMDB, MS) - Deputado Estadual", 
+        "Eduardo Rocha (PMDB, MS) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista", 
+        "Bancada da Saúde"
+    ]
+}

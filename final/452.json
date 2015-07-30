@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Moacir Sopelsa"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SC/foto/240000000308.jpg", 
+    "state": "SC", 
+    "donations": {
+        "PROSUL PROJETOS SUPERVISAO E PLANEJAMENTO LTDA": 50000.0, 
+        "PARTIDO DO MOVIMENTO DEMOCRATICO BRASILEIRO - DIRETORIO NACIONAL": 15000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "MOACIR SOPELSA", 
+    "total": 422842.0, 
+    "election_id": 15180, 
+    "similars": [
+        "Marcus Vicente (PP, ES) - Deputado Federal", 
+        "Chiodini (PMDB, SC) - Deputado Estadual", 
+        "de Nadal (PMDB, SC) - Deputado Estadual", 
+        "Ada de Luca (PMDB, SC) - Deputado Estadual"
+    ]
+}

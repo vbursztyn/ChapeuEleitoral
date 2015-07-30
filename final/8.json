@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Nelson Marquezelli"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000002343.jpg", 
+    "state": "SP", 
+    "donations": {
+        "BRADESCO VIDA E PREVIDENCIA S.A.": 25000.0
+    }, 
+    "party": "PTB", 
+    "fullname": "NELSON MARQUEZELLI", 
+    "total": 2563009.73, 
+    "election_id": 1434, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Pablo Barrozo"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000719.jpg", 
+    "state": "BA", 
+    "donations": {
+        "CONSTRUTORA NORBERTO ODEBRECHT": 250000.0, 
+        "ABRANTES AMBIENTAL LTDA": 215000.0, 
+        "REVITA ENGENHARIA S.A.": 100000.0, 
+        "J.MACEDO S.A": 100000.0
+    }, 
+    "party": "DEM", 
+    "fullname": "PABLO RODRIGO BARROZO DOS ANJOS VALE", 
+    "total": 929597.18, 
+    "election_id": 25678
+}

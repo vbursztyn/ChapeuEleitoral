@@ -1,0 +1,29 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Mara Gabrilli"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001328.jpg", 
+    "state": "SP", 
+    "donations": {
+        "BRADESCO LEASING S/A ARRENDAMENTO MERCANTIL": 120000.0, 
+        "DESTILARIA ALMEIDA S/A": 100000.0, 
+        "AMIL ASSISTENCIA INTERNACIONAL S/A": 50000.0, 
+        "BANCO SANTANDER": 40000.0, 
+        "BANCO SAFRA S/A": 30000.0, 
+        "BRADESCO VIDA E PREVIDENCIA S/A": 5419.46
+    }, 
+    "party": "PSDB", 
+    "fullname": "MARA CRISTINA GABRILLI", 
+    "total": 1641325.23, 
+    "election_id": 4517, 
+    "similars": [
+        "Duarte Nogueira (PSDB, SP) - Deputado Federal", 
+        "Fernando Cury (PPS, SP) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Feminina"
+    ]
+}

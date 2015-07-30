@@ -1,0 +1,31 @@
+{
+    "status": "ELEITO", 
+    "searchable": [
+        "Alvaro Dias", 
+        "Álvaro Dias"
+    ], 
+    "title": "Senador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000560.jpg", 
+    "state": "PR", 
+    "donations": {
+        "BRADESCO LEASING S.A. - ARRENDAMENTO MERCANTIL ": 250000.0, 
+        "PORTO SEGURO CIA DE SEGUROS GERAIS": 200000.0, 
+        "LONDRINA BEBIDAS LTDA": 150000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "ALVARO FERNANDES DIAS", 
+    "total": 2891605.2, 
+    "election_id": 456, 
+    "similars": [
+        "Iracema Portella (PP, PI) - Deputado Federal", 
+        "Ana Amelia Lemos (PP, RS) - Governador", 
+        "Rollemberg (PSB, DF) - Governador", 
+        "Carmen Zanotto (PPS, SC) - Deputado Federal", 
+        "Rodrigo de Castro (PSDB, MG) - Deputado Federal", 
+        "Elmano - O Veín Trabalhador (PTB, PI) - Senador", 
+        "Lucas Vergílio (SD, GO) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Ruralista"
+    ]
+}

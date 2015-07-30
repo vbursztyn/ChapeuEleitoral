@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Vicentinho"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000000665.jpg", 
+    "state": "SP", 
+    "donations": {
+        "CRBS S/A": 190000.0, 
+        "BRASKEM S/A": 66500.0, 
+        "CONSTRUTORA OAS S/A": 66500.0
+    }, 
+    "party": "PT", 
+    "fullname": "VICENTE PAULO DA SILVA", 
+    "total": 1440155.23, 
+    "election_id": 1390, 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

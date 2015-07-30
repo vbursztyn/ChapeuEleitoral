@@ -1,0 +1,17 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Adilson Rossi"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001161.jpg", 
+    "state": "SP", 
+    "donations": {
+        "JBS S/A": 30000.0, 
+        "AMIL ASSISTENCIA INTERNACIONAL S/A": 5419.46
+    }, 
+    "party": "PSB", 
+    "fullname": "ADILSON ROSSI", 
+    "total": 266665.37, 
+    "election_id": 40400
+}

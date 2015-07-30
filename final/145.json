@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Olyntho Neto"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/TO/foto/270000000271.jpg", 
+    "state": "TO", 
+    "donations": {
+        "HANGAR EMPREENDIMENTOS IMOBILIÁRIOS": 50000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S/A": 50000.0, 
+        "POWER SEGURANCA E VIGILANCIA LTDA": 17400.0, 
+        "TEODORO E TEODORO LTDA": 11002.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "OLYNTHO GARCIA DE OLIVEIRA NETO", 
+    "total": 489710.21, 
+    "election_id": 45045, 
+    "similars": [
+        "Ricardo Madalena (PR, SP) - Deputado Estadual", 
+        "Luana Ribeiro (PR, TO) - Deputado Estadual", 
+        "Eduardo Siqueira Campos (PTB, TO) - Deputado Estadual"
+    ]
+}

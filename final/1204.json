@@ -1,0 +1,33 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Alexandre Pereira"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000000840.jpg", 
+    "state": "SP", 
+    "donations": {
+        "JBS S.A.": 654829.2, 
+        "SEARA ALIMENTOS": 234815.0, 
+        "CRBS S/A": 159000.0, 
+        "USINA SIDERURGICAS DE MINAS GERAIS S.A. USIMINAS": 100000.0, 
+        "CARIOCA NIELSEN ENGENHARIA S.A.": 97772.4, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S.A.": 70000.0, 
+        "GERDAU AÇOS ESPECIAIS ": 50000.0, 
+        "AZTECA-INCORPORADORA": 45201.0, 
+        "BANCO BMG S.A.": 20000.0, 
+        "CONSTRUTORA NORBERTO ODEBRECHT S.A.": 11882.0, 
+        "SUZANO PAPEL E CELULOSE S/A": 11000.0, 
+        "TICKET SERVIÇOS S/A": 11000.0, 
+        "BARBOSA S/A": 7000.0, 
+        "BRASKEM S/A": 6250.0, 
+        "QUEIROZ GALVÃO S.A.": 5250.0
+    }, 
+    "party": "SD", 
+    "fullname": "ALEXANDRE PEREIRA DA SILVA", 
+    "total": 1817086.26, 
+    "election_id": 77777, 
+    "similars": [
+        "Mauro Savi (PR, MT) - Deputado Estadual"
+    ]
+}

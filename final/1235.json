@@ -1,0 +1,17 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Rodrigo Moraes"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000000452.jpg", 
+    "state": "SP", 
+    "donations": {
+        "JBS S/A": 232500.0, 
+        "COMPANHIA SIDERURGICA VALE DO PINDARE ": 30000.0
+    }, 
+    "party": "PSC", 
+    "fullname": "RODRIGO AUGUSTO MORAES", 
+    "total": 437145.47, 
+    "election_id": 20633
+}

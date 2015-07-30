@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Carlos Bezerra Jr"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001562.jpg", 
+    "state": "SP", 
+    "donations": {
+        "C A V COMERCIAL IMPORTAÇÃO E EXPORTAÇÃO LTDA": 50000.0, 
+        "BANCO SANTANDER S/A": 50000.0, 
+        "CONSTRUTORA OAS S/A": 50000.0, 
+        "BRADESCO VIDA E PREVIDÊNCIA": 5419.46
+    }, 
+    "party": "PSDB", 
+    "fullname": "CARLOS ALBERTO DE QUADROS BEZERRA JUNIOR", 
+    "total": 493233.52, 
+    "election_id": 45321
+}

@@ -1,0 +1,16 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Zé Milton"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SC/foto/240000000427.jpg", 
+    "state": "SC", 
+    "donations": {
+        "JBS S/A": 100000.0
+    }, 
+    "party": "PP", 
+    "fullname": "JOSÉ MILTON SCHEFFER", 
+    "total": 254568.45, 
+    "election_id": 11234
+}

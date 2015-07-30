@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Robson Viana"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SE/foto/260000000232.jpg", 
+    "state": "SE", 
+    "donations": {
+        "MICHEL MIGUEL ELIAS TEMER LULIA": 46000.0, 
+        "G P ENGENHARIA LTDA": 10440.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "ROBSON COSTA VIANA", 
+    "total": 195219.59, 
+    "election_id": 15456, 
+    "similars": [
+        "Luciano Bispo (PMDB, SE) - Deputado Estadual", 
+        "Jeferson Andrade (PSD, SE) - Deputado Estadual", 
+        "Jackson Barreto (PMDB, SE) - Governador", 
+        "Zezinho Guimarães (PMDB, SE) - Deputado Estadual"
+    ]
+}

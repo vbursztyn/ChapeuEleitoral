@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Brunny"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000001458.jpg", 
+    "state": "MG", 
+    "donations": {
+        "FERREIRA E LAGE COMERCIO DE VEICULOS LTDA": 137445.0, 
+        "REDE HG COMBUSTIVEIS LTDA ": 26470.0
+    }, 
+    "party": "PTC", 
+    "fullname": "BRUNIELE FERREIRA DA SILVA", 
+    "total": 1590524.47, 
+    "election_id": 3645, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Feminina"
+    ]
+}

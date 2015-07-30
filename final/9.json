@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Sidney Rosa"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PA/foto/140000000540.jpg", 
+    "state": "PA", 
+    "donations": {
+        "COMIM CONSTRUTORA LTDA": 50000.0
+    }, 
+    "party": "PSB", 
+    "fullname": "SHYDNEY JORGE ROSA", 
+    "total": 648656.0, 
+    "election_id": 40456, 
+    "similars": [
+        "Milton Campos (PSDB, PA) - Deputado Estadual", 
+        "Simão Jatene (PSDB, PA) - Governador", 
+        "Arlete Magalhaes (PTN, MG) - Deputado Estadual"
+    ]
+}

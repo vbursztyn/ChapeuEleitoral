@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Henrique Fontana"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000000328.jpg", 
+    "state": "RS", 
+    "donations": {
+        "BRF S/A ": 95000.0, 
+        "BRASKEM S/A ": 38000.0
+    }, 
+    "party": "PT", 
+    "fullname": "HENRIQUE FONTANA JUNIOR", 
+    "total": 1411240.0, 
+    "election_id": 1313, 
+    "similars": [
+        "Odelmo Leão (PP, MG) - Deputado Federal", 
+        "Renato Câmara (PMDB, MS) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada da Saúde"
+    ]
+}

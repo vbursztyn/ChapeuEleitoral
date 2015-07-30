@@ -1,0 +1,28 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Nilson Leitão"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MT/foto/110000000017.jpg", 
+    "state": "MT", 
+    "donations": {
+        "GALVAO ENGENHARIA SA": 500000.0, 
+        "MONACO MOTOCENTER MATO GROSSO LTDA": 200000.0, 
+        "CRBS SA": 179000.0, 
+        "USINAS ITAMARATI SA ": 50000.0, 
+        "ADRIANA COMERCIO EXPORTAÇAO E CEREALISTA LTDA": 39200.0, 
+        "ANDRADE GUTIERREZ": 11550.0, 
+        "SEMENTES MAXIMA LTDA": 10000.0, 
+        "CERVEJARIA PETROPOLIS LTDA": 9600.0, 
+        "USIMAT DESTILARIA DE ALCOOL LTDA": 8820.0, 
+        "BANCO SAFRA SA": 8550.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "NILSON APARECIDO LEITÃO", 
+    "total": 2460139.11, 
+    "election_id": 4500, 
+    "stands": [
+        "Bancada Ruralista"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Weverton Rocha"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MA/foto/100000000262.jpg", 
+    "state": "MA", 
+    "donations": {
+        "JBS S.A": 100000.0, 
+        "PINESE HOLDING LTDA": 100000.0, 
+        "CONSTRUTOTA QUEIROZ GALVÃO SA": 100000.0
+    }, 
+    "party": "PDT", 
+    "fullname": "WEVERTON ROCHA MARQUES DE SOUSA", 
+    "total": 796400.0, 
+    "election_id": 1212, 
+    "similars": [
+        "Luiz Martins (PDT, RJ) - Deputado Estadual"
+    ], 
+    "stands": []
+}

@@ -1,0 +1,27 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Dilceu Sperafico"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000161.jpg", 
+    "state": "PR", 
+    "donations": {
+        "JBS S/A": 900000.0, 
+        "GALVÃO ENGENHARIA S.A.": 792000.0, 
+        "FLORA PRODUTOS DE HIGIENE E LIMPEZA S.A.": 100000.0, 
+        "FBS CONSTRUÇÃO CIVIL E PAVIMENTAÇÃO LTDA": 100000.0
+    }, 
+    "party": "PP", 
+    "fullname": "DILCEU JOÃO SPERAFICO", 
+    "total": 2189700.0, 
+    "election_id": 1122, 
+    "similars": [
+        "Dimas Fabiano (PP, MG) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista", 
+        "Bancada da Comunicação"
+    ]
+}

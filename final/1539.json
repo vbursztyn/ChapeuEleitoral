@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Valadares Filho"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SE/foto/260000000182.jpg", 
+    "state": "SE", 
+    "donations": {
+        "TRACTEBEL ENERGIA COMERCIALIZADORA LTDA": 100000.0, 
+        "CENCOSUD BRASIL COMERCIAL LTDA": 92030.0, 
+        "DISTRIBUIDORA DE PNEUS RAPOSO TAVARES LTDA.": 80000.0, 
+        "PMDB - DIRETORIO NACIONAL": 7450.0
+    }, 
+    "party": "PSB", 
+    "fullname": "ANTONIO CARLOS VALADARES FILHO", 
+    "total": 586162.44, 
+    "election_id": 4040, 
+    "similars": [
+        "Waldez (PDT, AP) - Governador"
+    ], 
+    "stands": []
+}

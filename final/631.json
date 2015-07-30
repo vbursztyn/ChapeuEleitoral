@@ -1,0 +1,26 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Sérgio Zveiter", 
+        "Sergio Zveiter"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000001486.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "CARIOCA CHRISTIANI NIELSEN ENGENHARIA S/A": 375000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ SA": 294000.0, 
+        "TERRAS DE AVENTURA INDUSTRIA DE ARTIGOS ESPORTIVOS S.A": 49000.0, 
+        "IREP SOCIEDADE DE ENSINO SUPERIOR· MEDIO E FUNDAMENTAL LTDA": 49000.0
+    }, 
+    "party": "PSD", 
+    "fullname": "SERGIO ZVEITER", 
+    "total": 5720550.5, 
+    "election_id": 5501, 
+    "similars": [
+        "Pedro Paulo (PMDB, RJ) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

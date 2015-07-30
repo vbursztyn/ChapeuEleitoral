@@ -1,0 +1,34 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "José Américo"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000000547.jpg", 
+    "state": "SP", 
+    "donations": {
+        "REVITA ENGENHARIA S/A": 313500.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S/A": 240000.0, 
+        "UTC ENGENHARIA S/A": 237500.0, 
+        "JSL S/A": 237500.0, 
+        "CONQUISTA IMOBILIARIA LTDA": 228000.0, 
+        "AGROPECUARIA SANTA BARBARA XINGUARA S/A": 150000.0, 
+        "CONTERN-CONSTRUCOES E COMERCIO LTDA": 95000.0, 
+        "ROSSI RESIDENCIAL S.A.": 95000.0, 
+        "CONSTRUTORA QUEIROZ GALVAO S.A": 95000.0, 
+        "LONDRINA BEBIDAS - AMBEV": 95000.0, 
+        "CRISTÁLIA PRODUTOS QUIMICOS FARMACEUTICOS LTDA": 85000.0, 
+        "RIO CLARO AGROINDUSTRIAL S.A": 47500.0, 
+        "CANDEIAS ENERGIA S.A.": 37500.0, 
+        "EQUIPAV ENGENHARIA LTDA": 30000.0, 
+        "BANCO BOA VISTA INTERATLANTICO S/A": 17500.0, 
+        "CARIOCA CHRISTIANI - NIELSEN ENGENHARIA S/A": 10000.0
+    }, 
+    "party": "PT", 
+    "fullname": "JOSE AMERICO ASCÊNCIO DIAS", 
+    "total": 3154838.3, 
+    "election_id": 13140, 
+    "similars": [
+        "Artur Bisneto (PSDB, AM) - Deputado Federal"
+    ]
+}

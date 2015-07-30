@@ -1,0 +1,21 @@
+{
+    "status": "NÃO ELEITO", 
+    "searchable": [
+        "Eunício Oliveira"
+    ], 
+    "title": "Governador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/CE/foto/60000000603.jpg", 
+    "state": "CE", 
+    "donations": {
+        "CONSTRUTORA OAS S.A": 4000000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "EUNÍCIO LOPES DE OLIVEIRA", 
+    "total": 49306343.56, 
+    "election_id": 15, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista", 
+        "Bancada da Comunicação"
+    ]
+}

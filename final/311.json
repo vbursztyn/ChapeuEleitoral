@@ -1,0 +1,26 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Classmann"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000000864.jpg", 
+    "state": "RS", 
+    "donations": {
+        "JBS SA": 128224.25, 
+        "Direção Estadual/Distrital": 61176.25, 
+        "BOLOGNESI PARTICIPAÇOES SA": 15000.0, 
+        "LOCAR": 10000.0, 
+        "STE SERV TEC DE ENGENHARIA SA": 5000.0
+    }, 
+    "party": "PTB", 
+    "fullname": "ALOISIO TALSO CLASSMANN", 
+    "total": 368978.62, 
+    "election_id": 14200, 
+    "similars": [
+        "Aluisio Lessa (PSB, PE) - Deputado Estadual", 
+        "Ronaldo Santini (PTB, RS) - Deputado Estadual", 
+        "Busato (PTB, RS) - Deputado Federal", 
+        "Lara (PTB, RS) - Deputado Estadual"
+    ]
+}

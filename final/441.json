@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Coronel Taborelli"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MT/foto/110000000080.jpg", 
+    "state": "MT", 
+    "donations": {
+        "BOM FUTURO AGRICOLA LTDA": 40000.0, 
+        "PARTIDO SOCIALISTA BRASILEIRO - PSB": 25000.0, 
+        "ARCA S/A AGROPECUARIA": 20600.0, 
+        "CERVEJARIA PETROPOLIS S/A": 20000.0
+    }, 
+    "party": "PV", 
+    "fullname": "PERY TABORELLI DA SILVA FILHO", 
+    "total": 617754.98, 
+    "election_id": 43190, 
+    "similars": [
+        "Wancley (PV, MT) - Deputado Estadual", 
+        "Zeca Viana (PDT, MT) - Deputado Estadual"
+    ]
+}

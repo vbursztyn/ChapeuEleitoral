@@ -1,0 +1,18 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Cassio Andrade"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PA/foto/140000000520.jpg", 
+    "state": "PA", 
+    "donations": {
+        "VIA ENGENHARIA S/A": 50000.0, 
+        "CONSTRUTORA QUEIROZ GALVÃO": 50000.0, 
+        "BANCO BTG PACTUAL S.A.": 7200.0
+    }, 
+    "party": "PSB", 
+    "fullname": "CASSIO COELHO ANDRADE", 
+    "total": 389279.83, 
+    "election_id": 40111
+}

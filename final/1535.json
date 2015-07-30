@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Fernando Filho"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PE/foto/170000000068.jpg", 
+    "state": "PE", 
+    "donations": {
+        "VIA ENGENHARIA S/A": 80000.0, 
+        "LIBRA TERMINAL VALONGO S/A": 50000.0
+    }, 
+    "party": "PSB", 
+    "fullname": "FERNANDO BEZERRA DE SOUZA COELHO FILHO", 
+    "total": 912000.0, 
+    "election_id": 4001, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

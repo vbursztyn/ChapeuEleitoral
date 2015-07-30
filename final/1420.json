@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Fabio Souto"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000710.jpg", 
+    "state": "BA", 
+    "donations": {
+        "GPS PREDIAL SISTEMAS SEG LTDA": 195000.0, 
+        "BRADESCO VIDA E PREVIDENCIA S.A": 150000.0, 
+        "CRB5 S/A": 150000.0, 
+        "SVC CONSTRUÇÕES LTDA ": 100000.0, 
+        "BRASKEM S.A": 75000.0, 
+        "VALE MANGANES S/A": 50000.0, 
+        "CONSTRUTORA NORBERTO ODEBRECHT": 30000.0
+    }, 
+    "party": "DEM", 
+    "fullname": "FABIO LOUREIRO SOUTO", 
+    "total": 1389731.08, 
+    "election_id": 25110
+}

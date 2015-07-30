@@ -1,0 +1,31 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Renato Câmara"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MS/foto/120000000263.jpg", 
+    "state": "MS", 
+    "donations": {
+        "JBS S/A": 222000.0, 
+        "VALE ENERGIAS S.A.": 200000.0, 
+        "ADECOAGRO VALE DO IVINHEMA S.A.": 137000.0, 
+        "BRF S.A.": 100000.0, 
+        "WG ELETRO S.A.": 100000.0, 
+        "RIO CLARO AGROINDUSTRIAL S/A": 100000.0, 
+        "SALOBO METHIS S.A.": 85275.0, 
+        "AMIL ASSISTENCIA MEDICA INTERNACIONAL S.A.": 70000.0, 
+        "SONORA ESTANCIA S.A.": 30000.0, 
+        "MINERACOES BRASILEIRAS REUNIDAS S A MBR": 28425.0, 
+        "CENTRAL ENERGÉTICA VICENTINA": 22000.0, 
+        "AZ INFORMÁTICA": 10000.0, 
+        "H2L EQUIPAMENTOS E SISTEMAS LTDA": 5000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "RENATO PIERETTI CÂMARA", 
+    "total": 1535973.46, 
+    "election_id": 15150, 
+    "similars": [
+        "Lidio Lopes (PEN, MS) - Deputado Estadual"
+    ]
+}

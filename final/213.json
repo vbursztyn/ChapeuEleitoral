@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Edilazio"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MA/foto/100000000742.jpg", 
+    "state": "MA", 
+    "donations": {
+        "ENERGIA VERDE - PRODUCAO RURAL LTDA": 30000.0, 
+        "CRBS S/A": 20000.0
+    }, 
+    "party": "PV", 
+    "fullname": "EDILAZIO GOMES DA SILVA JUNIOR", 
+    "total": 430028.9, 
+    "election_id": 43333, 
+    "similars": [
+        "Beto Richa (PSDB, PR) - Governador", 
+        "Geraldo Alckmin (PSDB, SP) - Governador"
+    ]
+}

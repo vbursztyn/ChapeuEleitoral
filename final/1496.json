@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "André Figueiredo"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/CE/foto/60000000773.jpg", 
+    "state": "CE", 
+    "donations": {
+        "CONSTRUTORA QUEIROZ GALVAO S A": 100000.0, 
+        "ESCAVE BAHIA ENGENHARIA E EQUIPAMENTOS LTDA": 100000.0, 
+        "JBS S/A": 100000.0, 
+        "SP INDUSTRIA E DISTRIBUIDORA DE PETROLEO LTDA": 64000.0
+    }, 
+    "party": "PDT", 
+    "fullname": "ANDRE PEIXOTO FIGUEIREDO LIMA", 
+    "total": 1040950.0, 
+    "election_id": 1234, 
+    "stands": [
+        "Bancada Sindicalista"
+    ]
+}

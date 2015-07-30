@@ -1,0 +1,32 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Takayama"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000169.jpg", 
+    "state": "PR", 
+    "donations": {
+        "CONSTRUTORA ANDRADE GUTIERREZ SA": 45000.0, 
+        "JSL S/A": 10000.0, 
+        "CRBS S/A": 10000.0
+    }, 
+    "party": "PSC", 
+    "fullname": "HIDEKAZU TAKAYAMA", 
+    "total": 186056.64, 
+    "election_id": 2014, 
+    "similars": [
+        "Francisco Buhrer (PSDB, PR) - Deputado Estadual", 
+        "Ota (PSB, SP) - Deputado Federal", 
+        "Lindberg Farias (PT, RJ) - Governador", 
+        "Fernando Bezerra Coelho (PSB, PE) - Senador", 
+        "Guto Silva (PSC, PR) - Deputado Estadual", 
+        "Luciano Ducci (PSB, PR) - Deputado Federal", 
+        "Danilo Cabral (PSB, PE) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista", 
+        "Bancada Evangélica"
+    ]
+}

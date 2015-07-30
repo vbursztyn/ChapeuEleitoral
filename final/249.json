@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Fabricio Falcão", 
+        "Fabrício Falcão"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000113.jpg", 
+    "state": "BA", 
+    "donations": {
+        "JBS SA": 62000.0, 
+        "CONFER CONSTRUTORA FERNANDES LTDA": 14400.0
+    }, 
+    "party": "PC do B", 
+    "fullname": "JEAN FABRICIO FALCAO", 
+    "total": 293514.6, 
+    "election_id": 65333, 
+    "similars": [
+        "Ivana Bastos (PSD, BA) - Deputado Estadual", 
+        "João Bacelar (PR, BA) - Deputado Federal", 
+        "Euclides Fernandes (PDT, BA) - Deputado Estadual"
+    ]
+}

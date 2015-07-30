@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Luiz Paulo"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000000929.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "RIO DE JANEIRO REFRESCOS LTDA": 150000.0, 
+        "MANGAR EMPRESARIAL EMPREENDIMENTOS IMOBILIARIOS": 100000.0, 
+        "ODEBRECH OLEO E GAS S/A": 100000.0, 
+        "CARIOCA CHRISTIANI NIELSEN ENGENHARIA S/A": 29400.0, 
+        "IPIRANGA PRODUTOS DE PETROLEO S/A": 11946.2
+    }, 
+    "party": "PSDB", 
+    "fullname": "LUIZ PAULO CORRÊA DA ROCHA", 
+    "total": 592786.18, 
+    "election_id": 45678, 
+    "similars": [
+        "Daniel Coelho (PSDB, PE) - Deputado Federal", 
+        "Simão Sessim (PP, RJ) - Deputado Federal", 
+        "Otavio Leite (PSDB, RJ) - Deputado Federal"
+    ]
+}

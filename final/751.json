@@ -1,0 +1,30 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Marco Maia"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000000333.jpg", 
+    "state": "RS", 
+    "donations": {
+        "AROSUCO AROMAS E SUCOS LTDA": 475000.0, 
+        "COSAN LUBRIFICANTES E ESPECIALIDADES S.A.": 190000.0, 
+        "BRADESCO LEASING S.A.": 118750.0, 
+        "BRADESCO VIDA E PREVIDENCIA S.A.": 118750.0, 
+        "JBS S/A": 95000.0, 
+        "CR ALMEIDA S/A ENGENHARIA DE OBRAS": 95000.0, 
+        "COPERSUCAR S.A.": 95000.0, 
+        "BANCO SANTANDER (BRASIL) S.A.": 95000.0, 
+        "BM&F BOVESPA S.A.": 71250.0, 
+        "GERDAU ACOS ESPECIAIS S.A.": 38000.0, 
+        "ARTECOLA QUIMICA S.A.": 14250.0, 
+        "COMPANHIA RIOGRANDENSE DE VALORIZAÇÃO DE RESIDUOS": 9500.0
+    }, 
+    "party": "PT", 
+    "fullname": "MARCO AURÉLIO SPALL MAIA", 
+    "total": 2299928.15, 
+    "election_id": 1314, 
+    "stands": [
+        "Bancada Sindicalista"
+    ]
+}

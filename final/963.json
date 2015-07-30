@@ -1,0 +1,27 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Prof Auriel"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000000515.jpg", 
+    "state": "SP", 
+    "donations": {
+        "RIMA IND S/A": 100000.0, 
+        "LONDRINA BEBIDAS LTDA": 95000.0, 
+        "AVANTE VEICULOS LTDA": 91200.0, 
+        "BRADESCO SAUDE S/A": 51250.0, 
+        "HIPERMARCAS S/A": 50000.0, 
+        "CONSTRUTORA ANDRADE GUTIEREZ": 50000.0, 
+        "F. M RODRIGUES & CIA LTDA": 31350.0, 
+        "CONSTRUTORA BARBOSA MELLO S/A ESTABELECIMENTO UNIFICADO": 20000.0
+    }, 
+    "party": "PT", 
+    "fullname": "AURIEL BRITO LEAL", 
+    "total": 1337294.96, 
+    "election_id": 13600, 
+    "similars": [
+        "Arnaldo Faria de Sá (PTB, SP) - Deputado Federal", 
+        "Analice Fernandes (PSDB, SP) - Deputado Estadual"
+    ]
+}

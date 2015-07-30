@@ -1,0 +1,26 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Fraga"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/DF/foto/70000000676.jpg", 
+    "state": "DF", 
+    "donations": {
+        "UTC ENGENHARIA": 1019000.0, 
+        "SERVENG CIVILSAN S/A E. A ENGENHARIA": 100000.0, 
+        "COSAN LUBRIFICANTES E ESPECIALIDADES S.A.": 100000.0, 
+        "FORJAS TAURUS SA": 80000.0
+    }, 
+    "party": "DEM", 
+    "fullname": "JOÃO ALBERTO FRAGA SILVA", 
+    "total": 1515281.72, 
+    "election_id": 2525, 
+    "similars": [
+        "Pedro Lupion (DEM, PR) - Deputado Estadual", 
+        "Adilson Troca (PSDB, RS) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada da Segurança"
+    ]
+}

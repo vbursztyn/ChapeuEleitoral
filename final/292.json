@@ -1,0 +1,26 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Clarissa Garotinho"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000001864.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "CONSTRUTORA  OAS S/A": 400000.0, 
+        "CARIOCA CHRISTIANI NIELSEN ENGENHARIA S/A": 100000.0, 
+        "CONSTRUTORA QUEIROZ S/A": 100000.0, 
+        "EMEC - OBRAS E SERVIÇOS": 50000.0
+    }, 
+    "party": "PR", 
+    "fullname": "CLARISSA BARROS ASSED MATHEUS DE OLIVEIRA", 
+    "total": 961204.72, 
+    "election_id": 2222, 
+    "similars": [
+        "Garotinho (PR, RJ) - Governador"
+    ], 
+    "stands": [
+        "Bancada Feminina", 
+        "Bancada Evangélica"
+    ]
+}

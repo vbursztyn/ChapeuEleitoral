@@ -1,0 +1,18 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Bordalo"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PA/foto/140000000396.jpg", 
+    "state": "PA", 
+    "donations": {
+        "VALE MANGANES S/A": 70000.0, 
+        "JBS S/A": 25000.0, 
+        "SALOBO METAIS S/A": 10800.0
+    }, 
+    "party": "PT", 
+    "fullname": "CARLOS ALBERTO BARROS BORDALO", 
+    "total": 278466.03, 
+    "election_id": 13130
+}

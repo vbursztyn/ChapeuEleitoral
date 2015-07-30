@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Alessandro Molon"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000000614.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "LONDRINA BEBIDAS LTDA": 95000.0, 
+        "BRADESCO VIDA E PREVIDENCIA S/A": 47500.0, 
+        "CRBS S/A": 47500.0
+    }, 
+    "party": "PT", 
+    "fullname": "ALESSANDRO LUCCIOLA MOLON", 
+    "total": 858162.5, 
+    "election_id": 1313, 
+    "stands": []
+}

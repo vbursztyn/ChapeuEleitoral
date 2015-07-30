@@ -1,0 +1,42 @@
+{
+    "status": "ELEITO", 
+    "searchable": [
+        "Paulo Câmara"
+    ], 
+    "title": "Governador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PE/foto/170000000024.jpg", 
+    "state": "PE", 
+    "donations": {
+        "CONSTRUTORA OAS S A ": 3500000.0, 
+        "ES ATACADO LTDA": 1000000.0, 
+        "GRANDE MOINHO CEARENSE S.A": 1000000.0, 
+        "INTERTECHNE CONSULTORES S A": 750000.0, 
+        "LIDERMAC CONSTRUÇOES E EQUIPAMENTOS LTDA": 500000.0, 
+        "TOTAL DISTRIBUIDORA S.A": 500000.0, 
+        "SAAG COMERCIAL EXPORTADORA LTDA": 470000.0, 
+        "VIA ENGENHARIA S.S": 450000.0, 
+        "TRANSPORTADORA BITURY LTDA": 300000.0, 
+        "PLUS IMOVEIS LTDA": 150000.0, 
+        "BRF S.A": 107000.0, 
+        "NE400 PARTICIPAÇÕES S.A": 105000.0, 
+        "PARVI ASSESSORIA E PARTICIPAÇOES LTDA": 100000.0, 
+        "CONSTRUTORA VENANCIO LTDA": 100000.0, 
+        "ATMOS SERVIÇOS DE INTERMEDIAÇÃO COMERCIAL AUTOMOTIVA LTDA": 100000.0, 
+        "COMPANHIA SIDERURGICA VALE DO PINDARE": 95491.35, 
+        "RIO VERDE ENERGIA S/A": 89000.0, 
+        "ENERGETICA SERRANOPLIS": 85000.0, 
+        "EMPRESA ENERGETICA PORTO DAS PEDRAS": 77000.0, 
+        "RIO DO SANGUE ENERGIA S.A": 64000.0, 
+        "PARANATINGA ENERGIA S.A": 61000.0, 
+        "RIO SUCURIU ENERGIA S.A": 59000.0, 
+        "TROP COMERCIO EXTERIOR LTDA": 50000.0
+    }, 
+    "party": "PSB", 
+    "fullname": "PAULO HENRIQUE SARAIVA CÂMARA", 
+    "total": 17986657.1, 
+    "election_id": 40, 
+    "similars": [
+        "Jarbas (PMDB, PE) - Deputado Federal", 
+        "Professor Lupercio (SD, PE) - Deputado Estadual"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "André Lazaroni"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000001606.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "CERVEJARIA PETROPOLIS S/A ": 300000.0, 
+        "JBS S/A": 300000.0, 
+        "CONTRUTORA OAS SA": 200000.0, 
+        "CONSTRUTORA QUEIROZ GALVAO S A ": 100000.0, 
+        "BTG PACTUAL GESTORA DE RECURSOS LTDA.": 100000.0, 
+        "HOSPITAL SANTA PAULA LTDA": 70000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "ANDRE LUIZ LAZARONI DE MORAES", 
+    "total": 4005835.87, 
+    "election_id": 15555, 
+    "similars": [
+        "Marcos Rogerio (PDT, RO) - Deputado Federal", 
+        "Vital (PMDB, PB) - Governador", 
+        "Milton Leite Filho (DEM, SP) - Deputado Estadual", 
+        "Domingos Brazão (PMDB, RJ) - Deputado Estadual", 
+        "Rafael Picciani (PMDB, RJ) - Deputado Estadual", 
+        "Waguinho (PMDB, RJ) - Deputado Estadual"
+    ]
+}

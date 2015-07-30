@@ -1,0 +1,33 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Luiz Carlos Hauly"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000154.jpg", 
+    "state": "PR", 
+    "donations": {
+        "BRADESCO VIDA E PREVIDÊNCIA S.A.": 300000.0, 
+        "CR ALMEIDA S/A ENGENHARIA DE OBRAS": 250000.0, 
+        "KLABIN S/A": 250000.0, 
+        "COSAN LUBRIFICANTES E ESPECIALIDADES S/A": 200000.0, 
+        "GERDAU AÇOS ESPECIAIS S.A": 150000.0, 
+        "BRAFER CONSTRUÇÕES METALICAS S/A": 150000.0, 
+        "BRADESCO LEASING S.A. ARRENDAMENTO MERCANTIL": 150000.0, 
+        "BRF S A": 100000.0, 
+        "LONDRINA BEBIDAS LTDA": 80000.0, 
+        "ADAMA BRASIL S/A": 80000.0, 
+        "QUANTIQ DISTRIBUIDORA LTDA": 50000.0, 
+        "IPIRANGA PRODUTOS DE PETROLEO S/A": 49992.2, 
+        "GAZIN INDÚSTRIA E COMÉRCIO DE MÓVEIS E ELETRODOMÉSTICOS LTDA": 40000.0, 
+        "AGRO ENERGIA SANTA LUZIA S.A. ": 20000.0, 
+        "FARMÁCIA E DROGARIA NISSEI S.A.": 20000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "LUIZ CARLOS JORGE HAULY", 
+    "total": 3023233.69, 
+    "election_id": 4515, 
+    "stands": [
+        "Bancada Ruralista"
+    ]
+}

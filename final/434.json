@@ -1,0 +1,38 @@
+{
+    "status": "ELEITO", 
+    "searchable": [
+        "Luiz Fernando Pezão"
+    ], 
+    "title": "Governador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000001649.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "JBS S/A": 2440000.0, 
+        "CARIOCA CHRISTIANI NIELSEN ENGENHARIA S/A": 1949700.0, 
+        "CONSTRUTORA OAS S.A.": 1225000.0, 
+        "BANCO SANTANDER BRASIL S.A": 1000000.0, 
+        "CERVEJARIA PETROPOLIS S/A": 1000000.0, 
+        "CONCREMAT ENGENHARIA E TECNOLOGIA S/A": 1000000.0, 
+        "MASCARENHAS BARBOSA ROSCOE S.A CONSTRUÇÕES ": 800000.0, 
+        "BANCO BTG PACTUAL S.A ": 770000.0, 
+        "SALOBO METAIS S.A": 500000.0, 
+        "CIA DE NAVEGAÇÃO DA AMAZONIA": 500000.0, 
+        "GEOMECÂNICA S.A TECNOLOGIA DE SOLOS· ROCHAS E MATERIAIS ": 320000.0, 
+        "CONSTRUTORA COWAN S.A": 280000.0, 
+        "CONSTRUTORA QUEIROZ GALVAO S.A": 255000.0, 
+        "CONSTRUTORA FERREIRA GUEDES S/A": 250000.0, 
+        "GERDAU ACOS ESPECIAIS S.A": 215000.0, 
+        "CAÇAPAVA IMPREITADA DE LAVOR LTDA. ": 200000.0, 
+        "ENCIBRA S A ESTUDOS E PROJETOS DE ENGENHARIA": 20000.0, 
+        "BANCO J. SAFRA S.A": 10000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "LUIZ FERNANDO DE SOUZA", 
+    "total": 45150556.49, 
+    "election_id": 15, 
+    "similars": [
+        "Tin Gomes (PHS, CE) - Deputado Estadual", 
+        "Estevam Galvão (DEM, SP) - Deputado Estadual", 
+        "Tião Miranda (PTB, PA) - Deputado Estadual"
+    ]
+}

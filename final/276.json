@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Flavinho"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001450.jpg", 
+    "state": "SP", 
+    "donations": {
+        "AMIL ASSISTENCIA MEDICA INTERNACIONAL S.A": 10838.62
+    }, 
+    "party": "PSB", 
+    "fullname": "FLAVIO AUGUSTO DA SILVA", 
+    "total": 102578.41, 
+    "election_id": 4030, 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

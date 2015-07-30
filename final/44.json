@@ -1,0 +1,32 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Zeca do PT"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MS/foto/120000000500.jpg", 
+    "state": "MS", 
+    "donations": {
+        "BTG PACTUAL CORRETORA": 250000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ SA": 115000.0, 
+        "CONSTRUTORA TRIUNFO SA": 100000.0, 
+        "ITEL INFORMATICA LTDA": 100000.0, 
+        "CARIOCA CHRISTIANI ENGENHARIA SA": 95000.0, 
+        "EQUIPAV ENGENHARIA LTDA": 85000.0, 
+        "BRASFOND FUNDAÇÕES ESPECIAIS SA": 23132.66, 
+        "EDITORA E DISTRIBUIDORA NACIONAL SA": 11566.33
+    }, 
+    "party": "PT", 
+    "fullname": "JOSÉ ORCÍRIO MIRANDA DOS SANTOS", 
+    "total": 1398470.44, 
+    "election_id": 1313, 
+    "similars": [
+        "Deputado Cabo Almi (PT, MS) - Deputado Estadual", 
+        "Pedro Kemp (PT, MS) - Deputado Estadual", 
+        "José Américo (PT, SP) - Deputado Estadual", 
+        "Amarildo Cruz (PT, MS) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Sindicalista"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Andre de Paula"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PE/foto/170000000029.jpg", 
+    "state": "PE", 
+    "donations": {
+        "CONSTRUTORA QUEIROZ GALVAO": 700000.0, 
+        "CONSTRUTORA NORBERTO ODEBRECHT S.A": 298958.6, 
+        "CERVEJARIA PETROPOLIS S.A": 200000.0
+    }, 
+    "party": "PSD", 
+    "fullname": "ANDRE CARLOS ALVES DE PAULA FILHO", 
+    "total": 1282958.6, 
+    "election_id": 5555, 
+    "stands": []
+}

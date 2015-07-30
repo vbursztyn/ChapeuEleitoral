@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Fábio Reis"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SE/foto/260000000177.jpg", 
+    "state": "SE", 
+    "donations": {
+        "CONSTRUTORA ANDRADE GUTIERREZ S/A": 100000.0, 
+        "CRBS S/A": 50000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "FÁBIO DE ALMEIDA REIS", 
+    "total": 317058.09, 
+    "election_id": 1515, 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Bruno Cunha Lima"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PB/foto/150000000424.jpg", 
+    "state": "PB", 
+    "donations": {
+        "ALPARGATAS S.A": 7000.0, 
+        "VIA ENGENHARIA S. A": 6849.31
+    }, 
+    "party": "PSDB", 
+    "fullname": "BRUNO CUNHA LIMA BRANCO", 
+    "total": 306027.31, 
+    "election_id": 45222
+}

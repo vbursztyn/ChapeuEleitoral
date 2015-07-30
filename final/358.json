@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Raquel Lyra"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PE/foto/170000000140.jpg", 
+    "state": "PE", 
+    "donations": {
+        "BRASKEM S/A": 280000.0, 
+        "BANCO BMG SA": 150000.0, 
+        "VENEZA DIESEL COMERCIO LTDA": 100000.0, 
+        "TRANSZERO TRANSPORTADORA DE VEICULOS LTDA": 100000.0, 
+        "CIA SID VALE DO PINDARÉ": 100000.0, 
+        "CERVEJARIA PETROPOLIS S/A": 50000.0
+    }, 
+    "party": "PSB", 
+    "fullname": "RAQUEL TEIXEIRA LYRA", 
+    "total": 1239182.0, 
+    "election_id": 40789
+}

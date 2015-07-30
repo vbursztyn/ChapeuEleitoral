@@ -1,0 +1,29 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Jorge Picciani"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000001609.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "RIO DE JANEIRO REFRESCOS LTDA": 300000.0, 
+        "CONSTRUTORA OAS SA": 250000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S/A": 250000.0, 
+        "VALE SUL PAVIMENTACAO E MINEIRACAO LTDA": 200000.0, 
+        "POSTO BOA VIAGEM LTDA": 110000.0, 
+        "CARIOCA CHRISTIANI NIELSEN ENGENHARIA ": 100000.0, 
+        "AUTO POSTO CIGANO LIMITADA": 70000.0, 
+        "RENAN COMERCIO DE PETROLEO LTDA - EPP": 50000.0, 
+        "Direção Estadual/Distrital": 27000.0, 
+        "POSTO BOA VIAGEM 4 LTDA": 20000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "JORGE SAYED PICCIANI", 
+    "total": 1847495.18, 
+    "election_id": 15155, 
+    "similars": [
+        "Luiz Carlos Ramos do Chapeu (PSDC, RJ) - Deputado Federal", 
+        "Simão Sessim (PP, RJ) - Deputado Federal"
+    ]
+}

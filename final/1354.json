@@ -1,0 +1,17 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Traiano"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000081.jpg", 
+    "state": "PR", 
+    "donations": {
+        "PARTIDO PROGRESSISTA - DIRETORIO NACIONAL ": 54000.0, 
+        "LONDRINA BEBIDAS LTDA ": 50000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "ADEMAR LUIZ TRAIANO", 
+    "total": 738074.22, 
+    "election_id": 45789
+}

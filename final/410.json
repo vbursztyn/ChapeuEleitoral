@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Gonzaga Patriota"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PE/foto/170000000071.jpg", 
+    "state": "PE", 
+    "donations": {
+        "BRINK  MOBIL EQUIPAMENTOS EDUCACIONAIS LTDA": 100000.0
+    }, 
+    "party": "PSB", 
+    "fullname": "LUIZ GONZAGA PATRIOTA", 
+    "total": 466999.26, 
+    "election_id": 4000, 
+    "similars": [
+        "Eduino (PHS, PE) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista", 
+        "Bancada Sindicalista", 
+        "Bancada da Comunicação"
+    ]
+}

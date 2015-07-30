@@ -1,0 +1,29 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Delegado Francischini"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000200.jpg", 
+    "state": "PR", 
+    "donations": {
+        "SEAPAR SERVICOS E PARTICIPACOES S/A": 600000.0, 
+        "TELEMONT ENGENHARIA DE TELECOMUNICAÇÕES S/A": 500000.0, 
+        "G F GESTAO DE RECURSOS S/A.": 329868.61, 
+        "BRADESCO VIDA E PREVIDENCIA S.A.": 250000.0, 
+        "PETROFISA DO BRASIL LTDA": 215000.0, 
+        "CR ALMEIDA S/A - ENGENHARIA DE OBRAS": 200000.0, 
+        "MINERACOES BRASILEIRAS REUNIDAS S A MBR": 87700.0, 
+        "G2O GERENCIAMENTO E OBRAS LTDA": 50000.0, 
+        "SEMENTES GUERRA LTDA": 42000.0
+    }, 
+    "party": "SD", 
+    "fullname": "FERNANDO DESTITO FRANCISCHINI", 
+    "total": 2560734.62, 
+    "election_id": 7777, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada da Segurança", 
+        "Bancada Evangélica"
+    ]
+}

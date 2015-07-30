@@ -1,0 +1,32 @@
+{
+    "status": "ELEITO", 
+    "searchable": [
+        "Paulo Rocha"
+    ], 
+    "title": "Senador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PA/foto/140000000650.jpg", 
+    "state": "PA", 
+    "donations": {
+        "CONSTRUTORA TRIUNFO S.A.": 578010.13, 
+        "CONSTRUTORA QUEIROZ GALVÃO S/A": 475000.0, 
+        "SALOBO METAIS S A ": 317000.0, 
+        "CONTERN-CONSTRUÇÕES E COMERCIO LTDA": 285000.0, 
+        "CONSTRUTORA OAS S.A.": 285000.0, 
+        "VALE MANGANES S. A.": 270000.0, 
+        "JBS S/A": 227500.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S/A": 190000.0, 
+        "BIOPALMA DA AMAZONIA S.A. REFLORESTAMENTO INDUSTRIA E COMERCIO": 108000.0, 
+        "SERVENG CIVILSAN S. A. EMPRESAS ASSOCIADAS DE ENGENHARIA": 37500.0, 
+        "VALE MINA DO AZUL S. A.": 20000.0
+    }, 
+    "party": "PT", 
+    "fullname": "PAULO ROBERTO GALVAO DA ROCHA", 
+    "total": 3301712.24, 
+    "election_id": 131, 
+    "similars": [
+        "Beto Faro (PT, PA) - Deputado Federal", 
+        "Arlindo Chinaglia (PT, SP) - Deputado Federal", 
+        "Gabriel Guimarães (PT, MG) - Deputado Federal"
+    ], 
+    "stands": []
+}

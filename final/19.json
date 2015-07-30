@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Iran Lima"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PA/foto/140000000383.jpg", 
+    "state": "PA", 
+    "donations": {
+        "VALE MINA DO AZUL SA": 50000.0, 
+        "SALOBO METAIS S.A.": 10800.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "IRAN ATAIDE DE LIMA", 
+    "total": 217259.44, 
+    "election_id": 15678, 
+    "similars": [
+        "Leonardo Quintão (PMDB, MG) - Deputado Federal", 
+        "Barros Munhoz (PSDB, SP) - Deputado Estadual", 
+        "Antonio Anastasia (PSDB, MG) - Senador", 
+        "Lobão Filho (PMDB, MA) - Governador", 
+        "Lucio Vale (PR, PA) - Deputado Federal", 
+        "Guilherme Mussi (PP, SP) - Deputado Federal"
+    ]
+}

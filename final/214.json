@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Duarte Bechir"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000642.jpg", 
+    "state": "MG", 
+    "donations": {
+        "BRADESCO SAUDE SA": 50000.0, 
+        "VILASA CONSTRUTORA LTDA": 6860.0, 
+        "TRANSRIO": 5746.0
+    }, 
+    "party": "PSD", 
+    "fullname": "NACIB DUARTE BECHIR", 
+    "total": 588142.91, 
+    "election_id": 55789, 
+    "similars": [
+        "Celso Pansera (PMDB, RJ) - Deputado Federal", 
+        "Silvio Costa (PSC, PE) - Deputado Federal", 
+        "Aécio Neves (PSDB, BR) - Presidente"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Mara Caseiro"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MS/foto/120000000188.jpg", 
+    "state": "MS", 
+    "donations": {
+        "IACO AGRICOLA S/A": 121344.0, 
+        "VALE ENERGIA S/A": 77500.0, 
+        "JBS S/A": 50000.0, 
+        "H2L EQUIPAMENTOS E SISTEMAS LTDA": 50000.0, 
+        "SALOBO METAIS S.A.": 40000.0, 
+        "MINERAÇOES BRASILEIRAS REUNIDAS S/A ": 40000.0, 
+        "ENGEPAR - ENGENHARIA E PARTICIPAÇÕES LTDA": 5000.0
+    }, 
+    "party": "PT do B", 
+    "fullname": "MARA ELISA NAVACCHI CASEIRO", 
+    "total": 607238.65, 
+    "election_id": 70000, 
+    "similars": [
+        "Nelsinho Trad (PMDB, MS) - Governador", 
+        "Eduardo Rocha (PMDB, MS) - Deputado Estadual", 
+        "Marcio Fernandes (PT do B, MS) - Deputado Estadual", 
+        "Junior Mochi (PMDB, MS) - Deputado Estadual", 
+        "George Hilton (PRB, MG) - Deputado Federal", 
+        "Helder Salomao (PT, ES) - Deputado Federal"
+    ]
+}

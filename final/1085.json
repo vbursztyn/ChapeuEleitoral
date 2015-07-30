@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Jô Moraes"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000882.jpg", 
+    "state": "MG", 
+    "donations": {
+        "CERVEJARIA PETROPOLIS S/A": 100000.0, 
+        "BAHIANA DISTR GAS LTDA.": 10940.0, 
+        "JBS S/A": 8863.5
+    }, 
+    "party": "PC do B", 
+    "fullname": "MARIA DO SOCORRO JÔ MORAES", 
+    "total": 896646.94, 
+    "election_id": 6565, 
+    "similars": [
+        "Alex da Piatã (PMDB, BA) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Feminina"
+    ]
+}

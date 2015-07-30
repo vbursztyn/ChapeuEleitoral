@@ -1,0 +1,28 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Manato"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/ES/foto/80000000473.jpg", 
+    "state": "ES", 
+    "donations": {
+        "U T C ENGENHARIA SA": 149972.0, 
+        "HELCIO GOMES ENGENHARIA LTDA": 99986.0, 
+        "ORIGINAL VEICULOS LTDA": 99986.0, 
+        "SFRANCO CONSTRUTORA LTDA": 50000.0, 
+        "BRADESCO VIDA E PREVIDENCIA SA": 49986.0, 
+        "CONSTRUTORA ANFRADE GUTIERREZ SA": 49986.0, 
+        "CONSENTINO LATINA LTDA": 40000.0, 
+        "ENGESOLO ENGENHARIA LTDA": 30000.0
+    }, 
+    "party": "SD", 
+    "fullname": "CARLOS HUMBERTO MANNATO", 
+    "total": 859482.58, 
+    "election_id": 7777, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista", 
+        "Bancada Evangélica"
+    ]
+}

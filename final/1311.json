@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Dulce Miranda"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/TO/foto/270000000019.jpg", 
+    "state": "TO", 
+    "donations": {
+        "INFINITUM INCORPORAÇÕES LTDA": 50000.0, 
+        "EMSA EMPRESA SUL AMERICANA DE MONTAGENS S/A": 10000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "DULCE FERREIRA PAGANI MIRANDA", 
+    "total": 908276.0, 
+    "election_id": 1511, 
+    "stands": [
+        "Bancada Feminina"
+    ]
+}

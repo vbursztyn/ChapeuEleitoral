@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Washington Reis"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000001437.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "CONSTRUTORA ANDRADE GUTIERREZ S.A": 500000.0, 
+        "RIO DE JANEIRO REFRESCOS LTDA.": 200000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "WASHINGTON REIS DE OLIVEIRA", 
+    "total": 1362633.01, 
+    "election_id": 1516, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Evangélica"
+    ]
+}

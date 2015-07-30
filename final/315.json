@@ -1,0 +1,27 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Leopoldo Meyer"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000608.jpg", 
+    "state": "PR", 
+    "donations": {
+        "CIFERAL INDUSTRIA DE ONIBUS LTDA.": 50000.0, 
+        "VIA ENGENHARIA S/A": 39133.0, 
+        "CONSTRUTORA QUEIROZ GALVAO S/A": 35000.0, 
+        "JXS INFORMATICA LTDA.": 5867.0
+    }, 
+    "party": "PSB", 
+    "fullname": "LEOPOLDO COSTA MEYER", 
+    "total": 514484.9, 
+    "election_id": 4070, 
+    "similars": [
+        "Edmilson Soares (PEN, PB) - Deputado Estadual", 
+        "Jose Stedile (PSB, RS) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

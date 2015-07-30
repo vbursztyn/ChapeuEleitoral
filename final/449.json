@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Tripoli"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001045.jpg", 
+    "state": "SP", 
+    "donations": {
+        "CONSTRUTORA OAS S/A": 570000.0, 
+        "DESTILARIA ALCIDIA S/A": 378000.0, 
+        "BRADESCO SAUDE S/A": 142000.0, 
+        "PARTIDO VERDE": 20500.0
+    }, 
+    "party": "PV", 
+    "fullname": "JOSÉ ROBERTO NAZELLO DE ALVARENGA TRIPOLI", 
+    "total": 1634700.0, 
+    "election_id": 43666, 
+    "similars": [
+        "Duarte Nogueira (PSDB, SP) - Deputado Federal", 
+        "Mara Gabrilli (PSDB, SP) - Deputado Federal"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Valmir Assunção"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000149.jpg", 
+    "state": "BA", 
+    "donations": {
+        "CONSTRUTORA NORBERTO ODEBRECHT S.A": 261250.0, 
+        "QUEIROZ GALVÃO ALIMENTOS S/A": 95000.0, 
+        "ENSEADA INDUSTRIA NAVAL S/A": 31000.0, 
+        "CONSTRUTORA OAS S.A": 24000.0, 
+        "ABILITY TECNOLOGIA E SERVIÇOS S/A": 20000.0
+    }, 
+    "party": "PT", 
+    "fullname": "VALMIR CARLOS DA ASSUNÇÃO", 
+    "total": 797796.35, 
+    "election_id": 1310, 
+    "similars": [
+        "Robério Oliveira (PSD, BA) - Deputado Estadual", 
+        "Maria Del Carmen (PT, BA) - Deputado Estadual", 
+        "Otto Alencar (PSD, BA) - Senador", 
+        "Josias Gomes (PT, BA) - Deputado Federal"
+    ]
+}

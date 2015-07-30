@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Carlos Macedo"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000003016.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "JBS S/A": 13000.0, 
+        "LIM OGES INCORPORADORA LTDA": 6000.0
+    }, 
+    "party": "PRB", 
+    "fullname": "WALCYSNEU CARLOS MACEDO DE OLIVEIRA", 
+    "total": 158495.0, 
+    "election_id": 10100, 
+    "similars": [
+        "Tia Ju (PRB, RJ) - Deputado Estadual", 
+        "Roberto Sales (PRB, RJ) - Deputado Federal", 
+        "Rosangela Gomes (PRB, RJ) - Deputado Federal"
+    ]
+}

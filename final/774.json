@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Ezequiel Ferreira"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RN/foto/200000000155.jpg", 
+    "state": "RN", 
+    "donations": {
+        "CONSTRUTORA OAS SA": 150000.0, 
+        "RIO CLARO AGROINDUSTRIAL S.A.": 100000.0, 
+        "GALVÃO ENGENHARIA S.A.": 100000.0, 
+        "COMPANHIA METALURGICA PRADA": 100000.0, 
+        "ORIGINAL VEICULOS LTDA": 70000.0, 
+        "BTC PACTUAL ASSET": 50000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "EZEQUIEL GALVAO FERREIRA DE SOUZA", 
+    "total": 751235.33, 
+    "election_id": 15678, 
+    "similars": [
+        "Hermano Morais (PMDB, RN) - Deputado Estadual"
+    ]
+}

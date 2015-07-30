@@ -1,0 +1,36 @@
+{
+    "status": "ELEITO", 
+    "searchable": [
+        "Flavio Dino"
+    ], 
+    "title": "Governador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MA/foto/100000000014.jpg", 
+    "state": "MA", 
+    "donations": {
+        "CONSTRUTORA OAS S/A": 1157500.0, 
+        "PARNAIBA GAS NATURAL S/A": 703040.0, 
+        "MINERAÇÃO CORUMBAENSE REUNIDA S/A": 590000.0, 
+        "COSAN LUBRIFICANTES E ESPECIALIDADES S/A": 300000.0, 
+        "UTC ENGENHARIA S/A": 300000.0, 
+        "W TORRE ENGENHARIA E CONSTRUÇÃO S/A": 252000.0, 
+        "SALOBO METAIS S/A": 217500.0, 
+        "ARCELORMITTAL BRASIL S/A": 210000.0, 
+        "X TECH INFORMATICA LTDA": 140000.0, 
+        "DISTRIBUIDORA AUTOMOTORES LTDA": 127587.09, 
+        "N B R EMPREENDIMENTOS LTDA": 70000.0, 
+        "HRT O&G EXPLORAÇÃO E PRODUÇÃO DE PETROLEO LTDA": 42000.0, 
+        "VALE MINA DO AZUL S/A": 21957.69, 
+        "LITORANEA TENDAS E EVENTOS LTDA": 18900.0, 
+        "REY DO VIDRO LTDA": 14500.0, 
+        "DALCAR VEICULOS LTDA": 9600.0
+    }, 
+    "party": "PC do B", 
+    "fullname": "FLAVIO DINO DE CASTRO E COSTA", 
+    "total": 8556453.17, 
+    "election_id": 65, 
+    "similars": [
+        "Rubens Pereira Júnior (PC do B, MA) - Deputado Federal", 
+        "Isaura Lemos (PC do B, GO) - Deputado Estadual", 
+        "Alexandre Serfiotis (PSD, RJ) - Deputado Federal"
+    ]
+}

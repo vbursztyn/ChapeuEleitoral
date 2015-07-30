@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Marcio Nunes"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000829.jpg", 
+    "state": "PR", 
+    "donations": {
+        "QUEIROZ GALVÃO ALIMENTOS": 20000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ": 10000.0, 
+        "BRADESCO SAUDE S/A": 10000.0
+    }, 
+    "party": "PSC", 
+    "fullname": "MARCIO FERNANDO NUNES", 
+    "total": 959094.99, 
+    "election_id": 20250, 
+    "similars": [
+        "João Daniel (PT, SE) - Deputado Federal", 
+        "Gileno (PSL, SP) - Deputado Estadual", 
+        "Ed Thomas (PSB, SP) - Deputado Estadual", 
+        "Geraldo Alckmin (PSDB, SP) - Governador"
+    ]
+}

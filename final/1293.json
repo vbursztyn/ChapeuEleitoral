@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Pedro Pereira"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000001039.jpg", 
+    "state": "RS", 
+    "donations": {
+        "MARCOPOLO SA": 30070.0, 
+        "PHILIP MORRIS BRASIL INDUSTRIA E COMERCIO LTDA": 30000.0, 
+        "TEXTIL CANATIBA LTDA": 20000.0, 
+        "GERDAU ACOS ESPECIAIS S.A.": 20000.0, 
+        "TRACTEBEL ENERGIA COMERCIALIZADORA LTDA": 20000.0, 
+        "CONSTRUTECKMA ENGENHARIA S.A. ": 6250.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "PEDRO OZORIO PEREIRA", 
+    "total": 259372.98, 
+    "election_id": 45600, 
+    "similars": [
+        "Adolfo Brito (PP, RS) - Deputado Estadual"
+    ]
+}

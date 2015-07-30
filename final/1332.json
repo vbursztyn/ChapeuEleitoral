@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Pastor Cezinha"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001643.jpg", 
+    "state": "SP", 
+    "donations": {
+        "CARIOCA CHRISTIAN ENGENHARIA S/A": 25000.0, 
+        "UTC ENGENHARIA S/A": 22000.0, 
+        "CONSTRUTORA OAS S/A": 13000.0, 
+        "CAMARGO CORREIA CONSTRUÇÕES INDUSTRIAIS S/A": 8000.0
+    }, 
+    "party": "DEM", 
+    "fullname": "ANTONIO CEZAR CORREIA FREIRE", 
+    "total": 210435.8, 
+    "election_id": 25000, 
+    "similars": [
+        "Alexandre Leite (DEM, SP) - Deputado Federal"
+    ]
+}

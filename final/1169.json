@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Enio Bacci"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000000184.jpg", 
+    "state": "RS", 
+    "donations": {
+        "CONSTRUTORA QUEIROZ GALVAO SA": 50000.0, 
+        "HOSPITAL SANTA PAULA LTDA": 50000.0, 
+        "VILE ROMI ENGENHARIA LTDA": 50000.0, 
+        "QUANTIQ DISTRIBUIDORA LTDA": 10000.0
+    }, 
+    "party": "PDT", 
+    "fullname": "ENIO EGON BERGMANN BACCI", 
+    "total": 225135.71, 
+    "election_id": 12777
+}

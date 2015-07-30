@@ -1,0 +1,28 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Lázaro Botelho"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/TO/foto/270000000290.jpg", 
+    "state": "TO", 
+    "donations": {
+        "JBS S/A": 600000.0, 
+        "CONSTRUTORA SANCHES TRIPOLINI LTDA": 200000.0, 
+        "MONTREAL CONSTRUÇÕES LTDA": 100000.0, 
+        "FLORA PRODUTOS DE HIGIENE E LIMPEZA S/A": 100000.0, 
+        "J L COMERCIO E EQUIPAMENTOS": 5452.25
+    }, 
+    "party": "PP", 
+    "fullname": "LÁZARO BOTELHO MARTINS", 
+    "total": 1068389.14, 
+    "election_id": 1145, 
+    "similars": [
+        "Cacau Lorenzoni (PP, ES) - Deputado Estadual", 
+        "Osires Damaso (DEM, TO) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Lucio Vale"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PA/foto/140000000759.jpg", 
+    "state": "PA", 
+    "donations": {
+        "PARTIDO DO MOVIMENTO DEMOCRATICO BRASILEIRO": 120000.0, 
+        "SALOBO METAIS S/A": 90000.0, 
+        "VALE E MINA DO AZUL S.A.": 64750.0, 
+        "CASA ALFREDO OLIVEIRA LTDA": 15300.0, 
+        "GUARANY COMERCIO TRANSPORTE AUTOMOTIVO LTDA": 8000.0, 
+        "TRANSPORTE OURICURI LTDA": 7000.0, 
+        "TC SERVIÇOS DE LIMPEZA": 5687.5
+    }, 
+    "party": "PR", 
+    "fullname": "LUCIO DUTRA VALE", 
+    "total": 443475.55, 
+    "election_id": 2222, 
+    "similars": [
+        "Guilherme Mussi (PP, SP) - Deputado Federal", 
+        "Barros Munhoz (PSDB, SP) - Deputado Estadual"
+    ], 
+    "stands": []
+}

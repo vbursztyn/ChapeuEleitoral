@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Padre Afonso"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001043.jpg", 
+    "state": "SP", 
+    "donations": {
+        "JBS SA": 36000.0, 
+        "DIRETÓRIO NACIONAL DO PV": 20000.0
+    }, 
+    "party": "PV", 
+    "fullname": "JOSÉ AFONSO LOBATO", 
+    "total": 263419.5, 
+    "election_id": 43135, 
+    "similars": [
+        "Tripoli (PV, SP) - Deputado Estadual", 
+        "Marcos Neves (PV, SP) - Deputado Estadual", 
+        "Dr Sinval Malheiros (PV, SP) - Deputado Federal", 
+        "Roberto de Lucena (PV, SP) - Deputado Federal"
+    ]
+}

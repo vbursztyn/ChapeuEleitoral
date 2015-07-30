@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Giuseppe Vecci"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/GO/foto/90000000735.jpg", 
+    "state": "GO", 
+    "donations": {
+        "JOSE CELSO GONTIJO ENGENHARIA SA": 1000000.0, 
+        "RECOFARMA INDUSTRIA AMAZONAS LTDA": 200000.0, 
+        "FLORESTA AÇUCAR E ALCOOL": 50000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "GIUSEPPE VECCI", 
+    "total": 2506578.0, 
+    "election_id": 4545, 
+    "similars": [
+        "Diego Sorgatto (PSD, GO) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

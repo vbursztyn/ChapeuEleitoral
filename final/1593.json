@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Daniel Almeida"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000135.jpg", 
+    "state": "BA", 
+    "donations": {
+        "JBS S/A": 599986.0, 
+        "ARCELORMITTAL BRASIL S/A": 230000.0, 
+        "CBPO ENGENHARIA LTDA": 70000.0, 
+        "ABILITY TECNOLOGIA E SERVICOS S/A ": 24000.0
+    }, 
+    "party": "PC do B", 
+    "fullname": "DANIEL GOMES DE ALMEIDA", 
+    "total": 1402598.9, 
+    "election_id": 6565, 
+    "stands": [
+        "Bancada Sindicalista"
+    ]
+}

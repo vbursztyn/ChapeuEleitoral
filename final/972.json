@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Miki Breier"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000000564.jpg", 
+    "state": "RS", 
+    "donations": {
+        "CETREL LUMINA TECNOLOGIA E ENGENHARIA AMBIENTAL LTDA": 50700.0, 
+        "MELNICK EVEN OPALA EMPREENDIMENTO IMOBILIARIO LTDA": 35000.0, 
+        "MELNICK EVEN BERILO EMPREENDIMENTOS IMOBILIARIO LTDA": 25000.0, 
+        "MELNICK EVEN OLIVEIRA EMPREENDIMENTO IMOBILIARIO LTDA": 10000.0, 
+        "MELNICK EVEN HEMATITA EMPREENDIMENTO IMOBILIARIO LTDA": 10000.0
+    }, 
+    "party": "PSB", 
+    "fullname": "VOLMIR JOSE MIKI BREIER", 
+    "total": 441232.02, 
+    "election_id": 40400
+}

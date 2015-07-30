@@ -1,0 +1,26 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Miguel Correa"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000885.jpg", 
+    "state": "MG", 
+    "donations": {
+        "CONSTRUTORA NORBERTO ODEBRECHT S A ": 209000.0, 
+        "RECOFARMA INDÚSTRIA DO AMAZONAS LTDA.": 190000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S/A": 190000.0, 
+        "MBR S/A": 95000.0, 
+        "CONSTRUTORA BRASIL S/A": 95000.0, 
+        "MARTINS COM E SERVIÇOS LTDA": 57000.0, 
+        "SAMA S/A": 24000.0, 
+        "EMPRESA DE MINERAÇÃO E ESPERANÇA S/A": 19000.0
+    }, 
+    "party": "PT", 
+    "fullname": "MIGUEL CORREA DA SILVA JUNIOR", 
+    "total": 2789735.1, 
+    "election_id": 1330, 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

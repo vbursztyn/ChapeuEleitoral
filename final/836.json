@@ -1,0 +1,28 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Henrique Queiroz"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PE/foto/170000000108.jpg", 
+    "state": "PE", 
+    "donations": {
+        "CONSTRUTORA QUEIROZ GALVÃO S/A": 83000.0, 
+        "JBS S/A": 74196.0, 
+        "DISLUB COMBUSTIVEIS LTDA": 40000.0, 
+        "QUANTIQ DISTRIBUIDORA LTDA": 30000.0, 
+        "LIDERMAC CONSTRUÇOES E EQUIPAMENTOS LTDA": 20000.0, 
+        "CIA SIDERURGICA VALE DO PINDARE": 20000.0, 
+        "GALVÃO ENGENHARIA LTDA": 20000.0, 
+        "CONSTRUTORA NORBERTO ODEBRECHT": 20000.0, 
+        "MINERACOES BRASILEIRAS REUNIDASS/A MBR": 20000.0
+    }, 
+    "party": "PR", 
+    "fullname": "HENRIQUE JOSÉ QUEIROZ COSTA", 
+    "total": 467376.64, 
+    "election_id": 22222, 
+    "similars": [
+        "Claudiano Filho (PSDB, PE) - Deputado Estadual", 
+        "João Fischer - Fixinha (PP, RS) - Deputado Estadual"
+    ]
+}

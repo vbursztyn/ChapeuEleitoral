@@ -1,0 +1,29 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Fernando Capez"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001510.jpg", 
+    "state": "SP", 
+    "donations": {
+        "SUZANO PAPEL E CELULOSE S.A": 95000.0, 
+        "EVEN CONSTRUTORA E INCORPORADORA S/A": 85500.0, 
+        "BRADESCO SAUDE S/A ": 71250.0, 
+        "CADRI INDUSTRIA E COMERCIO DE FORROS METALICOS LTDA ": 71250.0, 
+        "EMCCAMP RESIDENCIAL S.A.": 50512.1, 
+        "IPIRANGA PRODUTOS DE PETROLEO S.A. ": 50000.0, 
+        "TERRAPLENAGEM MODOLO DE PRAIA GRANDE LTDA ": 47500.0, 
+        "UNIAO QUIMICA FARMACEUTICA NACIONAL S A ": 36284.5, 
+        "GUARANI S.A. ": 31250.0, 
+        "TRANSGERONIMO TRANSPORTES LTDA - ME": 23750.0, 
+        "AMIL ASSISTENCIA MEDICA INTERNACIONAL S/A": 5419.46
+    }, 
+    "party": "PSDB", 
+    "fullname": "FERNANDO CAPEZ", 
+    "total": 1777786.07, 
+    "election_id": 45700, 
+    "similars": [
+        "Igor Soares (PTN, SP) - Deputado Estadual"
+    ]
+}

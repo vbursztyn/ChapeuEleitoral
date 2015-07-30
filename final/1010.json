@@ -1,0 +1,38 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Zarattini"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000000618.jpg", 
+    "state": "SP", 
+    "donations": {
+        "BMX REALIZACOES IMOBILIARIAS E PARTICIPACOES SA ": 950000.0, 
+        "CONSTRUTORA QUEIROZ GALVAO SA": 535500.0, 
+        "BANCO SAFRA": 475000.0, 
+        "CONSTRUTORA OAS SA": 380000.0, 
+        "BTG PACTUAL ASSET MANAGEMENT SA DTVM": 275000.0, 
+        "JBS S/A": 240000.0, 
+        "BANCO BTG PACTUAL SA": 200000.0, 
+        "CONTERN CONSTRUTORA E COMERCIO LTDA": 190000.0, 
+        "EMBRAPORT EMP BR TERM PORT S/A": 161500.0, 
+        "ENGESIG INDUSTRIA E COMERCIO LTDA": 142500.0, 
+        "COSAN LUBRIFICANTE E ESPECIALIDADE S A": 95000.0, 
+        "CONSTRUTORA ETAMA LTDA": 95000.0, 
+        "SA PAULISTA": 10000.01, 
+        "UTC ENGENHARIA SA": 10000.0, 
+        "CITY ENGENHARIA E CONSTRUÇOES SA": 7000.0, 
+        "CANDEIA S ENERGIA SA": 5000.0
+    }, 
+    "party": "PT", 
+    "fullname": "CARLOS ALBERTO ROLIM ZARATTINI", 
+    "total": 6244292.85, 
+    "election_id": 1370, 
+    "similars": [
+        "Arlindo Chinaglia (PT, SP) - Deputado Federal", 
+        "Diogo Moraes (PSB, PE) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Sindicalista"
+    ]
+}

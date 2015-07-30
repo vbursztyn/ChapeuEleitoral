@@ -1,0 +1,26 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Eliziane Gama"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MA/foto/100000000603.jpg", 
+    "state": "MA", 
+    "donations": {
+        "PETROFISA DO BRASIL LTDA": 100000.0, 
+        "COSAN LUBRIFICANTES E ESPECIALIDADES S.A.": 50000.0
+    }, 
+    "party": "PPS", 
+    "fullname": "ELIZIANE PEREIRA GAMA FERREIRA", 
+    "total": 367950.65, 
+    "election_id": 2323, 
+    "similars": [
+        "Rubens Bueno (PPS, PR) - Deputado Federal", 
+        "Delegado Francischini (SD, PR) - Deputado Federal", 
+        "Felipe Francischini (SD, PR) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Feminina", 
+        "Bancada Evangélica"
+    ]
+}

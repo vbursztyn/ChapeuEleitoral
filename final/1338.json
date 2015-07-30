@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Leci Brandão"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000000071.jpg", 
+    "state": "SP", 
+    "donations": {
+        "UTC ENGENHARIA S/A": 801871.25, 
+        "CRBS S/A": 70000.0, 
+        "TRANA CONSTRUÇÕES LTDA": 55000.0, 
+        "BRASKEM S/A": 47600.0, 
+        "MEDIC CENTER DISTRIBUIDORA DE PRODUTOS HOSPITALARES LTDA": 30000.0, 
+        "BIOLAB SANUS FARMACEUTICA LTDA": 20000.0, 
+        "BRAFER CONSTRUCOES METALICAS S A": 15000.0
+    }, 
+    "party": "PC do B", 
+    "fullname": "LECI BRANDÃO DA SILVA", 
+    "total": 1544762.14, 
+    "election_id": 65035, 
+    "similars": [
+        "Cristiano Silveira (PT, MG) - Deputado Estadual"
+    ]
+}

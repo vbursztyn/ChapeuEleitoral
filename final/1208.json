@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Artagao Junior", 
+        "Artagão Junior", 
+        "Artagão Júnior"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000329.jpg", 
+    "state": "PR", 
+    "donations": {
+        "KLABIN S/A": 30000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "ARTAGÃO DE MATTOS LEÃO JUNIOR", 
+    "total": 447721.16, 
+    "election_id": 15015, 
+    "similars": [
+        "Pedro Paulo (PMDB, RJ) - Deputado Federal", 
+        "Luiz Carlos Hauly (PSDB, PR) - Deputado Federal"
+    ]
+}

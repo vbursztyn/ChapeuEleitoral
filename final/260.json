@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Tercilio Turini"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000718.jpg", 
+    "state": "PR", 
+    "donations": {
+        "PETROFISA DO BRASIL LTDA": 12000.0
+    }, 
+    "party": "PPS", 
+    "fullname": "TERCILIO LUIZ TURINI", 
+    "total": 100153.64, 
+    "election_id": 23043, 
+    "similars": [
+        "Rubens Bueno (PPS, PR) - Deputado Federal", 
+        "Delegado Francischini (SD, PR) - Deputado Federal", 
+        "Eliziane Gama (PPS, MA) - Deputado Federal", 
+        "Felipe Francischini (SD, PR) - Deputado Estadual"
+    ]
+}

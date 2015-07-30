@@ -1,0 +1,18 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "João Grandão"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MS/foto/120000000325.jpg", 
+    "state": "MS", 
+    "donations": {
+        "CONSTRUTORA ANDRADE GUTIERREZ SA": 150000.0, 
+        "EQUIPAV ENGENHARIA LTDA": 85000.0, 
+        "PSG TECNOLOGIA APLICADA LTDA": 65000.0
+    }, 
+    "party": "PT", 
+    "fullname": "JOÃO BATISTA DOS SANTOS", 
+    "total": 625838.13, 
+    "election_id": 13111
+}

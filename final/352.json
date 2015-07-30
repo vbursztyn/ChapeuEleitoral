@@ -1,0 +1,32 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Gilberto Nascimento"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000000496.jpg", 
+    "state": "SP", 
+    "donations": {
+        "COMPANHIA SIDERÚRGICA VALE DO PINDARE": 156363.74, 
+        "IMAVEN IMOVEIS LTDA": 100000.0, 
+        "CONSTRUTORA OAS S/A": 78433.06, 
+        "2N ENGENHARIA LTDA": 66006.81, 
+        "PONTO FORTE CONSTRUÇÕES E EMPREENDIMENTOS LTDA.": 42681.4, 
+        "CONSTRUTORA SANCHES TRIPOLONI LTDA.": 16671.74, 
+        "ENGEFORM CONSTRUÇÕES E COMÉRCIO LTDA.": 10200.0, 
+        "GOCIL SERVIÇOS DE VIGILÂNCIA E SEGURANÇA LTDA.": 6906.06
+    }, 
+    "party": "PSC", 
+    "fullname": "GILBERTO NASCIMENTO SILVA", 
+    "total": 774832.83, 
+    "election_id": 2020, 
+    "similars": [
+        "Mauricio Quintella (PR, AL) - Deputado Federal", 
+        "Renata Abreu (PTN, SP) - Deputado Federal", 
+        "Davi Zaia (PPS, SP) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada da Segurança", 
+        "Bancada Evangélica"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "status": "#NULO#", 
+    "searchable": [
+        "Jofran Frejat"
+    ], 
+    "title": "Governador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/DF/foto/70000000817.jpg", 
+    "state": "DF", 
+    "donations": {
+        "VIA ENGENHARIA S/A": 1000000.0, 
+        "JBS S/A": 500000.0, 
+        "Direção Nacional": 209502.9
+    }, 
+    "party": "PR", 
+    "fullname": "JOFRAN FREJAT", 
+    "total": 2088255.9, 
+    "election_id": 22, 
+    "similars": [
+        "Remidio da Amatur (PR, RR) - Deputado Federal", 
+        "Marcos Damásio (PR, SP) - Deputado Estadual", 
+        "Saba Reis (PR, AM) - Deputado Estadual"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Sergio Turra"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000000709.jpg", 
+    "state": "RS", 
+    "donations": {
+        "BRF S/A": 78400.0, 
+        "CONSTRUTECKMA ENGENHARIA SA": 25000.0, 
+        "GERDAU AÇOS ESPECIAIS LTDA": 19600.0, 
+        "BELAGBRICOLA COM. E REP. DE PRODUTOS AGRICULO LTDA": 10000.0, 
+        "FLORA PRODUTOS DE HIGIENE E LIMPEZA SA": 10000.0
+    }, 
+    "party": "PP", 
+    "fullname": "SERGIO BERGONSI TURRA", 
+    "total": 643920.37, 
+    "election_id": 11333
+}

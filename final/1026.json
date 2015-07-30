@@ -1,0 +1,33 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Baleia Rossi"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000002142.jpg", 
+    "state": "SP", 
+    "donations": {
+        "J.B.S.  S.A": 150000.0, 
+        "SUCOCITRICO CUTRALE LTDA.": 128877.74, 
+        "COSAN LUBRIFICANTES E ESPECIALIDADES SA": 117945.4, 
+        "IREP-SOCIEDADE DE ENSINO SUPERIOR· MÉDIO E FUNDAMENTAL LTDA.": 100000.0, 
+        "IBEP GRÁFICA LTDA": 71158.43, 
+        "BANCO BTG PACTUAL S/A.": 57278.72, 
+        "CONSTRUTORA OAS S.A.": 50000.0, 
+        "BRADESCO SAÚDE S.A.": 50000.0, 
+        "KABLIN S.A.": 50000.0, 
+        "CANARIAS CORRETORA DE SEGUROS S.A.": 50000.0, 
+        "S.A. PAULISTA DE CONSTRUÇÕES E COMÉRCIO": 30000.0, 
+        "CR ALMEIDA S.A ENGENHARIA DE OBRAS ": 6183.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "LUIZ FELIPE BALEIA TENUTO ROSSI", 
+    "total": 1641847.38, 
+    "election_id": 1515, 
+    "similars": [
+        "Estevam Galvão (DEM, SP) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

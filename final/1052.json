@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Renzo Braz"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000727.jpg", 
+    "state": "MG", 
+    "donations": {
+        "JBS S/A": 600000.0, 
+        "TELEMONT ENGENHARIA DE TELECOMUNICACOES S/A": 300000.0, 
+        "FLORA PRODUTOS  DE HIGIENE E LIMPEZA .SA": 100000.0
+    }, 
+    "party": "PP", 
+    "fullname": "RENZO DO AMARAL BRAZ", 
+    "total": 3734836.79, 
+    "election_id": 1121, 
+    "similars": [
+        "Nelson Meurer (PP, PR) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

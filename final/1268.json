@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Shéridan"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RR/foto/230000000273.jpg", 
+    "state": "RR", 
+    "donations": {
+        "Direção Nacional": 140000.0, 
+        "HANGAR EMPRESARIAL EMPREENDIMENTOS IMOBILIARIOS ": 70000.0, 
+        "POSTO SACY LTDA ": 21580.85
+    }, 
+    "party": "PSDB", 
+    "fullname": "SHÉRIDAN ESTERFANY OLIVEIRA DE ANCHIETA", 
+    "total": 769180.85, 
+    "election_id": 4545, 
+    "stands": [
+        "Bancada Feminina"
+    ]
+}

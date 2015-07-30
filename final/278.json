@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Sandro Alex"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000207.jpg", 
+    "state": "PR", 
+    "donations": {
+        "CRBS S/A": 150000.0, 
+        "PHILIP MORRIS INDUSTRIA E COMERCIO LTDA": 29992.2, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S.A": 20000.0, 
+        "KLABIN S/A": 20000.0
+    }, 
+    "party": "PPS", 
+    "fullname": "SANDRO ALEX CRUZ DE OLIVEIRA", 
+    "total": 847828.13, 
+    "election_id": 2323, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista", 
+        "Bancada Evangélica", 
+        "Bancada da Comunicação"
+    ]
+}

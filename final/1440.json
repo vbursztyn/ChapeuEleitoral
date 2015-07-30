@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Erivelton Santana"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000683.jpg", 
+    "state": "BA", 
+    "donations": {
+        "BRASKEM S/A": 60000.0, 
+        "CRBS S/A": 60000.0, 
+        "CONSTRUTORA NORBERTO ODEBRETCH": 30000.0, 
+        "CONSTRUTORA ANDRADE MENDONCA LTDA": 28845.7, 
+        "CONSTRUTORA ANDRADE GUTIERREZ SA": 20000.0
+    }, 
+    "party": "PSC", 
+    "fullname": "ERIVELTON LIMA SANTANA", 
+    "total": 248930.84, 
+    "election_id": 2012, 
+    "stands": [
+        "Bancada Evangélica"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Orlando Cidade"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AM/foto/40000000066.jpg", 
+    "state": "AM", 
+    "donations": {
+        "AUXILIO AGENCIAMENTO DE RECURSOS HUMANOS E SERVIÇOS LTDA.": 150000.0, 
+        "LAGHI ENGENHARIA LTDA.": 100000.0, 
+        "TECON TECNOLOGIA EM CONSTRUÇÕES LTDA.": 100000.0, 
+        "PANASONIC DO BRASIL": 28170.8, 
+        "VILA ENGENHARIA LTDA": 6500.0
+    }, 
+    "party": "PTN", 
+    "fullname": "ORLANDO GUALBERTO CIDADE FILHO", 
+    "total": 663364.5, 
+    "election_id": 19799, 
+    "similars": [
+        "Abdala Fraxe (PTN, AM) - Deputado Estadual", 
+        "Bi Garcia (PSDB, AM) - Deputado Estadual", 
+        "Cabo Maciel (PR, AM) - Deputado Estadual"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Guerino Zanon"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/ES/foto/80000000655.jpg", 
+    "state": "ES", 
+    "donations": {
+        "CONSTRUTORA OAS SA": 150000.0, 
+        "VALE DO RIO DOCE ENERGIA SA": 98000.0, 
+        "CONSTRUTORA NOBERTO ODEBRECHE SA": 10000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "GUERINO LUIZ ZANON", 
+    "total": 488016.7, 
+    "election_id": 15555
+}

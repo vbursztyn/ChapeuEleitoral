@@ -1,0 +1,28 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Gustavo Tutuca"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000001611.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "CERVEJARIA PETROPOLIS SA": 300000.0, 
+        "HAZTEC TECNOLOGIA E PLANEJAMENTO AMBIENTAL SA": 100000.0, 
+        "JBS S/A": 100000.0, 
+        "CONSTRUTORA QUEIROZ GALVAO S/A": 100000.0, 
+        "CARVALHO HOSKEN ENGENHARIA SA": 100000.0, 
+        "CACAPAVA EMPREITADA DE LAVOR LTDA": 100000.0, 
+        "CONFIDERE IMOBILIARIA· INCORPORADORA E ADMINISTRADORA DE IMOVEIS CIDADE NOVA LTDA  ": 100000.0, 
+        "COMPANHIA METALURGICA PRADA": 60000.0, 
+        "DIRETÓRIO ESTADUAL DO PSD": 50000.0, 
+        "UTC ENGENHARIA S/A": 50000.0, 
+        "LONDRINA BEBIDAS LTDA": 50000.0, 
+        "DANNEMANN SIEMSEN ADVOGADOS": 40000.0, 
+        "HOSPITAL SANTA PAULA": 25000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "GUSTAVO REIS FERREIRA", 
+    "total": 1872849.45, 
+    "election_id": 15212
+}

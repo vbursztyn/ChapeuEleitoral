@@ -1,0 +1,19 @@
+{
+    "status": "NÃO ELEITO", 
+    "searchable": [
+        "Antônio Gomide"
+    ], 
+    "title": "Governador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/GO/foto/90000000316.jpg", 
+    "state": "GO", 
+    "donations": {
+        "DIRETORIO NACIONAL": 780796.25, 
+        "GEOLAB INDUSTRIA FARMACEUTICA": 300000.0, 
+        "DIRETORIO ESTADUAL DO PT": 7400.0, 
+        "JAEPEL PAPEIS E EMBALAGENS": 5000.0
+    }, 
+    "party": "PT", 
+    "fullname": "ANTÔNIO ROBERTO OTONI GOMIDE", 
+    "total": 1797901.46, 
+    "election_id": 13
+}

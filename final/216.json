@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Ronaldo Martins"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/CE/foto/60000000806.jpg", 
+    "state": "CE", 
+    "donations": {
+        "JBS S/A": 320000.0
+    }, 
+    "party": "PRB", 
+    "fullname": "RONALDO MANCHADO MARTINS", 
+    "total": 1300757.51, 
+    "election_id": 1010, 
+    "stands": [
+        "Bancada Evangélica"
+    ]
+}

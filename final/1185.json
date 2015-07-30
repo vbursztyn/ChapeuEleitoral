@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Thiago Pampolha"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000001242.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "CERVEJARIA PETROPOLIS S.A": 250000.0, 
+        "CARIOCA CHRISTIANI NIELSEN ENGENHARIA S.A": 199700.0, 
+        "CONSTRUTORA QUEIROZ GALVÃO S.A": 150000.0, 
+        "HAZTEC TECNOLOGIA E PLANEJAMENTO AMBIENTAL S.A": 100000.0, 
+        "FAGGA PROMOÇÃO DE EVENTOS S.A": 49000.0, 
+        "MASTERPLAN CONSULTORIA DE PROJETOS E EXECUÇÃO LTDA": 18157.0
+    }, 
+    "party": "PTC", 
+    "fullname": "THIAGO PAMPOLHA GONÇALVES", 
+    "total": 1072015.61, 
+    "election_id": 36500
+}

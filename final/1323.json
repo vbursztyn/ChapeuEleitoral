@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Assis do Couto"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000760.jpg", 
+    "state": "PR", 
+    "donations": {
+        "AGROPECUÁRIA SANTA BARBARA XINGUARA S/A": 95000.0, 
+        "ELEIÇÃO 2014 DILMA VANA ROUSSEFF PRESIDENTE": 50000.0
+    }, 
+    "party": "PT", 
+    "fullname": "ASSIS MIGUEL DO COUTO", 
+    "total": 343667.77, 
+    "election_id": 1314, 
+    "stands": [
+        "Bancada Sindicalista"
+    ]
+}

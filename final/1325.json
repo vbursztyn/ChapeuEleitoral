@@ -1,0 +1,26 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Gabriel Guimarães"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000856.jpg", 
+    "state": "MG", 
+    "donations": {
+        "BRADESCO S/A CORRETORA DE TITULOS E VALORES MOBILIARIOS": 142500.0, 
+        "SERVENG S/A": 75000.0, 
+        "CRBS S/A": 28500.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S/A": 20000.0, 
+        "VALE ENERGIA S/A": 12156.53, 
+        "CONSTRUTORA BARBOSA MELLO S/A": 9481.5, 
+        "JBS S/A": 6900.0, 
+        "CBMM - COMPANHIA BRASILEIRA DE METALURGIA E MINERAÇÃO": 5925.0
+    }, 
+    "party": "PT", 
+    "fullname": "GABRIEL GUIMARÃES DE ANDRADE", 
+    "total": 2489317.96, 
+    "election_id": 1311, 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

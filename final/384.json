@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Luiza Erundina"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001476.jpg", 
+    "state": "SP", 
+    "donations": {
+        "CONSTRUCAP CCPS ENG. E COM. LTDA.": 180000.0
+    }, 
+    "party": "PSB", 
+    "fullname": "LUIZA ERUNDINA DE SOUSA", 
+    "total": 443600.4, 
+    "election_id": 4021, 
+    "stands": [
+        "Bancada Feminina", 
+        "Bancada Sindicalista"
+    ]
+}

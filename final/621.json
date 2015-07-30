@@ -1,0 +1,35 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Vanderlei Macris"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001318.jpg", 
+    "state": "SP", 
+    "donations": {
+        "CR ALMEIDA SA ENGENHARIA DE OBRAS": 250000.0, 
+        "CONSTRUTORA FERREIRA GUEDES S.A.": 250000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S/A": 225700.0, 
+        "CONSBEM CONSTRUCOES E COMERCIO LTDA": 166500.0, 
+        "PACAEMBU EMPREENDIMENTOS E CONSTRUCAO LTDA": 150000.0, 
+        "CONSTRUTORA OAS SA": 100000.0, 
+        "S.A. PAULISTA DE CONSTRUÇÕES E COMÉRCIO": 100000.0, 
+        "AMIL ASSISTENCIA MEDICA INTERNACIONAL S/A": 100000.0, 
+        "GERIBELLO ENGENHARIA LTDA": 97500.0, 
+        "ARCOS DOURADOS COMERCIO DE ALIMENTO LTDA": 47500.0, 
+        "WANMIX LTDA.": 38905.0, 
+        "BRADESCO VIDA E PREVIDENCIA S/A": 5419.46
+    }, 
+    "party": "PSDB", 
+    "fullname": "VANDERLEI MACRIS", 
+    "total": 2357202.0, 
+    "election_id": 4551, 
+    "similars": [
+        "Rogério Nogueira (DEM, SP) - Deputado Estadual", 
+        "Estevam Galvão (DEM, SP) - Deputado Estadual", 
+        "Camilo (PT, CE) - Governador"
+    ], 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

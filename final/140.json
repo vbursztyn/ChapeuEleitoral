@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Jorge Côrte Real"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PE/foto/170000000603.jpg", 
+    "state": "PE", 
+    "donations": {
+        "GERDAU AÇOS ESPECIAIS S.A.": 50000.0, 
+        "FIBRASA S.A": 30000.0
+    }, 
+    "party": "PTB", 
+    "fullname": "JORGE WICKS CÔRTE REAL", 
+    "total": 1048700.0, 
+    "election_id": 1411, 
+    "similars": [
+        "Sergio Vidigal (PDT, ES) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

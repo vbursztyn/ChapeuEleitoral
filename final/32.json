@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "João Magalhães"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000001011.jpg", 
+    "state": "MG", 
+    "donations": {
+        "CONSTRUTORA ANDRADE GUTIERREZ S.A.": 200000.0, 
+        "AMIL ASSISTENCIA MEDICA INTERNACIONAL S.A": 100000.0, 
+        "BOM JESUS AGROPECUARIA": 50000.0, 
+        "BRADESCO VIDA E PREVIDENCIA S.A": 50000.0, 
+        "CRBS S/A": 50000.0, 
+        "ARAGUAIA COM. ENERGIA ELETRICA LTDA": 50000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "JOÃO LÚCIO MAGALHÃES BIFANO", 
+    "total": 1673002.57, 
+    "election_id": 15133, 
+    "similars": [
+        "Mauro Lopes (PMDB, MG) - Deputado Federal", 
+        "Adalclever Lopes (PMDB, MG) - Deputado Estadual"
+    ]
+}

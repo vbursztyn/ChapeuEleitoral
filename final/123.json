@@ -1,0 +1,27 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Rogerio Andrade"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000366.jpg", 
+    "state": "BA", 
+    "donations": {
+        "CONSTRUTORA NORBERTO ODEBRECHT S.A.": 25000.0, 
+        "COMPANHIA DE SEGUROS ALIANCA DA BAHIA": 25000.0, 
+        "BRADESCO SAUDE S.A.": 20000.0, 
+        "ARCLIMA ENGENHARIA LTDA": 15000.0, 
+        "LIMPATECH SERVICOS E CONSTRUCOES LTDA": 15000.0
+    }, 
+    "party": "PSD", 
+    "fullname": "ANDRE ROGERIO DE ARAUJO ANDRADE", 
+    "total": 495768.77, 
+    "election_id": 55444, 
+    "similars": [
+        "Pedro Fernandes (SD, RJ) - Deputado Estadual", 
+        "Bruno Reis (PMDB, BA) - Deputado Estadual", 
+        "Aureo (SD, RJ) - Deputado Federal", 
+        "Vando (PSC, BA) - Deputado Estadual", 
+        "Palozi (PSC, PR) - Deputado Estadual"
+    ]
+}

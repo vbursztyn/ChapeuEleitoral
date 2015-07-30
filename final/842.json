@@ -1,0 +1,17 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Flora Izabel"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PI/foto/180000000237.jpg", 
+    "state": "PI", 
+    "donations": {
+        "CERVEJARIA PETROPOLIS S.A": 40000.0, 
+        "BANCO SAFRA": 20000.0
+    }, 
+    "party": "PT", 
+    "fullname": "FLORA IZABEL NOBRE RODRIGUES", 
+    "total": 235692.71, 
+    "election_id": 13678
+}

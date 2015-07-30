@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Mainardi"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000000375.jpg", 
+    "state": "RS", 
+    "donations": {
+        "GERDAU AÇOS ESPECIAIS S/A ": 38000.0, 
+        "REDE INTERNACIONAL DE UNIVERSIDADES LAUREATE LTDA. ": 30000.0, 
+        "PHILIP MORRIS BRASIL IND. E COM. LTDA. ": 28500.0, 
+        "BRASKEM S/A ": 9500.0
+    }, 
+    "party": "PT", 
+    "fullname": "LUIZ FERNANDO MAINARDI", 
+    "total": 1281132.0, 
+    "election_id": 13555, 
+    "similars": [
+        "Atila Lira (PSB, PI) - Deputado Federal", 
+        "Professora Dorinha (DEM, TO) - Deputado Federal", 
+        "Izalci (PSDB, DF) - Deputado Federal"
+    ]
+}

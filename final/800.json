@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Luiz Carlos Ramos do Chapeu"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000002139.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "CARIOCA CHRISTIANI NIELSEN ENGENHARIA S A": 170000.0, 
+        "Direção Estadual/Distrital": 85000.0, 
+        "AVANTE VEICULOS LTDA": 50000.0, 
+        "PONTO VEICULOS LTDA ": 50000.0
+    }, 
+    "party": "PSDC", 
+    "fullname": "LUIZ CARLOS RAMOS", 
+    "total": 615259.51, 
+    "election_id": 2727, 
+    "stands": []
+}

@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Caio Roberto"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PB/foto/150000000463.jpg", 
+    "state": "PB", 
+    "donations": {
+        "JBS S/A": 196550.0, 
+        "SEARA ALIMENTOS LTDA": 49180.0, 
+        "GONZAGA INDÚSTRIA COM E REPRES. LTDA": 12000.0
+    }, 
+    "party": "PR", 
+    "fullname": "CAIO FIGUEIREDO ROBERTO", 
+    "total": 295190.5, 
+    "election_id": 22222, 
+    "similars": [
+        "Genival Matias (PT do B, PB) - Deputado Estadual"
+    ]
+}

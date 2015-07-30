@@ -1,0 +1,18 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Jooji Hato"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000002652.jpg", 
+    "state": "SP", 
+    "donations": {
+        "OAS S/A": 16000.0, 
+        "GERDAU AÇOS ESPECIAIS SA": 15975.0, 
+        "COMPANHIA METALURGICA PRADA": 6183.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "JOOJI HATO", 
+    "total": 496238.35, 
+    "election_id": 15622
+}

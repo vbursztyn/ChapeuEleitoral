@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Capitão Augusto"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000000689.jpg", 
+    "state": "SP", 
+    "donations": {
+        "JBS S.A": 50000.0, 
+        "TMV ENGENHARIA E CONSTRUÇÕES LTDA": 6500.0
+    }, 
+    "party": "PR", 
+    "fullname": "JOSE AUGUSTO ROSA", 
+    "total": 204897.5, 
+    "election_id": 2200, 
+    "stands": [
+        "Bancada da Segurança"
+    ]
+}

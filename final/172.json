@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Valdir Rossoni"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000158.jpg", 
+    "state": "PR", 
+    "donations": {
+        "TIMBO EMPREENDIMENTOS IMOBILIARIOS SA": 24000.0, 
+        "IPIRANGA PRODUTOS DE PETROLEO SA": 15000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "VALDIR LUIZ ROSSONI", 
+    "total": 1468376.08, 
+    "election_id": 4545, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

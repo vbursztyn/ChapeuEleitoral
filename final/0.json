@@ -1,0 +1,33 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "José Mentor"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000000638.jpg", 
+    "state": "SP", 
+    "donations": {
+        "JBS S/A": 142500.0, 
+        "ECOM ENERGIA LTDA": 142500.0, 
+        "QUEIROZ GALVÃO S/A": 95000.0, 
+        "MULTIMIL CONSTRUTORA LTDA": 95000.0, 
+        "SÃO SEBASTIÃO DESENVOLVIMENTO IMOBILIARIO LTDA": 71250.0, 
+        "TELEMONT S/A": 50000.0, 
+        "CONSTRUTORA OAS S/A": 47500.0, 
+        "CRBD S/A": 47500.0, 
+        "CONSTRUTORA NORBERTO ODEBRECHT S/A": 45000.0
+    }, 
+    "party": "PT", 
+    "fullname": "JOSE MENTOR GUILHERME DE MELLO NETTO", 
+    "total": 1802449.33, 
+    "election_id": 1332, 
+    "similars": [
+        "Renzo Braz (PP, MG) - Deputado Federal", 
+        "Chico Rodrigues (PSB, RR) - Governador", 
+        "Gabriel Souza (PMDB, RS) - Deputado Estadual", 
+        "Itamar Borges (PMDB, SP) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

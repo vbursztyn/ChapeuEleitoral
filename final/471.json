@@ -1,0 +1,29 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Décio Lima"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SC/foto/240000000174.jpg", 
+    "state": "SC", 
+    "donations": {
+        "SERVENG CIVILSAM SA EMPRESAS ASSOCIADAS DE ENGENHARIA": 400000.0, 
+        "ITAPOÁ TERMINAIS PORTUÁRIOS SA": 350000.0, 
+        "SUL CATARINENSE MINERAÇÃO ARTEFATOS DE CIMENTOS BRITAGEM E CONSTRUÇÕES LTDA": 199900.0, 
+        "CAPUA PROJETOS E CONSTRUÇÕES": 174850.0, 
+        "CONSTRUTORA RODRIGUES DO PRADO LTDA": 150000.0, 
+        "BRADESCO VIDA E PREVIDÊNCIA SA ": 105000.0, 
+        "COSAN LUBRIFICANTES E ESPECIALIDADES SA ": 100000.0, 
+        "BRADESCO SAUDE SA": 35000.0, 
+        "UNIMED SC BLUMENAU": 15000.0
+    }, 
+    "party": "PT", 
+    "fullname": "DÉCIO NERY DE LIMA", 
+    "total": 1985573.77, 
+    "election_id": 1313, 
+    "similars": [
+        "Frederico Antunes (PP, RS) - Deputado Estadual", 
+        "Ana Paula (PT, SC) - Deputado Estadual"
+    ], 
+    "stands": []
+}

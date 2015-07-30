@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Betinho Rosado Segundo"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RN/foto/200000000521.jpg", 
+    "state": "RN", 
+    "donations": {
+        "JBS S/A": 400000.0, 
+        "FLORA PRODUTOS DE HIGIENE E LIMPEZA SA": 100000.0, 
+        "SALINOR SALINAS DO NORDESTE SA": 15000.0
+    }, 
+    "party": "PP", 
+    "fullname": "CARLOS ALBERTO DE SOUSA ROSADO SEGUNDO", 
+    "total": 739660.0, 
+    "election_id": 1111, 
+    "similars": [
+        "Felipe Maia (DEM, RN) - Deputado Federal"
+    ]
+}

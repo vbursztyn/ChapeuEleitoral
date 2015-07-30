@@ -1,0 +1,26 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Waldenor Pereira"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000150.jpg", 
+    "state": "BA", 
+    "donations": {
+        "ARCLIMA ENGENHARIA LTDA.": 95000.0, 
+        "AMIL ASSISTENCIA MÉDICA INTERNACIONAL  S.A.": 95000.0, 
+        "CERVEJARIA PETROPOLIS SA": 10000.0, 
+        "CONSTRUTURA NORBERTO ODEBRECHT": 9600.0
+    }, 
+    "party": "PT", 
+    "fullname": "WALDENOR ALVES PEREIRA FILHO", 
+    "total": 484769.53, 
+    "election_id": 1322, 
+    "similars": [
+        "Rui Costa (PT, BA) - Governador"
+    ], 
+    "stands": [
+        "Bancada Sindicalista", 
+        "Bancada da Comunicação"
+    ]
+}

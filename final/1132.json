@@ -1,0 +1,27 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Barros Munhoz"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001557.jpg", 
+    "state": "SP", 
+    "donations": {
+        "CRISTALIA PRODUTOS QUIMICOS FARMACEUTICOS LTDA": 475000.0, 
+        "PROGERAL INDUSTRIA DE ARTEFATOS PLASTICOS LTDA": 190000.0, 
+        "SIMP - SERVIÇOS DE INSTALAÇÃO· MONTAGENS E PROJETOS LTDA": 60000.0, 
+        "DURATEX S/A": 50000.0, 
+        "VALE MINA DO AZUL S.A": 47340.0, 
+        "TGL - TRANSPORTES· GUINDASTES E LOCAÇÕES LTDA": 40000.0, 
+        "TERRA NOVA ENGENHARIA E CONSTRUCAO LTDA.": 10500.0, 
+        "AMIL ASSISTENCIA MEDICA INTERNACIONAL S/A": 5419.46
+    }, 
+    "party": "PSDB", 
+    "fullname": "JOSE ANTONIO BARROS MUNHOZ", 
+    "total": 2047096.57, 
+    "election_id": 45545, 
+    "similars": [
+        "Guilherme Mussi (PP, SP) - Deputado Federal", 
+        "Jandira Feghali (PC do B, RJ) - Deputado Federal"
+    ]
+}

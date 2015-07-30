@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO", 
+    "searchable": [
+        "Fátima Bezerra"
+    ], 
+    "title": "Senador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RN/foto/200000000244.jpg", 
+    "state": "RN", 
+    "donations": {
+        "JBS / SA FRIGORÍFICO - ABATE DE BOVINOS": 1165000.0, 
+        "SUCOCITRICO CUTRALE LTDA": 475000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ SA": 425000.0, 
+        "CARIOCA CHRISTIANI NIELSEN ENGENHARIA S A ": 190000.0, 
+        "SALINOR - SALINAS DO NORDESTE SA": 80000.0, 
+        "ALESAT COMBUSTIVEIS": 50000.0, 
+        "ENGEVIX ENGENHARIA": 50000.0
+    }, 
+    "party": "PT", 
+    "fullname": "MARIA DE FÁTIMA BEZERRA", 
+    "total": 3409764.0, 
+    "election_id": 131, 
+    "stands": []
+}

@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Julio Arcoverde"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PI/foto/180000000266.jpg", 
+    "state": "PI", 
+    "donations": {
+        "JBS S/A": 304000.0, 
+        "IGUATEMI EMPRESA DE SHOPPINGH CENTERS S/A": 221000.0, 
+        "MINERAÇÕES BRASILEIRAS REUNIDAS S.A MBR": 150000.0, 
+        "FLORA PRODUTOS DE HIGIENE E LIMPEZA S.A": 100000.0, 
+        "CONSTRUTORA OAS S.A": 95000.0, 
+        "CONSTRUTORA COLARES LINHARES S.A": 80000.0, 
+        "BANCO SAFRA SA": 40000.0, 
+        "COSAN LUBRIFICANTES E ESPECIALIDADES S.A": 20000.0
+    }, 
+    "party": "PP", 
+    "fullname": "JULIO FERRAZ ARCOVERDE", 
+    "total": 1243743.7, 
+    "election_id": 11111
+}

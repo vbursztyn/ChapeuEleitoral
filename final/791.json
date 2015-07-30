@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Soraya Santos"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000001434.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "GALVÃO ENGENHARIA S/A": 150000.0, 
+        "FARX ENGENHARIA LTDA": 50000.0, 
+        "CRBS S/A": 20000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "SORAYA ALENCAR DOS SANTOS", 
+    "total": 1394452.5, 
+    "election_id": 1513, 
+    "stands": []
+}

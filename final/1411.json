@@ -1,0 +1,20 @@
+{
+    "status": "NÃO ELEITO", 
+    "searchable": [
+        "Padilha"
+    ], 
+    "title": "Governador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000000502.jpg", 
+    "state": "SP", 
+    "donations": {
+        "EUROFARMA LABORATÓRIOS S/A": 190000.0, 
+        "ACHE LABORATORIOS FARMACEUTICOS S/A": 190000.0, 
+        "SEARA ALIMENTOS LTDA.": 50000.0, 
+        "UTC ENGENHARIA S/A": 20000.0, 
+        "CR ALMEIDA S/A ENGENHARIA DE OBRAS": 19000.0
+    }, 
+    "party": "PT", 
+    "fullname": "ALEXANDRE ROCHA SANTOS PADILHA", 
+    "total": 22716045.69, 
+    "election_id": 13
+}

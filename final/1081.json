@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Luiz Fernando (PT)", 
+        "Luiz Fernando Teixeira Ferreira"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000000562.jpg", 
+    "state": "SP", 
+    "donations": {
+        "AGRO ENERGIA S/A": 238450.0, 
+        "COESA ENGENHARIA LTDA": 190000.0, 
+        "U T C ENGENHARIA S/A": 190000.0, 
+        "BRASKEM S/A": 41625.0, 
+        "AMIL ASSISTENCIA MEDICA INTERNACIONAL S.A": 29475.0, 
+        "CONSTRUTORA  OAS S.A": 28000.0
+    }, 
+    "party": "PT", 
+    "fullname": "LUIZ FERNANDO TEIXEIRA FERREIRA", 
+    "total": 3275547.93, 
+    "election_id": 13134
+}

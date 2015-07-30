@@ -1,0 +1,32 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Lucas Redecker"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000001022.jpg", 
+    "state": "RS", 
+    "donations": {
+        "COSAN LUBRIFICANTES E ESPECIALIDADES SA": 50000.0, 
+        "TRANSSERRA TRANSPORTADORA SERRA NORDESTE LTDA": 50000.0, 
+        "CRBC S.A": 30000.0, 
+        "CQG CONSTRUÇÕES OFFSHORE S/A": 30000.0, 
+        "QUANTIQ DISTRIBUIDORA LTDA": 30000.0, 
+        "SAUR EQUIPAMENTOS S/A": 20000.0, 
+        "PHILIP MORRIS BRASIL S.A": 20000.0, 
+        "IPIRANGA PRODUTOS DE PETROLEO S.A.": 20000.0, 
+        "GERDAU AÇOS ESPECIAIS SA": 20000.0, 
+        "EMBRAPORT EMPRESA BRASILEIRA DE TERMINAIS PORTUÁRIOS S.A.": 10000.0, 
+        "CONSTRUTEKMAC": 6250.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "LUCAS BELLO REDECKER", 
+    "total": 759230.21, 
+    "election_id": 45111, 
+    "similars": [
+        "Zarattini (PT, SP) - Deputado Federal", 
+        "Diogo Moraes (PSB, PE) - Deputado Estadual", 
+        "Jutay Meneses (PRB, PB) - Deputado Estadual", 
+        "Wellington Roberto (PR, PB) - Deputado Federal"
+    ]
+}

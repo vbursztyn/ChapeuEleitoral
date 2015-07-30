@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Ronaldo Fonseca"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/DF/foto/70000000834.jpg", 
+    "state": "DF", 
+    "donations": {
+        "JBS S/A": 75000.0, 
+        "PARTIDO PROGRESSISTA": 30000.0
+    }, 
+    "party": "PROS", 
+    "fullname": "RONALDO FONSECA DE SOUZA", 
+    "total": 457630.0, 
+    "election_id": 9090, 
+    "stands": [
+        "Bancada Evangélica"
+    ]
+}

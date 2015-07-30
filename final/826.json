@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Odelmo Leão"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000667.jpg", 
+    "state": "MG", 
+    "donations": {
+        "BRF S.A.": 149835.0, 
+        "FLASAN COMERCIAL E INDUSTRIA DE PERFIS DE AÇO LTDA": 100000.0, 
+        "CRBS S/A": 29967.0
+    }, 
+    "party": "PP", 
+    "fullname": "ODELMO LEÃO CARNEIRO SOBRINHO", 
+    "total": 1066172.0, 
+    "election_id": 1199, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

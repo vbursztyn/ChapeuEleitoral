@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Marcio Monteiro"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MS/foto/120000000021.jpg", 
+    "state": "MS", 
+    "donations": {
+        "BRADESCO VIDA E PREVIDÊNCIA S.A": 50000.0, 
+        "JBS S.A": 8302.5
+    }, 
+    "party": "PSDB", 
+    "fullname": "MARCIO CAMPOS MONTEIRO", 
+    "total": 803038.5, 
+    "election_id": 4545, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

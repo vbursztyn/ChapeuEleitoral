@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Deley"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000001470.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "CARIOCA CHRISTIANI NIELSEN ENGENHARIA S A": 400000.0, 
+        "AVANTE VEICULOS LTDA": 50000.0, 
+        "CONSTRUTORA QUEIROZ GLAVAO S A": 50000.0
+    }, 
+    "party": "PTB", 
+    "fullname": "WANDERLEY ALVES DE OLIVEIRA", 
+    "total": 619060.0, 
+    "election_id": 1456, 
+    "similars": [
+        "Luiz Martins (PDT, RJ) - Deputado Estadual", 
+        "Prof Auriel (PT, SP) - Deputado Estadual"
+    ], 
+    "stands": []
+}

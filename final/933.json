@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Priante"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PA/foto/140000000456.jpg", 
+    "state": "PA", 
+    "donations": {
+        "IMERYS RIO CAPIM CAULIM S.A.      ": 100000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ SA": 100000.0, 
+        "BOM SINAL INDUSTRIA E COMERCIO LTDA": 80000.0, 
+        "VALE  MANGANES S/A ": 50000.0, 
+        "SALOBO METAIS S.A": 10800.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "JOSÉ BENITO PRIANTE JUNIOR", 
+    "total": 462650.0, 
+    "election_id": 1555, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Silvio Costa"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PE/foto/170000000628.jpg", 
+    "state": "PE", 
+    "donations": {
+        "BRADESCO VIDA E PREVIDENCIA S.A.": 205000.0, 
+        "CONSTRUTOTA ANDRADE GUTIERREZ S/A": 100000.0, 
+        "BRADESCO CAPITALIZAÇÃO S/A": 100000.0, 
+        "CONSTRUTORA QUEIROZ GALVAO S A": 100000.0, 
+        "CRISTALIA PRODUTOS QUIMICOS FARMACEUTICOS LTDA": 90000.0, 
+        "TRANSRIO CAMINHOES· ONIBUS· MAQUINAS E MOTORES LTDA": 75000.0, 
+        "CRBS SA": 20000.0
+    }, 
+    "party": "PSC", 
+    "fullname": "SILVIO SERAFIM COSTA", 
+    "total": 1734690.0, 
+    "election_id": 2020, 
+    "similars": [
+        "Celso Pansera (PMDB, RJ) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

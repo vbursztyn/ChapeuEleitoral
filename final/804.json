@@ -1,0 +1,26 @@
+{
+    "status": "NÃO ELEITO", 
+    "searchable": [
+        "Eduardo Amorim"
+    ], 
+    "title": "Governador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SE/foto/260000000085.jpg", 
+    "state": "SE", 
+    "donations": {
+        "JBS SA": 499794.0, 
+        "CENCOSUD BRASIL COMERCIAL LTDA": 300000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ": 128940.0, 
+        "ALMA VIVA DO BRASIL TELEMARKETING": 50000.0, 
+        "CRBS S. A.": 50000.0, 
+        "DIRETÓRIO ESTADUAL DO PSC DE SERGIPE": 31841.32, 
+        "CONSTRUTORA CENTRAL DO BRASIL LTDA": 25000.0
+    }, 
+    "party": "PSC", 
+    "fullname": "EDUARDO ALVES DO AMORIM", 
+    "total": 3322109.32, 
+    "election_id": 20, 
+    "similars": [
+        "Maria do Carmo (DEM, SE) - Senador", 
+        "Luciano Pimentel (PSB, SE) - Deputado Estadual"
+    ]
+}

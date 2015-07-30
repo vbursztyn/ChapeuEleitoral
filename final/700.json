@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Manuela D Avila", 
+        "Manuela d'Ávila", 
+        "Manuela D'Ávila"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000000748.jpg", 
+    "state": "RS", 
+    "donations": {
+        "CRBS S.A": 45000.0, 
+        "GERDAU AÇOS ESPECIAIS S.A": 39450.0, 
+        "QUANTIQ DISTRIBUIDORA LTDA": 30000.0, 
+        "Direção Estadual/Distrital": 12700.0, 
+        "TICKET SERVIÇOS S.A": 6150.0
+    }, 
+    "party": "PC do B", 
+    "fullname": "MANUELA PINTO VIEIRA D AVILA", 
+    "total": 393825.5, 
+    "election_id": 65656, 
+    "similars": [
+        "Henrique Queiroz (PR, PE) - Deputado Estadual"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Edson Ferreira"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PI/foto/180000000103.jpg", 
+    "state": "PI", 
+    "donations": {
+        "GRANDE MOINHO CEARENSE SA": 10000.0, 
+        "BANCO ABC BRASIL SA": 10000.0
+    }, 
+    "party": "PSD", 
+    "fullname": "EDSON DE CASTRO FERREIRA", 
+    "total": 391967.29, 
+    "election_id": 55132, 
+    "similars": [
+        "Marden Menezes (PSDB, PI) - Deputado Estadual", 
+        "Dr. Hélio (PTC, PI) - Deputado Estadual"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Ed Thomas"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001173.jpg", 
+    "state": "SP", 
+    "donations": {
+        "QUEIROZ GALVÃO ALIMENTOS S/A": 30000.0, 
+        "JBS S/A": 30000.0, 
+        "AMIL - ASSISTÊNCIA MÉDICA INTERNACIONAL S.A": 5419.46
+    }, 
+    "party": "PSB", 
+    "fullname": "EDSON TOMAZINI", 
+    "total": 211564.46, 
+    "election_id": 40123, 
+    "similars": [
+        "Julio Delgado (PSB, MG) - Deputado Federal", 
+        "Renata Abreu (PTN, SP) - Deputado Federal", 
+        "João Daniel (PT, SE) - Deputado Federal", 
+        "Gileno (PSL, SP) - Deputado Estadual"
+    ]
+}

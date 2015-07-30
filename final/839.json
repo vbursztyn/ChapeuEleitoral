@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Palozi"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000875.jpg", 
+    "state": "PR", 
+    "donations": {
+        "JBS SA": 75000.0, 
+        "GALVAO ENGENHARIA": 25000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ": 15000.0, 
+        "BRADESCO SAUDE SA": 15000.0
+    }, 
+    "party": "PSC", 
+    "fullname": "CLAUDIO APARECIDO ALVES PALOZI", 
+    "total": 411519.29, 
+    "election_id": 20888, 
+    "similars": [
+        "Lucas Vergílio (SD, GO) - Deputado Federal", 
+        "Márcio Bittar (PSDB, AC) - Governador"
+    ]
+}

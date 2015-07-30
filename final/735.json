@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Marinha Raupp"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RO/foto/220000000245.jpg", 
+    "state": "RO", 
+    "donations": {
+        "JBS SA": 400000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ SA": 250000.0, 
+        "TERCO TERRAPLANAGEM E COMERCIO SA": 200000.0, 
+        "CONSTRUTORA QUEIROZ GALVAO SA": 150000.0, 
+        "CONSTRUTORA  NORBERTO ODEBRECHT SA": 100000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "MARINHA CÉLIA ROCHA RAUPP DE MATOS", 
+    "total": 1795269.49, 
+    "election_id": 1515, 
+    "stands": [
+        "Bancada Ruralista", 
+        "Bancada Feminina"
+    ]
+}

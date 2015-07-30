@@ -1,0 +1,30 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Julio Delgado"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000001175.jpg", 
+    "state": "MG", 
+    "donations": {
+        "SPAL INDUSTRIA BRASILEIRA DE BEBIDAS": 225000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ SA": 200000.0, 
+        "BRADESCO SAUDE SA": 180000.0, 
+        "VAHRCAV PARTICIPAÇÕES LTDA": 150000.0, 
+        "LONDRINA BEBIDAS LTDA": 100000.0, 
+        "QUEIROZ GALVÃO ALIMENTOS SA": 100000.0, 
+        "BANCO SANTANDER SA": 100000.0, 
+        "DISTRIBUIDORA DE PNEUS ALLEGRETE SA": 80000.0, 
+        "COSAN LUBRIFICANTES E ESPECIALIDADES SA": 80000.0, 
+        "DROGARIA ROSARIO SA": 68000.0, 
+        "CONSTRUTORA NORBERTO ODEBRECHT SA": 50000.0
+    }, 
+    "party": "PSB", 
+    "fullname": "JULIO CESAR DELGADO", 
+    "total": 1760853.34, 
+    "election_id": 4050, 
+    "similars": [
+        "Gileno (PSL, SP) - Deputado Estadual"
+    ], 
+    "stands": []
+}

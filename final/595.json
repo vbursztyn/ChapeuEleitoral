@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Gabriel Souza"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000000138.jpg", 
+    "state": "RS", 
+    "donations": {
+        "OAS S.A.": 50000.0, 
+        "SAO SEBASTIAO DESENVOLVIMENTO IMOBILIARIO LTDA.": 50000.0, 
+        "RECOFARMA INDUSTRIA DO AMAZONAS LTDA": 7000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "GABRIEL VIEIRA DE SOUZA", 
+    "total": 259996.0, 
+    "election_id": 15000, 
+    "similars": [
+        "Itamar Borges (PMDB, SP) - Deputado Estadual"
+    ]
+}

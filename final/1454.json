@@ -1,0 +1,16 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Roberto Carlos (PDT)"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000291.jpg", 
+    "state": "BA", 
+    "donations": {
+        "MRM CONSTRUTORA LTDA": 50000.0
+    }, 
+    "party": "PDT", 
+    "fullname": "ROBERTO CARLOS ALMEIDA LEAL", 
+    "total": 450304.02, 
+    "election_id": 12345
+}

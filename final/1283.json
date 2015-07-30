@@ -1,0 +1,29 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Daniella Ribeiro"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PB/foto/150000000449.jpg", 
+    "state": "PB", 
+    "donations": {
+        "JBS S.A.": 263150.0, 
+        "BRADESCO SAUDE S/A": 196000.0, 
+        "BRADESCO VIDA E PREVIDENCIA S.A": 182000.0, 
+        "PRESTASERV LTDA": 180895.0, 
+        "CMT ENGENHARIA LTDA": 91000.0, 
+        "AGRO ENERGIA SANTA LUZIA": 60000.0, 
+        "MRV ENGENHARIA S.A.": 41850.0, 
+        "UTC ENGENHARIA": 40000.0, 
+        "PARTIDO PROGRESSISTA": 33000.0, 
+        "GALVAO ENGENHARIA S/A": 30000.0, 
+        "CURY CONSTRUTORA E INCORPORADORA S/A": 17050.0, 
+        "EMCCAMP S.A": 13870.0, 
+        "ONIX EMPREENDIMENTOS IMOBILIARIOS LTDA": 8292.78, 
+        "CAOA MOTOR DO BRASIL LTDA": 6000.0
+    }, 
+    "party": "PP", 
+    "fullname": "DANIELLA VELLOSO BORGES RIBEIRO", 
+    "total": 1211318.02, 
+    "election_id": 11111
+}

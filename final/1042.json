@@ -1,0 +1,32 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Renata Abreu"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000000145.jpg", 
+    "state": "SP", 
+    "donations": {
+        "CONSTRUTORA SANCHES TRIPOLONI LTDA": 300000.0, 
+        "TECON TECNOLOGIA NEM CONSTRUÇÃO LTDA": 200000.0, 
+        "CONSTRUTORA OAS S/A.": 195000.0, 
+        "CIPLAN CIMENTO PLANALTO S/A": 165000.0, 
+        "QUEIROZ GALVAO ALIMENTOS S/A ": 100000.0, 
+        "CONCREMAT ENGENHARIA E TECNOLOGIA S/A": 80000.0, 
+        "PACAEMBU EMPREND. E CONST. LTDA": 70000.0, 
+        "JBS S/A": 19000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S/A": 10000.0
+    }, 
+    "party": "PTN", 
+    "fullname": "RENATA HELLMEISTER DE ABREU", 
+    "total": 1680070.12, 
+    "election_id": 1919, 
+    "similars": [
+        "Gileno (PSL, SP) - Deputado Estadual", 
+        "João Daniel (PT, SE) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Feminina"
+    ]
+}

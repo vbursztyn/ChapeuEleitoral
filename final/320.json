@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO", 
+    "searchable": [
+        "Romário"
+    ], 
+    "title": "Senador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000000675.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "LONDRINA BEBIDAS LTDA": 250000.0, 
+        "BANCO SANTANDER S/A": 250000.0, 
+        "CRBS S/A": 250000.0, 
+        "BRADESCO VIDA E PREVIDENCIA SA": 150000.0
+    }, 
+    "party": "PSB", 
+    "fullname": "ROMÁRIO DE SOUZA FARIA", 
+    "total": 1172627.0, 
+    "election_id": 400, 
+    "stands": []
+}

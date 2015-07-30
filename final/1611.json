@@ -1,0 +1,31 @@
+{
+    "status": "ELEITO", 
+    "searchable": [
+        "Rollemberg"
+    ], 
+    "title": "Governador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/DF/foto/70000000434.jpg", 
+    "state": "DF", 
+    "donations": {
+        "CONSTRURBAN LOGÍSTICA AMBIENTAL LTDA": 700000.0, 
+        "ALYA EMPREENDIMENTO IMOBILIÁRIO LTDA": 600000.0, 
+        "EMPRESA ALVORADA DE HOTÉIS SA": 540000.0, 
+        "SERVENG CIVILSAN S A EMPRESAS ASSOCIADAS DE ENGENHARIA": 500000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ": 500000.0, 
+        "CONTAX - MOBITEL": 500000.0, 
+        "AROSUCO AROMAS E SUCOS LTDA": 472979.16, 
+        "ATRIUM EMPREENDIMENTOS IMOBILIÁRIOS S.A.": 460000.0, 
+        "JBS SA": 382667.0, 
+        "THUBAN EMPREENDIMENTO IMOBILIÁRIO LTDA": 333000.0, 
+        "AGIPLAN FINANCEIRA S/A": 250000.0, 
+        "CONSTRUTORA OAS LTDA": 250000.0, 
+        "FGR URBANISMO S/A": 210000.0, 
+        "TRACTEBEL ENERGIA COMERCIALIZADORA LTDA": 200000.0, 
+        "PORTO SEGURO COMPANHIA DE SEGUROS GERAIS": 100000.0, 
+        "GRÁFICA E EDITORA BRASIL LTDA": 9950.0
+    }, 
+    "party": "PSB", 
+    "fullname": "RODRIGO SOBRAL ROLLEMBERG", 
+    "total": 13289497.01, 
+    "election_id": 40
+}

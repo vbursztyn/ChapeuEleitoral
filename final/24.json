@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Max Filho"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/ES/foto/80000000481.jpg", 
+    "state": "ES", 
+    "donations": {
+        "PELICANO CONSTRUÇÕES S/A": 30000.0, 
+        "ODEBRECHT OLEO E GAS S/A": 20000.0, 
+        "RYDIEN MINERAÇÃO EMPREENDIMENTOS· INDUSTRIA E COMERCIO LTDA": 15000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "MAX FREITAS MAURO FILHO", 
+    "total": 537859.26, 
+    "election_id": 4500, 
+    "stands": [
+        "Bancada Sindicalista"
+    ]
+}

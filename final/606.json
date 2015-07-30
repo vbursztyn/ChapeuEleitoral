@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Marcos Zerbini"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001577.jpg", 
+    "state": "SP", 
+    "donations": {
+        "CRBS S/A": 135000.0, 
+        "TRATENGE ENGENHARIA LTDA": 120000.0, 
+        "BRADESCO SAÚDE SA": 95000.0, 
+        "IGUATEMI EMPRESA DE SHOPPING CENTERS SA": 50000.0, 
+        "CONCREMAT ENGENHARIA E TECNOLOGIA SA": 33000.0, 
+        "ENCALÇO CONSTRUÇÕES LTDA": 30000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "MARCOS ANTONIO ZERBINI", 
+    "total": 581628.62, 
+    "election_id": 45780, 
+    "similars": [
+        "Mauro Bragato (PSDB, SP) - Deputado Estadual"
+    ]
+}

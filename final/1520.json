@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "João Arruda", 
+        "Joao Arruda"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000388.jpg", 
+    "state": "PR", 
+    "donations": {
+        "BRF S/A": 200000.0, 
+        "CRBS S/A": 50000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "JOÃO JOSÉ DE ARRUDA JUNIOR", 
+    "total": 1684658.68, 
+    "election_id": 1511, 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

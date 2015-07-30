@@ -1,0 +1,29 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Nelter Queiroz"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RN/foto/200000000165.jpg", 
+    "state": "RN", 
+    "donations": {
+        "RAIA DROGASIL S/A ": 150000.0, 
+        "BTG PACTUAL ASSET MANAGEMENT S/A DIST DE TITULOS DE VALORES MOBILIARIOS": 100000.0, 
+        "ALESAT COMBUSTIVEIS S/A ": 100000.0, 
+        "JBS S/A": 100000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "NELTER LULA DE QUEIROZ SANTOS", 
+    "total": 466897.5, 
+    "election_id": 15222, 
+    "similars": [
+        "Kelps Lima (SD, RN) - Deputado Estadual", 
+        "Hermano Morais (PMDB, RN) - Deputado Estadual", 
+        "Ezequiel Ferreira (PMDB, RN) - Deputado Estadual", 
+        "Jacó Jácome (PMN, RN) - Deputado Estadual", 
+        "Angela Portela (PT, RR) - Governador", 
+        "George Soares (PR, RN) - Deputado Estadual", 
+        "Paulinho da Força (SD, SP) - Deputado Federal", 
+        "Celso Maldaner (PMDB, SC) - Deputado Federal"
+    ]
+}

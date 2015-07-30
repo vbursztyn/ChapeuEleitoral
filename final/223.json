@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Julia Marinho"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PA/foto/140000001051.jpg", 
+    "state": "PA", 
+    "donations": {
+        "CONSTRUTORA NORBERTO ODEBRECHT S.A": 100000.0
+    }, 
+    "party": "PSC", 
+    "fullname": "JULIA MARIA GODINHO DA CRUZ MARINHO", 
+    "total": 142203.33, 
+    "election_id": 2020, 
+    "stands": [
+        "Bancada Feminina", 
+        "Bancada Evangélica"
+    ]
+}

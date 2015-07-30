@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Felix Jr"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000123.jpg", 
+    "state": "BA", 
+    "donations": {
+        "CONFER CONSTR FERNAND": 19200.0, 
+        "CONSTRUTORA ODEBRECHT": 9600.0
+    }, 
+    "party": "PDT", 
+    "fullname": "FELIX DE ALMEIDA MENDONÇA JUNIOR", 
+    "total": 1204333.27, 
+    "election_id": 1234, 
+    "similars": [
+        "Ivana Bastos (PSD, BA) - Deputado Estadual", 
+        "Fabricio (PC do B, BA) - Deputado Estadual", 
+        "João Bacelar (PR, BA) - Deputado Federal", 
+        "Euclides Fernandes (PDT, BA) - Deputado Estadual"
+    ]
+}

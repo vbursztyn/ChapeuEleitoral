@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Elcione"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PA/foto/140000000455.jpg", 
+    "state": "PA", 
+    "donations": {
+        "CONSTRUTORA ANDRADE GUTIERREZ SA": 300000.0, 
+        "JBS S/A": 200000.0, 
+        "OAS S.A": 100000.0, 
+        "SALOBO METAIS S.A": 10800.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "ELCIONE THEREZINHA ZAHLUTH BARBALHO", 
+    "total": 1088752.43, 
+    "election_id": 1515, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Feminina", 
+        "Bancada da Comunicação"
+    ]
+}

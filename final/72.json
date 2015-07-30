@@ -1,0 +1,53 @@
+{
+    "status": "ELEITO", 
+    "searchable": [
+        "José Serra"
+    ], 
+    "title": "Senador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001674.jpg", 
+    "state": "SP", 
+    "donations": {
+        "CONSTRUTORA OAS S/A": 1117137.5, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S/A": 870986.49, 
+        "CRBS S/A": 707812.5, 
+        "IGUATEMI EMPRESA DE SHOPPING CENTERS S/A": 678696.66, 
+        "MINERACAO CORUMBAENSE REUNIDA S/A": 500000.0, 
+        "SAFRA LEASING S/A ARRENDAMENTO MERCANTIL": 500000.0, 
+        "LASUL EMPRESA DE SHOPPING CENTERS LTDA.": 500000.0, 
+        "BRADESCO VIDA E PREVIDÊNCIA S/A": 492454.0, 
+        "JBS S/A": 438772.5, 
+        "BRADESCO LEASING S.A - ARRENDAMENTO MERCANTIL": 417259.04, 
+        "IMAVEN IMOVEIS LTDA": 382084.0, 
+        "COSAN LUBRIFICANTES E ESPECIALIDADES S.A": 333751.97, 
+        "COMPANHIA METALURGICA PRADA": 244042.0, 
+        "CARIOCA CHRISTIANI NIELSEN ENGENHARIA S/A": 200000.0, 
+        "EUROFARMA LABORATORIOS": 188160.0, 
+        "EDITORA SOL SOFTS E LIVROS LTDA.": 184844.0, 
+        "BANCO SAFRA S/A": 173900.0, 
+        "BANCO J. SAFRA S/A": 143500.0, 
+        "ARCELORMITTAL BRASIL S/A": 141796.08, 
+        "BIOLAB SANUS FARMACEUTICA LTDA.": 102825.0, 
+        "ESCAVE BAHIA ENGENHARIA E EQUIPAMENTOS LTDA": 79919.0, 
+        "BANCO BTG PACTUAL S.A": 58000.0, 
+        "EMBRAER S.A": 50114.55, 
+        "FATOR EMPREENDIMENTOS E PARTICIPACOES LTDA": 47303.47, 
+        "ENCALSO CONSTRUCOES LTDA": 45896.66, 
+        "COOPERATIVA CENTRAL DE CREDITO DO ESTADO DE SAO PAULO - SICOOB SP": 40049.0, 
+        "USINA BATATAIS S/A ACUCAR E ALCOOL": 34222.8, 
+        "COOPERCITRUS COOPERATIVA DE PRODUTORES RURAIS": 29740.0, 
+        "BANCO SANTANDER (BRASIL) S.A": 8000.0, 
+        "COOPERATIVA DE CREDITO CREDICITRUS": 8000.0, 
+        "EGT ENGENHARIA LTDA": 5700.09
+    }, 
+    "party": "PSDB", 
+    "fullname": "JOSÉ SERRA", 
+    "total": 10701447.98, 
+    "election_id": 456, 
+    "similars": [
+        "Eymael (PSDC, BR) - Presidente", 
+        "Mara Gabrilli (PSDB, SP) - Deputado Federal", 
+        "Rodrigo Garcia (DEM, SP) - Deputado Federal", 
+        "André Soares (DEM, SP) - Deputado Estadual"
+    ], 
+    "stands": []
+}

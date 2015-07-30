@@ -1,0 +1,29 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Jorginho Mello"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SC/foto/240000000224.jpg", 
+    "state": "SC", 
+    "donations": {
+        "ARCELORMITTAL BRASIL S.A": 620000.0, 
+        "JBS S/A": 300000.0, 
+        "SILVA & BERTOLDI - EMPREEND.E PARTICIPAÇÕES SOC S.A": 169000.0, 
+        "PARTIDO DO MOVIMENTO DEMOCRATICO BRASILEIRO": 100000.0, 
+        "CCM - CONSTRUTORA CENTRO MINAS LTDA": 100000.0
+    }, 
+    "party": "PR", 
+    "fullname": "JORGINHO DOS SANTOS MELLO", 
+    "total": 1461356.66, 
+    "election_id": 2223, 
+    "similars": [
+        "Paulo Freire (PR, SP) - Deputado Federal", 
+        "Luiz Nishimori (PR, PR) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista", 
+        "Bancada da Comunicação"
+    ]
+}

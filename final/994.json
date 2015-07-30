@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Nelsinho Metalúrgico"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000000386.jpg", 
+    "state": "RS", 
+    "donations": {
+        "TELEMONT S/A": 285000.0, 
+        "JBS S/A": 47500.0, 
+        "SPEAR SERVIÇOS E PARTICIPAÇOES S/A": 47500.0, 
+        "MELNICK EVEN BRITA EMPREENDIMENTO IMOBILIARIO LTDA": 28500.0, 
+        "GERDAU AÇOS ESPECIAIS S/A": 19000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ": 19000.0, 
+        "COMPANHIA RIOGRANDENSE DE VALORIZACAO DE RESIDUOS": 9500.0
+    }, 
+    "party": "PT", 
+    "fullname": "NELSON LUIZ DA SILVA", 
+    "total": 1072739.45, 
+    "election_id": 13630, 
+    "similars": [
+        "Heraclito (PSB, PI) - Deputado Federal"
+    ]
+}

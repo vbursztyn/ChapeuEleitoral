@@ -1,0 +1,30 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Silvio Torres"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001326.jpg", 
+    "state": "SP", 
+    "donations": {
+        "MINERAÇÃO CORUMBAENSE REUNIDA S/A": 200000.0, 
+        "SPAL-INDUSTRIA BRASILEIRA DE BEBIDAS S/A": 200000.0, 
+        "COSAN LUBRIFICANTES E ESPECIALIDADES S/A": 150000.0, 
+        "AZEVEDO & TRAVASSOS S/A": 150000.0, 
+        "JBS S/A": 100000.0, 
+        "BM&F BOVESPA S/A-BOLSA DE VALORES· MERCADORIAS E FUTUROS": 71250.0, 
+        "SIMP SERVIÇOS DE INSTALAÇÃO· MONTAGENS E PROJETOS LTDA": 60000.0, 
+        "BASICAL MATERIAIS PARA CONSTRUÇÃO LTDA": 58000.0, 
+        "ENCALSO CONSTRUÇÕES LTDA": 50000.0, 
+        "SONDOTECNICA ENGENHARIA DE SOLOS S/A": 26000.0, 
+        "CONSDON ENGENHARIA E COMERCIO LTDA": 5700.0, 
+        "BRADESCO VIDA E PREVIDENCIA S/A": 5419.46
+    }, 
+    "party": "PSDB", 
+    "fullname": "SILVIO FRANÇA TORRES", 
+    "total": 1960977.03, 
+    "election_id": 4540, 
+    "similars": [
+        "Rodrigo Garcia (DEM, SP) - Deputado Federal"
+    ]
+}

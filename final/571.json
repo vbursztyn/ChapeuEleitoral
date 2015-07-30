@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Eduino"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PE/foto/170000000395.jpg", 
+    "state": "PE", 
+    "donations": {
+        "PARTIDO SOCIALISTA BRASILEIRO": 200000.0, 
+        "GALVAO ENGENHARIA S.A": 100000.0, 
+        "ECOPESA AMBIENTAL S.A": 100000.0, 
+        "LIDERMAC CONSTRUÇÕES E EQUIPAMENTOS LTDA.": 50000.0, 
+        "CONSTRUTORA MARQUISE S.A": 20000.0
+    }, 
+    "party": "PHS", 
+    "fullname": "JOSÉ EDUINO DE BRITO CAVALCANTI", 
+    "total": 518508.04, 
+    "election_id": 31456, 
+    "similars": [
+        "Lula Cabral (PSB, PE) - Deputado Estadual", 
+        "Betinho (PSDB, PE) - Deputado Federal"
+    ]
+}

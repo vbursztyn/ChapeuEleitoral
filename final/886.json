@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Carlos Minc"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000000526.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "CONSTRUTORA QUEIROZ GALVÃO SA": 190000.0, 
+        "CARIOCA CHRISTIANI NIELSEN ENGENHARIA SA": 95000.0, 
+        "BIOLAB SANUS FARMACEUTICA LTDA": 47500.0, 
+        "CRBS SA": 28500.0, 
+        "KLABIN S.A": 28500.0
+    }, 
+    "party": "PT", 
+    "fullname": "CARLOS MINC BAUMFELD", 
+    "total": 961072.59, 
+    "election_id": 13001, 
+    "similars": [
+        "Cristiano Silveira (PT, MG) - Deputado Estadual", 
+        "Leci Brandão (PC do B, SP) - Deputado Estadual"
+    ]
+}

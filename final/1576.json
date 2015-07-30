@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Christiane Yared"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000761.jpg", 
+    "state": "PR", 
+    "donations": {
+        "PT DIRETÓRIO NACIONAL": 40000.0
+    }, 
+    "party": "PTN", 
+    "fullname": "CHRISTIANE DE SOUZA YARED", 
+    "total": 120830.5, 
+    "election_id": 1900, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Feminina", 
+        "Bancada Evangélica"
+    ]
+}

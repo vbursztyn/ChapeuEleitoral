@@ -1,0 +1,30 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Júlio Lopes"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000001447.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "JBS SA.": 1199958.0, 
+        "BRADESCO ADMINISTRADORA DE CONSORCIOS LTDA": 350000.0, 
+        "BANCO BOA VISTA": 250000.0, 
+        "AROSUCO AROMAS E SUCOS LTDA": 250000.0, 
+        "BANCO SAFRA S.A": 200000.0, 
+        "HRT O&G EXPLORACAO E PRODUCAO DE PETROLEO LTDA ": 50000.0
+    }, 
+    "party": "PP", 
+    "fullname": "JULIO LUIZ BAPTISTA LOPES", 
+    "total": 3345774.5, 
+    "election_id": 1111, 
+    "similars": [
+        "Rubens Pereira Júnior (PC do B, MA) - Deputado Federal", 
+        "Isaura Lemos (PC do B, GO) - Deputado Estadual", 
+        "José Américo (PT, SP) - Deputado Estadual", 
+        "Alexandre Serfiotis (PSD, RJ) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Laudívio Carvalho"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000872.jpg", 
+    "state": "MG", 
+    "donations": {
+        "BRADESCO  VIDA E PREVIDENCIA": 50000.0, 
+        "VALE ENERGIA SA": 12156.53
+    }, 
+    "party": "PMDB", 
+    "fullname": "LAUDIVIO ALVARENGA CARVALHO", 
+    "total": 319003.4, 
+    "election_id": 1580, 
+    "stands": []
+}

@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Pedro Kemp"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MS/foto/120000000327.jpg", 
+    "state": "MS", 
+    "donations": {
+        "CONSTRUTORA TRIUNFO S/A": 165000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S/A": 150000.0, 
+        "EQUIPAV ENGENHARIA LTDA ": 85000.0, 
+        "JBS S/A": 30000.0, 
+        "VALE MINA DO AZUL S/A": 8093.65, 
+        "BRASFOND FUNDAÇOES ESPECIAIS S/A": 8093.65
+    }, 
+    "party": "PT", 
+    "fullname": "PEDRO CESAR KEMP GONÇALVES", 
+    "total": 681866.29, 
+    "election_id": 13613
+}

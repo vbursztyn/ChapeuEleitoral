@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Gustavo Fernandes"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RN/foto/200000000159.jpg", 
+    "state": "RN", 
+    "donations": {
+        "VICUNHA TEXTIL SA": 100000.0, 
+        "CONSTRUTORA QUEIROZ E GALVAO SA": 100000.0, 
+        "AROSUCOS AROMA E SUCOS LTDA": 100000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "GUSTAVO REGIO TORQUATO FERNANDES", 
+    "total": 575175.0, 
+    "election_id": 15123, 
+    "similars": [
+        "George Soares (PR, RN) - Deputado Estadual", 
+        "Tomba (PSB, RN) - Deputado Estadual"
+    ]
+}

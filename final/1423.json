@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO", 
+    "searchable": [
+        "Fernando Bezerra Coelho"
+    ], 
+    "title": "Senador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PE/foto/170000000026.jpg", 
+    "state": "PE", 
+    "donations": {
+        "PRINT SERVIÇOS GRÁFICOS LTDA": 604300.0, 
+        "COMPANHIA SIDERURGÍCA VALE DO PINDARÉ": 500000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S/A.": 300000.0, 
+        "BRASIL FOODS S.A.": 300000.0, 
+        "AROMAS E SUCOS LTDA.": 200000.0, 
+        "JSL SA": 150000.0
+    }, 
+    "party": "PSB", 
+    "fullname": "FERNANDO BEZERRA DE SOUZA COELHO", 
+    "total": 6773000.01, 
+    "election_id": 400, 
+    "similars": [
+        "Lindberg Farias (PT, RJ) - Governador"
+    ], 
+    "stands": []
+}

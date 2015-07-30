@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Felipe Francischini"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000001057.jpg", 
+    "state": "PR", 
+    "donations": {
+        "CR ALMEIDA S/A - ENGENHARIA DE OBRAS": 140000.0, 
+        "KINGSTONE CONSTRUTORA· INDUSTRIA E COMERCIO DE PRE-MOLDADOS DE CONCRETO LTDA": 100550.0, 
+        "G20 GERENCIAMENTO DE OBRAS": 20000.0, 
+        "SEMENTES GUERRA LTDA": 8000.0, 
+        "PETROFISA DO BRASIL LTDA ": 5000.0
+    }, 
+    "party": "SD", 
+    "fullname": "LUIS FELIPE BONATTO FRANCISCHINI", 
+    "total": 461958.47, 
+    "election_id": 77777, 
+    "similars": [
+        "Rubens Bueno (PPS, PR) - Deputado Federal"
+    ]
+}

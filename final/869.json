@@ -1,0 +1,18 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Assis Carvalho"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PI/foto/180000000214.jpg", 
+    "state": "PI", 
+    "donations": {
+        "CONSTRUTORA OAS S.A.": 280000.0, 
+        "EQUIPAV ENGENHARIA LTDA": 190000.0, 
+        "COMPANHIA SIDERURGICA VALE DO PINDARÉ": 100000.0
+    }, 
+    "party": "PT", 
+    "fullname": "FRANCISCO DE ASSIS CARVALHO GONÇALVES", 
+    "total": 1114946.0, 
+    "election_id": 1313
+}

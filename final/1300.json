@@ -1,0 +1,31 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Duarte Nogueira"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001323.jpg", 
+    "state": "SP", 
+    "donations": {
+        "BRADESCO VIDA E PREVIDENCIA S/A": 300419.46, 
+        "DESTILARIA ALCIDIA S/A": 270000.0, 
+        "CONSTRUTORA QUEIROZ GALVAO SA": 200000.0, 
+        "CRBS S/A": 200000.0, 
+        "ARCOS DOURADOS COMERCIO DE ALIMENTOS LTDA": 150000.0, 
+        "CR ALMEIDA S/A ENGENHARIA DE OBRAS": 100000.0, 
+        "BANCO SANTANDER (BRASIL) S/A": 100000.0, 
+        "BM&F BOVESPA S/A BOLSA DE VALORES· MERCADORIAS E FUTUROS": 100000.0, 
+        "AMIL ASSISTENCIA MEDICA INTERNACIONAL S/A": 100000.0, 
+        "COSAN LUBRIFICANTES E ESPECIALIDADOR S/A": 50000.0, 
+        "EUROFARMA LABORATORIOS S/A": 50000.0, 
+        "TIISA - INFRAESTRUTURA E INVESTIMENTOS S.A": 28000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "ANTONIO DUARTE NOGUEIRA JUNIOR", 
+    "total": 4438052.94, 
+    "election_id": 4545, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

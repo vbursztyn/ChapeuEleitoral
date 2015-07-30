@@ -1,0 +1,17 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Ney Amorim"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AC/foto/10000000184.jpg", 
+    "state": "AC", 
+    "donations": {
+        "CONSTRUTORA OAS SA": 15000.0, 
+        "NORTE C DER PETROLEO LTDA": 15000.0
+    }, 
+    "party": "PT", 
+    "fullname": "JOZINEY ALVES AMORIM", 
+    "total": 498301.07, 
+    "election_id": 13690
+}

@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Simone Morgado"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PA/foto/140000000457.jpg", 
+    "state": "PA", 
+    "donations": {
+        "COMPAR COMPANHIA PARAENSE DE REFRIGERANTES ": 200000.0, 
+        "JBS SA": 100000.0, 
+        "VALE ENERGIA SA": 100000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "SIMONE MARIA MORGADO FERREIRA", 
+    "total": 571730.81, 
+    "election_id": 1588, 
+    "stands": [
+        "Bancada Feminina"
+    ]
+}

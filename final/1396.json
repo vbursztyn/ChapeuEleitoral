@@ -1,0 +1,17 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Cássio Soares"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000603.jpg", 
+    "state": "MG", 
+    "donations": {
+        "API SPE24 - PLANEJAMENTO E DESENVOLVIMENTO DE EMPREENDIMENTOS IMOBILIARIOS LTDA": 25000.0, 
+        "GAFISA S/A": 25000.0
+    }, 
+    "party": "PSD", 
+    "fullname": "CÁSSIO ANTONIO FERREIRA SOARES", 
+    "total": 932835.28, 
+    "election_id": 55555
+}

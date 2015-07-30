@@ -1,0 +1,29 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Carmen Zanotto"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SC/foto/240000000475.jpg", 
+    "state": "SC", 
+    "donations": {
+        "SERVENG CIVILSAN S/A": 50000.0, 
+        "PORTO SEGURO CIA DE SEGUROS GERAIS": 50000.0, 
+        "BRADESCO LEASING S.A ARREND. MERCANTIL": 50000.0, 
+        "BRADESCO VIDA E PREVIDÊNCIA LTDA": 20000.0
+    }, 
+    "party": "PPS", 
+    "fullname": "CARMEN EMÍLIA BONFÁ ZANOTTO", 
+    "total": 373176.79, 
+    "election_id": 2323, 
+    "similars": [
+        "Iracema Portella (PP, PI) - Deputado Federal", 
+        "Rodrigo de Castro (PSDB, MG) - Deputado Federal", 
+        "Rollemberg (PSB, DF) - Governador", 
+        "Carlos Henrique (PRB, MG) - Deputado Estadual", 
+        "Lucas Vergílio (SD, GO) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Feminina"
+    ]
+}

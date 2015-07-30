@@ -1,0 +1,26 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Marx Beltrão"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AL/foto/20000000287.jpg", 
+    "state": "AL", 
+    "donations": {
+        "IMPAR SERVICOS HOSPITALARES S/A ": 400000.0, 
+        "CONSTRUÇÕES E COMÉRCIO CAMARGO S/A": 300000.0, 
+        "JBS S/A": 236088.0, 
+        "BRADESCO ADMINISTRADORA DE CONSORCIOS LTDA": 63912.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "MARX BELTRÃO LIMA SIQUEIRA", 
+    "total": 1262000.0, 
+    "election_id": 1515, 
+    "similars": [
+        "Marcelo Crivella (PRB, RJ) - Governador", 
+        "Reginaldo Lopes (PT, MG) - Deputado Federal", 
+        "Marquinhos Madeira (PT, AL) - Deputado Estadual", 
+        "Luiz Dantas (PMDB, AL) - Deputado Estadual"
+    ], 
+    "stands": []
+}

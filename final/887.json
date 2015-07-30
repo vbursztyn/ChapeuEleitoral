@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Moroni"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/CE/foto/60000000246.jpg", 
+    "state": "CE", 
+    "donations": {
+        "ITAU UNIBANCO S.A": 143000.0
+    }, 
+    "party": "DEM", 
+    "fullname": "MORONI BING TORGAN", 
+    "total": 1118282.48, 
+    "election_id": 2525, 
+    "stands": [
+        "Bancada da Segurança"
+    ]
+}

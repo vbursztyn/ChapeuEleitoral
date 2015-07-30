@@ -1,0 +1,33 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Dagoberto Nogueira"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MS/foto/120000000508.jpg", 
+    "state": "MS", 
+    "donations": {
+        "BTG PACTUAL CORRETORA": 250000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S/A": 200000.0, 
+        "JBS S/A": 170000.0, 
+        "AMGL COMERCIO DE MATERIAIS ELETRICOS E HIDRAULICOS LTDA": 100000.0, 
+        "CONSTRUTORA QUEIROZ GALVAO S A": 100000.0, 
+        "ORIGINAL VEICULOS LTDA": 50000.0, 
+        "HOSPITAL SANTA PAULA LTDA": 50000.0, 
+        "VALE MINAS DO AZUL S/A": 23120.0, 
+        "U T C ENGENHARIA S/A": 7200.0, 
+        "EDITORA E DISTRIBUIDORA EDUCACIONAL": 5780.0, 
+        "BRASFONT FUNDAÇOES ESPECIAIS S/A": 5780.0, 
+        "MINERADORA CORUMBAENSE REUNIDAS S/A": 5780.0
+    }, 
+    "party": "PDT", 
+    "fullname": "DAGOBERTO NOGUEIRA FILHO", 
+    "total": 1581508.0, 
+    "election_id": 1234, 
+    "similars": [
+        "Marcos Rogerio (PDT, RO) - Deputado Federal", 
+        "Delcídio (PT, MS) - Governador", 
+        "Waguinho (PMDB, RJ) - Deputado Estadual"
+    ], 
+    "stands": []
+}

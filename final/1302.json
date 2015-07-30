@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Olavo Calheiros"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AL/foto/20000000245.jpg", 
+    "state": "AL", 
+    "donations": {
+        "IMPAR SERVIÇOS HOSPITALARES S/A": 400000.0, 
+        "JBS S/A": 300000.0, 
+        "UTC ENGENHARIA S/A": 179938.0, 
+        "S/A USINA CORURIPE AÇUCAR E ALCOOL": 80000.0, 
+        "IBR LAM LAMINAÇÃO DE METAIS LTDA": 37500.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "OLAVO CALHEIROS FILHO", 
+    "total": 1111516.5, 
+    "election_id": 15456, 
+    "similars": [
+        "Marquinhos Madeira (PT, AL) - Deputado Estadual"
+    ]
+}

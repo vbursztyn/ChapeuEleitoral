@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Felipe Orro"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MS/foto/120000000312.jpg", 
+    "state": "MS", 
+    "donations": {
+        "CONTRUTORA ANDRADE GUTIERREZ SA": 150000.0, 
+        "MEDISERVICE OPERADORA DE PLANOS DE SAUDE S.A": 100000.0, 
+        "EQUIPAVE ENGENHARIA LTDA": 85000.0, 
+        "CONSTRUTORA TRIUNFO S/A": 65000.0, 
+        "UTC ENGENHARIA S/A": 36000.0
+    }, 
+    "party": "PDT", 
+    "fullname": "LUIZ FELIPE RIBEIRO ORRO", 
+    "total": 1504433.41, 
+    "election_id": 12345
+}

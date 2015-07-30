@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Valtenir Pereira"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MT/foto/110000000315.jpg", 
+    "state": "MT", 
+    "donations": {
+        "BRF S.A.": 50000.0, 
+        "JBS S/A": 50000.0, 
+        "ENPA ENGENHARIA E PARCERIA LTDA": 5001.5
+    }, 
+    "party": "PROS", 
+    "fullname": "VALTENIR LUIZ PEREIRA", 
+    "total": 320497.15, 
+    "election_id": 9090, 
+    "stands": [
+        "Bancada Ruralista"
+    ]
+}

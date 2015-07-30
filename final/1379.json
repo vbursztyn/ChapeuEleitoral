@@ -1,0 +1,31 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Nelson Marchezan Junior"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000000670.jpg", 
+    "state": "RS", 
+    "donations": {
+        "BRF SA": 200000.0, 
+        "GERDAU AÇOS ESPECIAIS SA": 150000.0, 
+        "ODEBRECHT OLEO E GAS SA": 100000.0, 
+        "BRADESCO SAUDE SA": 100000.0, 
+        "HANGAR EMPRESARIAL EMPREENDIMENTOS LTDA": 100000.0, 
+        "QUANTIQ DISTRIBUIDORA LTDA": 60000.0, 
+        "PHILIP MORRIS BRASIL IND E COMERCIO": 50000.0, 
+        "BRADESCO VIDA E PREVIDENCIA SA": 50000.0, 
+        "MAP CONCRETO  E CONSTRUÇÃO LTDA": 50000.0, 
+        "ARROZEIRA PELOTAS INDUSTRIA E COMERCIO DE CEREAIS LTDA": 50000.0, 
+        "IPIRANGA PRODUTOS DE PETROLEO SA": 50000.0, 
+        "LONDRINA BEBIDAS LTDA": 40000.0, 
+        "CONSTRUSTEKMAC SA": 6250.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "NELSON MARCHEZAN JUNIOR", 
+    "total": 1822256.5, 
+    "election_id": 4545, 
+    "stands": [
+        "Bancada Ruralista"
+    ]
+}

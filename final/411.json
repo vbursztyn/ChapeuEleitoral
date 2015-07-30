@@ -1,0 +1,31 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Sergio Reis"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001272.jpg", 
+    "state": "SP", 
+    "donations": {
+        "JBS S/A": 468379.59, 
+        "CONSTRAN S/A CONTRUÇÕES E COMERCIO": 205520.0, 
+        "ARCELORMITAL BRASIL S/A": 200000.0, 
+        "CONSTRUCAP CCPS ENGENHARIA E COMERCIO": 126898.6, 
+        "DIREÇÃO NACIONAL": 109125.0, 
+        "MACK COLOR GRAFICA LTDA": 65000.0, 
+        "REDE PALAVRA DE TELEVISÃO LTDA - ME": 20000.0, 
+        "MR ALIMENTAÇÃO E SERVIÇOS LTDA - EPP": 13260.0, 
+        "CONSTRUTORA NORBERTO ODEBRECH S/A": 10575.0
+    }, 
+    "party": "PRB", 
+    "fullname": "SERGIO BAVINI", 
+    "total": 1603281.89, 
+    "election_id": 1011, 
+    "similars": [
+        "Cesar Souza (PSD, SC) - Deputado Federal", 
+        "Fausto Pinato (PRB, SP) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Ruralista"
+    ]
+}

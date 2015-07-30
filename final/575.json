@@ -1,0 +1,31 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Marcia Lia"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000000565.jpg", 
+    "state": "SP", 
+    "donations": {
+        "SUCOCITRICO CUTRALE LTDA.": 895265.0, 
+        "UTC ENGENHARIA S/A": 632985.0, 
+        "DIRECIONAL TAGUATINGA ENGENHARIA": 380000.0, 
+        "CONTRUCAP CCPS ENG. COM. S/A": 332500.0, 
+        "ENGEFORM CONSTRUÇÕES E COMÉRCIO LTDA.": 190000.0, 
+        "COMPANHIA RIO GRANDENSE DE VALORIZAÇÃO": 161500.0, 
+        "PONTO VEICULOS LTDA.": 142500.0, 
+        "HYPERMARCAS S/A": 80000.0, 
+        "COSAN LUBRIFICANTES": 50000.0, 
+        "CONSTRUTORA PASSARELLI LTDA.": 47500.0
+    }, 
+    "party": "PT", 
+    "fullname": "MARCIA APARECIDA OVEJANEDA LIA", 
+    "total": 3302455.3, 
+    "election_id": 13113, 
+    "similars": [
+        "Arnaldo Faria de Sá (PTB, SP) - Deputado Federal", 
+        "Paulo Pimenta (PT, RS) - Deputado Federal", 
+        "Beto Mansur (PRB, SP) - Deputado Federal", 
+        "Sandro Regis (DEM, BA) - Deputado Estadual"
+    ]
+}

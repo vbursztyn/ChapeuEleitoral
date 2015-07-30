@@ -1,0 +1,38 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Claudio Cajado"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000626.jpg", 
+    "state": "BA", 
+    "donations": {
+        "CONSTRUTORA NORBERTO ODEBRECHT S.A.": 200000.0, 
+        "EXPRESSA DISTRIBUIDORA DE MEDICAMENTOS LTDA": 200000.0, 
+        "MINERAÇÕES BRASILEIRAS REUNIDAS S/A - MBR": 200000.0, 
+        "TOP SERVICE SERVIÇOS E SISTEMAS LTDA.": 195000.0, 
+        "CERVEJARIA PETROPOLIS S.A": 150000.0, 
+        "COMPANHIA RIOGRANDENSE DE VALORIZAÇÃO DE RESIDUOS": 100000.0, 
+        "PRAIAMAR INDUSTRIA COMERCIO & DISTRIBUICAO LTDA": 100000.0, 
+        "ABRANTES AMBIENTAL LTDA": 100000.0, 
+        "BRASKEM S/A": 75000.0, 
+        "PEDREIRAS PARAFUSO LIMITADA": 50000.0, 
+        "MAF PROJETOS E OBRAS LTDA": 50000.0, 
+        "UTC ENGENHARIA S.A": 50000.0, 
+        "ESCAVE BAHIA ENGENHARIA E EQUIPAMENTOS LTDA": 50000.0
+    }, 
+    "party": "DEM", 
+    "fullname": "CLAUDIO CAJADO SAMPAIO", 
+    "total": 1901580.0, 
+    "election_id": 2522, 
+    "similars": [
+        "Pablo Barrozo (DEM, BA) - Deputado Estadual", 
+        "Helder Salomao (PT, ES) - Deputado Federal", 
+        "George Hilton (PRB, MG) - Deputado Federal", 
+        "Bruno Reis (PMDB, BA) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

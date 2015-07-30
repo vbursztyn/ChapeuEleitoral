@@ -1,0 +1,41 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Arthur Maia"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000676.jpg", 
+    "state": "BA", 
+    "donations": {
+        "CONTAX MOBITEL S.A.": 300000.0, 
+        "BRADESCO VIDA E PREVIDENCIA S/A": 299972.0, 
+        "AMIL ASSISTENCIA MEDICA INTERNACIONAL S.A.": 249972.0, 
+        "CBPO ENGENHARIA LTDA": 219986.0, 
+        "BRADSCO CAPITALIZAÇÃO S.A.": 200000.0, 
+        "BRADESCO ADM CONSÓRCIOS": 150000.0, 
+        "BANCO SANTANDER BRASIL S.A.": 100000.0, 
+        "BANCO BMG S.A.": 100000.0, 
+        "PARANAPANEMA SA ": 100000.0, 
+        "BRF S.A.": 99986.0, 
+        "BRASKEM S/A": 99986.0, 
+        "COMPANHIA BRASILEIRA DE CARTUCHOS": 69986.0, 
+        "CRBS AS": 50000.0, 
+        "GERDAU AÇOS ESPECIAIS S/A": 50000.0, 
+        "PHILIPS MORRIS BRASIL INDUSTRIA E COMERCIO LTDA": 50000.0, 
+        "COMPANHIA BRASILEIRA DE DISTRIBUIÇÃO": 49986.0, 
+        "BANCO SAFRA": 30000.0
+    }, 
+    "party": "SD", 
+    "fullname": "ARTHUR DE OLIVEIRA MAIA DA SILVA", 
+    "total": 3793210.0, 
+    "election_id": 7712, 
+    "similars": [
+        "Benito Gama (PTB, BA) - Deputado Federal", 
+        "Luiz Lauro Filho (PSB, SP) - Deputado Federal", 
+        "Katia Abreu (PMDB, TO) - Senador"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

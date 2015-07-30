@@ -1,0 +1,44 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Caio Narcio"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000692.jpg", 
+    "state": "MG", 
+    "donations": {
+        "BANCO BMG": 320000.0, 
+        "BALTEAU PRODUTOS ELETRICOS LTDA": 208080.0, 
+        "EFICIENCIA CONSTRUTORA LTDA": 200000.0, 
+        "CONSTRUBASE ENGENHARIA": 200000.0, 
+        "CONSTRUTORA ITAMARACA LTDA": 198800.0, 
+        "INSTITUIÇAO EDUCACIONAL CECILIA MARIA DE MELO BARCELOS": 160000.0, 
+        "UNIMED - TRANSPORTE AEROMEDICA MG LTDA": 100000.0, 
+        "CONSTRUTORA OAS S/A": 70000.0, 
+        "CARIOCA CHRISTIANI NIELSEN ENGENHARIA S.A": 55000.0, 
+        "BRADESCO SAUDE SA": 50000.0, 
+        "PRODENT - ASSISTENCIA ODONTOLOGICA LTDA": 50000.0, 
+        "PROJEL ENGENHERIA ESPECIALIZADA LTDA": 40000.0, 
+        "SAFRA SEGUROS GERAIS S/A": 40000.0, 
+        "CRBS S/A": 37000.0, 
+        "O10 SERVIÇOS E CONSULTORIA": 30000.0, 
+        "DOMINGOS COSTA INDUSTRIA ALIMENTICIA LTDA": 25000.0, 
+        "AGROPECUARIA E COMERCIAL CONQUISTA LTDA": 21000.0, 
+        "PREMO CONSTRUÇÕES E EMPREENDIMENTOS": 15000.0, 
+        "MOINHO SUL MINEIRO S/A": 10000.0, 
+        "CONSTRUTORA QUEIROZ GALVAO": 7500.0, 
+        "TAMASA ENGENHARIA": 7230.0, 
+        "CIA DE FIAÇÃO E TECIDOS CEDRO E CACHOEIRA": 7230.0, 
+        "UTC ENGENHARIA": 6250.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "CAIO NARCIO RODRIGUES DA SILVEIRA", 
+    "total": 4053221.63, 
+    "election_id": 4520, 
+    "similars": [
+        "Estevam Galvão (DEM, SP) - Deputado Estadual", 
+        "Hudson Leal (PRP, ES) - Deputado Estadual", 
+        "Dary Pagung (PRP, ES) - Deputado Estadual"
+    ], 
+    "stands": []
+}

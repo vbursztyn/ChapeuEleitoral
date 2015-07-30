@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Misael Varella"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000707.jpg", 
+    "state": "MG", 
+    "donations": {
+        "AMIL ASSISTENCIA MEDICA INTERNACIONAL S.A. ": 50000.0
+    }, 
+    "party": "DEM", 
+    "fullname": "MISAEL ARTUR FERREIRA VARELLA", 
+    "total": 1561188.04, 
+    "election_id": 2505, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

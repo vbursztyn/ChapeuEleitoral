@@ -1,0 +1,17 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Wilmar Reichembach"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000882.jpg", 
+    "state": "PR", 
+    "donations": {
+        "CONSTRUTORA ANDRADE GUTIERREZ": 20000.0, 
+        "PARTIDO PROGRESSISTA - DIRETORIO NACIONAL": 12500.0
+    }, 
+    "party": "PSC", 
+    "fullname": "WILMAR REICHEMBACH", 
+    "total": 198319.34, 
+    "election_id": 20012
+}

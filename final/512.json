@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Atila Lins"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AM/foto/40000000356.jpg", 
+    "state": "AM", 
+    "donations": {
+        "RECOFARMA INDUSTRIA AMAZONAS LTDA": 199986.0, 
+        "PANASONIC DO BRASIL": 70074.8
+    }, 
+    "party": "PSD", 
+    "fullname": "ATILA SIDNEY LINS DE ALBUQUERQUE", 
+    "total": 707561.5, 
+    "election_id": 5525, 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

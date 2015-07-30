@@ -1,0 +1,30 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Domingos Sávio"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000650.jpg", 
+    "state": "MG", 
+    "donations": {
+        "PONTA VEICULOS LTDA": 200000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S.A": 125000.0, 
+        "FEDERAÇÃO INTERF. DAS COOP. DE TRABALHO MEDICO DO ESTADO DE MG": 100000.0, 
+        "VALE ENERGIA S.A": 100000.0, 
+        "CONSTRUTORA NORBERTO ODEBRECHT S.A": 20000.0, 
+        "CONSTRUSOL - CONSTRUÇÕES ELETRICA & CIVIL LTDA": 10000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "DOMINGOS SAVIO CAMPOS RESENDE", 
+    "total": 1959920.23, 
+    "election_id": 4560, 
+    "similars": [
+        "Sandro Regis (DEM, BA) - Deputado Estadual", 
+        "Marcus Pestana (PSDB, MG) - Deputado Federal", 
+        "Ione Pinheiro (DEM, MG) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "George Hilton"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000857.jpg", 
+    "state": "MG", 
+    "donations": {
+        "BRADESCO LEASING S/A - ARRENDAMENTO MERCANTIL ": 111393.04, 
+        "DIAS BRANCO ADMINISTRAÇÃO E PARTICIPAÇÕES LTDA": 93600.0, 
+        "CERVEJARIA PETROPÓLIS S/A": 66020.0, 
+        "CONSTRUTORA QUEIROZ GALVÃO": 21000.0, 
+        "MINERAÇÕES BRASILEIRAS REUNIDAS ": 11772.15, 
+        "ALPARGATAS S/A": 7125.0, 
+        "JBS S/A": 5333.34
+    }, 
+    "party": "PRB", 
+    "fullname": "GEORGE HILTON DOS SANTOS CECILIO", 
+    "total": 496929.77, 
+    "election_id": 1010, 
+    "similars": [
+        "Helder Salomao (PT, ES) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Evangélica"
+    ]
+}

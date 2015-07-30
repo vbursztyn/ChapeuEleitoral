@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "João Daniel"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SE/foto/260000000189.jpg", 
+    "state": "SE", 
+    "donations": {
+        "QUEIROZ GALVÃO ALIMENTOS S/A": 95000.0
+    }, 
+    "party": "PT", 
+    "fullname": "JOÃO SOMARIVA DANIEL", 
+    "total": 304881.23, 
+    "election_id": 1311, 
+    "similars": [
+        "Julio Delgado (PSB, MG) - Deputado Federal", 
+        "Gileno (PSL, SP) - Deputado Estadual", 
+        "Geraldo Alckmin (PSDB, SP) - Governador"
+    ], 
+    "stands": [
+        "Bancada Sindicalista"
+    ]
+}

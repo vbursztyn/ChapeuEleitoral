@@ -1,0 +1,32 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Milton Monti"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000000696.jpg", 
+    "state": "SP", 
+    "donations": {
+        "JBS S/A": 400000.0, 
+        "GALVAO ENGENHARIA S/A": 300000.0, 
+        "CONSTRUTORA ANDRADE E GUTIERREZ S/A": 200000.0, 
+        "ARCOS DOURADOS COMERCIO DE ALIMENTOS LTDA.": 100000.0, 
+        "SINNEN SISTEMAS INTEGRADOS DE ENGENHARIA LTDA.": 100000.0, 
+        "SERVI SEGURANCA E VIGILANCIA DE INSTALACOES LTDA.": 100000.0, 
+        "TRAIL INFRAESTRUTURA LTDA.": 60000.0, 
+        "AZAMBUJA ENGENHARIA ": 15460.0
+    }, 
+    "party": "PR", 
+    "fullname": "MILTON ANTONIO CASQUEL MONTI", 
+    "total": 2973591.44, 
+    "election_id": 2255, 
+    "similars": [
+        "Maria Victoria (PP, PR) - Deputado Estadual", 
+        "Henrique Queiroz (PR, PE) - Deputado Estadual", 
+        "Maria Lúcia Amary (PSDB, SP) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

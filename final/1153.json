@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Bruno Peixoto"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/GO/foto/90000000662.jpg", 
+    "state": "GO", 
+    "donations": {
+        "JBS S/A": 200000.0, 
+        "RIMA INDUSTRIAL TDA": 30000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "BRUNO REGIANY PEIXOTO PIMENTA", 
+    "total": 813576.28, 
+    "election_id": 15700, 
+    "similars": [
+        "Ernesto Roller (PMDB, GO) - Deputado Estadual"
+    ]
+}

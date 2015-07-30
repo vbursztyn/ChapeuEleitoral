@@ -1,0 +1,28 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Galego Sousa"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PB/foto/150000000451.jpg", 
+    "state": "PB", 
+    "donations": {
+        "PARTIDO PROGRESSISTA - DIRETÓRIO NACIONAL": 124000.0, 
+        "FLORA PRODUTOS DE HIGIENE E LIMPEZA S/A": 85000.0, 
+        "CONSTRUTORA ENGETRAN LTDA": 55000.0, 
+        "BRADESCO SAÚDE S/A": 40000.0, 
+        "EDITAR GRÁFICA E EDITORA LTDA": 32897.05, 
+        "UTC ENGENHARIA SA": 30000.0, 
+        "VIA ENGENHARIA S/A": 6849.31
+    }, 
+    "party": "PP", 
+    "fullname": "JACI SEVERINO DE SOUZA", 
+    "total": 560233.17, 
+    "election_id": 11222, 
+    "similars": [
+        "Imbassahy (PSDB, BA) - Deputado Federal", 
+        "Nilto Tatto (PT, SP) - Deputado Federal", 
+        "João Gonçalves (PSD, PB) - Deputado Estadual", 
+        "Covatti Filho (PP, RS) - Deputado Federal"
+    ]
+}

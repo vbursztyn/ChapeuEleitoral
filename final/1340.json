@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Comte"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000001009.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "GALVÃO ENGENHARIA LTDA": 350000.0, 
+        "ORIGINAL VEÍCULOS LTDA": 300000.0, 
+        "CENP - OLIVEIRA CONSTRUTORA E PAVIMENTAÇÃO LTDA.": 120000.0, 
+        "MJRE CONSTRUTORA LTDA": 80000.0
+    }, 
+    "party": "PPS", 
+    "fullname": "PLINIO COMTE LEITE BITTENCOURT", 
+    "total": 1011196.5, 
+    "election_id": 23601, 
+    "similars": [
+        "Lucas Vergílio (SD, GO) - Deputado Federal"
+    ]
+}

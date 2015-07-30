@@ -1,0 +1,26 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Gustavo Correa"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000607.jpg", 
+    "state": "MG", 
+    "donations": {
+        "CONSTRUTORA ANDRADE GUTIERREZ S.A.": 100000.0, 
+        "JAM ENGENHARIA LTDA": 84986.0, 
+        "CONSTRUTORA NORBERTO ODEBRECHT S A": 79886.0, 
+        "MINERAÇÕES BRASILEIRAS REUNIDAS S.A.": 70000.0, 
+        "ANGLOGOLD ASHANTI CORREGO DO SITIO MINERACAO S.A.": 49986.0, 
+        "EMPRESA DE MINERACAO ESPERANCA S A": 40000.0, 
+        "LIBE CONSTRUTORA LIMITADA": 30000.0, 
+        "GERDAU ACOS ESPECIAIS S/A": 19986.0
+    }, 
+    "party": "DEM", 
+    "fullname": "GUSTAVO DE FARIA DIAS CORREA", 
+    "total": 2181880.98, 
+    "election_id": 25789, 
+    "similars": [
+        "Durval Ângelo (PT, MG) - Deputado Estadual"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "João Rodrigues"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SC/foto/240000000213.jpg", 
+    "state": "SC", 
+    "donations": {
+        "SERTRADING BR LTDA": 43700.0
+    }, 
+    "party": "PSD", 
+    "fullname": "JOÃO RODRIGUES", 
+    "total": 1631542.19, 
+    "election_id": 5555, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista", 
+        "Bancada da Comunicação"
+    ]
+}

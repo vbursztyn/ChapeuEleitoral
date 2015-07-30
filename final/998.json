@@ -1,0 +1,24 @@
+{
+    "status": "NÃO ELEITO", 
+    "searchable": [
+        "Pastor Everaldo"
+    ], 
+    "title": "Presidente", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BR/foto/280000000065.jpg", 
+    "state": "BR", 
+    "donations": {
+        "BRADESCO VIDA E PREVIDENCIA": 200000.0, 
+        "CONSTRUTORA QUEIROZ GALVÃO SA": 200000.0, 
+        "ENGESIG INDUSTRIA E COMERCIO LTDA": 150000.0, 
+        "AVANTE VEÍCULO LTDA": 135000.0, 
+        "CARIOCA CHRISTIANI NIELSEN ENGENHARIA S A ": 120000.0, 
+        "CRBS SA": 90000.0, 
+        "CERVEJARIA PETROPOLIS SA": 60000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ SA": 50000.0, 
+        "GENERAL CONTRACTOR CONSTRUTORA EIRELI": 32900.0
+    }, 
+    "party": "PSC", 
+    "fullname": "EVERALDO DIAS PEREIRA", 
+    "total": 1431485.4, 
+    "election_id": 20
+}

@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO", 
+    "searchable": [
+        "Waldez"
+    ], 
+    "title": "Governador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AP/foto/30000000088.jpg", 
+    "state": "AP", 
+    "donations": {
+        "JBS S/A": 200000.0, 
+        "SAGA INVESTIMENTO E PARTICIPAÇÕES DO BRASIL S/A": 200000.0, 
+        "JSL S/A": 200000.0, 
+        "JARI CELULOSE· PAPEL E EMBALAGENS S/A": 199980.0, 
+        "PARTIDO DO MOVIMENTO DEMOCRATICO BRASILEIRO - DIRETORIO NACIONAL": 77330.0, 
+        "EMPRESA DE MECANIZAÇÃO RURAL S.A.": 30000.0
+    }, 
+    "party": "PDT", 
+    "fullname": "ANTÔNIO WALDEZ GÓES DA SILVA", 
+    "total": 2933741.4, 
+    "election_id": 12
+}

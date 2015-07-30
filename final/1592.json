@@ -1,0 +1,18 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Dinaldinho"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PB/foto/150000000412.jpg", 
+    "state": "PB", 
+    "donations": {
+        "ALPARGATAS S/A": 105000.0, 
+        "VIA ENGENHARIA S.A": 6849.31, 
+        "ITAÚ UNIBANCO S/A": 5200.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "DINALDO MEDEIROS WANDERLEY FILHO", 
+    "total": 220557.31, 
+    "election_id": 45245
+}

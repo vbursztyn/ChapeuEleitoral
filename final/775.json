@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Afonso Motta"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000000224.jpg", 
+    "state": "RS", 
+    "donations": {
+        "CONSTRUTORA OAS SA": 100000.0, 
+        "IPIRANGA PRODUTOS DE PETROLEO S/A": 80000.0, 
+        "GERDAU AÇOS ESPECIAIS S/A": 40000.0, 
+        "QUANTIQ DISTRIBUIDORA LTDA": 39900.0
+    }, 
+    "party": "PDT", 
+    "fullname": "AFONSO ANTUNES DA MOTTA", 
+    "total": 1354345.25, 
+    "election_id": 1200, 
+    "similars": [
+        "Caruso (PMDB, SP) - Deputado Estadual", 
+        "Luiz Fernando (PP, MG) - Deputado Federal"
+    ], 
+    "stands": []
+}

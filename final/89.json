@@ -1,0 +1,29 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Adriano Sarney"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MA/foto/100000000745.jpg", 
+    "state": "MA", 
+    "donations": {
+        "SUZANO PAPEL E CELULOSE S.A": 300000.0, 
+        "BRADESCO ADMINISTRADORA DE CONSÓRCIOS LTDA": 150000.0, 
+        "NOVAPARTICIPA ADMINISTRACAO E PARTICIPACOES LTDA": 121600.0, 
+        "SISTEMA INTEGRADO DE EDUCAÇÃO E CULTURA SINEC LTDA": 100000.0, 
+        "BRADESCO SAUDE S.A": 90000.0, 
+        "WTORRE ENGENHARIA E CONSTRUÇÃO S.A": 80000.0, 
+        "PARTICIPA EMPREENDIMENTOS IMOBILIARIOS E PARTICIPACOES LTDA": 28400.0, 
+        "CARBOMIL QUIMICA S A": 25000.0, 
+        "Direção Estadual/Distrital": 5000.0
+    }, 
+    "party": "PV", 
+    "fullname": "JOSE ADRIANO CORDEIRO SARNEY", 
+    "total": 1196950.0, 
+    "election_id": 43123, 
+    "similars": [
+        "Luciano Nunes (PSDB, PI) - Deputado Estadual", 
+        "Palozi (PSC, PR) - Deputado Estadual", 
+        "Sarney Filho (PV, MA) - Deputado Federal"
+    ]
+}

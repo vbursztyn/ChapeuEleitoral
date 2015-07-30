@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Paulo Melo"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000001616.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "CERVEJARIA PETROPOLIS SA": 860000.0, 
+        "RIO DE JANEIRO REFRESCOS LTDA": 400000.0, 
+        "CARIOCA CHRISTIANI NIELSEN ENGENAHARIA SA": 300000.0, 
+        "CONSTRUTORA NOVOLAR SA": 200000.0, 
+        "BANCO BTG PACTUAL SA": 200000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ SA": 200000.0, 
+        "MI MATERIAL  INFORMATICA SA": 100000.0, 
+        "LCL LOCAÇÃO COLARES LINHARES LTDA": 80000.0, 
+        "LONDRINA BEBIDAS LTDA": 80000.0, 
+        "COLLET E SONS SA ENGENHARIA COMERCIO E INDUSTRIA": 70000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "PAULO CÉSAR MELO DE SÁ", 
+    "total": 3411522.82, 
+    "election_id": 15288
+}

@@ -1,0 +1,30 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Jarbas Vasconcelos"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PE/foto/170000000051.jpg", 
+    "state": "PE", 
+    "donations": {
+        "CONSTRUTORA NORBERTO ODEBRECHT S/A": 395000.0, 
+        "INTELIGENCIA XXI LTDA": 150000.0, 
+        "COMPANHIA SIDERURGICA VALE DO PINDARE": 144986.0, 
+        "LIDERMAC CONSTRUÇÕES E EQUIPAMENTOS": 128500.0, 
+        "EMPRESA ENERGÉTICA PORTO DAS PEDRAS": 25000.0, 
+        "RIO SUCURIU ENERGIA S/A": 25000.0, 
+        "RIO VERDE ENERGIA S/A": 25000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "JARBAS DE ANDRADE VASCONCELOS", 
+    "total": 1979036.0, 
+    "election_id": 1515, 
+    "similars": [
+        "Rodrigo Moraes (PSC, SP) - Deputado Estadual", 
+        "João Eudes (PRP, PE) - Deputado Estadual", 
+        "Agnelo (PDT, RN) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada da Comunicação"
+    ]
+}

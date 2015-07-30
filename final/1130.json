@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Luiz Martins"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000002449.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "JBS SA": 421000.0, 
+        "CERVEJARIA PETROPOLIS SA": 300000.0, 
+        "CONSTRUTORA QUEIROZ GALVÃO SA": 200000.0, 
+        "CARIOCA CHRISTIANI NIELSEN ENGENHARIA SA": 100000.0, 
+        "PINESE HOLDING LTDA": 100000.0, 
+        "AVANTE VEICULOS LTDA": 100000.0
+    }, 
+    "party": "PDT", 
+    "fullname": "LUIZ ANTONIO MARTINS", 
+    "total": 1427616.4, 
+    "election_id": 12200
+}

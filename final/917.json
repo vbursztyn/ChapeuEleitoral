@@ -1,0 +1,31 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Cauê Macris"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001501.jpg", 
+    "state": "SP", 
+    "donations": {
+        "CONSTRUTORA ANDRADE GUTIERREZ S/A": 205000.0, 
+        "WANMIX LTDA": 200000.0, 
+        "SPAL INDUSTRIA DE BEBIDAS S/A": 190000.0, 
+        "CONSTRUTORA FERREIRA GUEDES S/A": 170225.0, 
+        "CR ALMEIDA S/A": 150000.0, 
+        "CRBS S.A.": 100000.0, 
+        "ARCOS DOURADOS COMÉRCIO DE ALIMENTOS LTDA": 47500.0, 
+        "COPERSUCAR S/A": 30000.0, 
+        "PARTIFIB PROJETOS IMOBILIÁRIOS SUMMER LTDA": 27022.0, 
+        "COMPANHIA METALURGICA PRADA": 17625.0, 
+        "GERIBELLO ENGENHARIA DE OBRAS": 13241.0, 
+        "AMIL ASSISTENCIA MEDICA INTERNACIONAL S/A": 5419.46
+    }, 
+    "party": "PSDB", 
+    "fullname": "CAUE CASEIRO MACRIS", 
+    "total": 1411313.28, 
+    "election_id": 45000, 
+    "similars": [
+        "Simone Tebet (PMDB, MS) - Senador", 
+        "Luizianne Lins (PT, CE) - Deputado Federal"
+    ]
+}

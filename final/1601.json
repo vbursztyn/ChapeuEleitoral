@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Valdir Colatto"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SC/foto/240000000241.jpg", 
+    "state": "SC", 
+    "donations": {
+        "COSAN LUBRIFICANTES E ESPECIALIDADES S/A": 50000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "VALDIR COLATTO", 
+    "total": 619891.0, 
+    "election_id": 1516, 
+    "stands": [
+        "Bancada Ruralista"
+    ]
+}

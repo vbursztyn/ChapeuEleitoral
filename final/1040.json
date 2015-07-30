@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Flavia Morais"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/GO/foto/90000000719.jpg", 
+    "state": "GO", 
+    "donations": {
+        "CONSTRUTORA QUEIROZ GALVÃO S.A.": 100000.0, 
+        "HOSPITAL SANTA PAULA LTDA": 100000.0, 
+        "JBS S/A": 100000.0
+    }, 
+    "party": "PDT", 
+    "fullname": "FLAVIA CARREIRO ALBUQUERQUE MORAIS", 
+    "total": 957607.54, 
+    "election_id": 1212, 
+    "stands": [
+        "Bancada Feminina"
+    ]
+}

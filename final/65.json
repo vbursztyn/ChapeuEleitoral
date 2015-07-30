@@ -1,0 +1,26 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Roque Barbiere - Roquinho"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000002441.jpg", 
+    "state": "SP", 
+    "donations": {
+        " CONSDON ENGENHARIA E COMÉRCIO LTDA.": 100000.0, 
+        "CR ALMEIDA": 50000.0, 
+        "ACHE LABORATÓRIOS FARMACEUTICOS S/A": 50000.0, 
+        "PRODENTE ASSISTENCIA ODONTOLÓGICA LTDA": 30000.0, 
+        "GERIBELLO ENGENHARIA E COMERCIO LTDA": 30000.0
+    }, 
+    "party": "PTB", 
+    "fullname": "ROQUE BARBIERE", 
+    "total": 998964.81, 
+    "election_id": 14160, 
+    "similars": [
+        "Goulart (PSD, SP) - Deputado Federal", 
+        "Padilha (PT, SP) - Governador", 
+        "Luiz Fernando (PP, MG) - Deputado Federal", 
+        "Silvio Torres (PSDB, SP) - Deputado Federal"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Rodrigo Maia"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000001114.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "BANCO BMG S/A": 550000.0, 
+        "PRAIAMAR INDÚSTRIA· COMÉRCIO & DISTRIBUIÇÃO LTDA": 200000.0, 
+        "AVANTE VEÍCULOS LTDA": 200000.0, 
+        "JBS S/A": 100000.0, 
+        "REVITA ENGENHARIA S/A ": 100000.0, 
+        "CRBS S/A": 100000.0, 
+        "SAEPAR SERVIÇOS E PARTICIPAÇÕES S.A.": 100000.0, 
+        "EPC CONSTRUÇÕES LTDA": 50000.0, 
+        "ORIGINAL VEÍCULOS LTDA": 50000.0
+    }, 
+    "party": "DEM", 
+    "fullname": "RODRIGO FELINTO IBARRA EPITÁCIO MAIA", 
+    "total": 2361183.05, 
+    "election_id": 2587, 
+    "similars": [
+        "Elmar (DEM, BA) - Deputado Federal"
+    ], 
+    "stands": []
+}

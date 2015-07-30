@@ -1,0 +1,27 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Pedro Vilela"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AL/foto/20000000382.jpg", 
+    "state": "AL", 
+    "donations": {
+        "ESTRE AMBIENTAL S/A": 313000.0, 
+        "S V C CONTRUÇÕES LTDA": 122396.4, 
+        "SOCOCO S/A": 100000.0, 
+        "BRCON ENGENHARIA ": 80000.0, 
+        "CONSTRUTORA OAS S/A": 50000.0, 
+        "ENGEMATLOC TERRAPLAN": 50000.0, 
+        "ENGENHARIA DE METERIAS LTDA": 40000.0, 
+        "BRASKEM S/A": 20000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "PEDRO TORRES BRANDÃO VILELA", 
+    "total": 1346348.51, 
+    "election_id": 4545, 
+    "similars": [
+        "Julio Cezar (PSDB, AL) - Governador"
+    ], 
+    "stands": []
+}

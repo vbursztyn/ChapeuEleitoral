@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Veneziano"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PB/foto/150000000178.jpg", 
+    "state": "PB", 
+    "donations": {
+        "AROSUCO AROMAS E SUCOS LTDA": 1000000.0, 
+        "BRADESCO SAUDE S/A": 17466.67, 
+        "MSC CRUZEIROS DO BRASIL LTDA": 15050.0, 
+        "JBS S/A": 5000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "VENEZIANO VITAL DO RÊGO SEGUNDO NETO", 
+    "total": 1088197.33, 
+    "election_id": 1510, 
+    "stands": []
+}

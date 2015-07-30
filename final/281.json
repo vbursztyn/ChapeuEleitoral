@@ -1,0 +1,33 @@
+{
+    "status": "ELEITO", 
+    "searchable": [
+        "Jose Maranhão"
+    ], 
+    "title": "Senador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PB/foto/150000000158.jpg", 
+    "state": "PB", 
+    "donations": {
+        "COESA ENGENHARIA LTDA": 1000000.0, 
+        "JBS S/A": 600000.0, 
+        "OAS S/A": 600000.0, 
+        "BRADESCO SAÚDE S/A": 406000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S/A": 300000.0, 
+        "VALE MANGANÊS S/A": 250000.0, 
+        "SAEPAR SERVIÇOS E PARTICIPAÇÕES S/A": 150000.0, 
+        "ALPARGATAS S/A": 100000.0, 
+        "LONDRINA BEBIDAS LTDA": 16800.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "JOSÉ TARGINO MARANHÃO", 
+    "total": 4245804.42, 
+    "election_id": 155, 
+    "similars": [
+        "Nelsinho Metalúrgico (PT, RS) - Deputado Estadual", 
+        "Rômulo Gouveia (PSD, PB) - Deputado Federal", 
+        "Heraclito (PSB, PI) - Deputado Federal", 
+        "Lidice da Mata (PSB, BA) - Governador", 
+        "Eduardo Barbosa (PSDB, MG) - Deputado Federal", 
+        "Dinaldinho (PSDB, PB) - Deputado Estadual"
+    ], 
+    "stands": []
+}

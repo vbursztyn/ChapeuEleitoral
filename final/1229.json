@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Bi Garcia"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AM/foto/40000000537.jpg", 
+    "state": "AM", 
+    "donations": {
+        "TRANSEXCEL SEGURANÇA E TRANSPORTE DE VALORES LTDA": 40500.0, 
+        "VILA ENGENHARIA LTDA": 13000.0, 
+        "BANCO BTG PACTUAL S/A": 6250.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "FRANK LUIZ DA CUNHA GARCIA", 
+    "total": 256442.68, 
+    "election_id": 45145, 
+    "similars": [
+        "Cabo Maciel (PR, AM) - Deputado Estadual"
+    ]
+}

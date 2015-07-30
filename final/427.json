@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Alan Rick"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AC/foto/10000000173.jpg", 
+    "state": "AC", 
+    "donations": {
+        "ALBUQUERQUE ENGENHARIA IMP. E EXP. LTDA": 61610.0, 
+        "CRBS S/A": 50000.0, 
+        "CONSTRUTORA O. A. S S/A": 25000.0, 
+        "PEDREIRA FORTALEZA IMP. EXP.": 20000.0, 
+        "TEIXEIRA AGUIAR LTDA-EPP": 6630.0, 
+        "AUTO POSTO CORRENTÃO": 5769.23
+    }, 
+    "party": "PRB", 
+    "fullname": "ALAN RICK MIRANDA", 
+    "total": 470999.17, 
+    "election_id": 1012, 
+    "stands": [
+        "Bancada Evangélica"
+    ]
+}

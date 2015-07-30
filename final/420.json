@@ -1,0 +1,32 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Ricardo Barros"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000162.jpg", 
+    "state": "PR", 
+    "donations": {
+        "JBS S/A": 1250000.0, 
+        "GALVÃO ENGENHARIA S/A": 627000.0, 
+        "BANCO BTG PACTUAL S/A": 100000.0, 
+        "BRADESCO LEASING S/A ARRENDAMENTO MERCANTIL": 100000.0, 
+        "QUEIROZ GALVÃO ALIMENTOS S/A": 100000.0, 
+        "CRBS S/A": 40000.0, 
+        "COMPANHIA METALURGIA PRADA LTDA": 21105.3
+    }, 
+    "party": "PP", 
+    "fullname": "RICARDO JOSÉ MAGALHÃES BARROS", 
+    "total": 3134612.27, 
+    "election_id": 1151, 
+    "similars": [
+        "Missionário José Olímpio (PP, SP) - Deputado Federal", 
+        "Gileno (PSL, SP) - Deputado Estadual", 
+        "João Daniel (PT, SE) - Deputado Federal", 
+        "Paulo Maluf (PP, SP) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Vanessa Damo"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000002742.jpg", 
+    "state": "SP", 
+    "donations": {
+        "BRADESCO CAPITALIZAÇÃO S.A.": 150000.0, 
+        "B&FDIAS INDUSTRIA E COMERCIO LTDA": 100000.0, 
+        "GERDAU AÇOS ESPECIAIS S/A": 70000.0, 
+        "BRASKEN S.A": 30000.0, 
+        "BOA VISTA DESENV IMOBILIARIO LTDA": 5670.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "VANESSA DAMO OROSCO", 
+    "total": 1113452.1, 
+    "election_id": 15123
+}

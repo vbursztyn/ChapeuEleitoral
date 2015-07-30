@@ -1,0 +1,17 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Paranhos"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000847.jpg", 
+    "state": "PR", 
+    "donations": {
+        "BRADESCO SAUDE S/A": 10000.0, 
+        "COSNTRUTORA ANDRADE GUTIERREZ": 10000.0
+    }, 
+    "party": "PSC", 
+    "fullname": "LEONALDO PARANHOS DA SILVA", 
+    "total": 624451.34, 
+    "election_id": 20181
+}

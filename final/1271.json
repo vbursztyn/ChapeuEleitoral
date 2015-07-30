@@ -1,0 +1,18 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Cabo Maciel"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AM/foto/40000000668.jpg", 
+    "state": "AM", 
+    "donations": {
+        "SEARA ALIMENTOS LTDA": 170000.0, 
+        "PANASONIC DO BRASIL": 6800.0, 
+        "VILA ENGENHARIA LTDA": 6500.0
+    }, 
+    "party": "PR", 
+    "fullname": "ALCIMAR MACIEL PEREIRA", 
+    "total": 419223.55, 
+    "election_id": 22333
+}

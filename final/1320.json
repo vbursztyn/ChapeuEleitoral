@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Ney Leprevost"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000566.jpg", 
+    "state": "PR", 
+    "donations": {
+        "J MALUCELLI CONSTRUTORA DE OBRAS S/A": 900000.0, 
+        "VILLAGE CONSTRUÇÕES LTDA": 200000.0, 
+        "BRADESCO VIDA E PREVIDENCIA": 100000.0, 
+        "LONDRINA BEBIDAS LTDA": 50000.0
+    }, 
+    "party": "PSD", 
+    "fullname": "NEY LEPREVOST NETO", 
+    "total": 2113892.95, 
+    "election_id": 55669
+}

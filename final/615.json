@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Jacó Jácome"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RN/foto/200000000043.jpg", 
+    "state": "RN", 
+    "donations": {
+        "Direção Nacional": 70000.0, 
+        "CONSTRUTORA QUEIROZ GALVÃO S/A": 35000.0, 
+        "JBS SA": 30000.0, 
+        "BANCO BTG PACTUAL ": 30000.0, 
+        "RAIA DROGASIL S/A": 20000.0, 
+        "QUEIROZ GALVÃO EMPREENDIMENTOS LTDA ": 15000.0, 
+        "PMN DIRETORIO REGIONAL NO ESTADO DE SAO PAULO": 10000.0
+    }, 
+    "party": "PMN", 
+    "fullname": "JACOB HELDER GUEDES DE OLIVEIRA JÁCOME", 
+    "total": 303850.0, 
+    "election_id": 33133
+}

@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Inácio Falcão"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PB/foto/150000000058.jpg", 
+    "state": "PB", 
+    "donations": {
+        "UTC ENGENHARIA S/A": 50000.0, 
+        "PRESTASERV LTDA": 46000.0, 
+        "CERÂMICA ELIZABETH SUL": 20000.0
+    }, 
+    "party": "PT do B", 
+    "fullname": "INÁCIO JUSTINO FALCÃO PEREIRA", 
+    "total": 153805.0, 
+    "election_id": 70000, 
+    "similars": [
+        "Daniella Ribeiro (PP, PB) - Deputado Estadual"
+    ]
+}

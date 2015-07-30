@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Jose Nelto"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/GO/foto/90000000659.jpg", 
+    "state": "GO", 
+    "donations": {
+        "BRADESCO VIDA E PREVIDENCIA S.A.": 20000.0, 
+        "RIMA INDUSTRIAL SA": 15000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "JOSÉ NELTO LAGARES DAS MERCEZ", 
+    "total": 1677185.71, 
+    "election_id": 15123, 
+    "similars": [
+        "Ernesto Roller (PMDB, GO) - Deputado Estadual", 
+        "Bruno Peixoto (PMDB, GO) - Deputado Estadual", 
+        "Carlos Antônio (SD, GO) - Deputado Estadual", 
+        "Prof Auriel (PT, SP) - Deputado Estadual"
+    ]
+}

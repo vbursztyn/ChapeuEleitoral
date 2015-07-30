@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Aldo Demarchi"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001654.jpg", 
+    "state": "SP", 
+    "donations": {
+        "CARIOCA CHRISTIANI NIELSEN ENGENHARIA S/A": 150000.0, 
+        "CAMARGO CORREA CONSTRUÇÕES INDUSTRIAIS S/A": 114000.0, 
+        "UTC ENGENHARIA S/A": 85000.0, 
+        "ENCALSO CONSTRUÇÕES LTDA": 17000.0, 
+        "BRADESCO VIDA E PREVIDENCIA S/A": 5419.46
+    }, 
+    "party": "DEM", 
+    "fullname": "JOSÉ ALDO DEMARCHI", 
+    "total": 1298719.51, 
+    "election_id": 25122
+}

@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Robert Rios"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PI/foto/180000000088.jpg", 
+    "state": "PI", 
+    "donations": {
+        "GRANDE MOINHO CEARENSE LTDA": 30000.0
+    }, 
+    "party": "PDT", 
+    "fullname": "ROBERT RIOS MAGALHAES", 
+    "total": 321965.4, 
+    "election_id": 12345, 
+    "similars": [
+        "Marden Menezes (PSDB, PI) - Deputado Estadual", 
+        "Dr. Hélio (PTC, PI) - Deputado Estadual", 
+        "Edson Ferreira (PSD, PI) - Deputado Estadual"
+    ]
+}

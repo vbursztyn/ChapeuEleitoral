@@ -1,0 +1,26 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "João Fischer", 
+        "Fixinha"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000000688.jpg", 
+    "state": "RS", 
+    "donations": {
+        "PAQUETÁ CALÇADOS S.A": 49000.0, 
+        "CALÇADOS JACOB S.A": 30000.0, 
+        "BRASKEM SA": 29400.0, 
+        "GERDAU AÇOS ESPECIAIS S.A": 28400.0, 
+        "CELULOSE IRANI S/A": 25000.0, 
+        "QUANTIQ DISTRIBUIDORA LTDA": 19600.0, 
+        "COMPANHIA RIO GRANDENSE DE VALORIZAÇÃO DE RESIDUOS": 9800.0
+    }, 
+    "party": "PP", 
+    "fullname": "JOÃO ERVINO FISCHER", 
+    "total": 455460.0, 
+    "election_id": 11112, 
+    "similars": [
+        "Renato Molling (PP, RS) - Deputado Federal"
+    ]
+}

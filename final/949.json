@@ -1,0 +1,26 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Rejane Dias"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PI/foto/180000000221.jpg", 
+    "state": "PI", 
+    "donations": {
+        "CONSTRUTORA OAS": 280000.0, 
+        "TIISA INFRAESTRUTURA E INVESTIMENTOS SA": 150000.0, 
+        "CAMTER CONSTRUÇÃO E EMPREENDIMENTOS SA": 6165.0
+    }, 
+    "party": "PT", 
+    "fullname": "REJANE RIBEIRO SOUSA DIAS", 
+    "total": 931206.38, 
+    "election_id": 1311, 
+    "similars": [
+        "Paulo Pimenta (PT, RS) - Deputado Federal", 
+        "Durval Ângelo (PT, MG) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Feminina", 
+        "Bancada Evangélica"
+    ]
+}

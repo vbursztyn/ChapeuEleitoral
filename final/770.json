@@ -1,0 +1,32 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Toninho Pinheiro"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000665.jpg", 
+    "state": "MG", 
+    "donations": {
+        "JBS S/A": 500000.0, 
+        "SUPERMERCADOS BH COM ALIM LTDA": 199715.0, 
+        "MGM LOCAÇÃO LTDA": 100000.0, 
+        "BANCO BMG/SA": 99890.0, 
+        "CBPO ENGENHARIA LTDA": 49945.0, 
+        "GRAN VIVER URBANISMO S/A": 15000.0
+    }, 
+    "party": "PP", 
+    "fullname": "ANTÔNIO PINHEIRO JÚNIOR", 
+    "total": 4363338.66, 
+    "election_id": 1122, 
+    "similars": [
+        "João Vitor Xavier da Itatiaia (PSDB, MG) - Deputado Estadual", 
+        "Rodrigo de Castro (PSDB, MG) - Deputado Federal", 
+        "Arlen Santiago (PTB, MG) - Deputado Estadual", 
+        "Tadeuzinho (PMDB, MG) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista", 
+        "Bancada da Saúde"
+    ]
+}

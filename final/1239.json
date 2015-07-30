@@ -1,0 +1,26 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Wellington Roberto"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PB/foto/150000000492.jpg", 
+    "state": "PB", 
+    "donations": {
+        "JBS S/A": 1100000.0, 
+        "EMBRAPORT EMPRESA BRASILEIRA DE TERMINAIS PORTUARIOS S/A": 200000.0, 
+        "SEARA ALIMENTOS LTDA": 200000.0, 
+        "CERAMICA ELIZABETH SUL LTDA ": 200000.0, 
+        "GONZAGA INDUSTRIA COM. E REPRES. LTDA": 100000.0, 
+        "CONSTRUTORA NORBERTO EDEBRECHT S.A": 100000.0, 
+        "TORC TERRAPLENAGEM OBRAS RODOVIARIAS E CONSTRUCOES LTDA": 25000.0
+    }, 
+    "party": "PR", 
+    "fullname": "JOSÉ WELLINGTON ROBERTO", 
+    "total": 2246134.0, 
+    "election_id": 2222, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

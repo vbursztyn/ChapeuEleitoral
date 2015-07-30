@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Rogerio Marinho"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RN/foto/200000000138.jpg", 
+    "state": "RN", 
+    "donations": {
+        "BTG PACTUAL ASSET MANAGEMENT S.A ": 150000.0, 
+        "ODEBRECHT OLEO E GAS S/A.": 55000.0, 
+        "ALESAT COMBUSTIVEIS S A": 40000.0, 
+        "BANCO BTG PACTUAL S/A.": 10000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "ROGÉRIO SIMONETTI MARINHO", 
+    "total": 835840.0, 
+    "election_id": 4545, 
+    "stands": [
+        "Bancada Sindicalista"
+    ]
+}

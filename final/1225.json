@@ -1,0 +1,36 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "José Otavio Germano"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000000647.jpg", 
+    "state": "RS", 
+    "donations": {
+        "JBS S/A": 645000.0, 
+        "RECOFORMA INDUSTRIA DA AMAZONAS LTDA": 176400.0, 
+        "BRASKEM S/A": 166600.0, 
+        "GERDAU ACOS ESPECIAIS S.A. ": 147000.0, 
+        "CRBS S/A": 147000.0, 
+        "BRADESCO LEASING S/A - ARRENDAMENTO MERCANTIL": 117600.0, 
+        "FLORA PRODUTOS DE HIGIENE E LIMPEZA S/A": 100000.0, 
+        "CONSTRUTORA QUEIROZ GALVÃO  SA": 100000.0, 
+        "USICITY PAVIMENTAÇÃO LTDA": 100000.0, 
+        "BRAFER CONSTRUÇÕES METALICAS SA ": 50000.0, 
+        "IMAPI INDUSTRIA E COMERCIO LTDA": 50000.0, 
+        "IPIRANGA PROD DE PETROLEO SA": 49000.0, 
+        "PHILIP MORRIS INDUSTRIA E COMERCIO LTDA": 49000.0, 
+        "VONPAR REFRESCOS SA": 19600.0, 
+        "HOME COM E DISTR DE MOVEIS LTDA": 17800.0, 
+        "GOLDZTEIN CYRILA EMPREND IMOBILIARIOS SA": 5000.0
+    }, 
+    "party": "PP", 
+    "fullname": "JOSÉ OTAVIO GERMANO", 
+    "total": 2906351.65, 
+    "election_id": 1112, 
+    "similars": [
+        "Iracema Portella (PP, PI) - Deputado Federal", 
+        "Nelson Meurer (PP, PR) - Deputado Federal", 
+        "Simão Sessim (PP, RJ) - Deputado Federal"
+    ]
+}

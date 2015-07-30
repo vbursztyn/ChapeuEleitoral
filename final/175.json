@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Max Russi"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MT/foto/110000000210.jpg", 
+    "state": "MT", 
+    "donations": {
+        "Direção Estadual/Distrital": 145000.0, 
+        "JBS SA": 50000.0, 
+        "PARTIDO SOCIALISTA BRASILEIRO PSB NACIONAL": 45000.0, 
+        "CERVEJARIA PETROPOLIS SA": 28960.0
+    }, 
+    "party": "PSB", 
+    "fullname": "MAX JOEL RUSSI", 
+    "total": 567607.02, 
+    "election_id": 40000, 
+    "similars": [
+        "Adilton Sachetti (PSB, MT) - Deputado Federal", 
+        "Coronel Taborelli (PV, MT) - Deputado Estadual"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Joao Carlos Bacelar"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000661.jpg", 
+    "state": "BA", 
+    "donations": {
+        "CONSTRUTORA OAS S.A": 104500.0
+    }, 
+    "party": "PTN", 
+    "fullname": "JOAO CARLOS BACELAR BATISTA", 
+    "total": 382654.0, 
+    "election_id": 1919, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

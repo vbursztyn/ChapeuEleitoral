@@ -1,0 +1,33 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Reginaldo Lopes"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000894.jpg", 
+    "state": "MG", 
+    "donations": {
+        "LATICÍNIOS BELA VISTA LTDA": 522500.0, 
+        "JBS S/A ": 382500.0, 
+        "AMIL ASSISTENCIA MEDICA INTERNACIONAL S.A. ": 330000.0, 
+        "GOIÁS MINAS INDÚSTRIA DE LATICÍNIOS LTDA": 237500.0, 
+        "CONSTRUÇÕES E COMÉRCIO CAMARGO CORRÊA AS": 200000.0, 
+        "LATICÍNIO TIROLEZ LTDA": 190000.0, 
+        "COMPANHIA BRASILEIRA DE METALURGIA E MINERACAO": 190000.0, 
+        "EMAMI PARTICIPACOES S.A": 150000.0, 
+        "CONSTRUTORA TRIUNFO S/A ": 100000.0, 
+        "MINERAÇÃO CORUMBAENSE REUNIDA S.A": 95000.0, 
+        "FEDERAÇÃO INT. CTME-MINAS GERAIS": 95000.0, 
+        "MINEIRAÇÕES BRASILEIRAS REUNIDAS S.A-MBR": 73156.53, 
+        "CERVEJARIA PETROPOLIS S/A ": 28500.0, 
+        "CRBS S/A": 28500.0, 
+        "GERDAU ACOS ESPECIAIS S.A. ": 19000.0, 
+        "EMPRESA DE MINERACAO ESPERANCA S A": 19000.0, 
+        "VILASA CONSTRUTORA LTDA ": 8550.0
+    }, 
+    "party": "PT", 
+    "fullname": "REGINALDO LÁZARO DE OLIVEIRA LOPES", 
+    "total": 4503489.08, 
+    "election_id": 1312, 
+    "stands": []
+}

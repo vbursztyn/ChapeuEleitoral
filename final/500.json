@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Carlos Melles"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000691.jpg", 
+    "state": "MG", 
+    "donations": {
+        "BANCO SANTANDER (BRASIL) S/A": 200000.0, 
+        "BRADESCO VIDA E PREVIDENCIA S/A": 120000.0, 
+        "CONSTRUTORA NORBERTO ODEBRECHT S.A.": 120000.0, 
+        "CRBS S/A": 100000.0, 
+        "GERDAU AÇÕES ESPECIAIS S/A": 50000.0, 
+        "COOPERATIVA REGIONAL DE CREDITO DE LIVRE ADMISSAO DO SUDOESTE MINEIRO E NORDESTE PAULISTA LTDA": 35000.0
+    }, 
+    "party": "DEM", 
+    "fullname": "CARLOS DO CARMO ANDRADE MELLES", 
+    "total": 2258410.91, 
+    "election_id": 2555, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

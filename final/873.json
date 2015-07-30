@@ -1,0 +1,18 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Branco Mendes"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PB/foto/150000000414.jpg", 
+    "state": "PB", 
+    "donations": {
+        "CONSTRUTORA SANCHES TRIPOLONI LTDA": 50000.0, 
+        "CONSTRUTORA NORBERTO ODEBRECHT S.A": 20000.0, 
+        "VIA ENGENHARIA S.A.": 6849.68
+    }, 
+    "party": "PEN", 
+    "fullname": "ATAIDES MENDES PEDROSA", 
+    "total": 213902.33, 
+    "election_id": 51888
+}

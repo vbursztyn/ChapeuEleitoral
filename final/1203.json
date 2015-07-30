@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Analice Fernandes"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001534.jpg", 
+    "state": "SP", 
+    "donations": {
+        "CONSTRUTORA OAS S/A.": 300000.0, 
+        "CAMARGO CORREA CONSTRUÇÕES INDUSTRIAIS": 300000.0, 
+        "HEATING E COOLING TECNOLOGIA TERMICA LTDA.": 120000.0, 
+        "FM RODRIGUES & CIA LTDA": 16500.0, 
+        "CRBS S/A.": 9000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "ANALICE FERNANDES", 
+    "total": 1557704.04, 
+    "election_id": 45400, 
+    "similars": [
+        "Pastor Cezinha (DEM, SP) - Deputado Estadual"
+    ]
+}

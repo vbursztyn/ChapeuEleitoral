@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Johnathan de Jesus"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RR/foto/230000000264.jpg", 
+    "state": "RR", 
+    "donations": {
+        "JBS S/A": 77000.0, 
+        "CONSTRUTORA QUEIROZ GALVAO S/A": 7500.0
+    }, 
+    "party": "PRB", 
+    "fullname": "JOHNATHAN PEREIRA DE JESUS", 
+    "total": 318750.0, 
+    "election_id": 1011, 
+    "stands": [
+        "Bancada Evangélica"
+    ]
+}

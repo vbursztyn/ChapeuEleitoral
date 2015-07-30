@@ -1,0 +1,18 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Daniel Zen"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AC/foto/10000000181.jpg", 
+    "state": "AC", 
+    "donations": {
+        "TRACTEBEL ENERGIA COMERCIALIZADORA LTDA": 50000.0, 
+        "COSTRUTORA OAS SA": 15000.0, 
+        "IMPACTO INDUSTRIA TERRAPLANAGEM E CONTRUÇOES LTDA": 10000.0
+    }, 
+    "party": "PT", 
+    "fullname": "DANIEL QUEIROZ DE SANT'ANA", 
+    "total": 493141.51, 
+    "election_id": 13123
+}

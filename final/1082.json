@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Pedro Cunha Lima"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PB/foto/150000000507.jpg", 
+    "state": "PB", 
+    "donations": {
+        "ALPARGATAS S.A": 300000.0, 
+        "BRADESCO LEASING S/A - ARRENDAMENTO MERCANTIL": 141000.0, 
+        "PSDB NACIONAL": 28000.0, 
+        "VIA ENGENHARIA S.A": 6849.31
+    }, 
+    "party": "PSDB", 
+    "fullname": "PEDRO OLIVEIRA CUNHA LIMA", 
+    "total": 891364.31, 
+    "election_id": 4510, 
+    "similars": [
+        "Shéridan (PSDB, RR) - Deputado Federal"
+    ], 
+    "stands": []
+}

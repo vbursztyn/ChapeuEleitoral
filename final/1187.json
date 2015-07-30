@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Andre Ceciliano"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000000531.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "CARIOCA CHRISTIANI  NILSEN ENGENHARIA SA": 100000.0, 
+        "CONSTRUTORA QUIEROZ GALVÃO S.A": 80000.0, 
+        "JBS S/A": 70000.0, 
+        "CONSTRUTORA SANCHES TRIPOLONI LTDA": 40000.0
+    }, 
+    "party": "PT", 
+    "fullname": "ANDRE LUIZ CECILIANO", 
+    "total": 1277432.5, 
+    "election_id": 13567
+}

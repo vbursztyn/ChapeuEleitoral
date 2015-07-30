@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Fábio Sousa"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/GO/foto/90000000740.jpg", 
+    "state": "GO", 
+    "donations": {
+        "ACJ CONSTRUCOES E INCORPORACOES SA": 240000.0, 
+        "CIA HERING": 189801.0, 
+        "SERVI SERVICOS MANUT PATR": 60000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "FÁBIO FERNANDES DE SOUSA", 
+    "total": 1414044.0, 
+    "election_id": 4578, 
+    "stands": [
+        "Bancada Evangélica"
+    ]
+}

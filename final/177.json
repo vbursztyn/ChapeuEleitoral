@@ -1,0 +1,20 @@
+{
+    "status": "NÃO ELEITO", 
+    "searchable": [
+        "Ataídes Oliveira"
+    ], 
+    "title": "Governador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/TO/foto/270000000108.jpg", 
+    "state": "TO", 
+    "donations": {
+        "BRADESCO LEASING S.A. - ARRENDAMENTO MERCANTIL": 134390.0, 
+        "ARAGUAIA COMERCIAL DE MOTOS DE URUACU LTDA": 20000.0
+    }, 
+    "party": "PROS", 
+    "fullname": "ATAÍDES DE OLIVEIRA", 
+    "total": 3333297.33, 
+    "election_id": 90, 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

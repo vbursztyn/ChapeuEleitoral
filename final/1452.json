@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Marquinhos Madeira"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AL/foto/20000000347.jpg", 
+    "state": "AL", 
+    "donations": {
+        "CONSTRUTORA OAS SA": 150000.0, 
+        "JBS / SA": 100000.0, 
+        "IMPAR SERVIÇOS HOSPITALARES S/A": 100000.0, 
+        "QUEIROZ GALVÃO S/A": 100000.0
+    }, 
+    "party": "PT", 
+    "fullname": "MARCOS JOSE DIAS VIANA FILHO", 
+    "total": 480030.0, 
+    "election_id": 13123
+}

@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Bonifácio Andrada"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000651.jpg", 
+    "state": "MG", 
+    "donations": {
+        "CONSTRUTORA GUTIERREZ SA": 125000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "BONIFÁCIO JOSÉ TAMM DE ANDRADA", 
+    "total": 1207081.2, 
+    "election_id": 4566, 
+    "stands": [
+        "Bancada da Comunicação"
+    ]
+}

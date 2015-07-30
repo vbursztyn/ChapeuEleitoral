@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Osmar Serraglio"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000389.jpg", 
+    "state": "PR", 
+    "donations": {
+        "PORTO SEGURO CIA. DE SEGUROS GERAIS": 200000.0, 
+        "JBS S/A.": 200000.0, 
+        "BRADESCO SAÚDE S/A.": 100000.0, 
+        "COSAN LUBRIFICANTES E ESPECIALIDADES S.A.": 75000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "OSMAR JOSE SERRAGLIO", 
+    "total": 1495649.45, 
+    "election_id": 1533, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

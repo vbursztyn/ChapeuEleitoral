@@ -1,0 +1,17 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Pedro Augusto"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000001612.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "CONSTRUTORA ZADAR LTDA.": 200000.0, 
+        "RIO DE JANEIRO REFRESCOS LTDA": 200000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "PEDRO AUGUSTO PALARETI", 
+    "total": 1004086.6, 
+    "election_id": 15505
+}

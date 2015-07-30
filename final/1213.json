@@ -1,0 +1,29 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Beto Mansur"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001270.jpg", 
+    "state": "SP", 
+    "donations": {
+        "CONSTRUCAP ENGENHARIA E COMERCIO S/A": 250000.0, 
+        "AGRO ENERGIA SANTA LUZIA S/A": 250000.0, 
+        "CONSTRUTORA NORBERTO ODEBRECHT": 200000.0, 
+        "CPC CONSTRUÇÕES E PROCESSOS CIENTIFICOS LTDA": 150000.0, 
+        "CONSTRUTORA QUEIRÓZ GALVÃO S/A": 80000.0, 
+        "JBS S/A": 6500.0
+    }, 
+    "party": "PRB", 
+    "fullname": "PAULO ROBERTO GOMES MANSUR", 
+    "total": 1889061.88, 
+    "election_id": 1044, 
+    "similars": [
+        "Paulo Pimenta (PT, RS) - Deputado Federal", 
+        "Wellington Moura (PRB, SP) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada da Comunicação"
+    ]
+}

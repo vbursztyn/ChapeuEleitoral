@@ -1,0 +1,26 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "João Paulo Tavares Papa", 
+        "Papa (PSDB)"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001338.jpg", 
+    "state": "SP", 
+    "donations": {
+        "BANCO SANDANDER  (BRASIL) S/A": 100000.0, 
+        "G2O GERENCIAMENTO DE OBRAS LTDA": 95000.0, 
+        "ETESCO CONST. E COM. LTDA": 47500.0, 
+        "Direção Estadual/Distrital": 10000.0, 
+        "BRADESCO VIDA E PREVIDENCIA S.A": 5419.46
+    }, 
+    "party": "PSDB", 
+    "fullname": "JOAO PAULO TAVARES PAPA", 
+    "total": 1278578.76, 
+    "election_id": 4522, 
+    "similars": [
+        "Zeca Dirceu (PT, PR) - Deputado Federal", 
+        "Davi Zaia (PPS, SP) - Deputado Estadual"
+    ], 
+    "stands": []
+}

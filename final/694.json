@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Chico Lopes"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/CE/foto/60000000785.jpg", 
+    "state": "CE", 
+    "donations": {
+        "SP INDUSTRIA E DISTRIBUIDORA DE PETROLEO LTDA": 435000.0, 
+        "JBS S/A": 420000.0, 
+        "HRT O&G EXPLORACAO E PRODUCAO DE PETROLEO LTDA  ": 30000.0, 
+        "ELLO SERVIÇOS DE MAO DE OBRA LTDA": 30000.0
+    }, 
+    "party": "PC do B", 
+    "fullname": "FRANCISCO LOPES DA SILVA", 
+    "total": 1643012.52, 
+    "election_id": 6565, 
+    "similars": [
+        "Augusta Brito (PC do B, CE) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Sindicalista"
+    ]
+}

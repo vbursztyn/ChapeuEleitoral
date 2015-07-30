@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Moses Rodrigues"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/CE/foto/60000000271.jpg", 
+    "state": "CE", 
+    "donations": {
+        "CBL ALIMENTOS S/A": 20000.0
+    }, 
+    "party": "PPS", 
+    "fullname": "MOSES HAENDEL MELO RODRIGUES", 
+    "total": 629806.84, 
+    "election_id": 2323, 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

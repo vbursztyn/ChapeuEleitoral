@@ -1,0 +1,40 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Paulo Abi-ackel"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000662.jpg", 
+    "state": "MG", 
+    "donations": {
+        "CONTRUTORA ANDRADE GUTIERREZ SA ": 325000.0, 
+        "RECOFARMA INDUSTRIA DA AMAZONAS LTDA": 250000.0, 
+        "BRASKEM SA ": 220000.0, 
+        "MINEIRAÇÕES BRASILEIRAS REUNIDAS SA ": 200000.0, 
+        "CRBS SA": 200000.0, 
+        "GERDAU AÇOS ESPECIAIS": 128000.0, 
+        "BRADESCO VIDA E PREVIDÊNCIA": 100000.0, 
+        "KINROSS BRASIL MINEIRAÇÃO S/A": 100000.0, 
+        "SAEPAR SERVIÇOS E PARTICIPAÇÕES LTDA": 100000.0, 
+        "ARCOS DOURADOS COMÉRCIO DE ALIMENTOS": 100000.0, 
+        "SALOBO METAIS SA": 100000.0, 
+        "VALE MANGANÊS": 100000.0, 
+        "IPIRANGA PRODUTOS DE PETROLEO SA": 100000.0, 
+        "BRASIL RURAL GESTÃO DE RECURSOS LTDA": 80000.0, 
+        "EMPRESA DE MINEIRAÇÃO ESPERANÇA": 80000.0, 
+        "PHILIP MORRIS BRASIL IND. COM. LTDA": 60000.0, 
+        "QUANTIQ DISTRIBUIDORA": 50000.0, 
+        "BANCO SAFRA": 30000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "PAULO ABI-ACKEL", 
+    "total": 4205979.45, 
+    "election_id": 4545, 
+    "similars": [
+        "Dr Gilson Andrade (PTC, SE) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

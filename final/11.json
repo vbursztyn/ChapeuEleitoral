@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Saturnino Masson"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MT/foto/110000000117.jpg", 
+    "state": "MT", 
+    "donations": {
+        "ORIGINAL VEICULOS LTDA ": 64960.0, 
+        "FAZENDA PAIAGUAS EMPREENDIMENTOS AGRICOLAS LTDA ": 15950.0, 
+        "PARTIDO DEMOCRATICO TRABALHISTA ": 6000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "SATURNINO MASSON", 
+    "total": 376247.34, 
+    "election_id": 45222, 
+    "similars": [
+        "Fabio Garcia (PSB, MT) - Deputado Federal", 
+        "Professor Victório Galli (PSC, MT) - Deputado Federal", 
+        "Guilherme Maluf (PSDB, MT) - Deputado Estadual"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "status": "NÃO ELEITO", 
+    "searchable": [
+        "Levy Fidelix"
+    ], 
+    "title": "Presidente", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BR/foto/280000000021.jpg", 
+    "state": "BR", 
+    "donations": {
+        "JBS S/A": 22100.0, 
+        "LCC EMPREENDIMENTOS E CONSTRUCAO LTDA - ME ": 20000.0, 
+        "COMISSÃO PROVISÓRIA REGIONAL DO PRTB/DF": 5000.0
+    }, 
+    "party": "PRTB", 
+    "fullname": "JOSÉ LEVY FIDELIX DA CRUZ", 
+    "total": 142623.26, 
+    "election_id": 28
+}

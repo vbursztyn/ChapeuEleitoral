@@ -1,0 +1,26 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Mauricio Quintella"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AL/foto/20000000153.jpg", 
+    "state": "AL", 
+    "donations": {
+        "SEARA ALIMENTOS S/A": 500000.0, 
+        "JBS S/A": 450000.0, 
+        "CONSTRUTORA OAS S/A": 350000.0, 
+        "SAEPAR SERVIÇOS E PARTICIPAÇÕES S/A": 250000.0, 
+        "ESTRE AMBIENTAL S/A": 183980.41, 
+        "CONSTRUTORA SANCHES TRIPOLONI LTDA.": 150000.0, 
+        "CRBS S/A": 30000.0, 
+        "Direção Nacional": 14000.0
+    }, 
+    "party": "PR", 
+    "fullname": "MAURÍCIO QUINTELLA MALTA LESSA", 
+    "total": 2281353.44, 
+    "election_id": 2266, 
+    "stands": [
+        "Bancada Ruralista"
+    ]
+}

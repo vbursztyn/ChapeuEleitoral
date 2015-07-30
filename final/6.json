@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Aliel Machado"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000796.jpg", 
+    "state": "PR", 
+    "donations": {
+        "JBS SA": 100000.0, 
+        "HRT O7G EXPLORACAO E PRODUCAO PETROLEO LTDA": 100000.0, 
+        "MERCADOMOVEIS LTDA": 71000.0, 
+        "ELEICAO 2014 PEDRO DOS SANTOS LIMA GUERRA": 50000.0
+    }, 
+    "party": "PC do B", 
+    "fullname": "ALIEL MACHADO BARK", 
+    "total": 576451.52, 
+    "election_id": 6565, 
+    "similars": [
+        "Rubens Pereira Júnior (PC do B, MA) - Deputado Federal", 
+        "Isaura Lemos (PC do B, GO) - Deputado Estadual", 
+        "Alexandre Serfiotis (PSD, RJ) - Deputado Federal"
+    ], 
+    "stands": []
+}

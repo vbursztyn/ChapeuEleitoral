@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Magda Mofatto"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/GO/foto/90000000712.jpg", 
+    "state": "GO", 
+    "donations": {
+        "JBS S/A": 500000.0
+    }, 
+    "party": "PR", 
+    "fullname": "MAGDA MOFATTO HON", 
+    "total": 4565423.0, 
+    "election_id": 2222, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista", 
+        "Bancada Feminina", 
+        "Bancada da Comunicação"
+    ]
+}

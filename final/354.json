@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Carlos Felipe"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/CE/foto/60000000144.jpg", 
+    "state": "CE", 
+    "donations": {
+        "JBS S/A": 25000.0, 
+        "SP INDUSTRIA E DISTRIBUIDORA DE PETROLEO LTDA": 7000.0
+    }, 
+    "party": "PC do B", 
+    "fullname": "CARLOS FELIPE SARAIVA BEZERRA", 
+    "total": 140515.05, 
+    "election_id": 65100, 
+    "similars": [
+        "Augusta Brito (PC do B, CE) - Deputado Estadual", 
+        "Chico Lopes (PC do B, CE) - Deputado Federal"
+    ]
+}

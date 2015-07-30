@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Izalci"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/DF/foto/70000001075.jpg", 
+    "state": "DF", 
+    "donations": {
+        "ODEBRECHT ÓLEO E GÁS S/A": 150000.0, 
+        "BRADESCO VIDA E PREVIDENCIA S/A": 100000.0, 
+        "HANGAR EMPRESARIAL EMPREENDIMENTOS IMOBILIÁRIOS": 100000.0, 
+        "DEVRY EDUCACIONAL DO BRASIL S/A": 50000.0, 
+        "REDE INTERNACIONAL DE UNIVERSIDADES LAUREATE LTDA": 50000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "IZALCI LUCAS FERREIRA", 
+    "total": 1033145.77, 
+    "election_id": 4545, 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Jorge Pozzobom"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000001024.jpg", 
+    "state": "RS", 
+    "donations": {
+        "GERDAU ACOS ESPECIAIS SA": 40000.0, 
+        "FORJAS TAURUS SA": 25000.0, 
+        "COMPANHIA RIOGRANDENSE DE VALORIZACAO DE RESIDUOS": 20000.0, 
+        "EMPRESA BRASILEIRA DE TERMINAIS PORTUARIOS SA": 17500.0, 
+        "CVI REFRIGERANTES LTDA": 15000.0, 
+        "COSNTRUTORA ANDRADE GUTIERREZ SA": 7500.0, 
+        "CONSTRUTEKMAC SA": 6250.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "JORGE CLADISTONE POZZOBOM", 
+    "total": 288273.41, 
+    "election_id": 45678, 
+    "similars": [
+        "Pedro Lupion (DEM, PR) - Deputado Estadual", 
+        "Fraga (DEM, DF) - Deputado Federal", 
+        "Afonso Motta (PDT, RS) - Deputado Federal", 
+        "Ana Amelia Lemos (PP, RS) - Governador", 
+        "Luiz Fernando Pezão (PMDB, RJ) - Governador", 
+        "Janio Natal (PRP, BA) - Deputado Estadual", 
+        "Adilson Troca (PSDB, RS) - Deputado Estadual", 
+        "Jerônimo Goergen (PP, RS) - Deputado Federal"
+    ]
+}

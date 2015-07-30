@@ -1,0 +1,17 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Dr. Renato Gadelha"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PB/foto/150000000367.jpg", 
+    "state": "PB", 
+    "donations": {
+        "CONST ANDRADE GUTIERREZ": 10000.0, 
+        "ALPARGATAS SA": 5000.0
+    }, 
+    "party": "PSC", 
+    "fullname": "RENATO BENEVIDES GADELHA", 
+    "total": 138930.36, 
+    "election_id": 20120
+}

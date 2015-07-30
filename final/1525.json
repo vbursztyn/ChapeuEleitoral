@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Pepe Vargas"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000000404.jpg", 
+    "state": "RS", 
+    "donations": {
+        "AMIL ASSISTENCIA MEDICA INT SA": 95000.0
+    }, 
+    "party": "PT", 
+    "fullname": "GILBERTO JOSÉ SPIER VARGAS", 
+    "total": 599857.53, 
+    "election_id": 1301, 
+    "stands": [
+        "Bancada da Saúde", 
+        "Bancada Sindicalista"
+    ]
+}

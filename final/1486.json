@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Wilson Filho"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PB/foto/150000000506.jpg", 
+    "state": "PB", 
+    "donations": {
+        "VIA ENGENHARIA": 6849.31
+    }, 
+    "party": "PTB", 
+    "fullname": "JOSE WILSON SANTIAGO FILHO", 
+    "total": 348553.31, 
+    "election_id": 1411, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

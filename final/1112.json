@@ -1,0 +1,28 @@
+{
+    "status": "NÃO ELEITO", 
+    "searchable": [
+        "Lobão Filho"
+    ], 
+    "title": "Governador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MA/foto/100000000376.jpg", 
+    "state": "MA", 
+    "donations": {
+        "Direção Nacional": 1800000.0, 
+        "BF PROMOTORA DE VENDAS LTDA": 1000000.0, 
+        "VALE MINA DO AZUL S.A.": 1000000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S.A.": 500000.0, 
+        "VALE ENERGIA S.A.": 500000.0, 
+        "GERDAU AÇOS ESPECIAIS": 400000.0, 
+        "SAFRA LEASING SA ARRENDAMENTO MERCANTIL": 300000.0, 
+        "COMPANHIA DE BEBIDAS BRASIL KIRIN": 100000.0, 
+        "SANTA ANDREIA AGRO PECUARIA LTDA": 100000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "EDISON LOBÃO FILHO", 
+    "total": 9869433.16, 
+    "election_id": 15, 
+    "similars": [
+        "Rose de Freitas (PMDB, ES) - Senador", 
+        "Waldez (PDT, AP) - Governador"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Vitor Lippi"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001354.jpg", 
+    "state": "SP", 
+    "donations": {
+        "PONTO VEICULOS LTDA": 250000.0, 
+        "BRADESCO VIDA E PREVIDENCIA S/A": 5419.46
+    }, 
+    "party": "PSDB", 
+    "fullname": "VITOR LIPPI", 
+    "total": 810435.96, 
+    "election_id": 4510, 
+    "similars": [
+        "Arnaldo Jardim (PPS, SP) - Deputado Federal", 
+        "Adolfo Viana (PSDB, BA) - Deputado Estadual", 
+        "Eduardo Cunha (PMDB, RJ) - Deputado Federal", 
+        "Izalci (PSDB, DF) - Deputado Federal", 
+        "João Paulo Rillo (PT, SP) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada da Saúde"
+    ]
+}

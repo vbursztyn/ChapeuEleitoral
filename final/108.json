@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Raimundo Tavares Bobô"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000087.jpg", 
+    "state": "BA", 
+    "donations": {
+        "ARCELORMITTAL DO BRASIL S/A": 40000.0, 
+        "JBS S.A": 37000.0, 
+        "Direção Nacional": 25000.0
+    }, 
+    "party": "PC do B", 
+    "fullname": "RAIMUNDO NONATO TAVARES DA SILVA", 
+    "total": 217457.9, 
+    "election_id": 65888, 
+    "similars": [
+        "Roberto Rocha (PSB, MA) - Senador", 
+        "Soldado Sampaio (PC do B, RR) - Deputado Estadual", 
+        "Luciana Santos (PC do B, PE) - Deputado Federal"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Celso Giglio"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001536.jpg", 
+    "state": "SP", 
+    "donations": {
+        "ETERNIT S/A": 28500.0, 
+        "RUBIS EMPREENDIMENTOS IMOBILIARIOS LTDA": 8250.0, 
+        "BRADESCO VIDA E PREVIDENCIA S/A": 5419.46
+    }, 
+    "party": "PSDB", 
+    "fullname": "CELSO ANTONIO GIGLIO", 
+    "total": 765733.69, 
+    "election_id": 45555, 
+    "similars": [
+        "Peninha (PMDB, SC) - Deputado Federal", 
+        "Igor Soares (PTN, SP) - Deputado Estadual"
+    ]
+}

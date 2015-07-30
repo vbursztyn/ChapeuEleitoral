@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Gilmar Sossella"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000000188.jpg", 
+    "state": "RS", 
+    "donations": {
+        "IPIRANGA PRODUTOS DE PETROLEO": 50000.0, 
+        "CARIOCA CHRISTIANI NIELSEN ENG SA": 50000.0, 
+        "GUERDAU AÇOS ESPECIAIS": 20000.0, 
+        "QUANTIQ DISTRIBUIDORA LTDA": 10000.0, 
+        "MEDABIL SOLUÇOES CONSTRUTIVAS": 10000.0
+    }, 
+    "party": "PDT", 
+    "fullname": "GILMAR SOSSELLA", 
+    "total": 903886.02, 
+    "election_id": 12333, 
+    "similars": [
+        "Silvana Covatti (PP, RS) - Deputado Estadual"
+    ]
+}

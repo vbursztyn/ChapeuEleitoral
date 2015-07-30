@@ -1,0 +1,33 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Áureo Ribeiro", 
+        "Aureo"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000000390.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "CARIOCA CHRISTIANI NIELSEN ENGENHARIA  SA ": 670000.0, 
+        "R C VIEIRA ENGENHARIA LTDA ": 400000.0, 
+        "CONSTRUTORA QUEIROZ GALVÃO ": 300000.0, 
+        "SPIL SERVIÇOS TECNICOS DE ENGENHARIA LTDA ": 250000.0, 
+        "LIMPATECH SERVIÇOS E CONSTRUCOES LTDA ": 199986.0, 
+        "FW EMPREENDIMENTOS E CONSTRUÇÕES LTDA ": 150000.0, 
+        "UTC ENGENHARIA S.A": 119986.0, 
+        "RECOFARMA INDUSTRIA DO AMAZONAS LTDA": 99000.0, 
+        "BRADESCO VIDA E PREVIDENCIA S A ": 50000.0, 
+        "BRADESCO SAUDE S/A ": 49986.0
+    }, 
+    "party": "SD", 
+    "fullname": "AUREO LIDIO MOREIRA RIBEIRO", 
+    "total": 2674841.47, 
+    "election_id": 7733, 
+    "similars": [
+        "Pedro Fernandes (SD, RJ) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Evangélica"
+    ]
+}

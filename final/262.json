@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Roberto Engler"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001532.jpg", 
+    "state": "SP", 
+    "donations": {
+        "CAÇAPAVA EMPREITADA DE LAVOR LTDA": 50000.0, 
+        "CONSTRUTORA BARBOSA MELLO S/A": 50000.0, 
+        "BRADESCO VIDA E PREVIDENCIA S/A": 5419.46
+    }, 
+    "party": "PSDB", 
+    "fullname": "ROBERTO CARVALHO ENGLER PINTO", 
+    "total": 1446563.41, 
+    "election_id": 45156, 
+    "similars": [
+        "Zaqueu (PT, RJ) - Deputado Estadual", 
+        "Goulart (PSD, SP) - Deputado Federal", 
+        "Gabriel Guimarães (PT, MG) - Deputado Federal"
+    ]
+}

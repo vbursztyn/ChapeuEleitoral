@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Dr. Jorge Silva"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/ES/foto/80000000477.jpg", 
+    "state": "ES", 
+    "donations": {
+        "BRF S/A": 50000.0, 
+        "CCM CONSTRUTORA CENTRO MINAS LTDA": 8130.0
+    }, 
+    "party": "PROS", 
+    "fullname": "JORGE SILVA", 
+    "total": 486755.54, 
+    "election_id": 9090, 
+    "similars": [
+        "Raquel Lessa (SD, ES) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada da Saúde"
+    ]
+}

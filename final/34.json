@@ -1,0 +1,38 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Odair Cunha"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000889.jpg", 
+    "state": "MG", 
+    "donations": {
+        "ENGEVIX ENGENHARIA S/A": 190000.0, 
+        "CRBS S/A": 95000.0, 
+        "COSAN LUBRIFICANTES E ESPECIALIDADES S.A.": 95000.0, 
+        "BRADESCO ADMINISTRADORA DE CONSORCIOS LTDA": 65000.0, 
+        "SPAL INDUSTRIA BRASILEIRA DE BEBIDAS S/A": 56250.0, 
+        "CERVEJARIA PETROPOLIS S/A ": 50000.0, 
+        "DECIO FREIRE E ADVOGADOS ASSOCIADOS S/C": 38000.0, 
+        "COMPANHIA DE BEBIDAS BRASIL KIRIN": 35250.0, 
+        "CONSTRUTORA QUEIROZ GALVAO S/A": 15000.0, 
+        "FAZENDA LUA NOVA LTDA - EPP": 14250.0, 
+        "AGROPECUÁRIA NOVA GUAXUPÉ LTDA": 14250.0, 
+        "MINERACOES BRASILEIRAS REUNIDAS SA MBR": 12156.53, 
+        "JBS S/A": 10000.0, 
+        "ENGEFORM CONSTRUÇOES E COMERCIO LTDA": 10000.0, 
+        "PONTO VEICULOS LTDA": 7500.0, 
+        "AVANTE VEICULOS LTDA": 5000.0, 
+        "CONTAX-MOBITEL S/A": 5000.0
+    }, 
+    "party": "PT", 
+    "fullname": "ODAIR JOSE DA CUNHA", 
+    "total": 3084049.74, 
+    "election_id": 1307, 
+    "similars": [
+        "Júlio Lopes (PP, RJ) - Deputado Federal", 
+        "Chico Rodrigues (PSB, RR) - Governador", 
+        "Fernando Cury (PPS, SP) - Deputado Estadual"
+    ], 
+    "stands": []
+}

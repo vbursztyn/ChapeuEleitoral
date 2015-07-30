@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Atila Jacomussi"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000000001.jpg", 
+    "state": "SP", 
+    "donations": {
+        "UTC ENGENHARIA SA": 51658.73, 
+        "PARTIDO DOS TRABALHADORES": 50000.0, 
+        "CRBS SA": 35000.0, 
+        "TUMI CONSTRUÇÕES E EMPREENDIMENTOS LTDA": 28000.0, 
+        "AMIL ASSISTENCIA MEDICA INTERNACIONAL S.A.": 9800.0
+    }, 
+    "party": "PC do B", 
+    "fullname": "ATILA CESAR MONTEIRO JACOMUSSI", 
+    "total": 944645.72, 
+    "election_id": 65000, 
+    "similars": [
+        "Christiane Yared (PTN, PR) - Deputado Federal"
+    ]
+}

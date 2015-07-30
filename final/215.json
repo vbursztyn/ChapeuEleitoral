@@ -1,0 +1,35 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Aguinaldo Ribeiro"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PB/foto/150000000473.jpg", 
+    "state": "PB", 
+    "donations": {
+        "JBS S A": 519100.0, 
+        "GALVAO ENGENHARIA S/A ": 271900.0, 
+        "CERAMICA ELIZABETH SUL LTDA ": 100000.0, 
+        "ONIX EMPREENDIMENTOS IMOBILIARIOS LTDA ": 77650.0, 
+        "FLORA PRODUTOS DE HIGIENE E LIMPEZA S.A ": 74570.0, 
+        "CURY CONSTRUTORA E INCORPORADORA S.A.": 54000.0, 
+        "ABARE EMPREENDIMENTOS IMOBILIARIOS LTDA ": 50000.0, 
+        "PULO DO GATO FILMES LTDA-ME": 50000.0, 
+        "MRV ENGENHARIA E PARTICIPACOES SA": 42200.0, 
+        "EMCCAMP RESIDENCIAL S.A": 17050.0, 
+        "PRESTASERV PRESTADORA DE SERVICOS LTDA": 8300.0
+    }, 
+    "party": "PP", 
+    "fullname": "AGUINALDO VELLOSO BORGES RIBEIRO", 
+    "total": 1742321.25, 
+    "election_id": 1111, 
+    "similars": [
+        "Daniella Ribeiro (PP, PB) - Deputado Estadual", 
+        "João Gonçalves (PSD, PB) - Deputado Estadual", 
+        "Inácio Falcão (PT do B, PB) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Evangélica"
+    ]
+}

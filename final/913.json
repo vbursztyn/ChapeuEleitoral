@@ -1,0 +1,30 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Bruno Covas"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001317.jpg", 
+    "state": "SP", 
+    "donations": {
+        "COSAN LUBRIFICANTE E ESPECIALIDADES S/A": 247000.0, 
+        "SERVENG CIVILSAN S A EMPRESAS ASSOCIADAS DE ENGENHARIA ": 100000.0, 
+        "CRB S-A": 100000.0, 
+        "BRADESCO SAUDE S/A": 73000.0, 
+        "CADRI INDUSTRIA E COMERCIO DE FORROS METALICOS LTDA": 71250.0, 
+        "QUANTIQ DISTRIBUIDORA LTDA": 70000.0, 
+        "IPIRANGA PRODUTOS DE PETROLEO SA": 50000.0, 
+        "TERRAPLANAGEM MODOLO DE PRAIA GRANDE LTDA": 47500.0, 
+        "AUSTRALIA EMPREENDIMENTOS IMOBILIARIOS LTDA": 31000.0, 
+        "TRANSGERONIMO TRANSPORTES LTDA": 23750.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "BRUNO COVAS LOPES", 
+    "total": 3547342.39, 
+    "election_id": 4567, 
+    "similars": [
+        "Pedro Tobias (PSDB, SP) - Deputado Estadual", 
+        "Fernando Capez (PSDB, SP) - Deputado Estadual"
+    ], 
+    "stands": []
+}

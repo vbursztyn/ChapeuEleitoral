@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Francisco Buhrer"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000101.jpg", 
+    "state": "PR", 
+    "donations": {
+        "DIREÇÃO NACIONAL DO PARTIDO DA REPUBLICA": 87000.0, 
+        "LONDRINA BEBIDAS LTDA": 50000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ": 25000.0, 
+        "BRF S/A": 20000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "JOSÉ FRANCISCO BUHRER", 
+    "total": 525288.92, 
+    "election_id": 45680, 
+    "similars": [
+        "Luiz Nishimori (PR, PR) - Deputado Federal", 
+        "Luciano Ducci (PSB, PR) - Deputado Federal"
+    ]
+}

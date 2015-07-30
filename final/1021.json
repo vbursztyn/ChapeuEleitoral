@@ -1,0 +1,25 @@
+{
+    "status": "NÃO ELEITO", 
+    "searchable": [
+        "Julio Cezar"
+    ], 
+    "title": "Governador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AL/foto/20000000561.jpg", 
+    "state": "AL", 
+    "donations": {
+        "BRADESCO SAUDE": 110000.0, 
+        "BANCO BTG": 80000.0, 
+        "ENGEMATLOC - TERRAPLANAGEM E LOCACOES LTDA": 50000.0, 
+        "BRASKEM SA": 40000.0, 
+        "QUANTIQ DISTRIBUIDORA LTDA": 30000.0, 
+        "SVC CONSTRUÇÕES LTDA": 20000.0, 
+        "ESTRE AMBIENTAL SA": 9000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "JULIO CEZAR DA SILVA", 
+    "total": 339650.0, 
+    "election_id": 45, 
+    "similars": [
+        "Alvaro Dias (PMDB, RN) - Deputado Estadual"
+    ]
+}

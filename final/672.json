@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Plauto"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000115.jpg", 
+    "state": "PR", 
+    "donations": {
+        "C R ALMEIDA S/A": 99890.0, 
+        "LONDRINA BEBIDAS LTDA": 50000.0, 
+        "SPAL INDUSTRIA DE BEBIDAS S/A": 49900.0, 
+        "MEGA DIGITAL LTDA ME": 7350.0
+    }, 
+    "party": "DEM", 
+    "fullname": "PLAUTO MIRÓ GUIMARÃES FILHO", 
+    "total": 1309671.86, 
+    "election_id": 25110
+}

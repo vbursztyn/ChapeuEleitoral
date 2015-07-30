@@ -1,0 +1,18 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Givaldo Vieira"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/ES/foto/80000000399.jpg", 
+    "state": "ES", 
+    "donations": {
+        "QUEIROZ GALVAO S.A.": 30000.0, 
+        "MINERAÇÕES BRASILEIRAS S/A MBR": 12250.0
+    }, 
+    "party": "PT", 
+    "fullname": "GIVALDO VIEIRA DA SILVA", 
+    "total": 650692.52, 
+    "election_id": 1320, 
+    "stands": []
+}

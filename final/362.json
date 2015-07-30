@@ -1,0 +1,29 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Luiz Sérgio"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000000602.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "CONSTRUTORA OAS SA": 380000.0, 
+        "CONSTRUTORA QUEIROZ GALVÃO S.A.": 332500.0, 
+        "CONSTRUTORA ZADAR LTDA": 190000.0, 
+        "BRADESCO SAÚDE S/A": 190000.0, 
+        "JBS S/A": 95000.0
+    }, 
+    "party": "PT", 
+    "fullname": "LUIZ SERGIO NÓBREGA DE OLIVEIRA", 
+    "total": 2429512.5, 
+    "election_id": 1312, 
+    "similars": [
+        "Zaqueu (PT, RJ) - Deputado Estadual", 
+        "Cristiane Brasil (PTB, RJ) - Deputado Federal", 
+        "Jorge Felippe Neto (PSD, RJ) - Deputado Estadual", 
+        "Bebeto Tetra (SD, RJ) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Sindicalista"
+    ]
+}

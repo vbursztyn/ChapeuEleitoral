@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Marco Feliciano"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000000388.jpg", 
+    "state": "SP", 
+    "donations": {
+        "COMPANHIA SIDERURGICA VALE DO PINDARE": 80000.0, 
+        "CONSTRUTORA OAS S/A": 5091.4
+    }, 
+    "party": "PSC", 
+    "fullname": "MARCO ANTONIO FELICIANO", 
+    "total": 144222.35, 
+    "election_id": 2010, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Evangélica"
+    ]
+}

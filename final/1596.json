@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Busato"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000000891.jpg", 
+    "state": "RS", 
+    "donations": {
+        "BOLOGNESI PARTICIPAÇÕES S/A": 20000.0, 
+        "JBS S/A": 16500.0, 
+        "MELNICK EVEN JASPE EMPREENDIMENTOS IMOBILIARIOS": 13500.0
+    }, 
+    "party": "PTB", 
+    "fullname": "LUIZ CARLOS GHIORZZI BUSATO", 
+    "total": 1194194.44, 
+    "election_id": 1414, 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

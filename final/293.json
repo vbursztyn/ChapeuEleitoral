@@ -1,0 +1,30 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Edinho Araujo"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000002139.jpg", 
+    "state": "SP", 
+    "donations": {
+        "JOFEGE PAVIMENTAÇÃO E COSNTRUÇÃO LTDA ": 100000.0, 
+        "SAO SEBASTIAO DESENVOVIMENTO IMOBILIARIO": 50000.0, 
+        "JBS S/A": 50000.0, 
+        "SUCOCITRICO CUTRALE LTDA": 20000.0, 
+        "CR ALMEIDA S.A ENG.OBRAS": 6183.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "EDSON EDINHO COELHO ARAUJO", 
+    "total": 790367.38, 
+    "election_id": 1523, 
+    "similars": [
+        "Gabriel Souza (PMDB, RS) - Deputado Estadual", 
+        "Itamar Borges (PMDB, SP) - Deputado Estadual", 
+        "Nilton Franco (PMDB, TO) - Deputado Estadual", 
+        "Boessio (PMDB, RS) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Ruralista", 
+        "Bancada Evangélica"
+    ]
+}

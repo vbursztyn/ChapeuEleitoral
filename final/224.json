@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Padre Honorio"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/ES/foto/80000000415.jpg", 
+    "state": "ES", 
+    "donations": {
+        "MINERAÇOES BRASILEIRAS REUNIDAS S/A MBR": 12250.0
+    }, 
+    "party": "PT", 
+    "fullname": "HONORIO JOSE DE SIQUEIRA", 
+    "total": 105350.09, 
+    "election_id": 13333, 
+    "similars": [
+        "Claudio Cajado (DEM, BA) - Deputado Federal", 
+        "Helder Salomao (PT, ES) - Deputado Federal", 
+        "George Hilton (PRB, MG) - Deputado Federal"
+    ]
+}

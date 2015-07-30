@@ -1,0 +1,28 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Weliton Prado"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000907.jpg", 
+    "state": "MG", 
+    "donations": {
+        "CERVEJARIA PETROPOLIS S.A.": 100000.0, 
+        "CONSTRUCOES E COMERCIO CAMARGO CORREA S.A.": 100000.0, 
+        "JBS S.A.": 95000.0, 
+        "CONSTRUTORA NORBERTO ODEBRECHT S.A.": 66500.0, 
+        "PITAGORAS - SISTEMA DE EDUCACAO SUPERIOR SOCIEDADE LTDA": 50000.0, 
+        "COMPANHIA BRASILEIRA DE METALURGIA E MINERAÇÃO": 45000.0, 
+        "MINERACOES BRASILEIRAS REUNIDAS S A MBR": 12156.53
+    }, 
+    "party": "PT", 
+    "fullname": "WELITON FERNANDES PRADO", 
+    "total": 1997252.86, 
+    "election_id": 1391, 
+    "similars": [
+        "Dilma (PT, BR) - Presidente"
+    ], 
+    "stands": [
+        "Bancada Evangélica"
+    ]
+}

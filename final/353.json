@@ -1,0 +1,41 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Celso Russomanno"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001257.jpg", 
+    "state": "SP", 
+    "donations": {
+        "ARCEELORMITAL BRASIL S;A": 250000.0, 
+        "MACK COLOR GRAFICA LTDA": 215000.0, 
+        "CONTRUCAP CCPS ENGENHARIA E COMERCIA S/A": 197412.3, 
+        "EXIMIA INFORMATICA LTDA - EPP": 160000.0, 
+        "TRAIL INFRAESTRUTURA LTDA": 157000.0, 
+        "CONSTRUTORA  NORBERTO ODEBRECHT  S/A": 135000.0, 
+        "JBS S/A": 108098.3, 
+        "BANCO SANTANDER (BRASIL) S/A": 100000.0, 
+        "AMIL ASSISTENCIA MEDICA INTERNACIONAL S/A": 100000.0, 
+        "QUANTIQ DISTRIBUIDORA LTDA": 64000.0, 
+        "COMPANHIA BRASILEIRA DE DISTRIBUICAO ": 60000.0, 
+        "EVEN CONSTRUTORA E INCORPORADORA S/A": 49500.0, 
+        "R S RIB SILK CONFECCOES E ESTAMPARIA LTDA - EPP": 17000.0, 
+        "BRADESCO SAUDE S/A": 13600.0, 
+        "Direção Nacional": 10350.0, 
+        "VALLI LOCACAO E TRANSPORTE LTDA": 6975.0, 
+        "MR ALIMENTACAO E SERVICOS LTDA - EPP": 6900.0, 
+        "CONSTRAN S/A - CONSTRUÇÕES E COERCIO": 6800.0, 
+        "CADRI INDUSTRIA E COMERCIO DE FORROS METALICOS LTDA": 6800.0, 
+        "CONSTRUTORA QUEIROZ GALVAO S/A": 5520.0
+    }, 
+    "party": "PRB", 
+    "fullname": "CELSO UBIRAJARA RUSSOMANNO", 
+    "total": 1956049.3, 
+    "election_id": 1000, 
+    "similars": [
+        "Pedro Tobias (PSDB, SP) - Deputado Estadual", 
+        "Fernando Capez (PSDB, SP) - Deputado Estadual", 
+        "Fausto Pinato (PRB, SP) - Deputado Federal"
+    ], 
+    "stands": []
+}

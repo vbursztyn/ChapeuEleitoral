@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Mauro Lopes"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000884.jpg", 
+    "state": "MG", 
+    "donations": {
+        "SUPERMERCADOS BH COMERCIO DE ALIMENTOS LTDA": 250000.0, 
+        "BOM JESUS AGROPECUARIA LTDA": 150000.0, 
+        "CONSTUTORA NORBERTO ODEBRECHT": 20000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "MAURO RIBEIRO LOPES", 
+    "total": 3158428.85, 
+    "election_id": 1511, 
+    "similars": [
+        "Adalclever Lopes (PMDB, MG) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

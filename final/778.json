@@ -1,0 +1,17 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Cobra Reporter"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000839.jpg", 
+    "state": "PR", 
+    "donations": {
+        "BRADESCO SAUDE SA": 10000.0, 
+        "R. A. S. INDUSTRIA DE BRINDES LTDA": 10000.0
+    }, 
+    "party": "PSC", 
+    "fullname": "DEVANIL REGINALDO DA SILVA", 
+    "total": 288886.02, 
+    "election_id": 20410
+}

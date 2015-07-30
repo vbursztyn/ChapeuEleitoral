@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "João Eudes"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PE/foto/170000000178.jpg", 
+    "state": "PE", 
+    "donations": {
+        "BOLOGNESI PARTICIPAÇÕES SA": 150000.0, 
+        "CONSTRUTORA QUEIROZ GALVAO SA": 91000.0, 
+        "COMPANHIA SIDERURGICA VALE DO PINDARE": 34000.0
+    }, 
+    "party": "PRP", 
+    "fullname": "JOÃO EUDES MACHADO TENORIO", 
+    "total": 363134.24, 
+    "election_id": 44555, 
+    "similars": [
+        "Rodrigo Moraes (PSC, SP) - Deputado Estadual"
+    ]
+}

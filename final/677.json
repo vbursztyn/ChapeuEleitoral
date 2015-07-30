@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Carlos Bezerra"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MT/foto/110000000304.jpg", 
+    "state": "MT", 
+    "donations": {
+        "JBS S/A": 500000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "CARLOS GOMES BEZERRA", 
+    "total": 1686109.04, 
+    "election_id": 1515, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

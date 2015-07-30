@@ -1,0 +1,18 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Lafayette Andrada"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000538.jpg", 
+    "state": "MG", 
+    "donations": {
+        "CONSTRUTORA ANDRADE GUTIERREZ": 100000.0, 
+        "LONDRINA BEBIDAS LTDA": 50000.0, 
+        "ESEC EMPRESA DE SERVIÇOS ELETRICOS E CONSTRUÇÕES LTDA": 10000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "LAFAYETTE LUIZ DOORGAL DE ANDRADA", 
+    "total": 635559.77, 
+    "election_id": 45045
+}

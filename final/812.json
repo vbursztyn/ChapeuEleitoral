@@ -1,0 +1,29 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Ulysses Gomes"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000927.jpg", 
+    "state": "MG", 
+    "donations": {
+        "DECIO FREIRE E ADVOGADOS ASSOCIADOS S/C": 150000.0, 
+        "BRADESCO ADMINISTRADORA DE CONSORCIOS LTDA.": 100000.0, 
+        "SPAL INDUSTRIA BRASILEIRA DE BEBIDAS S/A": 100000.0, 
+        "PORTO SEGURO COMPANHIA DE SEGUROS GERAIS": 95000.0, 
+        "M.I. MONTREAL INFORMATICA S.A ": 95000.0, 
+        "ARCOS DOURADOS COMERCIO DE ALIMENTOS LTDA": 95000.0, 
+        "STOCKLER COMERCIAL E EXPORTADORA LTDA ": 59275.0, 
+        "VALE ENERGIA S.A": 55000.0, 
+        "COMPANHIA DE BEBIDAS BRASIL KIRIN": 50000.0, 
+        "TERRA FORTE EXPORTACAO E IMPORTACAO DE CAFE LIMITADA": 50000.0, 
+        "CRBS S/A": 33500.0, 
+        "MINERACOES BRASILEIRAS REUNIDAS S A MBR": 12156.53, 
+        "JBS S/A": 10000.0, 
+        "ENGEVIX ENGENHARIA S/A": 6600.0
+    }, 
+    "party": "PT", 
+    "fullname": "ULYSSES GOMES DE OLIVEIRA NETO", 
+    "total": 1308066.25, 
+    "election_id": 13077
+}

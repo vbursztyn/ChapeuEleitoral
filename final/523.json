@@ -1,0 +1,32 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Indio da Costa"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000001474.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "COMPANHIA METALÚRGICA PRADA": 467000.0, 
+        "CARVALHO HOSKEN ENGENHARIA S/A": 288000.0, 
+        "CONSTRUTORA QUEIROZ GALVÃO S/A": 270000.0, 
+        "HRT G EXPL PROD PETROLEO LTDA": 210000.0, 
+        "BANCO BTG PACTUAL S/A": 200000.0, 
+        "CARIOCA CHRISTIANI NIELSEN ENGENHARIA S/A": 136000.0, 
+        "IND.DE PRODUTOS ALIMENTÍCIOS PIRAQUÊ S/A": 70000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S.A": 36000.0
+    }, 
+    "party": "PSD", 
+    "fullname": "ANTONIO PEDRO INDIO DA COSTA", 
+    "total": 2827801.02, 
+    "election_id": 5566, 
+    "similars": [
+        "Rubens Pereira Júnior (PC do B, MA) - Deputado Federal", 
+        "Isaura Lemos (PC do B, GO) - Deputado Estadual", 
+        "Delegada Martha Rocha (PSD, RJ) - Deputado Estadual", 
+        "Alexandre Serfiotis (PSD, RJ) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

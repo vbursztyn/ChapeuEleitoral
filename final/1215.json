@@ -1,0 +1,18 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Mauro Savi"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MT/foto/110000000374.jpg", 
+    "state": "MT", 
+    "donations": {
+        "IRMÃOS DOMINGOS LTDA": 75000.0, 
+        "CURTUME JANGADAS S/A": 14400.0, 
+        "JBS FRIGORIFICO": 5400.0
+    }, 
+    "party": "PR", 
+    "fullname": "MAURO LUIZ SAVI", 
+    "total": 1211798.75, 
+    "election_id": 22040
+}

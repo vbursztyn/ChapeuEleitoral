@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Tito Torres"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000627.jpg", 
+    "state": "MG", 
+    "donations": {
+        "CONSTRUTORA NOBERTO ODEBRECHT S/A": 80000.0, 
+        "BRADESCO SAUDE S/A": 30000.0, 
+        "COMERCIAL DAHANA LTDA": 13995.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "TITO BRUNO MIRANDA TORRES DUARTE", 
+    "total": 1181839.12, 
+    "election_id": 45240, 
+    "similars": [
+        "Roberto Andrade (PTN, MG) - Deputado Estadual", 
+        "Thiago Cota (PPS, MG) - Deputado Estadual"
+    ]
+}

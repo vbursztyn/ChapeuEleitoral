@@ -1,0 +1,27 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Tortelli"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000000343.jpg", 
+    "state": "RS", 
+    "donations": {
+        "TELEMONT S/A": 175750.0, 
+        "FERRARA INCORPORAÇÕES LTDA": 95000.0, 
+        "COPERSUCAR S/A": 71250.0, 
+        "BTG PACTUAL ASSET MANAGEMENT S/A DTVM": 71250.0, 
+        "QUANTIQ DISTRIBUIDORA LTDA": 71250.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S/A": 19000.0
+    }, 
+    "party": "PT", 
+    "fullname": "ALTEMIR ANTONIO TORTELLI", 
+    "total": 596374.42, 
+    "election_id": 13030, 
+    "similars": [
+        "Ana Lúcia (PT, SE) - Deputado Estadual", 
+        "Simone Tebet (PMDB, MS) - Senador", 
+        "Cauê Macris (PSDB, SP) - Deputado Estadual", 
+        "Luizianne Lins (PT, CE) - Deputado Federal"
+    ]
+}

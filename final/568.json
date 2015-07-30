@@ -1,0 +1,26 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Heuler Cruvinel"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/GO/foto/90000000723.jpg", 
+    "state": "GO", 
+    "donations": {
+        "CONSTRUTORA CENTRAL DO BRASIL S.A": 250000.0, 
+        "CMT ENGENHARIA LTDA": 200000.0, 
+        "BRF SA": 100000.0, 
+        "SAMA S.A. MINERAÇÕES ASSOCIADAS": 9975.0
+    }, 
+    "party": "PSD", 
+    "fullname": "HEULER ABREU CRUVINEL", 
+    "total": 3488196.74, 
+    "election_id": 5500, 
+    "similars": [
+        "Daniel Vilela (PMDB, GO) - Deputado Federal", 
+        "Paes Landim (PTB, PI) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Ruralista"
+    ]
+}

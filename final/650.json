@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Afonso Florence"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000132.jpg", 
+    "state": "BA", 
+    "donations": {
+        "ARCLIMA  ENGENHARIA LTDA": 95000.0, 
+        "AMIL CESSET MEDICA INT LTDA": 95000.0, 
+        "CERVEJARIA PETROPOLIS S/A": 10000.0, 
+        "CONSTRUTORA OAS S.A": 9600.0
+    }, 
+    "party": "PT", 
+    "fullname": "AFONSO BANDEIRA FLORENCE", 
+    "total": 549303.22, 
+    "election_id": 1301, 
+    "stands": [
+        "Bancada Sindicalista"
+    ]
+}

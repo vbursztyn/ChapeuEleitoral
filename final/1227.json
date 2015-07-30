@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Vaz de Lima"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001566.jpg", 
+    "state": "SP", 
+    "donations": {
+        "OAS S/A": 237500.0, 
+        "CONSTRUTORA OAS  S/A": 237500.0, 
+        "BRADESCO VIDA E PREVIDENCIA S/A ": 175000.0, 
+        "COSAN LUBRIFICANTES E ESPECIALIDADES S/A": 95000.0, 
+        "SAVEGNAGO-SUPERMERCADOS LTDA ": 25000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "JOSE CARLOS VAZ DE LIMA", 
+    "total": 1945667.23, 
+    "election_id": 45151
+}

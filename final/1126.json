@@ -1,0 +1,18 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Amália Santana"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/TO/foto/270000000075.jpg", 
+    "state": "TO", 
+    "donations": {
+        "BM&F BOVESPA S.A": 50000.0, 
+        "JBS S.A.": 10810.0, 
+        "MINERVA S/A": 5000.0
+    }, 
+    "party": "PT", 
+    "fullname": "AMÁLIA MARIA SANTANA DA SILVA", 
+    "total": 199085.0, 
+    "election_id": 13613
+}

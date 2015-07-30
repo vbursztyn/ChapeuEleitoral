@@ -1,0 +1,34 @@
+{
+    "status": "ELEITO", 
+    "searchable": [
+        "Otto Alencar"
+    ], 
+    "title": "Senador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000403.jpg", 
+    "state": "BA", 
+    "donations": {
+        "CONSTRUTORA OAS SA": 1541469.41, 
+        "CERVEJARIA PETROPOLIS SA": 1129276.45, 
+        "SOLAR BR PARTICIPAÇÕES S A": 320667.6, 
+        "RECOFARMA INDUSTRIA DO AMAZONAS LTDA": 200000.0, 
+        "ROF COMERCIAL IMPEX EIRELI": 185000.0, 
+        "RIO CLARO AGROINSDUSTRIAL SA": 167666.71, 
+        "CANDEIAS ENERGIA S.A": 114538.0, 
+        "UTC ENGENHARIA S.A.": 76194.6, 
+        "PARVISERVICE SERVIÇOS DE PAVIMENTAÇÃO LTDA": 46666.5, 
+        "ABILITY TECNOLOGIA E SERVIÇOS S A": 45503.0, 
+        "SANSUY SA INDUTRIA DE LASTICOS ": 39164.4, 
+        "VALE MANGANÊS SA": 24000.0, 
+        "BRADESCO LEASING SA  ARRENDAMENTO MERCANTIL": 19280.61, 
+        "SERVENG CIVILSAN S A EMPRESAS ASSOCIADAS DE ENGENHARIA ": 6666.66
+    }, 
+    "party": "PSD", 
+    "fullname": "OTTO ROBERTO MENDONCA DE ALENCAR", 
+    "total": 6313748.24, 
+    "election_id": 555, 
+    "similars": [
+        "Robério Oliveira (PSD, BA) - Deputado Estadual", 
+        "Fabio Souto (DEM, BA) - Deputado Estadual"
+    ], 
+    "stands": []
+}

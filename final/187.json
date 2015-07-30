@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Luana Ribeiro"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/TO/foto/270000000234.jpg", 
+    "state": "TO", 
+    "donations": {
+        "CONSTRUTORA CENTRO MINAS LTDA": 100000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ S/A": 100000.0, 
+        "POWER SEGURANÇA E VIGILANCIA LTDA": 17400.0
+    }, 
+    "party": "PR", 
+    "fullname": "LUANA MATILDE RIBEIRO LIMA GAYER", 
+    "total": 879576.94, 
+    "election_id": 22022, 
+    "similars": [
+        "Léo Portela (PR, MG) - Deputado Estadual", 
+        "Ricardo Madalena (PR, SP) - Deputado Estadual", 
+        "Raquel Lessa (SD, ES) - Deputado Estadual", 
+        "Dr. Jorge Silva (PROS, ES) - Deputado Federal"
+    ]
+}

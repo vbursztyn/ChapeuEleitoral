@@ -1,0 +1,22 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Tarcisio Zimmermann"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RS/foto/210000000400.jpg", 
+    "state": "RS", 
+    "donations": {
+        "BRASKEM S/A": 113881.0, 
+        "REVITA ENGENHARIA SA": 18000.0
+    }, 
+    "party": "PT", 
+    "fullname": "TARCISIO JOÃO ZIMMERMANN", 
+    "total": 872405.69, 
+    "election_id": 13003, 
+    "similars": [
+        "Pedro Tavares (PMDB, BA) - Deputado Estadual", 
+        "Luiz Turco (PT, SP) - Deputado Estadual", 
+        "Ronaldo Lessa (PDT, AL) - Deputado Federal"
+    ]
+}

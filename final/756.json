@@ -1,0 +1,37 @@
+{
+    "status": "NÃO ELEITO", 
+    "searchable": [
+        "Biu Benedito de Lira"
+    ], 
+    "title": "Governador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AL/foto/20000000100.jpg", 
+    "state": "AL", 
+    "donations": {
+        "JBS S/A": 1200000.0, 
+        "CONSTRUTORA OAS S/A": 1000000.0, 
+        "SOCOCO SA INDUSTRIAS ALIMENTICIAS": 748000.0, 
+        "ESTRE AMBIENTAL S/A": 500000.0, 
+        "CRBS S/A": 400000.0, 
+        "CONSTRUTORA QUEIROZ GALVAO S/A": 400000.0, 
+        "SVC CONSTRUCOES LTDA": 200000.0, 
+        "SANCO ENGENHARIA LTDA": 200000.0, 
+        "PLATINUM TRADING S/A": 200000.0, 
+        "BRASKEM S/A": 199500.0, 
+        "FLORA PRODUTOS DE HIGIENE E LIMPEZA S.A.": 100000.0, 
+        "ENGEPAR LOCACAO DE EQUIPAMENTOS PESADOS S.A.": 89000.0, 
+        "BRCON ENGENHARIA LTDA": 25000.0
+    }, 
+    "party": "PP", 
+    "fullname": "BENEDITO DE LIRA", 
+    "total": 7363742.8, 
+    "election_id": 11, 
+    "similars": [
+        "Mendonça Filho (DEM, PE) - Deputado Federal", 
+        "Mauricio Quintella (PR, AL) - Deputado Federal", 
+        "Pedro Vilela (PSDB, AL) - Deputado Federal", 
+        "Julio Cezar (PSDB, AL) - Governador"
+    ], 
+    "stands": [
+        "Bancada Ruralista"
+    ]
+}

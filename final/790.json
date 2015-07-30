@@ -1,0 +1,29 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Vicente Cândido"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000000664.jpg", 
+    "state": "SP", 
+    "donations": {
+        "FERRARA INCORPORADORA LTDA": 228000.0, 
+        "U T C ENGENHARIA S/A": 225625.0, 
+        "BRAFER CONSTRUCOES METALICAS S A ": 142500.0, 
+        "PAULITEC CONSTRUÇÕES LTDA": 142500.0, 
+        "IMAVEN IMOVEIS LTDA": 100000.0, 
+        "BRADESCO VIDA E PREVIDENCIA S.A": 95000.0, 
+        "BRASKEM S/A": 66500.0, 
+        "CONTRUTORA ANDRADE GUTIERREZ S/A": 28500.0
+    }, 
+    "party": "PT", 
+    "fullname": "VICENTE CANDIDO DA SILVA", 
+    "total": 4058648.54, 
+    "election_id": 1301, 
+    "similars": [
+        "Luiz Turco (PT, SP) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

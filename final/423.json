@@ -1,0 +1,26 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Roberto de Lucena"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000000971.jpg", 
+    "state": "SP", 
+    "donations": {
+        "IUDICE MINERAÇÃO LTDA": 95000.0, 
+        "CRBS S/A": 66500.0, 
+        "DIREÇÃO NACIONAL": 20000.0
+    }, 
+    "party": "PV", 
+    "fullname": "ROBERTO ALVES DE LUCENA", 
+    "total": 316915.53, 
+    "election_id": 4344, 
+    "similars": [
+        "Tripoli (PV, SP) - Deputado Estadual", 
+        "Valmir Prascidelli (PT, SP) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Sindicalista", 
+        "Bancada Evangélica"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Raimundo Santos"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PA/foto/140000000204.jpg", 
+    "state": "PA", 
+    "donations": {
+        "BANCO BTG PACTUAL S.A": 50000.0, 
+        "SALOBO METAIS S/A ": 34000.0
+    }, 
+    "party": "PEN", 
+    "fullname": "RAIMUNDO JOSÉ PEREIRA DOS SANTOS", 
+    "total": 306116.83, 
+    "election_id": 51234
+}

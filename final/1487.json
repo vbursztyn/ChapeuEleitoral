@@ -1,0 +1,29 @@
+{
+    "status": "ELEITO", 
+    "searchable": [
+        "Davi Alcolumbre"
+    ], 
+    "title": "Senador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AP/foto/30000000027.jpg", 
+    "state": "AP", 
+    "donations": {
+        "BRADESCO CONS/A": 378186.51, 
+        "C. R. ALMEIDA ": 195612.0, 
+        "RIMA INDUSTRIAL S/A": 149800.0, 
+        "KLABIN S/A": 100000.0, 
+        "PRAIAMAR ": 97465.0, 
+        "JBS S/A": 90700.0, 
+        "CONSTRUTORA NORBERTO ODEBRECHT S A ": 50049.8
+    }, 
+    "party": "DEM", 
+    "fullname": "DAVID SAMUEL ALCOLUMBRE TOBELEM", 
+    "total": 2036618.76, 
+    "election_id": 255, 
+    "similars": [
+        "Rodrigo Maia (DEM, RJ) - Deputado Federal", 
+        "Elmar (DEM, BA) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada da Comunicação"
+    ]
+}

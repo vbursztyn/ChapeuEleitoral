@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Ricardo Izar"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000002201.jpg", 
+    "state": "SP", 
+    "donations": {
+        "JBS S/A": 200000.0, 
+        "CONSTRUTORA QUEIROZ GALVÃO S.A.": 100000.0, 
+        "BRADESCO VIDA E PREVIDENCIA S.A.": 100000.0, 
+        "BRADESCO SAÚDE S.A.": 100000.0, 
+        "BRAFER CONSTRUÇÕES METÁLICAS S.A.": 100000.0, 
+        "FLORA PRODUTOS DE HIGIENE S/A": 50000.0, 
+        "CR ALMEIDA CONSTRUTORA": 6183.0
+    }, 
+    "party": "PSD", 
+    "fullname": "RICARDO IZAR JUNIOR", 
+    "total": 2198453.67, 
+    "election_id": 5533, 
+    "stands": [
+        "Bancada Empresarial"
+    ]
+}

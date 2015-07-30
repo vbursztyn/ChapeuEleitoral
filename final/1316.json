@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Vitor Bonfim"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000285.jpg", 
+    "state": "BA", 
+    "donations": {
+        "CONSTRUTORA NORBERTO ODEBRECHT S/A": 20000.0, 
+        "CONSTRUTORA OAS LTDA": 20000.0, 
+        "CBPO ENGENHARIA LTDA": 20000.0, 
+        "BRADESCO SAUDE S/A": 10000.0, 
+        "ARCLIMA ENGENHARIA LTDA": 10000.0
+    }, 
+    "party": "PDT", 
+    "fullname": "JOAO VITOR DE CASTRO LINO BONFIM", 
+    "total": 250758.86, 
+    "election_id": 12700
+}

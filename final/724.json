@@ -1,0 +1,27 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Anderson Ferreira"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PE/foto/170000000041.jpg", 
+    "state": "PE", 
+    "donations": {
+        "SEARA ALIMENTOS LTDA": 300000.0, 
+        "BRF S.A": 250000.0
+    }, 
+    "party": "PR", 
+    "fullname": "ANDERSON FERREIRA RODRIGUES", 
+    "total": 2250000.0, 
+    "election_id": 2222, 
+    "similars": [
+        "Mauricio Quintella (PR, AL) - Deputado Federal", 
+        "Bilac Pinto (PR, MG) - Deputado Federal", 
+        "Luiz Nishimori (PR, PR) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista", 
+        "Bancada Evangélica"
+    ]
+}

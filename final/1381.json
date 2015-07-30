@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Simão Sessim"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000001454.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "JBS S/A": 795000.0, 
+        "CONSTRUTORA QUEIROZ GALVÃO S.A.": 200000.0, 
+        "CARIOCA CHRISTIAN NIELSEN ENGENHARIA S A ": 100014.0, 
+        "USICITY PAVIMENTAÇÃO LTDA": 100000.0, 
+        "FLORA PRODUTOS DE HIGIENE E LIMPEZA S;A;": 100000.0
+    }, 
+    "party": "PP", 
+    "fullname": "SIMAO SESSIM", 
+    "total": 2765208.99, 
+    "election_id": 1125, 
+    "stands": []
+}

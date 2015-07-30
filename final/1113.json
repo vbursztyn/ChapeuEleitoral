@@ -1,0 +1,29 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Adolfo Viana"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000725.jpg", 
+    "state": "BA", 
+    "donations": {
+        "CBPO ENGENHARIA LTDA": 105000.0, 
+        "LIMPATECH SERVIÇOS E CONSTRUCOES LTDA": 50000.0, 
+        "CONSTRUTORA NORBERTO ODEBRECHT S.A": 50000.0, 
+        "COSAMPA PROJETOS E CONSTRUCOES LTDA  ": 40000.0, 
+        "U T C ENGENHARIA S/A": 40000.0, 
+        "GERDAU AÇOS ESPECIAIS S.A": 29000.0, 
+        "CONSTRUTECKMA ENGENHARUA S.A": 25000.0, 
+        "BRADESCO VIDA E PREVIDENCIA S/A": 20000.0, 
+        "JSL S.A": 18000.0, 
+        "BRASKEM S.A": 17500.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "ADOLFO VIANA DE CASTRO NETO", 
+    "total": 807475.0, 
+    "election_id": 45450, 
+    "similars": [
+        "Danilo Cabral (PSB, PE) - Deputado Federal", 
+        "Fernando Bezerra Coelho (PSB, PE) - Senador"
+    ]
+}

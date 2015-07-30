@@ -1,0 +1,36 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Jorge Tadeu"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001394.jpg", 
+    "state": "SP", 
+    "donations": {
+        "UTC ENGENHARIA S.A.": 458000.0, 
+        "CONSTRUTORA NORBERTO ODEBRECHT S/A": 200000.0, 
+        "CARIOCA CHRISTIAN ENGENHARIA S/A": 190000.0, 
+        "S/A PAULISTA DE CONSTRUCOES E COMERCIO": 159000.0, 
+        "KINGSTONE CONTRUTORA IND. COM. DE PRE MOLDADOS DE CONCRETO LTDA": 150000.0, 
+        "CONSTRUTORA OAS S/A": 150000.0, 
+        "CAMARGO CORREA CONSTRUCOES INDUSTRIAIS S/A": 100000.0, 
+        "CRBS S.A.": 70000.0, 
+        "EMBRAPORT EMPRESA BRASILEIRA DE TERMINAIS PORTUARIOS S/A": 50000.0, 
+        "ENCALSO CONSTRUÇÕES LTDA": 36000.0, 
+        "DEVRY EDUCACIONAL DO BRASIL S/A": 30000.0, 
+        "AGRO ENERGIA SANTA LUZIA S/A": 20000.0, 
+        "BRADESCO VIDA E PREVIDENCIA S/A": 5419.46
+    }, 
+    "party": "DEM", 
+    "fullname": "JORGE TADEU MUDALEN", 
+    "total": 1830842.37, 
+    "election_id": 2500, 
+    "similars": [
+        "Izalci (PSDB, DF) - Deputado Federal", 
+        "Nilto Tatto (PT, SP) - Deputado Federal", 
+        "Felipe Francischini (SD, PR) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada Evangélica"
+    ]
+}

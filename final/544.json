@@ -1,0 +1,27 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Zaqueu"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000000551.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "CARIOCA CRISTIANI NIELSEN ENGENHARIA": 215000.0, 
+        "UTC ENGENHARIA S/A": 70000.0, 
+        "CONSTRUTORA ZADAR LTDA.": 50000.0, 
+        "BIOLAB SANUS FARMACEUTICA LTDA": 47500.0, 
+        "CONSTRUTORA BARBOSA MELLO S/A": 45000.0, 
+        "CONSTRUTORA QUEIROZ GALVÃO S/A": 39700.0, 
+        "AGROPECUÁRIA SANTA BARBARA XINGUARA S/A ": 35000.0, 
+        "BRADESCO SAÚDE S/A": 35000.0
+    }, 
+    "party": "PT", 
+    "fullname": "ZAQUEU DA SILVA TEIXEIRA", 
+    "total": 665799.24, 
+    "election_id": 13333, 
+    "similars": [
+        "Cristiane Brasil (PTB, RJ) - Deputado Federal", 
+        "Bebeto Tetra (SD, RJ) - Deputado Estadual"
+    ]
+}

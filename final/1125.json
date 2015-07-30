@@ -1,0 +1,26 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Hermano Morais"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RN/foto/200000000175.jpg", 
+    "state": "RN", 
+    "donations": {
+        "CONSTRUTORA OAS SA": 100000.0, 
+        "BTG PACTUAL ASSET MANAGEMENT SA": 100000.0, 
+        "VICUNHA TEXTIL SA": 100000.0, 
+        "RIO CLARO AGRO IND SA": 100000.0, 
+        "GALVAO ENGENHARIA S.A": 100000.0, 
+        "CONSTRUTORA ANDRADE  GUTIEREEZ SA": 75000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "HERMANO DA COSTA MORAES", 
+    "total": 694397.5, 
+    "election_id": 15100, 
+    "similars": [
+        "George Soares (PR, RN) - Deputado Estadual", 
+        "Angela Portela (PT, RR) - Governador", 
+        "Gustavo Fernandes (PMDB, RN) - Deputado Estadual"
+    ]
+}

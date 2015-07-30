@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Adilton Sachetti"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MT/foto/110000000541.jpg", 
+    "state": "MT", 
+    "donations": {
+        "CERVEJARIA PETROPOLIS S/A": 557123.84, 
+        "PARTIDO SOCIALISTA BRASILEIRO - DIRETORIO NACIONAL": 100000.0, 
+        "TODIMO MATERIAIS PARA CONSTRUÇAO LTDA": 70000.0, 
+        "JBS S/A": 50000.0
+    }, 
+    "party": "PSB", 
+    "fullname": "ADILTON DOMINGOS SACHETTI", 
+    "total": 3860361.98, 
+    "election_id": 4045, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

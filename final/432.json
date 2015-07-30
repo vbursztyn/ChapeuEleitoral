@@ -1,0 +1,27 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Fabio Garcia"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MT/foto/110000000401.jpg", 
+    "state": "MT", 
+    "donations": {
+        "PSB PARTIDO SOCIALISTA BRASILEIRO": 1100000.0, 
+        "JBS S.A": 150000.0, 
+        "CERVEJARIA PETROPOLIS S/A": 44591.04, 
+        "PARTIDO DEMOCRATICO TRABALHISTA": 39700.0, 
+        "CAIEIRA NOSSA SENHORA DA GUIA MINERAÇÃO LTDA": 15000.0
+    }, 
+    "party": "PSB", 
+    "fullname": "FABIO PAULINO GARCIA", 
+    "total": 3065112.22, 
+    "election_id": 4010, 
+    "similars": [
+        "Professor Victório Galli (PSC, MT) - Deputado Federal"
+    ], 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Evangélica"
+    ]
+}

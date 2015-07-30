@@ -1,0 +1,31 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Marília Campos"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000963.jpg", 
+    "state": "MG", 
+    "donations": {
+        "ENGEVIX ENGENHARIA S/A": 100000.0, 
+        "J.SAFRA CORRETORA DE VALORES E CAMBIO LTDA": 95000.0, 
+        "SAFRA VIDA E PREVIDENCIA S.A.": 95000.0, 
+        "JBS S/A": 95000.0, 
+        "AGROPECUARIA SANTA BARBARA XINGUARA S.A.": 95000.0, 
+        "CONSTRUTORA QUEIROZ GALVAO S.A": 95000.0, 
+        "CERVEJARIA PETROPOLIS S/A": 50000.0, 
+        "SPAL INDUSTRIA BRASILEIRA DE BEBIDAS S/A": 47500.0, 
+        "CONTECNICA CONSULTORIA TECNICA LTDA": 30000.0, 
+        "HOSPITAL ALBERT SABIN LTDA": 5000.0
+    }, 
+    "party": "PT", 
+    "fullname": "MARILIA APARECIDA CAMPOS", 
+    "total": 1398287.82, 
+    "election_id": 13900, 
+    "similars": [
+        "José Guimarães (PT, CE) - Deputado Federal", 
+        "Assis do Couto (PT, PR) - Deputado Federal", 
+        "Elmano (PT, CE) - Deputado Estadual", 
+        "Delegada Adriana Accorsi (PT, GO) - Deputado Estadual"
+    ]
+}

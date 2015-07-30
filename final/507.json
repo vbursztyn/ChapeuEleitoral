@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Ramalho da Construcao"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000001560.jpg", 
+    "state": "SP", 
+    "donations": {
+        "BMX REALIZAÇÕES IMOBILIARIOS E PARTICIPAÇÕES S.A.": 150000.0, 
+        "GAFISA S.A.": 50000.0, 
+        "UTC ENGENHARIA S.A.": 27340.0, 
+        "BIOLAB SANUS FARMACEUTICA LTDA": 20000.0, 
+        "BM&F BOVESPA S/A - BOLSA DE VALORES· MERC E FUTUROS": 10000.0, 
+        "AMIL ASSISTENCIA MEDICA INTERNACIONAL S.A.": 5419.46, 
+        "MINERAÇÃO CORUMBAENSE REUNIDA S/A": 5000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "ANTONIO DE SOUSA RAMALHO", 
+    "total": 3114832.7, 
+    "election_id": 45122, 
+    "similars": [
+        "Paulo Teixeira (PT, SP) - Deputado Federal"
+    ]
+}

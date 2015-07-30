@@ -1,0 +1,28 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Arlindo Chinaglia"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000000614.jpg", 
+    "state": "SP", 
+    "donations": {
+        "CONSTRUTORA ANDRADE GUTIERREZ SA": 262500.0, 
+        "JBS S/A": 237500.0, 
+        "CONTERN CONSTRUTORA E COMERCIO LTDA": 237500.0, 
+        "SERVENG CIVILSAN SA EMPRESAS ASSOCIADAS DE ENGENHARIA": 237500.0, 
+        "ACHE LABORATORIOS FARMACEUTICOS SA": 123500.0, 
+        "CERVEJARIA PETROPOLIS S/A": 50000.0, 
+        "SAFRA LEASING S/A ARRENDAMENTO MERCANTIL": 28500.0, 
+        "CONSTRUTORA PASSARELLI LTDA": 10000.0, 
+        "ALESAT COMBUSTIVEIS S/A": 5000.0
+    }, 
+    "party": "PT", 
+    "fullname": "ARLINDO CHIGNALIA JUNIOR", 
+    "total": 4834358.25, 
+    "election_id": 1322, 
+    "stands": [
+        "Bancada da Saúde", 
+        "Bancada Sindicalista"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Alfredo Kaefer"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PR/foto/160000000152.jpg", 
+    "state": "PR", 
+    "donations": {
+        "BRADESCO VIDA E PREVIDENCIA S.A.": 100000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "JACOB ALFREDO STOFFELS KAEFER", 
+    "total": 4780022.82, 
+    "election_id": 4566, 
+    "stands": [
+        "Bancada Empresarial", 
+        "Bancada Ruralista"
+    ]
+}

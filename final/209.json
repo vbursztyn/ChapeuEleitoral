@@ -1,0 +1,31 @@
+{
+    "status": "ELEITO", 
+    "searchable": [
+        "Confucio Moura"
+    ], 
+    "title": "Governador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RO/foto/220000000187.jpg", 
+    "state": "RO", 
+    "donations": {
+        "JBS S/A": 648227.0, 
+        "CONSTRUTOR NOBERTO ODEBRECHT S/A": 300000.0, 
+        "TERCO TERRAPLANAGEM COMERCIO S/A ": 200000.0, 
+        "JOFEGE PAVIMENTAÇÃO E CONSTRUÇÃO LTDA": 200000.0, 
+        "AMIL ASSISTENCIA MEDICA INTERNACIONAL S/A": 200000.0, 
+        "CONSTRUTORA QUERIOZ GALVÃO S/A": 100000.0, 
+        "CONSTRUTORA ANDRADE GUTIEHEREZ": 98000.0, 
+        "SOCIBRA DIST. LTDA": 50000.0, 
+        "CRBS S/A": 50000.0, 
+        "G COM. ROUPAS LTDA EPP": 40000.0, 
+        "MEDICAL DA AMAZONIA LTDA": 29000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "CONFUCIO AIRES MOURA", 
+    "total": 13480732.04, 
+    "election_id": 15, 
+    "similars": [
+        "Boessio (PMDB, RS) - Deputado Estadual", 
+        "Jorge Everton (PMDB, RR) - Deputado Estadual", 
+        "Álvaro Porto (PTB, PE) - Deputado Estadual"
+    ]
+}

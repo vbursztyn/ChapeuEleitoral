@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Zé Silva"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MG/foto/130000000680.jpg", 
+    "state": "MG", 
+    "donations": {
+        "JBS S/A": 100000.0
+    }, 
+    "party": "SD", 
+    "fullname": "JOSÉ SILVA SOARES", 
+    "total": 1418428.18, 
+    "election_id": 7777, 
+    "stands": [
+        "Bancada Ruralista"
+    ]
+}

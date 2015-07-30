@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Grazielle Machado"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MS/foto/120000000349.jpg", 
+    "state": "MS", 
+    "donations": {
+        "UTC ENGENHARIA S/A": 300000.0, 
+        "BTG PACTUAL CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A": 150000.0, 
+        "BF PROMOTORA DE VENDAS LTDA": 100000.0, 
+        "ENGEVIX ENGENHARIA S/A": 99000.0, 
+        "NILCATEX TEXTIL LTDA": 50000.0, 
+        "CONSTRUTORA QUEIROZ GALVÃO S/A": 5000.0
+    }, 
+    "party": "PR", 
+    "fullname": "GRAZIELLE SALGADO MACHADO", 
+    "total": 1185569.23, 
+    "election_id": 22123
+}

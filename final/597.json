@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Alberto Filho"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/MA/foto/100000000563.jpg", 
+    "state": "MA", 
+    "donations": {
+        "VALE MINA AZUL S.A": 500000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "JOSÉ ALBERTO OLIVEIRA VELOSO FILHO", 
+    "total": 963839.69, 
+    "election_id": 1522, 
+    "stands": [
+        "Bancada Ruralista"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Luciana Santos"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PE/foto/170000000052.jpg", 
+    "state": "PE", 
+    "donations": {
+        "DIRETORIO ESTADUAL DO PARTIDO SOCIALISTA BRASILEIRO PSB": 420000.0, 
+        "Direção Nacional": 400000.0, 
+        "LIDERMAC CONSTRUÇÕES E EQUIPAMENTOS LTDA": 200000.0, 
+        "HRT O&G EXPLORAÇÃO E PRODUÇÃO DE PETRÓLEO LTDA": 200000.0, 
+        "ARCELORMITTAL BRASIL S/A": 100000.0, 
+        "TOTAL DISTRIBUIDORA S/A": 100000.0, 
+        "COLMÉIA ARQUITETURA E ENGENHARIA LTDA": 45000.0
+    }, 
+    "party": "PC do B", 
+    "fullname": "LUCIANA BARBOSA DE OLIVEIRA SANTOS", 
+    "total": 2031446.35, 
+    "election_id": 6510, 
+    "stands": [
+        "Bancada Feminina"
+    ]
+}

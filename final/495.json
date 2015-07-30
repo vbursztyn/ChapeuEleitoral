@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Serafim Correa"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AM/foto/40000000597.jpg", 
+    "state": "AM", 
+    "donations": {
+        "VIA ENGENHARIA S.A.": 50000.0, 
+        "CONSTRUTORA QUEIROZ GALVÃO S.A": 50000.0, 
+        "Direção Nacional": 25000.0, 
+        "CARBOQUIMICA DA AMAZONIA LTDA": 6000.0
+    }, 
+    "party": "PSB", 
+    "fullname": "SERAFIM FERNANDES CORREA", 
+    "total": 275217.28, 
+    "election_id": 40111
+}

@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR MÉDIA", 
+    "searchable": [
+        "Dr. Vicente (PMDB)", "Vicente Lopes"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/AM/foto/40000000117.jpg", 
+    "state": "AM", 
+    "donations": {
+        "Direção Estadual/Distrital": 60180.66
+    }, 
+    "party": "PMDB", 
+    "fullname": "VICENTE LOPES DE SOUZA", 
+    "total": 263635.66, 
+    "election_id": 15123, 
+    "similars": [
+        "Professor Sinésio (PT, AM) - Deputado Estadual", 
+        "Marcos Rotta (PMDB, AM) - Deputado Federal", 
+        "Eduardo Braga (PMDB, AM) - Governador", 
+        "Alessandra Campelo (PC do B, AM) - Deputado Estadual", 
+        "Conceição Sampaio (PP, AM) - Deputado Federal"
+    ]
+}

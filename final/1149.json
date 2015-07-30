@@ -1,0 +1,21 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Josias Gomes"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/BA/foto/50000000142.jpg", 
+    "state": "BA", 
+    "donations": {
+        "CONSTRUTORA BARBOSA MELO SA": 95000.0, 
+        "ENSEADA INDUSTRIA NAVAL S.A.": 38000.0
+    }, 
+    "party": "PT", 
+    "fullname": "JOSIAS GOMES DA SILVA", 
+    "total": 653282.39, 
+    "election_id": 1312, 
+    "stands": [
+        "Bancada Ruralista", 
+        "Bancada Sindicalista"
+    ]
+}

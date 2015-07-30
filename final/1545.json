@@ -1,0 +1,38 @@
+{
+    "status": "ELEITO", 
+    "searchable": [
+        "Paulo Hartung"
+    ], 
+    "title": "Governador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/ES/foto/80000000427.jpg", 
+    "state": "ES", 
+    "donations": {
+        "CONSTRUTORA OAS S/A": 800000.0, 
+        "CONSTRUTORA NORBERTO ODEBRECHT S/A": 530000.0, 
+        "GERDAU AÇOS ESPECIAIS S/A": 250000.0, 
+        "PREMO CONSTR. E EMPREENDIMENTOS S/A": 250000.0, 
+        "PELICANO CONSTRUÇÕES S/A": 200000.0, 
+        "VALE MANGANES S/A": 200000.0, 
+        "ENGESOLO ENGENHARIA LTDA": 200000.0, 
+        "CCM CONSTRUTORA CENTRO MINAS LTDA": 170000.0, 
+        "TAMASA ENGENHARIA S/A": 150000.0, 
+        "LONDRINA BEBIDAS LTDA": 150000.0, 
+        "MECAN INDUSTRIA LOCAÇÃO DE EQUIPAMENTOS PARA CONSTRUÇÃO LTDA": 120000.0, 
+        "LOCGUEL LOCADORA DE EQUIPAMENTOS PARA CONSTRUÇÃO LTDA": 120000.0, 
+        "MINERAÇÃO CURUMBAENSE REUNIDA S/A": 117223.15, 
+        "IPIRANGA PRODUTOS DE PETROLEO S/A": 100000.0, 
+        "EMPRESA DE MINERAÇÃO ESPERANÇA S/A": 50000.0, 
+        "S. FRANCO CONSTRUTORA LTDA": 50000.0, 
+        "RYDIEN MINERAÇÃO EMPREENDIMENTOS IND. E COM. LTDA": 50000.0, 
+        "ORGUEL ORGANIZAÇÃO GUERRA LAJES LTDA": 50000.0, 
+        "ST GESTÃO DE NEGÓCIOS LTDA": 16000.0, 
+        "LM COMERCIO LTDA": 15000.0, 
+        "JK SERVIÇOS E ASSESSORIA LTDA": 14000.0, 
+        "METRON INCORPORADORA S/A": 10000.0, 
+        "MUNDI COMERCIO EXTERIOR E LOGISTICA LTDA": 5000.0
+    }, 
+    "party": "PMDB", 
+    "fullname": "PAULO CESAR HARTUNG GOMES", 
+    "total": 8877038.77, 
+    "election_id": 15
+}

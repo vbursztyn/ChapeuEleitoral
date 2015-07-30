@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Jutay Meneses"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/PB/foto/150000000078.jpg", 
+    "state": "PB", 
+    "donations": {
+        "BANCO BTG PACTUAL SA": 100000.0, 
+        "CERAMICA ELIZABETH SUL LTDA": 75000.0, 
+        "EMBRAPORT EMPRESA BRASILEIRA DE TERMINAIS PORTUÁRIOS LTDA": 40520.0
+    }, 
+    "party": "PRB", 
+    "fullname": "JUTAY MENESES GOMES", 
+    "total": 397252.2, 
+    "election_id": 10123, 
+    "similars": [
+        "Zarattini (PT, SP) - Deputado Federal", 
+        "Diogo Moraes (PSB, PE) - Deputado Estadual", 
+        "Inácio Falcão (PT do B, PB) - Deputado Estadual", 
+        "Wellington Roberto (PR, PB) - Deputado Federal"
+    ]
+}

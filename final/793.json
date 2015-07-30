@@ -1,0 +1,23 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Joao Campos", 
+        "João Campos"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/GO/foto/90000000720.jpg", 
+    "state": "GO", 
+    "donations": {
+        "SAMA S.A MINERAÇÃO ASSOCIADAS": 50000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "JOAO CAMPOS DE ARAUJO", 
+    "total": 1218219.6, 
+    "election_id": 4565, 
+    "stands": [
+        "Bancada Ruralista", 
+        "Bancada da Segurança", 
+        "Bancada Sindicalista", 
+        "Bancada Evangélica"
+    ]
+}

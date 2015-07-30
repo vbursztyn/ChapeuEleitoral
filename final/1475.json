@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Márcio Pacheco"
+    ], 
+    "title": "Deputado Estadual", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000001159.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "CONSTRUTORA NORBERTO ODEBRECHT SA": 100000.0, 
+        "UTC ENGENHARIA S/A": 65000.0, 
+        "DIREÇÃO ESTADUAL/DISTRITAL": 50000.0, 
+        "CONSTRUTORA CARIOCA CHRITIANI NIELSEN ENGENHARIA": 20000.0
+    }, 
+    "party": "PSC", 
+    "fullname": "MÁRCIO HENRIQUE CRUZ PACHECO", 
+    "total": 649884.19, 
+    "election_id": 20010
+}

@@ -1,0 +1,24 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Orlando Silva"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/SP/foto/250000000672.jpg", 
+    "state": "SP", 
+    "donations": {
+        "JBS S/A": 1589500.0, 
+        "U T C ENGENHARIA S/A": 848993.28, 
+        "CONSTRUTORA QUEIROZ GALVÃO S.A": 200000.0, 
+        "HOSPITAL SANTA PAULA LTDA": 100000.0, 
+        "BRASKEM S/A ": 70000.0, 
+        "SPAL INDUSTRIA BRASILEIRA DE BEBIDAS S/A ": 50000.0, 
+        "BRADESCO LEASING S.A. - ARRENDAMENTO MERCANTIL": 35000.0, 
+        "MINERADORA CORUMBAENSE REUNIDA S/A": 6500.0
+    }, 
+    "party": "PC do B", 
+    "fullname": "ORLANDO SILVA DE JESUS JUNIOR", 
+    "total": 4829300.87, 
+    "election_id": 6565, 
+    "stands": []
+}

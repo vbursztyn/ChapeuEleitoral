@@ -1,0 +1,32 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Luizianne Lins"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/CE/foto/60000000796.jpg", 
+    "state": "CE", 
+    "donations": {
+        "ENGEVIX ENGENHARIA S/A ": 190000.0, 
+        "CONSTRUTORA ANDRADE GUTIERREZ SA": 142510.45, 
+        "U T C ENGENHARIA S/A": 75000.0, 
+        "SUCOCITRICO CUTRALE LTDA": 50000.0, 
+        "CERVEJARIA PETROPOLIS S/A": 50000.0, 
+        "CONSTRUTORA QUEIROZ GALVAO S A": 47500.0, 
+        "JSL S/A": 25000.0, 
+        "COPERSUCAR S.A.": 15000.0, 
+        "HAZTEC TECNOLOGIA E PLANEJAMENTO AMBIENTAL SA": 12500.0, 
+        "CONSTRUTORA COLARES LINHARES S A": 10000.0, 
+        "FERRARA INCORPORACOES LTDA.": 7500.0, 
+        "DIRECIONAL TAGUATINGA ENGENHARIA LTDA": 6000.0, 
+        "CARIOCA CHRISTIANI NIELSEN ENGENHARIA S A": 5000.0, 
+        "CONSTRUTORA OAS S.A.": 5000.0
+    }, 
+    "party": "PT", 
+    "fullname": "LUIZIANNE DE OLIVEIRA LINS", 
+    "total": 732340.45, 
+    "election_id": 1313, 
+    "stands": [
+        "Bancada Feminina"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "status": "ELEITO", 
+    "searchable": [
+        "Tasso Jereissati"
+    ], 
+    "title": "Senador", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/CE/foto/60000000605.jpg", 
+    "state": "CE", 
+    "donations": {
+        "RECOFARMA INDUSTRIA DO AMAZONAS LTDA": 999000.0, 
+        "CONTRUTORA QUEIROZ GALVAO S/A": 200000.0, 
+        "BANCO BTG PACTUAL SA": 100000.0
+    }, 
+    "party": "PSDB", 
+    "fullname": "TASSO RIBEIRO JEREISSATI", 
+    "total": 8710052.54, 
+    "election_id": 456, 
+    "stands": []
+}

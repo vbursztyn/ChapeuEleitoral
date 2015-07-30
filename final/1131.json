@@ -1,0 +1,26 @@
+{
+    "status": "ELEITO POR QP", 
+    "searchable": [
+        "Chico D'angelo"
+    ], 
+    "title": "Deputado Federal", 
+    "image": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/UF/RJ/foto/190000000601.jpg", 
+    "state": "RJ", 
+    "donations": {
+        "COSIMA SIDERURGICA DO MARANHÃO LTDA": 237500.0, 
+        "UTC ENGENHARIA SA": 95000.0, 
+        "ENGEVIX ENGENHARIA SA": 95000.0, 
+        "JBS /SA": 95000.0
+    }, 
+    "party": "PT", 
+    "fullname": "FRANCISCO JOSÉ D'ANGELO PINTO", 
+    "total": 783588.96, 
+    "election_id": 1310, 
+    "similars": [
+        "Carlos Neder (PT, SP) - Deputado Estadual"
+    ], 
+    "stands": [
+        "Bancada da Saúde", 
+        "Bancada Sindicalista"
+    ]
+}
